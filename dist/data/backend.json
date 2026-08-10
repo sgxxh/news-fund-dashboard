@@ -1,3 +1,4 @@
 {
-  "mode": "github-pages"
+  "mode": "github-pages",
+  "refreshHook": ""
 }

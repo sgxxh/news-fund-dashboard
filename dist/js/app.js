@@ -856,7 +856,7 @@ $('#btnEye').onclick = () => {
 };
 
 $('#btnRefresh').onclick = async () => {
-  if (S.cloud) { await reloadStatic(); toast('已重新加载云端最新数据'); return; }
+  if (S.cloud) { await cloudTriggerRefresh(); return; }
   if (S.live) { await liveRefresh(); return; }
   // 静态快照模式：无可用后端。若已配置后端地址但不可达，提示检查；否则仅重载静态缓存。
   if (S.apiBase) {
@@ -910,14 +910,47 @@ async function detectApi() {
 /* ---------------- 云端模式辅助 ---------------- */
 function setCloudPill() {
   const b = $('#btnRefresh'), pill = $('#livePill');
-  if (b) { b.classList.add('live'); b.title = '云端定时自动刷新（每交易日约30分钟）；点击重新加载最新数据'; }
-  if (pill) { pill.textContent = '● 云端自动刷新（每交易日约30分钟）'; pill.className = 'live-pill on'; }
+  if (b) { b.classList.add('live'); b.title = S.refreshHook ? '点击立即命令云端重算基金数据（约1分钟）' : '云端定时自动刷新；点击重新加载最新数据'; }
+  if (pill) { pill.textContent = S.refreshHook ? '● 云端自动刷新（可点刷新立即重算）' : '● 云端自动刷新（每交易日约15分钟）'; pill.className = 'live-pill on'; }
 }
 
 async function reloadStatic() {
   S.index = null; S.repIndex = null; S.repDoc = null; fundCache = {};
   $('#main').innerHTML = '<div class="loading"><div class="spinner"></div><span>正在重新加载云端最新数据…</span></div>';
   await boot();
+}
+
+/* 云端模式：点击刷新时，若配置了 refreshHook（无服务器代理），则命令 GitHub Actions
+   立即重算基金数据，并轮询直到 index.json 的 updated_at 变化；否则仅重载当前静态数据。 */
+async function cloudTriggerRefresh() {
+  if (!S.refreshHook) { await reloadStatic(); toast('已重新加载云端最新数据'); return; }
+  const before = (S.index && S.index.updated_at) || '';
+  $('#main').innerHTML = '<div class="loading"><div class="spinner"></div><span>已命令云端重新计算，请稍候约 1 分钟…</span></div>';
+  try {
+    const r = await fetch(S.refreshHook, { method: 'POST', headers: { 'Content-Type': 'application/json' } });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+  } catch (e) {
+    toast('命令云端失败：' + e.message + '，改为直接重载', 'warn');
+    await reloadStatic(); return;
+  }
+  // 轮询等待数据更新（最长约 3 分钟，每 6 秒一次）
+  const deadline = Date.now() + 180000;
+  while (Date.now() < deadline) {
+    await new Promise(res => setTimeout(res, 6000));
+    try {
+      const idx = await getJSON('data/index.json');
+      const now = idx.updated_at || '';
+      if (now && now !== before) {
+        S.index = null; S.repIndex = null; S.repDoc = null; fundCache = {};
+        await boot();
+        toast('云端已刷新：' + now.replace('T', ' ').slice(0, 16));
+        return;
+      }
+    } catch (e) { /* 忽略轮询中的瞬时错误，继续等待 */ }
+  }
+  S.index = null; S.repIndex = null; S.repDoc = null; fundCache = {};
+  await boot();
+  toast('云端刷新命令已发出，但等待超时；已加载当前最新数据。', 'warn');
 }
 
 function reloadFundStatic(code) {
@@ -937,6 +970,7 @@ async function init() {
   } catch (e) {}
   if (cfg.mode === 'github-pages') {
     S.cloud = true;
+    if (cfg.refreshHook) S.refreshHook = String(cfg.refreshHook).replace(/\/+$/, '');
     // 云端模式：彻底禁用 SW，避免外壳(index.html/app.js)被缓存导致页面卡在旧版
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.getRegistrations().then(rs => rs.forEach(r => r.unregister())).catch(() => { });

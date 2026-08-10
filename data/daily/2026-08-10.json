@@ -8,12 +8,12 @@
   "reason": "",
   "summary": {
    "hold_cost": 3706.99,
-   "today_income": 13.47,
-   "today_income_rate": 0.36,
-   "total_money": 3750.41,
-   "total_earn": 43.43,
+   "today_income": 12.71,
+   "today_income_rate": 0.34,
+   "total_money": 3758.25,
+   "total_earn": 51.27,
    "count": 6,
-   "total_earn_pct": 1.17
+   "total_earn_pct": 1.38
   },
   "holdings": [
    {
@@ -36,7 +36,7 @@
     "sector": "PCB",
     "sector_pct": -0.78,
     "market_type": "ch",
-    "weight": 27.51
+    "weight": 27.45
    },
    {
     "account": "默认",
@@ -58,51 +58,51 @@
     "sector": "中证红利低波",
     "sector_pct": 0.36,
     "market_type": "ch",
-    "weight": 25.75
+    "weight": 25.7
    },
    {
     "account": "默认",
     "fund_id": "25645",
     "code": "022459",
     "name": "易方达中证A500ETF联接A",
-    "money": 835.32,
-    "earn": 35.33,
-    "earn_pct": 4.42,
+    "money": 836.29,
+    "earn": 36.3,
+    "earn_pct": 4.54,
     "share": 648.19,
     "cost": 1.23419059,
     "category": 3,
-    "nav": 1.2887,
-    "day_pct": 1.3,
-    "nav_date": "2026-08-07",
-    "est_pct": 0.17,
+    "nav": 1.2902,
+    "day_pct": 0.12,
+    "nav_date": "2026-08-10",
+    "est_pct": 0.12,
     "est_date": "2026-08-10",
     "year_pct": 4.69,
     "sector": "中证A500",
     "sector_pct": 0.17,
     "market_type": "ch",
-    "weight": 22.27
+    "weight": 22.25
    },
    {
     "account": "默认",
     "fund_id": "23918",
     "code": "021000",
     "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 603.22,
-    "earn": 3.22,
-    "earn_pct": 0.54,
+    "money": 610.09,
+    "earn": 10.09,
+    "earn_pct": 1.68,
     "share": 264.13,
     "cost": 2.2716,
     "category": 3,
-    "nav": 2.2838,
-    "day_pct": -0.37,
-    "nav_date": "2026-08-06",
-    "est_pct": 1.19,
+    "nav": 2.3098,
+    "day_pct": 1.14,
+    "nav_date": "2026-08-10",
+    "est_pct": 1.14,
     "est_date": "2026-08-07",
     "year_pct": 11.47,
     "sector": "纳斯达克100",
     "sector_pct": 1.19,
     "market_type": "us",
-    "weight": 16.08
+    "weight": 16.23
    },
    {
     "account": "默认",
@@ -124,7 +124,7 @@
     "sector": "香港创新药",
     "sector_pct": 1.51,
     "market_type": "hk",
-    "weight": 8.11
+    "weight": 8.09
    },
    {
     "account": "默认",
@@ -146,7 +146,7 @@
     "sector": "纳斯达克100",
     "sector_pct": 1.19,
     "market_type": "us",
-    "weight": 0.28
+    "weight": 0.27
    }
   ],
   "index": []

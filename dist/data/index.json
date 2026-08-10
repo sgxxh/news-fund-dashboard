@@ -7,11 +7,11 @@
    "mood_level": "中性",
    "news_total": 21,
    "xwlb_total": 22,
-   "total_money": 3752.89,
-   "total_earn": 45.91,
-   "today_income": 10.75,
+   "total_money": 3726.69,
+   "total_earn": 19.73,
+   "today_income": 10.89,
    "today_income_rate": 0.29,
-   "generated_at": "2026-08-10T20:25:41"
+   "generated_at": "2026-08-10T13:26:52"
   },
   {
    "date": "2026-08-09",
@@ -24,7 +24,7 @@
    "total_earn": 0,
    "today_income": 0,
    "today_income_rate": 0,
-   "generated_at": "2026-08-10T20:25:30"
+   "generated_at": "2026-08-10T13:26:30"
   },
   {
    "date": "2026-08-08",
@@ -301,5 +301,5 @@
   }
  ],
  "latest": "2026-08-10",
- "updated_at": "2026-08-10T20:25:42"
+ "updated_at": "2026-08-10T13:26:52"
 }

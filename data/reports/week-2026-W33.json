@@ -307,9 +307,9 @@
  "nav_series": [
   {
    "date": "2026-08-10",
-   "total": 3752.89,
-   "earn": 45.91,
-   "today_income": 10.75
+   "total": 3726.69,
+   "earn": 19.73,
+   "today_income": 10.89
   }
  ],
  "holding_change": [
@@ -317,9 +317,9 @@
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 1026.2,
-   "weight": 27.34,
-   "earn_pct": 2.62,
+   "money": 1000.0,
+   "weight": 26.83,
+   "earn_pct": 0.0,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -328,7 +328,7 @@
    "name": "华泰柏瑞中证红利低波ETF联接A",
    "sector": "中证红利低波",
    "money": 965.76,
-   "weight": 25.73,
+   "weight": 25.91,
    "earn_pct": -3.13,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
@@ -338,7 +338,7 @@
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
    "money": 836.29,
-   "weight": 22.28,
+   "weight": 22.44,
    "earn_pct": 4.54,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
@@ -348,7 +348,7 @@
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
    "money": 610.09,
-   "weight": 16.26,
+   "weight": 16.37,
    "earn_pct": 1.68,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
@@ -358,7 +358,7 @@
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "香港创新药",
    "money": 304.23,
-   "weight": 8.11,
+   "weight": 8.16,
    "earn_pct": 1.41,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
@@ -368,7 +368,7 @@
    "name": "南方纳斯达克100指数发起(QDII)A",
    "sector": "纳斯达克100",
    "money": 10.32,
-   "weight": 0.27,
+   "weight": 0.28,
    "earn_pct": 3.2,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
@@ -470,6 +470,6 @@
   "news_total": 21,
   "xwlb_total": 22
  },
- "generated_at": "2026-08-10T20:25:42",
+ "generated_at": "2026-08-10T13:26:52",
  "type_label": "周报"
 }

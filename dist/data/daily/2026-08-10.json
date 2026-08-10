@@ -1,19 +1,19 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-10T20:25:41",
- "session": "evening",
+ "generated_at": "2026-08-10T13:26:52",
+ "session": "auto",
  "digest_title": "8月10日日知录- 个税重回中国第3大税种：近半增量来自股市和股权",
  "funds": {
   "ok": true,
   "reason": "",
   "summary": {
-   "hold_cost": 3706.99,
-   "today_income": 10.75,
+   "hold_cost": 3706.97,
+   "today_income": 10.89,
    "today_income_rate": 0.29,
-   "total_money": 3752.89,
-   "total_earn": 45.91,
+   "total_money": 3726.69,
+   "total_earn": 19.73,
    "count": 6,
-   "total_earn_pct": 1.24
+   "total_earn_pct": 0.53
   },
   "holdings": [
    {
@@ -21,11 +21,11 @@
     "fund_id": "138",
     "code": "720001",
     "name": "财通价值动量混合A",
-    "money": 1026.2,
-    "earn": 26.18,
-    "earn_pct": 2.62,
-    "share": 69.62,
-    "cost": 14.36397587,
+    "money": 1000.0,
+    "earn": 0.0,
+    "earn_pct": 0.0,
+    "share": 67.84,
+    "cost": 14.74056604,
     "category": 1,
     "nav": 14.74,
     "day_pct": -0.52,
@@ -36,7 +36,7 @@
     "sector": "PCB",
     "sector_pct": -0.78,
     "market_type": "ch",
-    "weight": 27.34
+    "weight": 26.83
    },
    {
     "account": "默认",
@@ -58,7 +58,7 @@
     "sector": "中证红利低波",
     "sector_pct": 0.36,
     "market_type": "ch",
-    "weight": 25.73
+    "weight": 25.91
    },
    {
     "account": "默认",
@@ -80,7 +80,7 @@
     "sector": "中证A500",
     "sector_pct": 0.17,
     "market_type": "ch",
-    "weight": 22.28
+    "weight": 22.44
    },
    {
     "account": "默认",
@@ -102,7 +102,7 @@
     "sector": "纳斯达克100",
     "sector_pct": 1.19,
     "market_type": "us",
-    "weight": 16.26
+    "weight": 16.37
    },
    {
     "account": "默认",
@@ -124,7 +124,7 @@
     "sector": "香港创新药",
     "sector_pct": 1.51,
     "market_type": "hk",
-    "weight": 8.11
+    "weight": 8.16
    },
    {
     "account": "默认",
@@ -146,7 +146,7 @@
     "sector": "纳斯达克100",
     "sector_pct": 1.19,
     "market_type": "us",
-    "weight": 0.27
+    "weight": 0.28
    }
   ],
   "index": []
@@ -684,7 +684,7 @@
     "code": "019671",
     "name": "广发港股创新药ETF联接(QDII)C",
     "sector": "香港创新药",
-    "weight": 8.11,
+    "weight": 8.16,
     "tiny": false,
     "earn_pct": 1.41,
     "day_pct": 1.41,
@@ -693,16 +693,16 @@
     "news_count": 1,
     "news_level": "偏多",
     "momentum": 26.5,
-    "deviation": 51.3,
+    "deviation": 51.0,
     "total_score": 54.2,
     "action": "可考虑加仓",
-    "reason": "板块命中 1 条相关新闻，消息面偏多；中期动量向上；仓位占比 8.1% 偏低"
+    "reason": "板块命中 1 条相关新闻，消息面偏多；中期动量向上；仓位占比 8.2% 偏低"
    },
    {
     "code": "021000",
     "name": "南方纳斯达克100指数发起(QDII)I",
     "sector": "纳斯达克100",
-    "weight": 16.26,
+    "weight": 16.37,
     "tiny": false,
     "earn_pct": 1.68,
     "day_pct": 1.14,
@@ -711,8 +711,8 @@
     "news_count": 5,
     "news_level": "偏多",
     "momentum": 36.4,
-    "deviation": 2.4,
-    "total_score": 39.6,
+    "deviation": 1.8,
+    "total_score": 39.5,
     "action": "可考虑加仓",
     "reason": "板块命中 5 条相关新闻，消息面偏多；中期动量向上"
    },
@@ -720,7 +720,7 @@
     "code": "016452",
     "name": "南方纳斯达克100指数发起(QDII)A",
     "sector": "纳斯达克100",
-    "weight": 0.27,
+    "weight": 0.28,
     "tiny": true,
     "earn_pct": 3.2,
     "day_pct": 1.14,
@@ -732,31 +732,31 @@
     "deviation": 0.0,
     "total_score": 39.1,
     "action": "零头持仓·可并入同类",
-    "reason": "仅占 0.27%，属尾数份额；板块消息面偏多，建议与同标的主份额合并管理，单独调仓意义不大"
+    "reason": "仅占 0.28%，属尾数份额；板块消息面偏多，建议与同标的主份额合并管理，单独调仓意义不大"
    },
    {
     "code": "720001",
     "name": "财通价值动量混合A",
     "sector": "PCB",
-    "weight": 27.34,
+    "weight": 26.83,
     "tiny": false,
-    "earn_pct": 2.62,
+    "earn_pct": 0.0,
     "day_pct": -0.52,
     "year_pct": 80.12,
     "news_score": 15.3,
     "news_count": 6,
     "news_level": "温和偏多",
     "momentum": 64.2,
-    "deviation": -64.0,
-    "total_score": 14.1,
+    "deviation": -61.0,
+    "total_score": 14.7,
     "action": "持有偏乐观",
-    "reason": "板块命中 6 条相关新闻，消息面温和偏多；中期动量向上；仓位占比 27.3% 偏集中"
+    "reason": "板块命中 6 条相关新闻，消息面温和偏多；中期动量向上；仓位占比 26.8% 偏集中"
    },
    {
     "code": "022459",
     "name": "易方达中证A500ETF联接A",
     "sector": "中证A500",
-    "weight": 22.28,
+    "weight": 22.44,
     "tiny": false,
     "earn_pct": 4.54,
     "day_pct": 0.12,
@@ -765,8 +765,8 @@
     "news_count": 12,
     "news_level": "温和偏多",
     "momentum": 12.1,
-    "deviation": -33.7,
-    "total_score": 7.3,
+    "deviation": -34.6,
+    "total_score": 7.1,
     "action": "维持观望",
     "reason": "板块命中 12 条相关新闻，消息面温和偏多；动量中性"
    },
@@ -774,7 +774,7 @@
     "code": "007466",
     "name": "华泰柏瑞中证红利低波ETF联接A",
     "sector": "中证红利低波",
-    "weight": 25.73,
+    "weight": 25.91,
     "tiny": false,
     "earn_pct": -3.13,
     "day_pct": 0.41,
@@ -783,10 +783,10 @@
     "news_count": 6,
     "news_level": "温和偏多",
     "momentum": 1.1,
-    "deviation": -54.4,
-    "total_score": 4.3,
+    "deviation": -55.5,
+    "total_score": 4.1,
     "action": "维持观望",
-    "reason": "板块命中 6 条相关新闻，消息面温和偏多；动量中性；仓位占比 25.7% 偏集中"
+    "reason": "板块命中 6 条相关新闻，消息面温和偏多；动量中性；仓位占比 25.9% 偏集中"
    }
   ],
   "forecast": [

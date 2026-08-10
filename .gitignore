@@ -1,0 +1,8 @@
+# 运行缓存 / 本地密钥 / 虚拟环境（不要提交）
+__pycache__/
+*.pyc
+tmp/
+.env
+venv/
+.envs/
+yjb_token.json

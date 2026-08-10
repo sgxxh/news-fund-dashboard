@@ -1,0 +1,18 @@
+[Unit]
+Description=News-Fund Workbench (server.py)
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/workbench
+ExecStart=/opt/workbench/venv/bin/python server.py
+Restart=always
+RestartSec=5
+# 养基宝 token 二选一：
+#   1) 放入项目根目录 yjb_token.json（内容 {"token": "..."}）
+#   2) 或在此注入：Environment=YJB_TOKEN=你的token
+Environment=HOST=0.0.0.0
+Environment=PORT=8787
+
+[Install]
+WantedBy=multi-user.target

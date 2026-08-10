@@ -1,0 +1,58 @@
+name: 每日全量构建（云端）
+
+# 每日早间（北京 08:00）跑一次完整管道：新闻采集 + 分析 + 基金 + 聚合报告，
+# 确保即使本机多日未开，云端也有当日新闻与市场情绪。养基宝 token 走 secrets.YJB_TOKEN。
+on:
+  schedule:
+    - cron: '0 0 * * 1-5'        # 北京 08:00（UTC 00:00）周一至周五
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 配置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 全量构建（新闻 + 基金 + 报告）
+        env:
+          YJB_TOKEN: ${{ secrets.YJB_TOKEN }}
+        run: python -m pipeline.run_daily
+
+      - name: 提交构建结果
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data dist/data
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "ci: 每日全量构建 $(date +%F\ %T\ %Z)"
+            git push
+          fi
+
+      - name: 发布到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages
+          force_orphan: true

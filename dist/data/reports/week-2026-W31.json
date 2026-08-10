@@ -1,0 +1,452 @@
+{
+ "key": "2026-W31",
+ "label": "周报",
+ "type": "week",
+ "date_from": "2026-07-27",
+ "date_to": "2026-08-02",
+ "days": 7,
+ "dates": [
+  "2026-07-27",
+  "2026-07-28",
+  "2026-07-29",
+  "2026-07-30",
+  "2026-07-31",
+  "2026-08-01",
+  "2026-08-02"
+ ],
+ "avg_mood": -2.9,
+ "mood_series": [
+  {
+   "date": "2026-07-27",
+   "mood": -2.4
+  },
+  {
+   "date": "2026-07-28",
+   "mood": -18.1
+  },
+  {
+   "date": "2026-07-29",
+   "mood": -2.0
+  },
+  {
+   "date": "2026-07-30",
+   "mood": 4.2
+  },
+  {
+   "date": "2026-07-31",
+   "mood": 7.5
+  },
+  {
+   "date": "2026-08-01",
+   "mood": -2.1
+  },
+  {
+   "date": "2026-08-02",
+   "mood": -7.6
+  }
+ ],
+ "keywords": [
+  {
+   "word": "国家",
+   "count": 135,
+   "weight": 1.0
+  },
+  {
+   "word": "服务",
+   "count": 127,
+   "weight": 0.941
+  },
+  {
+   "word": "美国",
+   "count": 126,
+   "weight": 0.933
+  },
+  {
+   "word": "平台",
+   "count": 118,
+   "weight": 0.874
+  },
+  {
+   "word": "风险",
+   "count": 109,
+   "weight": 0.807
+  },
+  {
+   "word": "全球",
+   "count": 97,
+   "weight": 0.719
+  },
+  {
+   "word": "能力",
+   "count": 95,
+   "weight": 0.704
+  },
+  {
+   "word": "交易",
+   "count": 89,
+   "weight": 0.659
+  },
+  {
+   "word": "成本",
+   "count": 86,
+   "weight": 0.637
+  },
+  {
+   "word": "信息",
+   "count": 70,
+   "weight": 0.519
+  },
+  {
+   "word": "机构",
+   "count": 68,
+   "weight": 0.504
+  },
+  {
+   "word": "安全",
+   "count": 64,
+   "weight": 0.474
+  },
+  {
+   "word": "模型",
+   "count": 63,
+   "weight": 0.467
+  },
+  {
+   "word": "日本",
+   "count": 62,
+   "weight": 0.459
+  },
+  {
+   "word": "城市",
+   "count": 62,
+   "weight": 0.459
+  },
+  {
+   "word": "调查",
+   "count": 62,
+   "weight": 0.459
+  },
+  {
+   "word": "设备",
+   "count": 62,
+   "weight": 0.459
+  },
+  {
+   "word": "资金",
+   "count": 60,
+   "weight": 0.444
+  },
+  {
+   "word": "人员",
+   "count": 59,
+   "weight": 0.437
+  },
+  {
+   "word": "汽车",
+   "count": 59,
+   "weight": 0.437
+  },
+  {
+   "word": "利润",
+   "count": 57,
+   "weight": 0.422
+  },
+  {
+   "word": "订单",
+   "count": 57,
+   "weight": 0.422
+  },
+  {
+   "word": "影响",
+   "count": 54,
+   "weight": 0.4
+  },
+  {
+   "word": "部门",
+   "count": 52,
+   "weight": 0.385
+  },
+  {
+   "word": "政策",
+   "count": 52,
+   "weight": 0.385
+  },
+  {
+   "word": "韩国",
+   "count": 51,
+   "weight": 0.378
+  },
+  {
+   "word": "机器人",
+   "count": 49,
+   "weight": 0.363
+  },
+  {
+   "word": "账户",
+   "count": 48,
+   "weight": 0.356
+  },
+  {
+   "word": "管理",
+   "count": 48,
+   "weight": 0.356
+  },
+  {
+   "word": "人民币",
+   "count": 46,
+   "weight": 0.341
+  },
+  {
+   "word": "老人",
+   "count": 44,
+   "weight": 0.326
+  },
+  {
+   "word": "单位",
+   "count": 42,
+   "weight": 0.311
+  },
+  {
+   "word": "价格",
+   "count": 42,
+   "weight": 0.311
+  },
+  {
+   "word": "银行",
+   "count": 42,
+   "weight": 0.311
+  },
+  {
+   "word": "利率",
+   "count": 42,
+   "weight": 0.311
+  },
+  {
+   "word": "经营",
+   "count": 41,
+   "weight": 0.304
+  },
+  {
+   "word": "消费",
+   "count": 41,
+   "weight": 0.304
+  },
+  {
+   "word": "退役军人",
+   "count": 41,
+   "weight": 0.304
+  },
+  {
+   "word": "变化",
+   "count": 40,
+   "weight": 0.296
+  },
+  {
+   "word": "土耳其",
+   "count": 40,
+   "weight": 0.296
+  },
+  {
+   "word": "用户",
+   "count": 40,
+   "weight": 0.296
+  },
+  {
+   "word": "案件",
+   "count": 38,
+   "weight": 0.281
+  },
+  {
+   "word": "个人",
+   "count": 36,
+   "weight": 0.267
+  },
+  {
+   "word": "办法",
+   "count": 36,
+   "weight": 0.267
+  },
+  {
+   "word": "技术",
+   "count": 34,
+   "weight": 0.252
+  },
+  {
+   "word": "资产",
+   "count": 34,
+   "weight": 0.252
+  },
+  {
+   "word": "债券",
+   "count": 34,
+   "weight": 0.252
+  },
+  {
+   "word": "销售",
+   "count": 33,
+   "weight": 0.244
+  },
+  {
+   "word": "居民",
+   "count": 31,
+   "weight": 0.23
+  },
+  {
+   "word": "上海",
+   "count": 31,
+   "weight": 0.23
+  }
+ ],
+ "sectors": [],
+ "nav_series": [],
+ "holding_change": [],
+ "advice_consistency": [],
+ "top_events": [
+  {
+   "date": "2026-07-29",
+   "title": "央行一天借出6000亿，第二天就要收回：银行为什么突然缺一夜的钱",
+   "heat": 96.0,
+   "sentiment": -9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-31",
+   "title": "二季度GDP增速4.3%：政治局会议同时催支出、扩消费、管价格战",
+   "heat": 90.0,
+   "sentiment": 10,
+   "category": "时政"
+  },
+  {
+   "date": "2026-07-29",
+   "title": "土耳其算盘珠子崩到比亚迪脸上，中国转身在WTO赢下关键一局",
+   "heat": 99.0,
+   "sentiment": -6,
+   "category": "时政"
+  },
+  {
+   "date": "2026-07-28",
+   "title": "美国欲调查Kimi“偷师”，美国企业却开始反过来学习中国模型",
+   "heat": 98.0,
+   "sentiment": -6,
+   "category": "科技"
+  },
+  {
+   "date": "2026-07-31",
+   "title": "全国发电装机突破40亿：将继续大规模建站，2030年达到54亿",
+   "heat": 88.0,
+   "sentiment": 9,
+   "category": "科技"
+  },
+  {
+   "date": "2026-07-31",
+   "title": "7月31日纪事｜企业家夫妇羁押712天国家赔偿41万，破产损失怎么算？",
+   "heat": 98.0,
+   "sentiment": -5,
+   "category": "纪事"
+  },
+  {
+   "date": "2026-08-01",
+   "title": "中国走向世界换了一种方式：不造冲锋衣的CPE买下瑞士猛犸象",
+   "heat": 98.0,
+   "sentiment": 5,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-28",
+   "title": "美国对华加征12.5%关税：针对中国制造业的另一项调查正在推进",
+   "heat": 94.0,
+   "sentiment": -6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-02",
+   "title": "日美近30年来首次联手买入日元：汇率保卫战逼近下一次加息",
+   "heat": 94.0,
+   "sentiment": -6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-30",
+   "title": "7月30日纪事｜全世界领先的中国铁路，不该用11条生命唤醒常识",
+   "heat": 96.0,
+   "sentiment": -5,
+   "category": "纪事"
+  },
+  {
+   "date": "2026-08-02",
+   "title": "下一场国运竞争开始拼电：中国已经世界第一，还要再造15亿千瓦",
+   "heat": 99.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-30",
+   "title": "世界500强中国房企从8家霸榜到只剩保利：未来十年还要大换血",
+   "heat": 98.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-30",
+   "title": "GDP十强城市上半年易位，重庆反超广州",
+   "heat": 83.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-27",
+   "title": "7月27日话题｜碧桂园错失长鑫422亿：不是没眼光，而是买不起时间",
+   "heat": 97.0,
+   "sentiment": -4,
+   "category": "话题"
+  },
+  {
+   "date": "2026-07-28",
+   "title": "6月查处34700起违反中央八项规定精神问题：比违规吃喝更多的，是不担当不作为",
+   "heat": 94.0,
+   "sentiment": -5,
+   "category": "时政"
+  },
+  {
+   "date": "2026-08-02",
+   "title": "中国多地黏黏糊糊“蒸桑拿”，厄尔尼诺又有81%概率变成“非常强”",
+   "heat": 97.0,
+   "sentiment": -4,
+   "category": "时政"
+  },
+  {
+   "date": "2026-07-29",
+   "title": "东方证券拟251亿收购上海证券：上海券商竞争进入下一轮整合",
+   "heat": 90.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-31",
+   "title": "加沙迎来“历史性协议”：谁说了都不算，争得头破血流为哪般？",
+   "heat": 99.0,
+   "sentiment": -3,
+   "category": "时政"
+  },
+  {
+   "date": "2026-08-01",
+   "title": "安徽挤进前十，河南四川只差108亿：这张GDP榜单专治“地域不服”",
+   "heat": 96.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-29",
+   "title": "日本熊本7.1级强震，购物中心爆炸坍塌已致2死",
+   "heat": 92.0,
+   "sentiment": -5,
+   "category": "社会"
+  }
+ ],
+ "stats": {
+  "news_total": 143,
+  "xwlb_total": 165
+ },
+ "generated_at": "2026-08-10T07:50:52",
+ "type_label": "周报"
+}

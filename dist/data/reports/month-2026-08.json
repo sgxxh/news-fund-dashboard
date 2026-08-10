@@ -1,0 +1,632 @@
+{
+ "key": "2026-08",
+ "label": "月报",
+ "type": "month",
+ "date_from": "2026-08-01",
+ "date_to": "2026-08-10",
+ "days": 10,
+ "dates": [
+  "2026-08-01",
+  "2026-08-02",
+  "2026-08-03",
+  "2026-08-04",
+  "2026-08-05",
+  "2026-08-06",
+  "2026-08-07",
+  "2026-08-08",
+  "2026-08-09",
+  "2026-08-10"
+ ],
+ "avg_mood": 2.4,
+ "mood_series": [
+  {
+   "date": "2026-08-01",
+   "mood": -2.1
+  },
+  {
+   "date": "2026-08-02",
+   "mood": -7.6
+  },
+  {
+   "date": "2026-08-03",
+   "mood": 10.4
+  },
+  {
+   "date": "2026-08-04",
+   "mood": 17.2
+  },
+  {
+   "date": "2026-08-05",
+   "mood": -7.1
+  },
+  {
+   "date": "2026-08-06",
+   "mood": 0.1
+  },
+  {
+   "date": "2026-08-07",
+   "mood": -1.8
+  },
+  {
+   "date": "2026-08-08",
+   "mood": 7.9
+  },
+  {
+   "date": "2026-08-09",
+   "mood": 6.8
+  },
+  {
+   "date": "2026-08-10",
+   "mood": 0
+  }
+ ],
+ "keywords": [
+  {
+   "word": "美国",
+   "count": 220,
+   "weight": 1.0
+  },
+  {
+   "word": "平台",
+   "count": 193,
+   "weight": 0.877
+  },
+  {
+   "word": "风险",
+   "count": 186,
+   "weight": 0.845
+  },
+  {
+   "word": "服务",
+   "count": 166,
+   "weight": 0.755
+  },
+  {
+   "word": "产品",
+   "count": 166,
+   "weight": 0.755
+  },
+  {
+   "word": "成本",
+   "count": 139,
+   "weight": 0.632
+  },
+  {
+   "word": "能力",
+   "count": 134,
+   "weight": 0.609
+  },
+  {
+   "word": "安全",
+   "count": 133,
+   "weight": 0.605
+  },
+  {
+   "word": "全球",
+   "count": 129,
+   "weight": 0.586
+  },
+  {
+   "word": "国家",
+   "count": 125,
+   "weight": 0.568
+  },
+  {
+   "word": "价格",
+   "count": 119,
+   "weight": 0.541
+  },
+  {
+   "word": "设备",
+   "count": 113,
+   "weight": 0.514
+  },
+  {
+   "word": "消费者",
+   "count": 105,
+   "weight": 0.477
+  },
+  {
+   "word": "同比",
+   "count": 98,
+   "weight": 0.445
+  },
+  {
+   "word": "机构",
+   "count": 97,
+   "weight": 0.441
+  },
+  {
+   "word": "系统",
+   "count": 87,
+   "weight": 0.395
+  },
+  {
+   "word": "管理",
+   "count": 86,
+   "weight": 0.391
+  },
+  {
+   "word": "影响",
+   "count": 76,
+   "weight": 0.345
+  },
+  {
+   "word": "信息",
+   "count": 76,
+   "weight": 0.345
+  },
+  {
+   "word": "用户",
+   "count": 73,
+   "weight": 0.332
+  },
+  {
+   "word": "孩子",
+   "count": 73,
+   "weight": 0.332
+  },
+  {
+   "word": "调查",
+   "count": 70,
+   "weight": 0.318
+  },
+  {
+   "word": "出口",
+   "count": 63,
+   "weight": 0.286
+  },
+  {
+   "word": "韩国",
+   "count": 58,
+   "weight": 0.264
+  },
+  {
+   "word": "消费",
+   "count": 56,
+   "weight": 0.255
+  },
+  {
+   "word": "证明",
+   "count": 56,
+   "weight": 0.255
+  },
+  {
+   "word": "数字",
+   "count": 54,
+   "weight": 0.245
+  },
+  {
+   "word": "能源",
+   "count": 53,
+   "weight": 0.241
+  },
+  {
+   "word": "交易",
+   "count": 52,
+   "weight": 0.236
+  },
+  {
+   "word": "日本",
+   "count": 52,
+   "weight": 0.236
+  },
+  {
+   "word": "变化",
+   "count": 51,
+   "weight": 0.232
+  },
+  {
+   "word": "制度",
+   "count": 51,
+   "weight": 0.232
+  },
+  {
+   "word": "机器人",
+   "count": 51,
+   "weight": 0.232
+  },
+  {
+   "word": "技术",
+   "count": 50,
+   "weight": 0.227
+  },
+  {
+   "word": "城市",
+   "count": 50,
+   "weight": 0.227
+  },
+  {
+   "word": "伊朗",
+   "count": 49,
+   "weight": 0.223
+  },
+  {
+   "word": "进口",
+   "count": 48,
+   "weight": 0.218
+  },
+  {
+   "word": "人民币",
+   "count": 46,
+   "weight": 0.209
+  },
+  {
+   "word": "客户",
+   "count": 46,
+   "weight": 0.209
+  },
+  {
+   "word": "模型",
+   "count": 45,
+   "weight": 0.205
+  },
+  {
+   "word": "基金",
+   "count": 44,
+   "weight": 0.2
+  },
+  {
+   "word": "规则",
+   "count": 44,
+   "weight": 0.2
+  },
+  {
+   "word": "债券",
+   "count": 42,
+   "weight": 0.191
+  },
+  {
+   "word": "资金",
+   "count": 42,
+   "weight": 0.191
+  },
+  {
+   "word": "研究",
+   "count": 42,
+   "weight": 0.191
+  },
+  {
+   "word": "利润",
+   "count": 41,
+   "weight": 0.186
+  },
+  {
+   "word": "退役军人",
+   "count": 41,
+   "weight": 0.186
+  },
+  {
+   "word": "电力",
+   "count": 41,
+   "weight": 0.186
+  },
+  {
+   "word": "商业",
+   "count": 40,
+   "weight": 0.182
+  },
+  {
+   "word": "拉面",
+   "count": 40,
+   "weight": 0.182
+  }
+ ],
+ "sectors": [
+  {
+   "sector": "PCB",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "中证A500",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "中证红利低波",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "纳斯达克100",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "香港创新药",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  }
+ ],
+ "nav_series": [
+  {
+   "date": "2026-08-10",
+   "total": 3725.6,
+   "earn": 35.17,
+   "today_income": 51.35
+  }
+ ],
+ "holding_change": [
+  {
+   "code": "720001",
+   "name": "财通价值动量混合A",
+   "sector": "PCB",
+   "money": 1031.56,
+   "weight": 27.69,
+   "earn_pct": 3.15,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "007466",
+   "name": "华泰柏瑞中证红利低波ETF联接A",
+   "sector": "中证红利低波",
+   "money": 961.85,
+   "weight": 25.82,
+   "earn_pct": -3.52,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "022459",
+   "name": "易方达中证A500ETF联接A",
+   "sector": "中证A500",
+   "money": 835.32,
+   "weight": 22.42,
+   "earn_pct": 4.42,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "021000",
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "sector": "纳斯达克100",
+   "money": 603.22,
+   "weight": 16.19,
+   "earn_pct": 0.54,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "019671",
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "sector": "香港创新药",
+   "money": 283.44,
+   "weight": 7.61,
+   "earn_pct": 0.0,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "016452",
+   "name": "南方纳斯达克100指数发起(QDII)A",
+   "sector": "纳斯达克100",
+   "money": 10.21,
+   "weight": 0.27,
+   "earn_pct": 2.1,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  }
+ ],
+ "advice_consistency": [
+  {
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "财通价值动量混合A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "dominant": "维持观望",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 1
+   }
+  },
+  {
+   "name": "南方纳斯达克100指数发起(QDII)A",
+   "dominant": "零头持仓·可并入同类",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "零头持仓·可并入同类": 1
+   }
+  },
+  {
+   "name": "易方达中证A500ETF联接A",
+   "dominant": "维持观望",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 1
+   }
+  },
+  {
+   "name": "华泰柏瑞中证红利低波ETF联接A",
+   "dominant": "持有偏谨慎",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏谨慎": 1
+   }
+  }
+ ],
+ "top_events": [
+  {
+   "date": "2026-08-04",
+   "title": "央行下半年工作会议：宽松之后要看钱流向哪里",
+   "heat": 86.0,
+   "sentiment": 19,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-05",
+   "title": "霍尔木兹谈判未定油价先暴跌5%：最大买家中国等来了三笔回报",
+   "heat": 98.0,
+   "sentiment": -15,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-08",
+   "title": "美国出招逼中国做选择：制裁俄罗斯，却把100%关税账单递给中国",
+   "heat": 99.0,
+   "sentiment": -9,
+   "category": "时政"
+  },
+  {
+   "date": "2026-08-07",
+   "title": "全球药企排队来华买创新药药方：中国让出收益换时间和成功率",
+   "heat": 98.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-07",
+   "title": "刚果(金)禁止铜钴精矿出口：中国矿业的非洲模式迎来压力测试",
+   "heat": 95.0,
+   "sentiment": -9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-08",
+   "title": "北京再发楼市新政主动邀人进场：五环内购房社保门槛降至1年",
+   "heat": 98.0,
+   "sentiment": 7,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-09",
+   "title": "解读中国进口增长22%、出口增长14%：汽车靠多卖，芯片靠变贵",
+   "heat": 91.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-04",
+   "title": "8月4日纪事｜“不用药就绝收”：从一只牛蛙留下的供词反思整个产业",
+   "heat": 93.0,
+   "sentiment": -8,
+   "category": "纪事"
+  },
+  {
+   "date": "2026-08-08",
+   "title": "中国芯片7月出口暴增117%：曾经被卡脖子，如今撑起外贸增长",
+   "heat": 99.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-04",
+   "title": "日本花了15年摆脱中国稀土，如今105家公司罕见陷入集体焦虑",
+   "heat": 98.0,
+   "sentiment": -6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-04",
+   "title": "A股关闭机房局域网行情：少数机构抢先的2毫秒究竟值多少钱？",
+   "heat": 96.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-09",
+   "title": "美国少了2.3万个岗位，失业率反而下降：26.4万人不再找工作了",
+   "heat": 96.0,
+   "sentiment": -6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-01",
+   "title": "中国走向世界换了一种方式：不造冲锋衣的CPE买下瑞士猛犸象",
+   "heat": 98.0,
+   "sentiment": 5,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-02",
+   "title": "日美近30年来首次联手买入日元：汇率保卫战逼近下一次加息",
+   "heat": 94.0,
+   "sentiment": -6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-02",
+   "title": "下一场国运竞争开始拼电：中国已经世界第一，还要再造15亿千瓦",
+   "heat": 99.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-06",
+   "title": "新昌调查如是书院：打着国学旗号的封闭管教，请别给国学抹黑！",
+   "heat": 96.0,
+   "sentiment": -5,
+   "category": "社会"
+  },
+  {
+   "date": "2026-08-08",
+   "title": "沙土巴签下共同防务协议：有钱、有兵、有核的三国为什么抱团",
+   "heat": 99.0,
+   "sentiment": 4,
+   "category": "时政"
+  },
+  {
+   "date": "2026-08-06",
+   "title": "三大运营商停止第三方网上办卡：别让消费者从此失去低价选择",
+   "heat": 95.0,
+   "sentiment": -5,
+   "category": "社会"
+  },
+  {
+   "date": "2026-08-09",
+   "title": "全球首个长时储能产业园在山东菏泽量产：太阳也可以值夜班了",
+   "heat": 98.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-09",
+   "title": "欧盟俩月罚中美3大巨头16.4亿欧：数字竞争开始争夺规则主导权",
+   "heat": 95.0,
+   "sentiment": -5,
+   "category": "时政"
+  }
+ ],
+ "stats": {
+  "news_total": 193,
+  "xwlb_total": 200
+ },
+ "generated_at": "2026-08-10T07:50:52",
+ "type_label": "月报"
+}

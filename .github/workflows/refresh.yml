@@ -1,0 +1,60 @@
+name: 基金定时刷新（云端）
+
+# 纯云端方案：不依赖本机/路由器。GitHub Actions 在交易时段定时从养基宝拉取最新持仓与估值，
+# 重新生成 dist/data 后发布到 gh-pages 分支，GitHub Pages 直接托管。电脑关机也照常刷新。
+on:
+  schedule:
+    # 注意：GitHub cron 使用 UTC。北京时间 = UTC + 8。
+    - cron: '0,30 2-3 * * 1-5'   # 北京 10:00 ~ 11:30（早盘）
+    - cron: '0,30 5-7 * * 1-5'   # 北京 13:00 ~ 15:30（午盘+收盘）
+  workflow_dispatch:            # 允许在 Actions 页面手动触发一次
+
+permissions:
+  contents: write              # 用于提交刷新后的数据并推送到 gh-pages
+
+concurrency:
+  group: fund-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 配置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 刷新基金数据（调养基宝 + 公开行情）
+        env:
+          YJB_TOKEN: ${{ secrets.YJB_TOKEN }}
+        run: python refresh_now.py
+
+      - name: 提交刷新结果
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data dist/data
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "ci: 基金数据定时刷新 $(date +%F\ %T\ %Z)"
+            git push
+          fi
+
+      - name: 发布到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages
+          force_orphan: true

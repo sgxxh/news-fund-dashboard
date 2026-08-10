@@ -6,8 +6,8 @@
    "date_from": "2026-08-10",
    "date_to": "2026-08-10",
    "days": 1,
-   "avg_mood": 0.0,
-   "news_total": 0
+   "avg_mood": 11.5,
+   "news_total": 21
   },
   {
    "key": "2026-W32",
@@ -53,8 +53,8 @@
    "date_from": "2026-08-01",
    "date_to": "2026-08-10",
    "days": 10,
-   "avg_mood": 2.4,
-   "news_total": 193
+   "avg_mood": 3.5,
+   "news_total": 214
   },
   {
    "key": "2026-07",
@@ -73,8 +73,8 @@
    "date_from": "2026-07-19",
    "date_to": "2026-08-10",
    "days": 23,
-   "avg_mood": 2.3,
-   "news_total": 455
+   "avg_mood": 2.8,
+   "news_total": 476
   }
  ]
 }

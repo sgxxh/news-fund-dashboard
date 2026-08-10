@@ -124,7 +124,16 @@ def main():
     except Exception as e:
         log(f'刷新昨日 {y} 失败（忽略）: {e}')
 
-    doc = build_day(date_str, session=session)
+    # 当天采集失败（如海外 runner 新闻接口不可达）时，仍用历史数据发布，保证 gh-pages 可更新
+    try:
+        doc = build_day(date_str, session=session)
+    except Exception as e:
+        log(f'当天 {date_str} 采集失败，使用历史数据发布：{e}')
+        doc = read_json(os.path.join(DAILY_DIR, f'{date_str}.json'), None)
+        if doc is None:
+            existing = sorted(f[:-5] for f in os.listdir(DAILY_DIR) if f.endswith('.json'))
+            doc = read_json(os.path.join(DAILY_DIR, existing[-1] + '.json'), {}) if existing else {}
+
     aggregate.build_all()
     build_dist(date_str)
 

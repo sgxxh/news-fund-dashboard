@@ -8,57 +8,308 @@
  "dates": [
   "2026-08-10"
  ],
- "avg_mood": 0.0,
+ "avg_mood": 11.5,
  "mood_series": [
   {
    "date": "2026-08-10",
-   "mood": 0
+   "mood": 11.5
   }
  ],
- "keywords": [],
+ "keywords": [
+  {
+   "word": "平台",
+   "count": 47,
+   "weight": 1.0
+  },
+  {
+   "word": "手机",
+   "count": 34,
+   "weight": 0.723
+  },
+  {
+   "word": "商家",
+   "count": 31,
+   "weight": 0.66
+  },
+  {
+   "word": "全球",
+   "count": 27,
+   "weight": 0.574
+  },
+  {
+   "word": "品牌",
+   "count": 23,
+   "weight": 0.489
+  },
+  {
+   "word": "消费者",
+   "count": 23,
+   "weight": 0.489
+  },
+  {
+   "word": "芯片",
+   "count": 22,
+   "weight": 0.468
+  },
+  {
+   "word": "订单",
+   "count": 21,
+   "weight": 0.447
+  },
+  {
+   "word": "客户",
+   "count": 21,
+   "weight": 0.447
+  },
+  {
+   "word": "GPU",
+   "count": 21,
+   "weight": 0.447
+  },
+  {
+   "word": "出口",
+   "count": 21,
+   "weight": 0.447
+  },
+  {
+   "word": "孩子",
+   "count": 20,
+   "weight": 0.426
+  },
+  {
+   "word": "苹果",
+   "count": 19,
+   "weight": 0.404
+  },
+  {
+   "word": "驾校",
+   "count": 18,
+   "weight": 0.383
+  },
+  {
+   "word": "价格",
+   "count": 18,
+   "weight": 0.383
+  },
+  {
+   "word": "资本",
+   "count": 17,
+   "weight": 0.362
+  },
+  {
+   "word": "产品",
+   "count": 16,
+   "weight": 0.34
+  },
+  {
+   "word": "服务",
+   "count": 16,
+   "weight": 0.34
+  },
+  {
+   "word": "统一",
+   "count": 16,
+   "weight": 0.34
+  },
+  {
+   "word": "同比",
+   "count": 16,
+   "weight": 0.34
+  },
+  {
+   "word": "商场",
+   "count": 16,
+   "weight": 0.34
+  },
+  {
+   "word": "竞争",
+   "count": 15,
+   "weight": 0.319
+  },
+  {
+   "word": "能力",
+   "count": 15,
+   "weight": 0.319
+  },
+  {
+   "word": "影响",
+   "count": 15,
+   "weight": 0.319
+  },
+  {
+   "word": "利率",
+   "count": 15,
+   "weight": 0.319
+  },
+  {
+   "word": "开票",
+   "count": 14,
+   "weight": 0.298
+  },
+  {
+   "word": "摩尔",
+   "count": 14,
+   "weight": 0.298
+  },
+  {
+   "word": "香港",
+   "count": 14,
+   "weight": 0.298
+  },
+  {
+   "word": "游戏",
+   "count": 14,
+   "weight": 0.298
+  },
+  {
+   "word": "调查",
+   "count": 13,
+   "weight": 0.277
+  },
+  {
+   "word": "发票",
+   "count": 13,
+   "weight": 0.277
+  },
+  {
+   "word": "机器人",
+   "count": 13,
+   "weight": 0.277
+  },
+  {
+   "word": "线程",
+   "count": 13,
+   "weight": 0.277
+  },
+  {
+   "word": "利润",
+   "count": 12,
+   "weight": 0.255
+  },
+  {
+   "word": "成本",
+   "count": 12,
+   "weight": 0.255
+  },
+  {
+   "word": "考试",
+   "count": 12,
+   "weight": 0.255
+  },
+  {
+   "word": "交易",
+   "count": 12,
+   "weight": 0.255
+  },
+  {
+   "word": "信息",
+   "count": 12,
+   "weight": 0.255
+  },
+  {
+   "word": "存款",
+   "count": 12,
+   "weight": 0.255
+  },
+  {
+   "word": "兰蔻",
+   "count": 12,
+   "weight": 0.255
+  },
+  {
+   "word": "稀土",
+   "count": 12,
+   "weight": 0.255
+  },
+  {
+   "word": "矿物",
+   "count": 12,
+   "weight": 0.255
+  },
+  {
+   "word": "DRAM",
+   "count": 11,
+   "weight": 0.234
+  },
+  {
+   "word": "消费",
+   "count": 11,
+   "weight": 0.234
+  },
+  {
+   "word": "江津",
+   "count": 11,
+   "weight": 0.234
+  },
+  {
+   "word": "股权",
+   "count": 11,
+   "weight": 0.234
+  },
+  {
+   "word": "消费税",
+   "count": 11,
+   "weight": 0.234
+  },
+  {
+   "word": "商品",
+   "count": 11,
+   "weight": 0.234
+  },
+  {
+   "word": "北京",
+   "count": 11,
+   "weight": 0.234
+  },
+  {
+   "word": "Lancium",
+   "count": 11,
+   "weight": 0.234
+  }
+ ],
  "sectors": [
   {
-   "sector": "PCB",
-   "avg_score": 0.0,
-   "max_score": 0.0,
-   "min_score": 0.0,
-   "news_count": 0
-  },
-  {
-   "sector": "中证A500",
-   "avg_score": 0.0,
-   "max_score": 0.0,
-   "min_score": 0.0,
-   "news_count": 0
-  },
-  {
-   "sector": "中证红利低波",
-   "avg_score": 0.0,
-   "max_score": 0.0,
-   "min_score": 0.0,
-   "news_count": 0
+   "sector": "香港创新药",
+   "avg_score": 72.0,
+   "max_score": 72.0,
+   "min_score": 72.0,
+   "news_count": 1
   },
   {
    "sector": "纳斯达克100",
-   "avg_score": 0.0,
-   "max_score": 0.0,
-   "min_score": 0.0,
-   "news_count": 0
+   "avg_score": 56.4,
+   "max_score": 56.4,
+   "min_score": 56.4,
+   "news_count": 5
   },
   {
-   "sector": "香港创新药",
-   "avg_score": 0.0,
-   "max_score": 0.0,
-   "min_score": 0.0,
-   "news_count": 0
+   "sector": "中证红利低波",
+   "avg_score": 29.7,
+   "max_score": 29.7,
+   "min_score": 29.7,
+   "news_count": 6
+  },
+  {
+   "sector": "中证A500",
+   "avg_score": 20.8,
+   "max_score": 20.8,
+   "min_score": 20.8,
+   "news_count": 12
+  },
+  {
+   "sector": "PCB",
+   "avg_score": 15.3,
+   "max_score": 15.3,
+   "min_score": 15.3,
+   "news_count": 6
   }
  ],
  "nav_series": [
   {
    "date": "2026-08-10",
-   "total": 3725.6,
-   "earn": 35.17,
-   "today_income": 51.35
+   "total": 3752.89,
+   "earn": 45.91,
+   "today_income": 10.75
   }
  ],
  "holding_change": [
@@ -66,9 +317,9 @@
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 1031.56,
-   "weight": 27.69,
-   "earn_pct": 3.15,
+   "money": 1026.2,
+   "weight": 27.34,
+   "earn_pct": 2.62,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -76,9 +327,9 @@
    "code": "007466",
    "name": "华泰柏瑞中证红利低波ETF联接A",
    "sector": "中证红利低波",
-   "money": 961.85,
-   "weight": 25.82,
-   "earn_pct": -3.52,
+   "money": 965.76,
+   "weight": 25.73,
+   "earn_pct": -3.13,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -86,9 +337,9 @@
    "code": "022459",
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
-   "money": 835.32,
-   "weight": 22.42,
-   "earn_pct": 4.42,
+   "money": 836.29,
+   "weight": 22.28,
+   "earn_pct": 4.54,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -96,9 +347,9 @@
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
-   "money": 603.22,
-   "weight": 16.19,
-   "earn_pct": 0.54,
+   "money": 610.09,
+   "weight": 16.26,
+   "earn_pct": 1.68,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -106,9 +357,9 @@
    "code": "019671",
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "香港创新药",
-   "money": 283.44,
-   "weight": 7.61,
-   "earn_pct": 0.0,
+   "money": 304.23,
+   "weight": 8.11,
+   "earn_pct": 1.41,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -116,9 +367,9 @@
    "code": "016452",
    "name": "南方纳斯达克100指数发起(QDII)A",
    "sector": "纳斯达克100",
-   "money": 10.21,
+   "money": 10.32,
    "weight": 0.27,
-   "earn_pct": 2.1,
+   "earn_pct": 3.2,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   }
@@ -126,32 +377,22 @@
  "advice_consistency": [
   {
    "name": "广发港股创新药ETF联接(QDII)C",
-   "dominant": "持有偏乐观",
+   "dominant": "可考虑加仓",
    "days": 1,
    "total_days": 1,
    "ratio": 100,
    "detail": {
-    "持有偏乐观": 1
-   }
-  },
-  {
-   "name": "财通价值动量混合A",
-   "dominant": "持有偏乐观",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "持有偏乐观": 1
+    "可考虑加仓": 1
    }
   },
   {
    "name": "南方纳斯达克100指数发起(QDII)I",
-   "dominant": "维持观望",
+   "dominant": "可考虑加仓",
    "days": 1,
    "total_days": 1,
    "ratio": 100,
    "detail": {
-    "维持观望": 1
+    "可考虑加仓": 1
    }
   },
   {
@@ -165,6 +406,16 @@
    }
   },
   {
+   "name": "财通价值动量混合A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
    "name": "易方达中证A500ETF联接A",
    "dominant": "维持观望",
    "days": 1,
@@ -176,20 +427,49 @@
   },
   {
    "name": "华泰柏瑞中证红利低波ETF联接A",
-   "dominant": "持有偏谨慎",
+   "dominant": "维持观望",
    "days": 1,
    "total_days": 1,
    "ratio": 100,
    "detail": {
-    "持有偏谨慎": 1
+    "维持观望": 1
    }
   }
  ],
- "top_events": [],
+ "top_events": [
+  {
+   "date": "2026-08-10",
+   "title": "长鑫拿下苹果订单尚需白宫点头，成功将坐实全球DRAM第四巨头",
+   "heat": 96.0,
+   "sentiment": 7,
+   "category": "科技"
+  },
+  {
+   "date": "2026-08-10",
+   "title": "渤海千亿方大气田一期投产，产油气逾5200吨",
+   "heat": 85.0,
+   "sentiment": 8,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-10",
+   "title": "个税重回中国第3大税种：半年8982亿，近半增量来自股市和股权",
+   "heat": 95.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-10",
+   "title": "摩尔线程刚圈80亿，转身再冲港股：要烧出中国GPU的全球席位",
+   "heat": 94.0,
+   "sentiment": 4,
+   "category": "科技"
+  }
+ ],
  "stats": {
-  "news_total": 0,
-  "xwlb_total": 0
+  "news_total": 21,
+  "xwlb_total": 22
  },
- "generated_at": "2026-08-10T07:50:52",
+ "generated_at": "2026-08-10T20:25:42",
  "type_label": "周报"
 }

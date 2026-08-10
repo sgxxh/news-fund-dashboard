@@ -3,6 +3,8 @@ name: 每日全量构建（云端）
 # 每日早间（北京 08:00）跑一次完整管道：新闻采集 + 分析 + 基金 + 聚合报告，
 # 确保即使本机多日未开，云端也有当日新闻与市场情绪。养基宝 token 走 secrets.YJB_TOKEN。
 on:
+  push:
+    branches: [main]            # 推送代码后自动重建并发布 gh-pages
   schedule:
     - cron: '0 0 * * 1-5'        # 北京 08:00（UTC 00:00）周一至周五
   workflow_dispatch:

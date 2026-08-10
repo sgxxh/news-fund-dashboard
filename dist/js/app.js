@@ -930,13 +930,22 @@ function reloadFundStatic(code) {
 
 /* PWA：云端模式关闭 SW，保证每次都拿到最新数据；本机模式保留离线缓存 */
 async function init() {
+  let cfg = {};
   try {
-    const cfg = await fetch('data/backend.json?t=' + Date.now()).then(r => r.ok ? r.json() : {});
-    if (cfg && cfg.mode === 'github-pages') S.cloud = true;
-    if (cfg && cfg.apiBase) S.apiBase = String(cfg.apiBase).replace(/\/+$/, '');
+    const r = await fetch('data/backend.json?t=' + Date.now());
+    if (r.ok) cfg = await r.json();
   } catch (e) {}
-  if ('serviceWorker' in navigator && !S.cloud) {
-    window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => { }));
+  if (cfg.mode === 'github-pages') {
+    S.cloud = true;
+    // 云端模式：彻底禁用 SW，避免外壳(index.html/app.js)被缓存导致页面卡在旧版
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(rs => rs.forEach(r => r.unregister())).catch(() => { });
+    }
+  } else {
+    if (cfg.apiBase) S.apiBase = String(cfg.apiBase).replace(/\/+$/, '');
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => { }));
+    }
   }
   boot();
 }

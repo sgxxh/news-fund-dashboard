@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """新闻采集：日知录每日要闻（含正文/影响分析） + 央视新闻联播条目。"""
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import re, json, requests
 from concurrent.futures import ThreadPoolExecutor
 from common import NEWS_API, UA, log, safe_float

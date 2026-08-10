@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """基金采集：养基宝个人持仓 + 公网净值/估值/板块/重仓信息 + 指数行情。"""
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import requests, json
 from common import (YJB_PLUG, YJB_APP, UA, log, safe_float,
                     load_yjb_token, yjb_headers)

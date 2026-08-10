@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """主管道：采集 -> 分析 -> 落地日档案 -> 生成聚合报告 -> 同步到 dist/data。"""
 import os, sys, json, shutil, datetime as dt
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from common import (DAILY_DIR, DIST_DATA, DIST_FUNDS, log, today_str, read_json, write_json)
 import fetch_news, fetch_funds, analyze as ana

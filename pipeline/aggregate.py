@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """周期聚合：把日档案汇总为周报 / 月报 / 季报。"""
-import os, datetime as dt
+import os, sys, datetime as dt
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from collections import Counter, defaultdict
 
 from common import DAILY_DIR, DIST_DATA, REPORT_DIR, read_json, write_json, log, safe_float

@@ -8,6 +8,8 @@
   4. 仓位建议 = 消息面(50%) + 动量(30%) + 持仓偏离(20%) 的综合分
 所有结论均为规则推理结果，不构成投资建议。
 """
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import re, math, json
 from collections import Counter, defaultdict
 

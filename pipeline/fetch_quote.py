@@ -9,7 +9,8 @@
 基金本身没有市盈率，此处的 PE/PB 通过前十大重仓股按权重穿透计算得出，
 采用调和加权（等价于组合总市值 / 组合总盈利），比算术平均更贴近真实估值。
 """
-import os, re, json, math, time, requests, datetime as dt
+import os, sys, re, json, math, time, requests, datetime as dt
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from concurrent.futures import ThreadPoolExecutor
 
 from common import UA, log, safe_float

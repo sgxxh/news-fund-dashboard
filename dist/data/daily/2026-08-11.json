@@ -1,19 +1,19 @@
 {
  "date": "2026-08-11",
- "generated_at": "2026-08-11T01:28:40",
+ "generated_at": "2026-08-11T14:07:53",
  "session": "auto",
- "digest_title": "",
+ "digest_title": "8月11日日知录-7月金融数据即将揭晓：居民的钱会到回银行吗？",
  "funds": {
   "ok": true,
   "reason": "",
   "summary": {
    "hold_cost": 3906.96,
-   "today_income": -12.17,
-   "today_income_rate": -0.31,
-   "total_money": 3922.42,
-   "total_earn": 15.47,
+   "today_income": -9.92,
+   "today_income_rate": -0.25,
+   "total_money": 3912.54,
+   "total_earn": 5.58,
    "count": 6,
-   "total_earn_pct": 0.4
+   "total_earn_pct": 0.14
   },
   "holdings": [
    {
@@ -21,16 +21,16 @@
     "fund_id": "138",
     "code": "720001",
     "name": "财通价值动量混合A",
-    "money": 999.96,
-    "earn": -0.04,
-    "earn_pct": -0.0,
+    "money": 997.32,
+    "earn": -2.68,
+    "earn_pct": -0.27,
     "share": 67.84,
     "cost": 14.74056604,
     "category": 1,
-    "nav": 14.74,
-    "day_pct": -0.52,
-    "nav_date": "2026-08-10",
-    "est_pct": -0.42,
+    "nav": 14.701,
+    "day_pct": -0.26,
+    "nav_date": "2026-08-11",
+    "est_pct": -0.26,
     "est_date": "2026-08-11",
     "year_pct": 79.19,
     "sector": "PCB",
@@ -43,108 +43,108 @@
     "fund_id": "5773",
     "code": "007466",
     "name": "华泰柏瑞中证红利低波ETF联接A",
-    "money": 965.76,
-    "earn": -31.21,
-    "earn_pct": -3.13,
+    "money": 966.24,
+    "earn": -30.73,
+    "earn_pct": -3.08,
     "share": 602.66,
     "cost": 1.6542938,
     "category": 3,
-    "nav": 1.6025,
-    "day_pct": 0.41,
-    "nav_date": "2026-08-10",
-    "est_pct": 0.03,
+    "nav": 1.6033,
+    "day_pct": 0.05,
+    "nav_date": "2026-08-11",
+    "est_pct": 0.05,
     "est_date": "2026-08-11",
     "year_pct": -0.89,
     "sector": "中证红利低波",
     "sector_pct": 0.03,
     "market_type": "ch",
-    "weight": 24.62
+    "weight": 24.7
    },
    {
     "account": "默认",
     "fund_id": "25645",
     "code": "022459",
     "name": "易方达中证A500ETF联接A",
-    "money": 836.29,
-    "earn": 36.3,
-    "earn_pct": 4.54,
+    "money": 829.88,
+    "earn": 29.89,
+    "earn_pct": 3.74,
     "share": 648.19,
     "cost": 1.23419059,
     "category": 3,
-    "nav": 1.2902,
-    "day_pct": 0.12,
-    "nav_date": "2026-08-10",
-    "est_pct": -0.83,
+    "nav": 1.2803,
+    "day_pct": -0.77,
+    "nav_date": "2026-08-11",
+    "est_pct": -0.77,
     "est_date": "2026-08-11",
     "year_pct": 4.81,
     "sector": "中证A500",
     "sector_pct": -0.83,
     "market_type": "ch",
-    "weight": 21.32
+    "weight": 21.21
    },
    {
     "account": "默认",
     "fund_id": "23918",
     "code": "021000",
     "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 810.09,
-    "earn": 10.1,
-    "earn_pct": 1.26,
+    "money": 807.29,
+    "earn": 7.29,
+    "earn_pct": 0.91,
     "share": 350.72,
     "cost": 2.281,
     "category": 3,
-    "nav": 2.3098,
-    "day_pct": 1.14,
-    "nav_date": "2026-08-07",
-    "est_pct": -0.34,
+    "nav": 2.3018,
+    "day_pct": -0.35,
+    "nav_date": "2026-08-11",
+    "est_pct": -0.35,
     "est_date": "2026-08-10",
     "year_pct": 12.74,
     "sector": "纳斯达克100",
-    "sector_pct": -0.34,
+    "sector_pct": 0.18,
     "market_type": "us",
-    "weight": 20.65
+    "weight": 20.63
    },
    {
     "account": "默认",
     "fund_id": "22504",
     "code": "019671",
     "name": "广发港股创新药ETF联接(QDII)C",
-    "money": 300.0,
-    "earn": 0.0,
-    "earn_pct": 0.0,
+    "money": 301.52,
+    "earn": 1.52,
+    "earn_pct": 0.51,
     "share": 222.85,
     "cost": 1.34619699,
     "category": 6,
-    "nav": 1.3462,
-    "day_pct": 1.41,
-    "nav_date": "2026-08-10",
-    "est_pct": 0.49,
+    "nav": 1.353,
+    "day_pct": 0.51,
+    "nav_date": "2026-08-11",
+    "est_pct": 0.51,
     "est_date": "2026-08-11",
     "year_pct": 7.3,
     "sector": "港股创新药",
-    "sector_pct": 0.49,
+    "sector_pct": 0.51,
     "market_type": "hk",
-    "weight": 7.65
+    "weight": 7.71
    },
    {
     "account": "默认",
     "fund_id": "19672",
     "code": "016452",
     "name": "南方纳斯达克100指数发起(QDII)A",
-    "money": 10.32,
-    "earn": 0.32,
-    "earn_pct": 3.2,
+    "money": 10.29,
+    "earn": 0.29,
+    "earn_pct": 2.9,
     "share": 4.47,
     "cost": 2.23713647,
     "category": 6,
-    "nav": 2.3096,
-    "day_pct": 1.14,
-    "nav_date": "2026-08-07",
-    "est_pct": -0.34,
+    "nav": 2.3016,
+    "day_pct": -0.35,
+    "nav_date": "2026-08-11",
+    "est_pct": -0.35,
     "est_date": "2026-08-10",
     "year_pct": 12.75,
     "sector": "纳斯达克100",
-    "sector_pct": -0.34,
+    "sector_pct": 0.18,
     "market_type": "us",
     "weight": 0.26
    }
@@ -152,26 +152,452 @@
   "index": []
  },
  "analysis": {
-  "keywords": [],
-  "market_mood": 0,
+  "keywords": [
+   {
+    "word": "银行",
+    "count": 51,
+    "weight": 1.0
+   },
+   {
+    "word": "存款",
+    "count": 42,
+    "weight": 0.824
+   },
+   {
+    "word": "日本",
+    "count": 42,
+    "weight": 0.824
+   },
+   {
+    "word": "产品",
+    "count": 29,
+    "weight": 0.569
+   },
+   {
+    "word": "同比",
+    "count": 25,
+    "weight": 0.49
+   },
+   {
+    "word": "平台",
+    "count": 25,
+    "weight": 0.49
+   },
+   {
+    "word": "居民",
+    "count": 24,
+    "weight": 0.471
+   },
+   {
+    "word": "资金",
+    "count": 24,
+    "weight": 0.471
+   },
+   {
+    "word": "分红险",
+    "count": 23,
+    "weight": 0.451
+   },
+   {
+    "word": "订单",
+    "count": 23,
+    "weight": 0.451
+   },
+   {
+    "word": "培训",
+    "count": 22,
+    "weight": 0.431
+   },
+   {
+    "word": "家庭",
+    "count": 20,
+    "weight": 0.392
+   },
+   {
+    "word": "飞机",
+    "count": 20,
+    "weight": 0.392
+   },
+   {
+    "word": "利率",
+    "count": 19,
+    "weight": 0.373
+   },
+   {
+    "word": "销量",
+    "count": 19,
+    "weight": 0.373
+   },
+   {
+    "word": "C919",
+    "count": 19,
+    "weight": 0.373
+   },
+   {
+    "word": "贷款",
+    "count": 19,
+    "weight": 0.373
+   },
+   {
+    "word": "消费",
+    "count": 19,
+    "weight": 0.373
+   },
+   {
+    "word": "资产",
+    "count": 16,
+    "weight": 0.314
+   },
+   {
+    "word": "红利",
+    "count": 16,
+    "weight": 0.314
+   },
+   {
+    "word": "求职者",
+    "count": 16,
+    "weight": 0.314
+   },
+   {
+    "word": "商品",
+    "count": 15,
+    "weight": 0.294
+   },
+   {
+    "word": "风险",
+    "count": 15,
+    "weight": 0.294
+   },
+   {
+    "word": "手机",
+    "count": 15,
+    "weight": 0.294
+   },
+   {
+    "word": "古城墙",
+    "count": 15,
+    "weight": 0.294
+   },
+   {
+    "word": "保险",
+    "count": 13,
+    "weight": 0.255
+   },
+   {
+    "word": "保险公司",
+    "count": 13,
+    "weight": 0.255
+   },
+   {
+    "word": "消费者",
+    "count": 13,
+    "weight": 0.255
+   },
+   {
+    "word": "存单",
+    "count": 13,
+    "weight": 0.255
+   },
+   {
+    "word": "条石",
+    "count": 13,
+    "weight": 0.255
+   },
+   {
+    "word": "债务",
+    "count": 13,
+    "weight": 0.255
+   },
+   {
+    "word": "客户",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "人员",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "外国",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "现场",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "大额",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "价格",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "汽车",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "商家",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "新能源",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "人民币",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "渠道",
+    "count": 11,
+    "weight": 0.216
+   },
+   {
+    "word": "政策",
+    "count": 11,
+    "weight": 0.216
+   },
+   {
+    "word": "航线",
+    "count": 11,
+    "weight": 0.216
+   },
+   {
+    "word": "记录",
+    "count": 11,
+    "weight": 0.216
+   },
+   {
+    "word": "普通",
+    "count": 11,
+    "weight": 0.216
+   },
+   {
+    "word": "住户",
+    "count": 11,
+    "weight": 0.216
+   },
+   {
+    "word": "比亚迪",
+    "count": 11,
+    "weight": 0.216
+   },
+   {
+    "word": "海獭",
+    "count": 11,
+    "weight": 0.216
+   },
+   {
+    "word": "收益",
+    "count": 10,
+    "weight": 0.196
+   },
+   {
+    "word": "变化",
+    "count": 10,
+    "weight": 0.196
+   },
+   {
+    "word": "销售",
+    "count": 10,
+    "weight": 0.196
+   },
+   {
+    "word": "运营",
+    "count": 10,
+    "weight": 0.196
+   },
+   {
+    "word": "全球",
+    "count": 10,
+    "weight": 0.196
+   },
+   {
+    "word": "美国",
+    "count": 10,
+    "weight": 0.196
+   },
+   {
+    "word": "能力",
+    "count": 10,
+    "weight": 0.196
+   },
+   {
+    "word": "文物",
+    "count": 10,
+    "weight": 0.196
+   },
+   {
+    "word": "规模",
+    "count": 9,
+    "weight": 0.176
+   },
+   {
+    "word": "波动",
+    "count": 9,
+    "weight": 0.176
+   },
+   {
+    "word": "经营",
+    "count": 9,
+    "weight": 0.176
+   }
+  ],
+  "market_mood": 9.4,
   "market_mood_level": "中性",
   "sector_impacts": {
    "PCB": {
     "sector": "PCB",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+    "news_count": 3,
+    "score": 47.5,
+    "level": "偏多",
+    "drivers": [
+     {
+      "title": "7月金融数据即将揭晓：科技股大跌后，居民的钱会回银行吗？",
+      "sentiment": 4,
+      "heat": 97.0,
+      "hits": [
+       "增长",
+       "新高",
+       "降息",
+       "创新"
+      ]
+     },
+     {
+      "title": "外籍游客“反向海淘”爆火退税激增366%，中国成全球消费新高地",
+      "sentiment": 4,
+      "heat": 85.0,
+      "hits": [
+       "新高",
+       "创新"
+      ]
+     },
+     {
+      "title": "8月11日话题｜800元的“折射手机壳”：偷拍商品化，平台岂能装睡",
+      "sentiment": 0,
+      "heat": 94.0,
+      "hits": [
+       "创新",
+       "订单",
+       "风险",
+       "调查"
+      ]
+     }
+    ]
    },
    "中证A500": {
     "sector": "中证A500",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+    "news_count": 12,
+    "score": 30.0,
+    "level": "温和偏多",
+    "drivers": [
+     {
+      "title": "人民币对美元即期汇率升至6.7439，42个月新高且年内涨近3.5%",
+      "sentiment": 8,
+      "heat": 80.0,
+      "hits": [
+       "增长",
+       "新高",
+       "优化",
+       "景气"
+      ]
+     },
+     {
+      "title": "7月金融数据即将揭晓：科技股大跌后，居民的钱会回银行吗？",
+      "sentiment": 4,
+      "heat": 97.0,
+      "hits": [
+       "增长",
+       "新高",
+       "降息",
+       "创新"
+      ]
+     },
+     {
+      "title": "外籍游客“反向海淘”爆火退税激增366%，中国成全球消费新高地",
+      "sentiment": 4,
+      "heat": 85.0,
+      "hits": [
+       "新高",
+       "创新"
+      ]
+     },
+     {
+      "title": "分红险半年保费破万亿超去年全年：居民越求稳，险企承诺越少",
+      "sentiment": 2,
+      "heat": 99.0,
+      "hits": [
+       "增长",
+       "扩大",
+       "风险"
+      ]
+     }
+    ]
    },
    "中证红利低波": {
     "sector": "中证红利低波",
+    "news_count": 8,
+    "score": 20.9,
+    "level": "温和偏多",
+    "drivers": [
+     {
+      "title": "人民币对美元即期汇率升至6.7439，42个月新高且年内涨近3.5%",
+      "sentiment": 8,
+      "heat": 80.0,
+      "hits": [
+       "增长",
+       "新高",
+       "优化",
+       "景气"
+      ]
+     },
+     {
+      "title": "7月金融数据即将揭晓：科技股大跌后，居民的钱会回银行吗？",
+      "sentiment": 4,
+      "heat": 97.0,
+      "hits": [
+       "增长",
+       "新高",
+       "降息",
+       "创新"
+      ]
+     },
+     {
+      "title": "法拍房半年增加23%：真正变化其实是债务人“自救出口”变窄了",
+      "sentiment": -4,
+      "heat": 90.0,
+      "hits": [
+       "增长",
+       "调查",
+       "断供",
+       "承压"
+      ]
+     },
+     {
+      "title": "分红险半年保费破万亿超去年全年：居民越求稳，险企承诺越少",
+      "sentiment": 2,
+      "heat": 99.0,
+      "hits": [
+       "增长",
+       "扩大",
+       "风险"
+      ]
+     }
+    ]
+   },
+   "港股创新药": {
+    "sector": "港股创新药",
     "news_count": 0,
     "score": 0.0,
     "level": "中性",
@@ -179,188 +605,1893 @@
    },
    "纳斯达克100": {
     "sector": "纳斯达克100",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "香港创新药": {
-    "sector": "香港创新药",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+    "news_count": 5,
+    "score": 23.7,
+    "level": "温和偏多",
+    "drivers": [
+     {
+      "title": "7月金融数据即将揭晓：科技股大跌后，居民的钱会回银行吗？",
+      "sentiment": 4,
+      "heat": 97.0,
+      "hits": [
+       "增长",
+       "新高",
+       "降息",
+       "创新"
+      ]
+     },
+     {
+      "title": "数据显示美国7月平均气温达新高 欧洲多国遭遇大范围干旱 林火肆虐",
+      "sentiment": 3,
+      "heat": 70,
+      "hits": [
+       "新高"
+      ]
+     },
+     {
+      "title": "国际现货黄金一周涨超7%突破4400美元，创6月以来新高",
+      "sentiment": 2,
+      "heat": 87.0,
+      "hits": [
+       "上涨",
+       "涨幅",
+       "突破",
+       "新高"
+      ]
+     },
+     {
+      "title": "5年期大额存单突然回归：银行真的嗅到了下一场全球经济危机？",
+      "sentiment": -1,
+      "heat": 96.0,
+      "hits": [
+       "增长",
+       "支持",
+       "风险",
+       "危机"
+      ]
+     }
+    ]
    }
   },
   "advices": [
    {
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "sector": "香港创新药",
-    "weight": 8.06,
+    "code": "720001",
+    "name": "财通价值动量混合A",
+    "sector": "PCB",
+    "weight": 25.49,
     "tiny": false,
-    "earn_pct": 0.0,
-    "day_pct": 1.41,
-    "year_pct": 7.3,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 29.9,
-    "deviation": 51.6,
-    "total_score": 19.3,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上；仓位占比 8.1% 偏低"
-   },
-   {
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "sector": "纳斯达克100",
-    "weight": 16.39,
-    "tiny": false,
-    "earn_pct": 1.68,
-    "day_pct": 1.14,
-    "year_pct": 12.74,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 38.9,
-    "deviation": 1.7,
-    "total_score": 12.0,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
+    "earn_pct": -0.27,
+    "day_pct": -0.26,
+    "year_pct": 79.19,
+    "news_score": 47.5,
+    "news_count": 3,
+    "news_level": "偏多",
+    "momentum": 66.7,
+    "deviation": -52.9,
+    "total_score": 33.2,
+    "action": "可考虑加仓",
+    "reason": "板块命中 3 条相关新闻，消息面偏多；中期动量向上；仓位占比 25.5% 偏集中"
    },
    {
     "code": "016452",
     "name": "南方纳斯达克100指数发起(QDII)A",
     "sector": "纳斯达克100",
-    "weight": 0.28,
+    "weight": 0.26,
     "tiny": true,
-    "earn_pct": 3.2,
-    "day_pct": 1.14,
+    "earn_pct": 2.9,
+    "day_pct": -0.35,
     "year_pct": 12.75,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 39.0,
+    "news_score": 23.7,
+    "news_count": 5,
+    "news_level": "温和偏多",
+    "momentum": 24.6,
     "deviation": 0.0,
-    "total_score": 11.7,
+    "total_score": 19.2,
     "action": "零头持仓·可并入同类",
-    "reason": "仅占 0.28%，属尾数份额；板块消息面中性，建议与同标的主份额合并管理，单独调仓意义不大"
+    "reason": "仅占 0.26%，属尾数份额；板块消息面温和偏多，建议与同标的主份额合并管理，单独调仓意义不大"
    },
    {
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "sector": "PCB",
-    "weight": 26.86,
+    "code": "019671",
+    "name": "广发港股创新药ETF联接(QDII)C",
+    "sector": "港股创新药",
+    "weight": 7.71,
     "tiny": false,
-    "earn_pct": -0.0,
-    "day_pct": -0.52,
-    "year_pct": 79.19,
+    "earn_pct": 0.51,
+    "day_pct": 0.51,
+    "year_pct": 7.3,
     "news_score": 0.0,
     "news_count": 0,
     "news_level": "中性",
-    "momentum": 64.1,
-    "deviation": -61.2,
-    "total_score": 7.0,
-    "action": "维持观望",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上；仓位占比 26.9% 偏集中"
+    "momentum": 21.8,
+    "deviation": 53.7,
+    "total_score": 17.3,
+    "action": "持有偏乐观",
+    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 7.7% 偏低"
+   },
+   {
+    "code": "021000",
+    "name": "南方纳斯达克100指数发起(QDII)I",
+    "sector": "纳斯达克100",
+    "weight": 20.63,
+    "tiny": false,
+    "earn_pct": 0.91,
+    "day_pct": -0.35,
+    "year_pct": 12.74,
+    "news_score": 23.7,
+    "news_count": 5,
+    "news_level": "温和偏多",
+    "momentum": 24.6,
+    "deviation": -23.8,
+    "total_score": 14.5,
+    "action": "持有偏乐观",
+    "reason": "板块命中 5 条相关新闻，消息面温和偏多；动量中性"
    },
    {
     "code": "022459",
     "name": "易方达中证A500ETF联接A",
     "sector": "中证A500",
-    "weight": 22.47,
+    "weight": 21.21,
     "tiny": false,
-    "earn_pct": 4.54,
-    "day_pct": 0.12,
+    "earn_pct": 3.74,
+    "day_pct": -0.77,
     "year_pct": 4.81,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 12.3,
-    "deviation": -34.8,
-    "total_score": -3.3,
-    "action": "维持观望",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性"
+    "news_score": 30.0,
+    "news_count": 12,
+    "news_level": "温和偏多",
+    "momentum": 3.6,
+    "deviation": -27.3,
+    "total_score": 10.6,
+    "action": "持有偏乐观",
+    "reason": "板块命中 12 条相关新闻，消息面温和偏多；动量中性"
    },
    {
     "code": "007466",
     "name": "华泰柏瑞中证红利低波ETF联接A",
     "sector": "中证红利低波",
-    "weight": 25.94,
+    "weight": 24.7,
     "tiny": false,
-    "earn_pct": -3.13,
-    "day_pct": 0.41,
+    "earn_pct": -3.08,
+    "day_pct": 0.05,
     "year_pct": -0.89,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 2.0,
-    "deviation": -55.6,
-    "total_score": -10.5,
-    "action": "持有偏谨慎",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 25.9% 偏集中"
+    "news_score": 20.9,
+    "news_count": 8,
+    "news_level": "温和偏多",
+    "momentum": -1.6,
+    "deviation": -48.2,
+    "total_score": 0.3,
+    "action": "维持观望",
+    "reason": "板块命中 8 条相关新闻，消息面温和偏多；动量中性；仓位占比 24.7% 偏集中"
    }
   ],
   "forecast": [
    {
     "sector": "PCB",
     "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.6,
-    "note": "消息面 +0 / 中期动量 +99"
+    "prob": 74,
+    "confidence": "中",
+    "news_count": 3,
+    "blend": 68.1,
+    "note": "消息面 +48 / 中期动量 +99"
    },
    {
     "sector": "纳斯达克100",
-    "bias": "偏多震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 16.0,
-    "note": "消息面 +0 / 中期动量 +40"
+    "bias": "看多",
+    "prob": 61,
+    "confidence": "高",
+    "news_count": 5,
+    "blend": 30.3,
+    "note": "消息面 +24 / 中期动量 +40"
    },
    {
-    "sector": "香港创新药",
+    "sector": "中证A500",
+    "bias": "偏多震荡",
+    "prob": 57,
+    "confidence": "高",
+    "news_count": 12,
+    "blend": 24.4,
+    "note": "消息面 +30 / 中期动量 +16"
+   },
+   {
+    "sector": "中证红利低波",
+    "bias": "偏多震荡",
+    "prob": 53,
+    "confidence": "高",
+    "news_count": 8,
+    "blend": 11.4,
+    "note": "消息面 +21 / 中期动量 -3"
+   },
+   {
+    "sector": "港股创新药",
     "bias": "区间震荡",
     "prob": 55,
     "confidence": "低",
     "news_count": 0,
     "blend": 9.5,
     "note": "消息面 +0 / 中期动量 +24"
-   },
-   {
-    "sector": "中证A500",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 6.4,
-    "note": "消息面 +0 / 中期动量 +16"
-   },
-   {
-    "sector": "中证红利低波",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": -1.2,
-    "note": "消息面 +0 / 中期动量 -3"
    }
   ],
-  "category_dist": {},
-  "top_news": [],
-  "scored_news": [],
+  "category_dist": {
+   "财经": 9,
+   "纪事": 1,
+   "话题": 1,
+   "社会": 3,
+   "时政": 4,
+   "科技": 1,
+   "分辨": 1,
+   "新闻联播": 25
+  },
+  "top_news": [
+   {
+    "id": 20844,
+    "title": "7月金融数据即将揭晓：科技股大跌后，居民的钱会回银行吗？",
+    "summary": "【一句话判断】7月住户存款可能继续季节性减少，但居民资金的第一站未必是股市，而是还债和固收。即将公布的金融数据，将检验中国家庭资产重组走到了哪一步。",
+    "category": "财经",
+    "heat": 97.0,
+    "sentiment": 4,
+    "sent_hits": [
+     "增长",
+     "新高",
+     "降息",
+     "创新",
+     "增持",
+     "下跌",
+     "风险",
+     "放缓"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "半导体",
+       "AI",
+       "存储"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "降息",
+       "消费",
+       "就业"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "保险"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "降息",
+       "科技股"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-11T01:21:21",
+    "source": "日知录",
+    "story_len": 2957
+   },
+   {
+    "id": 20902,
+    "title": "C919终于迎来首条国际航线：中国大飞机开始到国外“正常上班”",
+    "summary": "【一句话判断】8月12日起，国航C919将每日往返北京与乌兰巴托。中国大飞机由境外亮相迈向固定班期、公开售票的国际商业运营，开始在外国机场积累日常运行记录。",
+    "category": "财经",
+    "heat": 98.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "支持",
+     "合作",
+     "订单"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-11T16:19:30",
+    "source": "日知录",
+    "story_len": 3091
+   },
+   {
+    "id": 20908,
+    "title": "分红险半年保费破万亿超去年全年：居民越求稳，险企承诺越少",
+    "summary": "2026年上半年分红险原保险保费达到10126亿元，增长94.4%，半年规模已经超过2025年全年。这不只是居民主动选择了分红险，更是寿险公司和银行渠道把主力商品从固定收益型保险切换到了风险共担型产品。",
+    "category": "财经",
+    "heat": 99.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "增长",
+     "扩大",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "红利",
+       "分红",
+       "银行",
+       "保险"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "政策"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-11T16:19:30",
+    "source": "日知录",
+    "story_len": 3518
+   },
+   {
+    "id": 20829,
+    "title": "人民币对美元即期汇率升至6.7439，42个月新高且年内涨近3.5%",
+    "summary": "8月10日，人民币对美元即期汇率盘中最高升至6.7439，创2023年2月6日以来新高，今年以来累计升值近3.5%。",
+    "category": "财经",
+    "heat": 80.0,
+    "sentiment": 8,
+    "sent_hits": [
+     "增长",
+     "新高",
+     "优化",
+     "景气"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T08:45:42",
+    "source": "日知录",
+    "story_len": 365
+   },
+   {
+    "id": 20907,
+    "title": "法拍房半年增加23%：真正变化其实是债务人“自救出口”变窄了",
+    "summary": "法拍房增加不只说明债务压力上升，更说明展期、再融资和主动卖房正在变难：越来越多债务只能通过法院折价处置最后的抵押物。",
+    "category": "财经",
+    "heat": 90.0,
+    "sentiment": -4,
+    "sent_hits": [
+     "增长",
+     "调查",
+     "断供",
+     "承压"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T16:19:30",
+    "source": "日知录",
+    "story_len": 3136
+   },
+   {
+    "id": 20906,
+    "title": "比亚迪闯进日本“国民车”腹地：专为日本造的海獭两周订单破千",
+    "summary": "【一句话判断】截至8月9日，比亚迪专为日本轻型车市场开发的海獭获得1002份订单。千辆订单还没有改写日本车市，却说明中国车企开始用本土化设计和中国供应链，直接进入日本“国民车”腹地。",
+    "category": "财经",
+    "heat": 97.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "支持",
+     "订单",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T16:19:30",
+    "source": "日知录",
+    "story_len": 3073
+   },
+   {
+    "id": 20845,
+    "title": "5年期大额存单突然回归：银行真的嗅到了下一场全球经济危机？",
+    "summary": "【一句话判断】多家银行重新上架5年期大额存单，首先是为了截留集中到期的长期资金。第一批产品是留客工具，第二批是否全面扩容，才可能成为更大风险的预警信号。",
+    "category": "财经",
+    "heat": 96.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "增长",
+     "支持",
+     "风险",
+     "危机"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "保险",
+       "长期资金"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "科技股"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T01:20:21",
+    "source": "日知录",
+    "story_len": 3319
+   },
+   {
+    "id": 20912,
+    "title": "8月11日纪事｜山西明代古城墙修缮如新，历史随旧砖石一起被抛弃",
+    "summary": "【纪事金句】古城墙修缮居然抛弃最重要的城墙砖和地基条石，缺的到底是文化，还是责任心？",
+    "category": "纪事",
+    "heat": 94.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "调查"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-11T18:11:43",
+    "source": "日知录",
+    "story_len": 2900
+   },
+   {
+    "id": 20791,
+    "title": "外籍游客“反向海淘”爆火退税激增366%，中国成全球消费新高地",
+    "summary": "2026年上半年中国离境退税旅客量同比激增366%，新能源车、无人机等中国智造产品成外籍游客新宠。免签政策扩容与退税服务升级推动“中国购”热潮，反映国际消费者对中国产业链与文化创新的高度认可。",
+    "category": "时政",
+    "heat": 85.0,
+    "sentiment": 4,
+    "sent_hits": [
+     "新高",
+     "创新"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "电子",
+       "消费电子"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "政策"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-11T14:27:50",
+    "source": "日知录",
+    "story_len": 544
+   },
+   {
+    "id": 20860,
+    "title": "哥伦比亚政府通报7.4级强震致132死570伤，32个城市严重受灾",
+    "summary": "哥伦比亚政府通报，8月10日西部强震已造成132人死亡、570人受伤，全国32个城市严重受灾。",
+    "category": "社会",
+    "heat": 93.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T10:11:14",
+    "source": "日知录",
+    "story_len": 203
+   },
+   {
+    "id": 20913,
+    "title": "8月11日话题｜800元的“折射手机壳”：偷拍商品化，平台岂能装睡",
+    "summary": "【话题金句】技术用途可以讨论，器材定性可以等待，但把偷拍做成商品，没有讨论余地。",
+    "category": "话题",
+    "heat": 94.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "创新",
+     "订单",
+     "风险",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "电子",
+       "消费电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T18:11:39",
+    "source": "日知录",
+    "story_len": 2014
+   },
+   {
+    "id": 20890,
+    "title": "北京二级响应迎战强降雨：公交道临时开放、避险停车位启用",
+    "summary": "8月11日至13日，北京启动防汛二级响应，实施公交专用道开放、设立77条避险道路及182个免费停车点等交通管控措施，全力应对强降雨极端天气。",
+    "category": "时政",
+    "heat": 85.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "增长",
+     "创新",
+     "开放",
+     "风险"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-11T14:27:50",
+    "source": "日知录",
+    "story_len": 398
+   }
+  ],
+  "scored_news": [
+   {
+    "id": 20908,
+    "title": "分红险半年保费破万亿超去年全年：居民越求稳，险企承诺越少",
+    "summary": "2026年上半年分红险原保险保费达到10126亿元，增长94.4%，半年规模已经超过2025年全年。这不只是居民主动选择了分红险，更是寿险公司和银行渠道把主力商品从固定收益型保险切换到了风险共担型产品。",
+    "category": "财经",
+    "heat": 99.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "增长",
+     "扩大",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "红利",
+       "分红",
+       "银行",
+       "保险"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "政策"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-11T16:19:30",
+    "source": "日知录",
+    "story_len": 3518
+   },
+   {
+    "id": 20902,
+    "title": "C919终于迎来首条国际航线：中国大飞机开始到国外“正常上班”",
+    "summary": "【一句话判断】8月12日起，国航C919将每日往返北京与乌兰巴托。中国大飞机由境外亮相迈向固定班期、公开售票的国际商业运营，开始在外国机场积累日常运行记录。",
+    "category": "财经",
+    "heat": 98.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "支持",
+     "合作",
+     "订单"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-11T16:19:30",
+    "source": "日知录",
+    "story_len": 3091
+   },
+   {
+    "id": 20844,
+    "title": "7月金融数据即将揭晓：科技股大跌后，居民的钱会回银行吗？",
+    "summary": "【一句话判断】7月住户存款可能继续季节性减少，但居民资金的第一站未必是股市，而是还债和固收。即将公布的金融数据，将检验中国家庭资产重组走到了哪一步。",
+    "category": "财经",
+    "heat": 97.0,
+    "sentiment": 4,
+    "sent_hits": [
+     "增长",
+     "新高",
+     "降息",
+     "创新",
+     "增持",
+     "下跌",
+     "风险",
+     "放缓"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "半导体",
+       "AI",
+       "存储"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "降息",
+       "消费",
+       "就业"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "保险"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "降息",
+       "科技股"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-11T01:21:21",
+    "source": "日知录",
+    "story_len": 2957
+   },
+   {
+    "id": 20906,
+    "title": "比亚迪闯进日本“国民车”腹地：专为日本造的海獭两周订单破千",
+    "summary": "【一句话判断】截至8月9日，比亚迪专为日本轻型车市场开发的海獭获得1002份订单。千辆订单还没有改写日本车市，却说明中国车企开始用本土化设计和中国供应链，直接进入日本“国民车”腹地。",
+    "category": "财经",
+    "heat": 97.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "支持",
+     "订单",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T16:19:30",
+    "source": "日知录",
+    "story_len": 3073
+   },
+   {
+    "id": 20845,
+    "title": "5年期大额存单突然回归：银行真的嗅到了下一场全球经济危机？",
+    "summary": "【一句话判断】多家银行重新上架5年期大额存单，首先是为了截留集中到期的长期资金。第一批产品是留客工具，第二批是否全面扩容，才可能成为更大风险的预警信号。",
+    "category": "财经",
+    "heat": 96.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "增长",
+     "支持",
+     "风险",
+     "危机"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "保险",
+       "长期资金"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "科技股"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T01:20:21",
+    "source": "日知录",
+    "story_len": 3319
+   },
+   {
+    "id": 20912,
+    "title": "8月11日纪事｜山西明代古城墙修缮如新，历史随旧砖石一起被抛弃",
+    "summary": "【纪事金句】古城墙修缮居然抛弃最重要的城墙砖和地基条石，缺的到底是文化，还是责任心？",
+    "category": "纪事",
+    "heat": 94.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "调查"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-11T18:11:43",
+    "source": "日知录",
+    "story_len": 2900
+   },
+   {
+    "id": 20913,
+    "title": "8月11日话题｜800元的“折射手机壳”：偷拍商品化，平台岂能装睡",
+    "summary": "【话题金句】技术用途可以讨论，器材定性可以等待，但把偷拍做成商品，没有讨论余地。",
+    "category": "话题",
+    "heat": 94.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "创新",
+     "订单",
+     "风险",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "电子",
+       "消费电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T18:11:39",
+    "source": "日知录",
+    "story_len": 2014
+   },
+   {
+    "id": 20860,
+    "title": "哥伦比亚政府通报7.4级强震致132死570伤，32个城市严重受灾",
+    "summary": "哥伦比亚政府通报，8月10日西部强震已造成132人死亡、570人受伤，全国32个城市严重受灾。",
+    "category": "社会",
+    "heat": 93.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T10:11:14",
+    "source": "日知录",
+    "story_len": 203
+   },
+   {
+    "id": 20899,
+    "title": "胎儿窒息死亡医院改病历40余次，医院存在过错并承担全责赔偿",
+    "summary": "成都青羊区法院认定四川省人民医院病历修改超过正常限度，推定医院存在过错并承担全部赔偿责任。",
+    "category": "时政",
+    "heat": 91.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "2026-08-11T15:02:44",
+    "source": "日知录",
+    "story_len": 373
+   },
+   {
+    "id": 20907,
+    "title": "法拍房半年增加23%：真正变化其实是债务人“自救出口”变窄了",
+    "summary": "法拍房增加不只说明债务压力上升，更说明展期、再融资和主动卖房正在变难：越来越多债务只能通过法院折价处置最后的抵押物。",
+    "category": "财经",
+    "heat": 90.0,
+    "sentiment": -4,
+    "sent_hits": [
+     "增长",
+     "调查",
+     "断供",
+     "承压"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T16:19:30",
+    "source": "日知录",
+    "story_len": 3136
+   },
+   {
+    "id": 20903,
+    "title": "1.88万培训分期牵出1950万骗局：1200名求职者为何变成贷款客户",
+    "summary": "【一句话判断】一笔1.88万元培训分期，牵出十余家空壳公司和1200余名求职者；招聘、培训和放贷共同组成了债务陷阱。",
+    "category": "社会",
+    "heat": 90.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "合作",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "就业"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-11T16:19:30",
+    "source": "日知录",
+    "story_len": 3176
+   },
+   {
+    "id": 20846,
+    "title": "国际现货黄金一周涨超7%突破4400美元，创6月以来新高",
+    "summary": "8月11日早盘，现货黄金突破4400美元/盎司，过去一周涨超7%，机构提示仍需关注利率回升风险。",
+    "category": "财经",
+    "heat": 87.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "上涨",
+     "涨幅",
+     "突破",
+     "新高",
+     "支持",
+     "风险",
+     "通胀",
+     "加息"
+    ],
+    "sectors": [
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "加息",
+       "美国"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "就业"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T09:20:43",
+    "source": "日知录",
+    "story_len": 300
+   },
+   {
+    "id": 20869,
+    "title": "宇树科技科创板网上发行最终中签率0.0181%，发行价150.8元",
+    "summary": "宇树科技科创板IPO网上发行中签率出炉，发行价150.80元/股，最终中签率0.01809759%。",
+    "category": "财经",
+    "heat": 86.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "上市"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-11T10:19:04",
+    "source": "日知录",
+    "story_len": 199
+   },
+   {
+    "id": 20847,
+    "title": "东条英机后代捐赠300件史料曝光，笔记显示其审判时仍在狡辩",
+    "summary": "日本战犯东条英机后代向国立国会图书馆捐赠约300件史料，笔记显示其在东京审判期间仍在狡辩。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "2026-08-11T09:21:06",
+    "source": "日知录",
+    "story_len": 253
+   },
+   {
+    "id": 20890,
+    "title": "北京二级响应迎战强降雨：公交道临时开放、避险停车位启用",
+    "summary": "8月11日至13日，北京启动防汛二级响应，实施公交专用道开放、设立77条避险道路及182个免费停车点等交通管控措施，全力应对强降雨极端天气。",
+    "category": "时政",
+    "heat": 85.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "增长",
+     "创新",
+     "开放",
+     "风险"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-11T14:27:50",
+    "source": "日知录",
+    "story_len": 398
+   },
+   {
+    "id": 20791,
+    "title": "外籍游客“反向海淘”爆火退税激增366%，中国成全球消费新高地",
+    "summary": "2026年上半年中国离境退税旅客量同比激增366%，新能源车、无人机等中国智造产品成外籍游客新宠。免签政策扩容与退税服务升级推动“中国购”热潮，反映国际消费者对中国产业链与文化创新的高度认可。",
+    "category": "时政",
+    "heat": 85.0,
+    "sentiment": 4,
+    "sent_hits": [
+     "新高",
+     "创新"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "电子",
+       "消费电子"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "政策"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-11T14:27:50",
+    "source": "日知录",
+    "story_len": 544
+   },
+   {
+    "id": 20878,
+    "title": "豆包回应“推荐酒店要收取12%佣金”：订单成交后收渠道服务费",
+    "summary": "豆包公关负责人称，“推荐酒店要收费”说法不准确，目前不收广告费，仅订单成交后收渠道服务费。",
+    "category": "科技",
+    "heat": 85.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "订单"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T12:10:41",
+    "source": "日知录",
+    "story_len": 289
+   },
+   {
+    "id": 20829,
+    "title": "人民币对美元即期汇率升至6.7439，42个月新高且年内涨近3.5%",
+    "summary": "8月10日，人民币对美元即期汇率盘中最高升至6.7439，创2023年2月6日以来新高，今年以来累计升值近3.5%。",
+    "category": "财经",
+    "heat": 80.0,
+    "sentiment": 8,
+    "sent_hits": [
+     "增长",
+     "新高",
+     "优化",
+     "景气"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T08:45:42",
+    "source": "日知录",
+    "story_len": 365
+   },
+   {
+    "id": 20839,
+    "title": "22岁女生独闯南太行失联14天确认遇难：悬崖附近找到遗体",
+    "summary": "22岁女子程某圆独闯南太行失联14天后确认遇难。救援人员称先找到其背包，随后在张良庙附近悬崖发现遗体。",
+    "category": "社会",
+    "heat": 80.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-11T08:45:42",
+    "source": "日知录",
+    "story_len": 422
+   },
+   {
+    "id": 20826,
+    "title": "微型代步车集体遇冷销量暴跌55%：5万元小车为何卖不动",
+    "summary": "2026年上半年，中国乘用车市场出现一组反差强烈的数据：5万元以下乘用车累计销量约13万辆，同比暴跌55%；40万元以上新能源车型销量达24万辆，同比上涨46%。曾经的“国民神车”为何卖不动了？",
+    "category": "分辨",
+    "heat": 65.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "上涨",
+     "突破",
+     "上市",
+     "提升",
+     "繁荣",
+     "下跌",
+     "下滑",
+     "萎缩"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济",
+       "政策"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "红利"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-10T18:24:24",
+    "source": "日知录",
+    "story_len": 3936
+   },
+   {
+    "id": "xwlb-0",
+    "title": "习近平就哥伦比亚发生强烈地震向哥伦比亚总统致慰问电",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-1",
+    "title": "【新思想引领新征程】织就更密更暖的社会保障安全网",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-2",
+    "title": "文献纪录片《江泽民》今晚开始播出",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-3",
+    "title": "各地抢抓农时做好田间管理",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-4",
+    "title": "“十五五”时期我国生态质量将稳步改善",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-5",
+    "title": "我国将加快打造现代煤炭产业体系",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "加快"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "煤炭"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-6",
+    "title": "各地各部门积极应对“白海豚”影响",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-7",
+    "title": "【党旗在基层一线高高飘扬】风雨中的暖心守护",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-8",
+    "title": "【文化中国行】古文字工程揭开上古历史面纱",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-9",
+    "title": "国内联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-10",
+    "title": "上半年规模以上互联网企业完成互联网业务收入超万亿元",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-11",
+    "title": "“十五五”时期我国将建立国家不可移动文物资源总目录",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-12",
+    "title": "市场监管总局发布338项国家标准",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-13",
+    "title": "深化扫黑除恶专项斗争第一轮集中收网 抓获犯罪嫌疑人8200余名",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-14",
+    "title": "前7个月中老铁路进出口货值同比增长29.9%",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 2,
+    "sent_hits": [
+     "增长"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-15",
+    "title": "世界首台500兆瓦冲击式水电机组转子成功吊装",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "水电"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-16",
+    "title": "第38届大众电影百花奖揭晓",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-17",
+    "title": "哥伦比亚发生7.5级强震 进入“国家灾难状态”",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-18",
+    "title": "美称完全控制霍尔木兹海峡 伊朗批评美封锁阻碍海峡恢复通航 伊朗最高领袖签署多份高层军事人员任命令",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-19",
+    "title": "数据显示美国7月平均气温达新高 欧洲多国遭遇大范围干旱 林火肆虐",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 3,
+    "sent_hits": [
+     "新高"
+    ],
+    "sectors": [
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-20",
+    "title": "国际联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-21",
+    "title": "联合国特使警告也门冲突升级",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": -4,
+    "sent_hits": [
+     "冲突",
+     "警告"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-22",
+    "title": "以媒称约旦河西岸以定居者袭击事件飙升",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-23",
+    "title": "日元对美元汇率再次大幅下跌",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": -2,
+    "sent_hits": [
+     "下跌"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-24",
+    "title": "三大洲足联再批国际足联",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   }
+  ],
   "stats": {
-   "news_total": 0,
-   "xwlb_total": 0,
-   "scored_total": 0,
-   "pos": 0,
-   "neg": 0,
-   "neutral": 0
+   "news_total": 20,
+   "xwlb_total": 25,
+   "scored_total": 45,
+   "pos": 13,
+   "neg": 7,
+   "neutral": 25
   }
  },
- "news_raw": [],
- "xwlb_raw": []
+ "news_raw": [
+  {
+   "id": 20908,
+   "title": "分红险半年保费破万亿超去年全年：居民越求稳，险企承诺越少",
+   "summary": "2026年上半年分红险原保险保费达到10126亿元，增长94.4%，半年规模已经超过2025年全年。这不只是居民主动选择了分红险，更是寿险公司和银行渠道把主力商品从固定收益型保险切换到了风险共担型产品。",
+   "heat": 99.0,
+   "category": "财经",
+   "story": "中国居民半年买出了一个万亿元级的保险品类。\n\n中国保险行业协会同业交流数据显示，2026年上半年，分红险原保险保费收入达到10126亿元，同比增长94.4%，占人身险业务的35.2%，为2015年以来最高水平。\n\n这组数字放在一起，才看得出变化有多剧烈：同期人身险公司原保险保费收入28716亿元，只增长3.6%；2025年全年，分红险原保险保费收入也只有9042亿元。也就是说，分红险今年半年收取的保费，已经比去年全年多出约12%。\n\n但这不是一个“国人突然更爱买保险”的故事。\n\n居民为了确定性走进保险公司，保险公司卖给他们的主力产品，却正在从固定收益转向低保证、浮动分红。1万亿元保费背后，是寿险行业把一部分长期投资风险交还给了客户。\n\n半年超过去年全年，首先是保险公司把货架换了\n\n如果只从需求端解释94.4%，很容易得出一个讨喜结论：存款利率下降以后，居民开始主动用保险规划养老和长期财富。\n\n这个判断只说对了一半。\n\n分红险的爆发首先是一场由供给端推动的产品换代。2025年10月至2026年2月，寿险公司新上架产品中，分红型人寿保险占比从约40%升至70%以上；到2026年一季度，分红寿险新单已经占寿险新单保费八成以上。\n\n中国人寿2025年分红险占个险渠道首年期交保费近60%；中国太保新保期交中的分红险占比达到50%，代理人渠道达到61.4%；新华保险四季度分红险占比达到77%。当头部公司集体更换主推产品，销售结果自然会表现为消费者“更喜欢”分红险。\n\n这就像一家超市把最显眼的货架都换成同一种商品。销量飙升当然说明有人愿意买，但也说明消费者能够买到的东西已经变了。\n\n保险公司为什么如此积极？因为传统储蓄型寿险承诺得太多、时间又太长。市场利率下降以后，过去写进合同的收益责任仍要继续兑现，资产端稍有波动，就可能形成利差损。\n\n分红险则把产品拆成保证利益和非保证红利。保证部分由保险公司承担，红利取决于以后经营结果。产品卖得越多，保险公司未来必须刚性兑现的收益成本越低，资产负债表也越容易穿越低利率周期。\n\n这才是险企推动分红险转型的首要动力：它们不是突然更愿意和客户分享收益，而是先减少自己必须承担的长期承诺。\n\n居民追着“稳”而来，买到的却是更多浮动\n\n分红险能够迅速接住这场产品换代，是因为居民端同样出现了一个缺口。\n\n银行存款利率持续下降，高息定期存款陆续到期；权益市场波动又让不少家庭不愿直接承担净值起伏。分红险正好被摆在两者中间：合同里有一部分保证利益，计划书里还有一部分浮动红利，看起来既比存款有想象空间，又比基金稳定。\n\n银行也愿意推。它既可以承接存款到期客户，又能获得保险代销收入。2026年上半年，国寿、平安、太保、新华、太平、人保、泰康七家大型险企的银保渠道期交保费合计超过1000亿元，甚至超过2024年全年规模。\n\n于是，保险公司降低负债成本、银行寻找非息收入、居民寻找长期收益，三种需求在分红险上汇合。\n\n问题也恰恰出在这里。\n\n消费者购买的是“稳定感”，分红险提供的却只是“保证部分稳定”。预定利率不是全部保费的实际年化收益，3.5%的演示利率也不是合同承诺。红利最终取决于保险公司的投资收益、费用、死亡率和分红政策，可以低于演示，也可以为零。\n\n2026年上半年出现的1.25%预定利率分红险，只是这次行业迁移的一块拼图。它真正说明的不是某款产品利率高低，而是当分红险规模扩大时，保险公司还有空间继续压低保证部分，把产品吸引力更多放在未来红利上。\n\n分红险卖得越多，保险公司的经营会越稳；但客户拿到什么，会越来越依赖保险公司以后经营得好不好。\n\n94.4%的保费增速，可能带来下一轮信任考验\n\n分红险最大的风险不是红利会波动。合同本来就写明红利不保证。\n\n真正的风险是销售端把“不保证”重新包装成“比较稳”。\n\n2025年度，超过700款分红险披露了红利实现率，行业平均实现率约为72.6%，较上一年度有所回升；但达到或超过100%的产品只有约32.2%，最低实现率仍为0。\n\n红利实现率不是实际收益率。72.6%的含义，是实际派发红利约为销售时演示红利的72.6%，不能直接理解成客户获得了72.6%的收益。但这组数据足以说明：计划书上展示的红利，并不天然等于最后拿到的红利。\n\n如果销售人员仍然用“保底加分红”“长期接近演示”“大公司不会少分”等话术促成交易，这1万亿元保费就不只是保险公司的低成本负债，也可能成为未来的信任负债。\n\n上一轮分红险周期已经留下过类似教训。2022年披露的近千款产品中，约三成红利实现率低于100%；2023年至2024年，随着长端利率下降和权益市场波动，部分产品实现率跌到50%以下甚至出现零分红。合同没有违约，客户却会认为自己的预期被违背。\n\n保险公司解决了利差损，未必等于消费者已经理解了自己接过的风险。\n\n对保险公司是减负，对银行是生意，对居民是风险换手\n\n同一笔分红险保费，三方看到的是三种完全不同的东西。\n\n谁从1万亿元中得到什么真正要承担什么接下来最该看什么寿险公司更低的刚性负债成本、更灵活的投资空间长期投资与分红能力必须经得住复盘新业务价值、价值率、综合投资收益率、分红实现率银行渠道承接到期存款、增加代销收入销售适当性和误导责任期交占比、退保率、投诉与银保费用变化投保家庭长期储蓄工具和分享经营成果的可能红利不达演示、资金长期锁定、前期退保损失保证现金价值、零红利情景、连续多年实现率\n\n对于关注保险股的人，94.4%也不能直接翻译成利润增长94.4%。中国人寿、中国平安、中国太保、新华保险、中国太平和中国人保等公司的分红险转型进度不同，渠道成本、缴费期限和新业务价值率也不同。\n\n真正有价值的半年报信号，不是“谁的分红险卖得最多”，而是谁能把保费增长变成更高的新业务价值，同时没有用过高渠道费用、激进演示和未来退保压力换规模。\n\n对于准备买分红险的人，也不必先计算几十年的高档演示。只要把计划书切换到最低情景：红利按零计算，逐年查看保证现金价值和退保金额。如果家庭的养老、教育或现金流安排在这个情景下仍然成立，浮动红利才是额外收益；如果必须依靠中高档演示才能成立，所谓“稳健”就建立在一项没有写进合同的假设上。\n\n下一张成绩单，要看1万亿元之后发生什么\n\n未来6至12个月，分红险会不会继续取代传统储蓄型寿险，已经不是最重要的问题。更重要的是，这场增长能否同时通过三道考验。\n\n第一，2026年中报披露后，头部险企的新业务价值能否随分红险占比一起增长。如果只有保费规模上升、价值率和继续率下降，说明渠道在以量换价。\n第二，2026年度红利实现率能否在演示利率下降以后稳定改善。如果演示被调低、实现率仍然大面积不足100%，产品的长期吸引力就要重新评估。\n第三，退保率和销售误导投诉是否上升。分红险通常需要长期持有，早期退保损失可能明显。一旦经济和收入预期走弱，前期被当成“高息存款”销售的保单最容易暴露流动性问题。\n\n10126亿元证明，分红险已经坐上寿险市场的主位。\n\n它还没有证明的是：这1万亿元居民资金，真正理解了自己买下的究竟是确定性，还是保险公司未来几十年的经营能力。\n\n来源与口径说明中国保险行业协会2026年7月31日同业交流数据：上半年分红险原保险保费收入10126亿元，同比增长94.4%，占人身险业务35.2%。协会公开新闻稿同时确认，上半年保险业原保险保费收入3.86万亿元，人身险公司原保险保费收入28716亿元。财新：2025年分红险原保险保费收入9042亿元，同比增长18.06%。用于进行2026年半年与2025年全年的同口径规模比较。国寿研究：2026年一季度分红寿险新单占寿险新单保费八成以上。财联社：头部险企分红险占比及2026年产品供给变化。不同公司披露的“占比”分别对应个险首年期交、新保期交或季度业务，不能直接横向排序。新浪财经：2026年上半年大型险企银保渠道期交保费及“630”销售情况。银保渠道数据为七家大型险企统计，不代表全行业。中国经济网：2025年度超过700款分红险红利实现率统计。实现率是实际红利与演示红利之比，不是保单实际收益率。财联社：部分分红险红利实现率下降及历史披露情况；中国经济网：约2000款产品红利实现率统计。中粮集团：中英人寿推出1.25%预定利率分红产品。1.25%为产品预定利率，不是客户全部保费的保证年化收益。本文讨论保险行业产品迁移及公开经营信号，不构成对保险公司股票或具体保险产品的买卖建议。具体保证利益、红利方式和退保金额以保险合同为准。",
+   "impact": "",
+   "publish_time": "2026-08-11T16:19:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786436047251-%E5%88%86%E7%BA%A2%E9%99%A9%E5%8D%8A%E5%B9%B4%E4%BF%9D%E8%B4%B9%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83.jfif",
+   "source": "日知录"
+  },
+  {
+   "id": 20902,
+   "title": "C919终于迎来首条国际航线：中国大飞机开始到国外“正常上班”",
+   "summary": "【一句话判断】8月12日起，国航C919将每日往返北京与乌兰巴托。中国大飞机由境外亮相迈向固定班期、公开售票的国际商业运营，开始在外国机场积累日常运行记录。",
+   "heat": 98.0,
+   "category": "财经",
+   "story": "8月12日，一架C919将从北京首都机场起飞，两个多小时后降落在蒙古国乌兰巴托。\n\n这不是航展上的飞行表演，也不是一次拍完照便返航的访问。中国国航已经公开售票，计划每天执飞一个往返航班。去程15时起飞，17时15分抵达；回程18时30分离开乌兰巴托，当晚20时35分回到北京。\n\n这是C919投入商业运营三年后，第一次进入定期国际航线。\n\n几天前，我们刚刚讨论过C919高原型首飞。为了飞上世界屋脊，中国大飞机主动把机身变短，用中国最复杂的地理条件训练自己的飞机家族。\n\n现在，C919又跨过了一道门：过去主要在中国机场接受日常考试，明天开始把这场考试搬到外国机场。\n\n不过，飞到国外和卖到国外，是两件完全不同的事。\n\nC919早就出过国，这一次终于开始“正常上班”\n\n过去几年，C919已经多次飞出中国内地。\n\n2023年，它曾飞抵香港；2024年、2026年，它又到新加坡航展亮相并进行飞行表演。国内航司还在北京、上海与香港之间常态化使用C919。\n\n这些经历证明飞机可以飞出去，却与一条每天公开售票、按照固定时刻运行的国际商业航线不同。\n\n航展更像一场集中展示：飞机状态提前准备，保障团队围着它转，完成任务便可以回家。定期航班面对的却是普通乘客、行李装卸、加油配餐、机位衔接、天气变化和航班延误。它不能挑一个最漂亮的日子出现，而要像波音和空客一样准时上班。\n\n外国机场也会第一次在日常运营中熟悉这架中国飞机：地面人员怎样靠桥，行李怎样装卸，机组怎样与当地空管协作，飞机临时出现技术问题时，零件和工程师能否及时赶到。\n\n飞机飞越国境只需要两个多小时，让一套保障体系跟着飞出去，却要经过一次次真实航班的磨合。\n\nC919首条国际航线真正带出去的，不只是一架飞机，还有中国民机的第一份海外日常运行记录。\n\n为什么第一站是乌兰巴托，而不是巴黎和纽约\n\n北京到乌兰巴托是一条很适合起步的国际航线。\n\n它航程较短，当天便能返回北京；即使海外保障网络还在起步，很多技术和备件支持仍能依托国内基地。国航此前已经使用C909稳定运营呼和浩特至乌兰巴托航线，一年多以后，乌兰巴托又将成为境外第一座同时迎来C909和C919定期航班的城市。\n\n国航尚未披露选择这条航线的全部商业和运行考虑。但从现有条件看，它确实像一块难度适中的海外考场：先跨过国境，接触外国机场和监管体系，再把航程、保障半径和运营复杂度一步步向外推。\n\n这条路与中国制造过去常见的出海节奏也很相似。先在距离近、合作基础较好的市场建立第一批用户和服务节点，再用真实运行证明可靠，最后才去敲更难打开的大门。\n\n中国大飞机更现实的路径，是先在距离近、合作基础较好的市场站稳。能让越来越多外国机场习惯它、越来越多旅客坐过它，本身就在积累下一张订单最需要的信任。\n\n飞进外国机场，不等于外国航司已经可以买回家\n\n这里有一个很容易混淆的民航常识。\n\n国航使用在中国注册、由中国民航主管部门颁发适航证件的C919执行国际航班，与一家外国航空公司购买C919、把它注册到自己名下运营，分属两道门。\n\n按照国际民航规则，只要相关证件符合国际最低标准，并得到航线所涉国家认可，中国航司可以驾驶自己的飞机执行国际航班。这更像一名中国车主开着自己的车出境。\n\n外国航空公司如果要把C919买回去长期运营，当地监管机构通常还要对这款飞机的型号设计进行验证或认可；航空公司还要确认飞行员从哪里培训、零件多久送到、飞机停场时谁来修、二十年后残值如何计算。\n\n它买的从来不是一架能起飞的飞机，而是一套能陪着飞机运行二三十年的保证。\n\n这正是C919全球化最难的一关。目前欧洲航空安全局已经对C919开展验证活动和试飞，但尚未完成欧洲型号认可。外国航司即使感兴趣，也会等待更完整的认证、交付和服务答案。\n\n所以，首条国际航线值得庆祝，C919的出口考试则刚刚开始。它更重要的意义，是让中国民机开始在国外积累最缺少的东西：日常表现、现场经验和可供别人观察的运营纪录。\n\n空客当年打开美国市场，也先让一家航司把飞机用起来\n\n今天的空客与波音共同主导全球大飞机市场，半个世纪前的空客却同样是一个需要争取美国航司信任的新来者。\n\n1977年，东方航空成为空客在美国的第一个客户。A300进入真实航线以后，空客才有机会用油耗、出勤率和维修表现证明：欧洲造的大飞机不只是政府合作项目，也是一件能够赚钱的商业工具。此后，空客在北美获得了超过2000架订单。\n\n这段历史最值得C919借鉴的地方，不是简单复制空客当年的销售办法，而是大飞机行业最朴素的一条规律：演示可以制造关注，订单最终由长期运行纪录拿下。\n\n乌兰巴托不会一夜之间替C919打开全球市场。但一条每天往返的国际航线，会把“这架飞机能不能飞”逐渐变成一组更有价值的问题：它能否长期准点，能否在外国机场顺利周转，故障能否快速处理，旅客和航空公司是否愿意继续使用。\n\n这些答案积累得越多，外国航司第一次真正买单时，需要冒的风险就越小。\n\n首条国际航线之后，真正的全球化要看三件事\n\nC919下一阶段的进展，要从航展亮相转向三组更硬的商业证据。\n\n先看北京至乌兰巴托能否稳定飞过不同季节，让国际运行从新闻变成日常；再看欧洲等境外监管机构的验证能否继续推进；最后看是否出现外国航空公司的确定订单，以及配套的海外维修、航材和培训节点。\n\n如果一家外国航司首批买入之后愿意追加第二批，C919才算完成最有分量的一次商业证明。\n\n高原型首飞，证明中国大飞机正在长成一个适应不同航线的飞机家族；首条国际航线，则开始把这个家族带到外国机场接受日常检验。前者解决中国飞机能飞去哪里，后者开始回答世界为什么愿意使用中国飞机。\n\n明天飞往乌兰巴托的C919，仍然属于中国航司，也仍能依靠北京的保障基地当天回家。但从这一班开始，C919不再只在国内证明中国能造出大飞机，而要在国境之外证明中国也能把它长期运营好。\n\n飞进外国机场，是中国大飞机全球化的第二关；等外国航空公司愿意用自己的钱、自己的航线和未来二十年的信誉为C919投票，第三关才算真正打开。\n\n---\n\n来源与口径说明\n\n• 新华社，2026年7月18日：C919首条国际航线将于8月12日开通\n• 《大飞机报》，2026年7月22日：C919国际航线首秀“定档”8月12日\n• 中国商飞，2026年2月3日：中国商飞多款机型亮相2026年新加坡航展\n• 国际民航组织：《芝加哥公约》第31条、第33条及附件8相关说明\n• 欧洲航空安全局：中欧适航审定与型号认可技术实施程序常见问题\n• 路透社，2026年1月15日：欧洲航空安全局确认对C919开展验证试飞\n• 空中客车，2017年9月：首架在北美运营的空客飞机于1977年交付东方航空，后续在北美获得超过2000架订单\n\n口径说明：\n\n1. 截至本文写作时，8月12日首航尚未实际完成。正文使用“将”“计划”等表述；首班航班实际执行情况仍应以国航和机场信息为准。 \n2. “首条国际航线”采用新华社和国航口径，指C919首次执行定期国际商业航线，不是C919第一次飞出中国内地，也不包括此前香港航线和境外航展展示。 \n3. 国际航班运行与外国航空公司采购、在当地注册运营属于不同层次。正文将境外型号认可、确定订单和海外保障网络列为后续验证节点，没有把北京—乌兰巴托航线写成C919已经完成出口。 \n4. “海外考场”“第二关、第三关”属于对产业全球化阶段的通俗概括；选择乌兰巴托的具体商业和运行考虑，以中国国航后续公开说明为准。",
+   "impact": "",
+   "publish_time": "2026-08-11T16:19:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786435810669-C919%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E9%A6%96%E6%9D%A1%E5%9B%BD%E9%99%85%E8%88%AA%E7%BA%BF.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 20844,
+   "title": "7月金融数据即将揭晓：科技股大跌后，居民的钱会回银行吗？",
+   "summary": "【一句话判断】7月住户存款可能继续季节性减少，但居民资金的第一站未必是股市，而是还债和固收。即将公布的金融数据，将检验中国家庭资产重组走到了哪一步。",
+   "heat": 97.0,
+   "category": "财经",
+   "story": "未来几天，中国人民银行将公布7月金融数据。\n\n这一次，M1、M2和新增贷款背后，还藏着一个与普通家庭关系更直接的问题：7月科技股剧烈回调，那些刚刚离开定期存款、进入理财、基金和股票的钱，会不会掉头回到银行？\n\n答案还没有公布。我们先把预测写下来：\n\n7月住户存款大概率仍会季节性减少，非银行金融机构存款可能继续增加。科技股下跌不会让几十万亿元到期存款集体回头，它更可能改变这笔钱搬家的方向。\n\n数据很快就会给出答案。它要检验的，是一场可能持续十年以上的家庭资产重组。\n\n50万亿存款到期，不等于人人都有闲钱投资\n\n三年前，不少银行的三年期、五年期存款还能给出2.6%左右的年利率。经历多轮降息后，如今六大行活期存款利率只有0.05%，不少银行三年期定存已经低于2%，一年期利率徘徊在1%左右。\n\n偏偏2026年又赶上一轮定期存款集中到期。多家机构估算，今年一年期以上居民定期存款到期规模约为50万亿至70万亿元。口径虽有差异，却足以说明无数家庭正在同时收到一张选择题：以前100万元一年还能拿到两三万元利息，现在只剩一万元左右，还要不要继续存？\n\n一部分人已经离开。2026年上半年，住户存款增加7.58万亿元，比去年同期少增3.19万亿元；非银行金融机构存款增加4.65万亿元，同比多增2.1万亿元。钱没有凭空消失，只是从居民账户换到了理财、保险、基金和证券结算等新抽屉。\n\n银行也没有坐着看钱走。7月至8月，多家银行重新上架5年期大额存单，用有限额度留下最偏好安全和确定性的资金。这股反向力量不会推翻本文预测，反而说明家庭资产重组不是单向逃离银行，而是存款、理财和市场资产之间重新分层。银行为什么突然把下架的长期产品摆回来，我们在下一篇单独拆解。\n\n但存款少增并不等于全民积极投资。有人买了理财和黄金，有人增加消费或偿还贷款，还有一些家庭只是没有以前那么多钱可存。\n\n上半年居民人均收入减去消费后的简单结余仍在增长，但收入中位数增速低于平均数，城镇居民财产净收入还下降0.1%。平均数会把不同家庭揉成一个人：高收入家庭继续贡献大额存款，不代表就业不稳定、经营承压的家庭也拥有更厚的安全垫。\n\n存款总额创新高，说明过去积累得多；新增存款放缓，才开始透露今天的家庭还能剩下多少。\n\n钱离开定期，第一站可能是还债\n\n今年上半年，住户贷款净减少3668亿元；去年同期却增加1.17万亿元，前后相差约1.54万亿元。其中，住户短期贷款减少5881亿元。\n\n大量家庭正在用现金偿债。提前还房贷和消费贷，能够确定地减少利息；买入股票，则要先接受价格波动。存款利率降低改变了选择题，却不能替家庭提高风险承受能力。\n\n走向资管市场的钱，同样没有跑得太远。截至6月末，银行理财存续规模33.66万亿元，其中固定收益类产品32.48万亿元，占96.49%。居民确实走出了存款账户，但银行理财每100元中，约有96元仍然坐在低波动资产里。\n\n存款搬家仍在继续，居民却在用还债和固收控制迁徙半径。\n\n科技股下跌，改变的是下一站\n\n存款搬家刚刚加速，7月科技股就迎来剧烈回调。前期拥挤的半导体、存储和AI产业链，不少股票从高点回撤20%至40%。社交平台上，“清仓”“销户”“戒断股市”的故事迅速增加。对刚刚放弃1%存款利率、追进热门资产的人来说，一年的银行利息可能一个上午就跌完了。\n\n市场下跌也有资金承接。7月13日至17日，股票型ETF净流入超过2000亿元，其中既有市场化资金，也有国有资本增持。这只能证明下跌中仍有买家，不能证明居民存款正在大规模抄底。\n\n居民资金也不只有“存银行”和“买科技股”两个按钮。7月更可能发生的是资产重新排队：最激进的钱承受损失，最谨慎的钱留在银行，中间的大量资金转向固收理财、债券基金、黄金、保险、红利资产和宽基ETF。\n\n科技股下跌改变的是下一站，不是搬家本身。\n\n先把预测写下，等央行数字判卷\n\n7月通常是银行季末冲量结束后的存款回落月。2024年7月，住户存款单月减少约3300亿元；2025年7月，单月减少约1.11万亿元。\n\n结合今年上半年的资金迁徙和7月市场信号，我们作出以下基准预测：\n\n• 7月住户存款单月减少5000亿元至1.5万亿元；\n• 非银行业金融机构存款单月增加5000亿元至2万亿元；\n• M2同比增速保持在7.8%至8.2%；\n• M1同比增速保持在3.5%至4.5%。\n\nM1主要代表随时可以支付的活钱，M2还包括居民和企业定期存款等更广泛的货币。居民买入理财后，钱可能从住户存款变成非银机构存款，继续留在M2里。因此，只看M2，看到的是整个游泳池的水位；我们真正要追踪的，是水从哪个池子流向了哪个池子。\n\n数据公布后，验收标准也很简单：住户存款下降、非银存款增加，预测成立；住户存款下降而非银存款没有增加，资金另有去处；住户存款逆季节性增加、非银存款同时下降，说明科技股调整已经迅速扭转家庭风险偏好。\n\n中国家庭正在寻找第三个钱包\n\n过去二十年，中国家庭最熟悉的财富安排很简单：日常的钱放银行，长期积蓄变成房子。\n\n现在，房子不再承担单边上涨的财富神话，存款进入低利率时代，股票又用剧烈波动提醒所有新投资者：收益从来不是银行补发的利息。\n\n于是，中国家庭开始寻找房地产和定期存款之外的第三个钱包。这不会是一声发令枪之后的全民入市，而是一场漫长的资产重排：家庭继续减少债务，理财、保险、基金和ETF承接更多到期资金；每一次市场暴涨暴跌，又把一部分钱送回安全地带。\n\n政策真正需要解决的，不是怎样把居民存款尽快赶进股市，而是怎样让普通家庭愿意把十年、二十年不用的钱，交给值得信任的长期产品。\n\n7月数据只能拍下这场迁徙的一张照片。更长时间的基金申赎、非银存款和住户贷款，才能告诉我们“戒断股市”究竟是一阵情绪，还是家庭风险偏好真的转向。\n\n中国下一轮资本市场的机会，不取决于银行能够把多少钱赶出来，而取决于市场最终能够留下多少钱。\n\n来源与口径说明\n\n• 中国人民银行：《狭义货币和广义货币》。2025年起M1统计口径有所调整，跨年度比较需使用可比口径。\n• 中国人民银行2026年上半年金融统计数据：6月末M2为356.71万亿元、M1为118.48万亿元；上半年住户存款增加7.58万亿元，非银行业金融机构存款增加4.65万亿元。\n• 国家统计局：《2026年上半年居民收入和消费支出情况》：居民人均可支配收入增长5.2%，人均消费支出增长3.7%。文中“简单结余”是作者按公开均值计算，不是正式储蓄率。\n• 央视财经对2026年定期存款到期规模不同测算口径的梳理：一年期以上居民定期存款到期规模约50万亿至70万亿元。\n• 银行业理财登记托管中心《中国银行业理财市场半年报告（2026年上）》相关数据：理财存续规模33.66万亿元，固定收益类产品占96.49%。\n• 7月13日至17日股票型ETF资金数据及部分资金来源：股票型ETF净流入超过2000亿元，资金来源包括市场化资金与国有资本增持。\n• 文中7月住户存款、非银存款及M1、M2区间均为基于季节性和公开高频信号作出的作者预测，不是央行已公布数据。预测时间为2026年8月10日，待官方数据发布后验收。",
+   "impact": "",
+   "publish_time": "2026-08-11T01:21:21",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786382397462-7%E6%9C%88%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E5%8D%B3%E5%B0%86%E6%8F%AD%E6%99%93.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 20906,
+   "title": "比亚迪闯进日本“国民车”腹地：专为日本造的海獭两周订单破千",
+   "summary": "【一句话判断】截至8月9日，比亚迪专为日本轻型车市场开发的海獭获得1002份订单。千辆订单还没有改写日本车市，却说明中国车企开始用本土化设计和中国供应链，直接进入日本“国民车”腹地。",
+   "heat": 97.0,
+   "category": "财经",
+   "story": "日本汽车最牢固的一块地盘，钻进了一只中国“海獭”。\n\n7月28日，比亚迪在日本正式发售纯电轻型车RACCO，中文常被译作“海獭”。据日经中文网报道，截至8月9日，这款车已经获得1002份订单，其中约80%的客户选择售价最高的300 Premium版本。\n\n1002辆放在中国车市里，只够一家热门新车开一场普通发布会。放到日本，却值得单独看一眼。\n\n2025年，比亚迪全部乘用车在日本注册3742辆；2026年上半年增至2334辆。如今，一款专为日本设计的新车用两周拿下1002份订单，相当于一下子摸到了比亚迪过去在日本几个月才能积累的规模。\n\n当然，订单还要等待交付和注册，1000辆更撼动不了日本车企。但这只“海獭”完成了一次比销量更重要的试探：中国车企第一次没有要求日本消费者适应一辆中国车，而是把中国供应链重新装进了日本人的生活习惯。\n\n日本人说的“轻”，其实是一整套生活制度\n\n轻型车不是普通小汽车缩小一圈，也不是中国市场上常见的微型电动车。\n\n日本用一套专门规则规定它的身材：车长不超过3.4米、宽度不超过1.48米、高度不超过2米，燃油车排量不超过660毫升。满足规则的车辆可以获得较低的税费和使用成本，也更适合狭窄街道、紧凑车位和人口分散的乡村生活。\n\n几十年来，日本车企把这个方盒子越做越精。车身必须小，车内却要尽量大；转弯要灵活，孩子和老人上下车还得方便；最好再塞进双侧滑门、宽敞后排和一堆储物格。\n\n2025年度，日本卖出约453万辆新车，其中轻型车达到168.85万辆，占比超过37%。本田N-BOX不仅是轻型车冠军，还以19.89万辆的成绩连续第五年成为日本所有新车中的销量第一。\n\n这就是日本真正的“国民车”。本田、铃木、大发和日产在海外打得热闹，回到本土，千家万户日常使用的却往往是这样一辆黄色牌照的小方盒子。\n\n外国品牌过去很难进入这里，因为它面对的并非一项国际通用标准，而是日本道路、税制、停车条件和消费习惯共同养出来的特殊物种。\n\n比亚迪没有把“海鸥”改个名字，而是重新造了一辆车\n\n海獭最值得注意的地方，恰恰不是便宜。\n\n比亚迪没有把国内现成的海鸥、海豚缩一缩，再贴上日本铭牌。按照公司披露，RACCO是比亚迪第一款、也是海外汽车厂商第一款按照日本轻型车规格专门设计的纯电车型。底盘、车身、动力和控制系统都重新开发。\n\n它的尺寸几乎贴着规则上限：长3.395米、宽1.475米、高1.8米；采用日本消费者熟悉的高顶方盒子造型和双侧电动滑门。\n\n开发团队还专门在日本道路试车。他们发现原计划沿用的电机应付日本住宅区的陡坡不够从容，于是重新设计了一台最高功率47千瓦、也就是64马力的小电机。两种电池分别支持210公里和320公里续航，售价从214.5万日元到249.7万日元。\n\n这几个数字背后是一种完全不同的出海方式。\n\n初级出海，是把国内卖得好的产品装船，寻找愿意接受它的海外消费者；更难的一步，是先研究当地人怎样开车、停车和过日子，再让中国的工程师和供应链围绕这些需求重新开模。\n\n海獭目前只面向日本销售，甚至专门把名字做得亲切可爱。它不是一款中国畅销车的海外版，而是一件用中国制造能力生产的“日本特产”。\n\n日本人没有只挑最便宜的，反而八成买了最高配\n\n外界很容易把中国电动车的海外竞争概括成四个字：低价倾销。\n\n海獭的第一批订单给出了一个有意思的修正。\n\n这款车入门价214.5万日元，确实低于部分日本纯电轻型车。可1002份订单中，约80%选择售价249.7万日元的最高配；入门版只占约6%。调查还显示，约35.7%的客户把它作为增购车辆，35.7%用于替换旧车，首次购车者约占26.8%。\n\n这说明最早一批买家看中的不只是“最便宜的中国车”。更长的320公里续航、双侧电动滑门、驾驶辅助、车机功能以及电池保修，共同构成了吸引力。\n\n比亚迪卖给他们的，是一辆尺寸服从日本规则、配置又带着中国电动车节奏的产品。\n\n当年日本汽车打进美国，靠的是更小、更省油、价格合理的汽车，恰好接住了石油危机之后的消费变化。1980年，日本车在美国销量达到191万辆，市场份额升至21.3%，随后引发激烈的贸易摩擦。\n\n四十多年后，一个颇有戏剧性的轮回出现了：当年日本车用小型车打进美国腹地，今天中国车企又选择用更小的轻型车，敲日本汽车工业自己的家门。\n\n1000张订单是一张入场券，日本车企的护城河还在后面\n\n如果只看总量，海獭现在仍是一只很小的“海獭”。\n\n日本一年销售近169万辆轻型车，本田N-BOX一款车便接近20万辆。海獭的1002份订单，只达到比亚迪自己提出的月销约1000辆目标，也远没有改写市场格局。\n\n日本车企真正强大的地方也不只在产品。大量经销店、维修网点、二手车残值、零件供应和几十年积累的可靠口碑，共同构成了日本消费者买车时的安全感。\n\n比亚迪计划把日本销售网点由约70家增加到100家，并为海獭提供一般车辆6年或15万公里、电池8年或16万公里的保修，电池容量还可以付费延长至10年或20万公里。这些安排瞄准的正是外国品牌最薄弱的一环：车卖出去以后，谁来长期接住它。\n\n因此，海獭真正的考试要看接下来一年：1002份订单能有多少转成注册和交付，车辆进入日本家庭后质量与售后表现如何，月销千辆能否持续，以及第一批车主几年后愿不愿意再次选择比亚迪。\n\n但无论如何，这1002张订单已经证明，中国汽车出海正在跨过一道重要门槛。\n\n过去，中国车企擅长依靠规模和成本，把同一款产品卖到更多国家；现在，它们开始拥有为一个特殊市场单独立项、重新设计并快速量产的能力。\n\n闯进日本“国民车”腹地的，表面上是一只海獭，背后却是一套已经学会为全世界不同市场重新开模的中国汽车工业。\n\n---\n\n来源与口径说明\n\n• BYD Auto Japan，2026年7月28日：BYD RACCO在日本正式发售及价格、续航、保修资料\n• BYD RACCO官方技术资料：专用电机、电池、尺寸和日本道路适配情况\n• CarNewsChina转引日经中文网，2026年8月10日：截至8月9日获得1002份订单及不同配置、购车人群占比\n• BYD Auto Japan，2026年7月6日：2026年上半年日本注册2334辆，同比增长42.7%\n• Car Watch，2026年1月：BYD 2025年在日本注册3742辆\n• 联合早报转引共同社，2026年7月：海獭年度订单目标及日本销售网点扩张计划\n• 日本汽车检查登记信息协会，2026年4月：2025年度日本注册车、轻型车及新车总销量\n• 全国轻型汽车协会联合会：日本轻型车尺寸、排量与制度沿革\n• 日本汽车会议所，2026年4月：N-BOX连续第五年成为日本销量第一车型\n• 丰田汽车公司历史资料：石油危机后日本小型车在美国增长及1980年销量、市场份额\n\n口径说明：\n\n1. 1002辆为日经中文网披露的订单数，不是已完成交付或新车注册数；配置和购车人群比例来自同期客户调查。 \n2. “国民车腹地”是对轻型车占日本新车销量超过37%、N-BOX位居全部车型第一的通俗概括，不代表日本消费者只购买轻型车。 \n3. 文中关于比亚迪出海模式升级及海獭作为“日本特产”的说法属于基于专门立项、全新设计和日本限定销售事实作出的产业判断。 \n4. 1002份订单属于良好开局，尚不足以证明海獭已经在日本取得长期商业成功；后续应以注册交付、持续月销、售后质量和复购数据验证。",
+   "impact": "",
+   "publish_time": "2026-08-11T16:19:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786435944021-%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AF%E8%BF%9B%E6%97%A5%E6%9C%AC%E2%80%9C%E5%9B%BD%E6%B0%91%E8%BD%A6%E2%80%9D%E8%85%B9%E5%9C%B0.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 20845,
+   "title": "5年期大额存单突然回归：银行真的嗅到了下一场全球经济危机？",
+   "summary": "【一句话判断】多家银行重新上架5年期大额存单，首先是为了截留集中到期的长期资金。第一批产品是留客工具，第二批是否全面扩容，才可能成为更大风险的预警信号。",
+   "heat": 96.0,
+   "category": "财经",
+   "story": "去年11月，六家国有大行还在集体下架5年期大额存单。\n\n仅仅过了八九个月，银行又把它摆回了货架。\n\n7月以来，中国银行、农业银行、建设银行先后推出5年期产品；据多家财经媒体对官方App的实测，工商银行8月初也加入。华夏、平安、民生等股份行随后跟进，部分地方银行给出的利率甚至更高。\n\n上一篇我们从家庭一侧追问，科技股大跌后居民的钱会不会回银行；这一篇换到柜台另一侧，看银行为什么突然伸手留人。两件事其实是同一场资产重组：家庭在寻找第三个钱包，银行在争夺其中最怕波动的那部分资金。\n\n一边降低存款利率，劝钱出去寻找收益；一边重新发行5年期产品，把储户的钱多留两年。银行突然改变主意，究竟是为了截留即将到期的存款，还是已经嗅到了下一场全球经济危机？\n\n先说结论：\n\n银行首先看见的不是危机，而是50万亿至70万亿元定期存款即将重新选择去向。5年期大额存单是留客工具，也会成为金融风浪中的一层缓冲，但它目前还不是危机警报。\n\n八个月前嫌它贵，现在又怕储户走\n\n2025年末，六家国有大行的5年期大额存单基本退出货架。当时的理由很现实：银行存款增长较快，贷款需求却没有同步跟上，长期存款利息又要一付五年。商业银行净息差已经降到很低的位置，吸收一笔找不到合适贷款和投资去处的长钱，反而可能增加成本。\n\n简单说，银行那时不缺钱，缺的是能让这些钱稳定挣钱的好资产。\n\n到了2026年，情况出现了一处变化。多家机构估算，今年一年期以上居民定期存款到期规模约为50万亿至70万亿元，其中5年期存款约有5万亿至6万亿元到期。\n\n这些钱到期以后，可以继续存，也可以偿还贷款、购买理财、保险、基金和黄金。银行真正担心的，是几十万亿元资金同时站在门口，重新选择下一家去处。\n\n于是，5年期大额存单重新出现了。\n\n截至8月上旬，公开公告和媒体对银行App、网点的实测，大致拼出了下面这张产品表：\n\n银行上架或实测时间5年期年利率起存金额渠道与状态中国银行7月1日1.55%—1.60%20万元手机银行；1.60%档一度额度不足农业银行7月8日1.60%20万元主要限柜面办理，额度动态更新建设银行7月10日1.55%—1.60%20万元线上、线下均可，额度动态变化工商银行8月1日媒体实测1.55%—1.60%20万元手机银行限额投放，部分档位快速售罄平安银行7月14日1.75%20万元首期披露规模30亿元，后续期次动态投放华夏银行7月15日1.75%—1.80%20万—100万元手机银行、网银或柜面；高利率档可能要求新资金民生银行7月末媒体实测1.75%—1.77%20万元手机银行可见，额度以实时页面为准\n\n这张表里最醒目的不是哪家多给了零点几个百分点，而是产品并未整齐划一地全面铺开。一些高利率额度很快售罄，交通银行、邮储银行截至8月上旬仍未跟进。这不是六大行统一拉响警报，更像不同银行根据自己的资金缺口，分别伸手留下客户。\n\n多付一点利息，换来两年稳定\n\n银行为什么偏偏选择五年？\n\n一家银行每天都在做期限生意：储户随时可能取钱，房贷、企业贷款和债券却要几年甚至几十年才能收回。短钱支持长资产，最怕中间突然出现大量资金流出；能够稳定留存五年的存款，能让资产负债表睡得更踏实。\n\n而且这次锁定长期资金的代价并不高。国有大行5年期大额存单利率约为1.60%，只比部分3年期产品高5个基点。按当前票面利率比较，20万元存款每年只多出大约100元利息成本。\n\n储户得到的也不是传统定期存款那种完全僵硬的五年。大额存单通常支持转让或部分提前支取，急需用钱时可以尝试把存单转给其他本行客户，少损失一些利息。\n\n这就解释了看似矛盾的两件事：降低存款利率，是整个金融体系降低融资成本；限量发行5年期大额存单，则是银行用很小的期限溢价，精准留下最看重安全和确定性的资金。\n\n银行不是把所有储户往回拉，而是在存款搬家的路口，专门留下最愿意长期坐着的人。\n\n“准备危机”的传闻，为什么听起来很像真的\n\n坊间把5年期大额存单理解为银行提前准备全球危机，并非毫无逻辑。\n\n金融市场真正出事时，最昂贵的往往不是钱，而是能够确定五年不走的钱。股票暴跌、信用风险上升或者海外市场出现流动性冲击，稳定的居民存款可以减少银行临时融资压力。从这个角度看，长期存单确实给银行增加了一层防风垫。\n\n但银行不会为了一个传闻中的危机，无限吸收需要连续付息的存款。如果贷款和投资收益覆盖不了负债成本，存款越多，银行压力反而越大。\n\n目前公开指标也不像银行体系进入应急状态。2026年一季度末，商业银行流动性覆盖率为151.65%，净稳定资金比例为127.70%，资本充足率为15.00%；不良贷款率为1.51%。监管部门的总体判断仍是流动性指标保持平稳、风险抵补能力整体充足。\n\n与此同时，当前产品仍然限额发行、渠道分散，利率没有逆势大涨，六大行中的交通银行和邮储银行也没有同时跟进。这些细节都更符合“到期资金截留和负债久期调整”，而不是“银行紧急囤积现金”。\n\n危机传闻说中了长期资金的价值，却提前宣布了一场尚未出现的警报。\n\n真正的危机信号，要看第二批产品\n\n第一批5年期大额存单只能证明银行想留住一部分长期资金。接下来六到十二个月，才是这项判断真正接受检验的阶段。\n\n基准情景是：更多银行会小规模、分批次推出长期产品，额度继续紧张，利率总体保持低位。到期资金高峰过去以后，部分产品可能再次从货架上消失。这说明银行只是为今年的存款到期潮做了一次精准补仓。\n\n如果情况向风险情景发展，则会出现另一组信号：六家国有大行全面跟进，发行规模显著扩大，银行开始为长期资金支付明显更高的溢价；与此同时，流动性缓冲上升、风险资产收缩，监管部门启动更密集的压力测试或应急安排。\n\n还有一个最直观的家庭信号：如果全球科技股和其他风险资产继续下跌，5年期大额存单持续售罄，住户存款重新加速增加，说明居民已经主动缩短投资半径，市场正在从“寻找收益”切换到“购买确定性”。\n\n反过来，如果产品很快停售、银行不再补充额度，居民资金继续流向理财和基金，那么“准备全球危机”的说法也就失去了最重要的后续证据。\n\n对于普通储户，真正的问题同样不是要不要跟着传闻抢购，而是愿不愿意用五年时间换取1.6%左右的确定收益。5年期只比3年期高5个基点，20万元一年只多100元。即使支持转让，也不代表随时都能无损退出。\n\n这笔账算清楚，比猜银行是不是看见了危机更重要。\n\n银行没有拿到预知未来的水晶球。它们首先看到的，是一批即将到期的存款、一群不甘心接受低利率又害怕市场波动的客户，以及一张需要重新安排期限的资产负债表。\n\n但这条新闻仍然值得持续盯住，因为长期资金既是银行留客的工具，也是金融系统面对坏天气的压舱石。\n\n7月金融数据将回答钱往哪里走，第二批长期存单则回答银行愿意为留下它付出多少。一个看家庭选择，一个看银行判断，两组信号合起来，才是这场资产重组的完整图景。\n\n第一批5年期大额存单，说明银行不想让到期资金离开；第二批是否全面扩容，才会告诉我们，银行是不是已经开始为更大的风浪备伞。\n\n来源与口径说明\n\n• 央视财经：多家银行5年期大额存单悄然重现：用于核对中行、农行、建行及华夏、平安、民生的产品利率、门槛、渠道和实测额度。\n• 央视财经对不同测算口径的梳理：用于核对一年期以上居民定期存款到期规模约50万亿至70万亿元的机构估算区间。\n• 中国基金报相关报道：用于核对三家国有大行产品及5万亿至6万亿元五年期存款到期口径。\n• 人民网：2025年多家银行下架5年期大额存单：用于核对上一轮产品退出及银行压降长期负债的背景。\n• 国家金融监督管理总局：2026年一季度银行业保险业主要监管指标：用于核对资本充足率、不良贷款率、流动性覆盖率和净稳定资金比例。\n• 工商银行8月初产品状态据多家财经媒体对银行官方App的即时实测。大额存单额度、在售状态和办理渠道均会动态变化，具体以购买当日银行公告、App或网点信息为准。\n• 文中“基准情景”“风险情景”属于作者依据公开信号提出的情报预测，不是银行或监管部门公布的政策安排。",
+   "impact": "",
+   "publish_time": "2026-08-11T01:20:21",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786382264909-5%E5%B9%B4%E6%9C%9F%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%E7%AA%81%E7%84%B6%E5%9B%9E%E5%BD%92.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 20912,
+   "title": "8月11日纪事｜山西明代古城墙修缮如新，历史随旧砖石一起被抛弃",
+   "summary": "【纪事金句】古城墙修缮居然抛弃最重要的城墙砖和地基条石，缺的到底是文化，还是责任心？",
+   "heat": 94.0,
+   "category": "纪事",
+   "story": "山西吕梁中阳县，一段约50米长的明代古城墙完成了“恢复修缮”。\n\n结果是，新门楼看起来完整、崭新，原有古城墙却旧貌难寻。更荒唐的是，拆下来的城墙砖和地基条石，被按废弃物倾倒。\n\n据澎湃新闻影子调查8月11日报道，这段古城墙位于狐尾沟门楼段。中阳县林业局林业站站长杜凤山称，项目是“恢复修缮”，不是“拆旧建新”；但他同时承认，旧砖和条石被按废弃物处置。林业局局长高建军回应，工作确有不周到之处。\n\n这不是普通的施工瑕疵，也不是“新建筑做得太新”这样的审美争议。\n\n古城墙最重要的是什么？不是新砌出来的门楼，不是仿古外观，而是历经数百年保存下来的城墙砖、地基条石、砌筑方式和原有位置。这些才是历史本体。修缮本应保护它们，工程却把它们当成了废料。\n\n需要保护的被抛弃了，后来新建的反而成了“修缮成果”。这项工程把文物修缮的主次完全颠倒了。\n\n抛弃的不是旧材料，而是古城墙最重要的部分\n\n普通建筑翻新，可以拆除旧砖、换上新料。古城墙修缮不能这样做。\n\n一块旧城砖的价值，不只在于还能不能承重。它的材质、尺寸、烧制方式、砌筑位置和风化痕迹，都可能保存一段城墙的年代和建造信息。地基条石更不是可以随手清走的施工垃圾，它关系到城墙原有的基础、走向和结构。\n\n新砖可以再烧，新门楼可以重建，仿古外观可以复制。几百年前留下来的旧砖和条石，一旦被倾倒，就无法重新制造。\n\n现行《文物保护法》明确规定，不可移动文物的修缮、保养、迁移，应遵守不改变文物原状和最小干预原则，确保真实性和完整性。《中国文物古迹保护准则》同样把保存原状和历史信息作为基本要求。\n\n当然，目前公开材料还不足以确认涉事墙段的正式文物认定级别，也不能在审批、施工和验收文件尚未公开时直接认定相关部门违法。但即使暂且不谈法律责任，把疑似明代古城墙的旧砖、条石按废弃物处置，也明显违背文物保护最基本的专业常识。\n\n文物修缮首先要保“真”，其次才是修“新”。如果只剩下新，修缮得越完整，历史反而可能消失得越干净。\n\n缺的到底是文化，还是责任心\n\n如果施工人员不知道旧砖和条石的价值，可以说是缺少文物保护知识。但中阳这项工程，不能简单归结为基层施工人员“不懂文化”。\n\n吕梁市政府网站2025年公开答复显示，群众所称的“狐尾沟城墙保护性修缮”，实际属于中阳县2024年启动的森林康养步道项目。早在2023年9月，中阳县文旅局就邀请山西省文物保护专家到现场察看；同年10月，县政府组织林业、住建、文旅等部门开会，要求项目实施时做好城墙保护；此后，文旅局还向林业局发函，提出尽可能保护现存古城墙等建议。\n\n这说明，当地不是不知道这里有古城墙，也不是没人提出保护要求。\n\n专家看过，会议开过，函件发过，最后旧砖和条石仍被当成废弃物。问题显然不只在文化知识，更在责任有没有真正落实。\n\n文旅部门的意见有没有写入设计图？林业部门有没有把保护要求放进施工合同？施工前有没有对旧砖和条石编号、测绘？监理单位有没有检查？工程验收时，有没有人核对原有墙体和历史材料保存了多少？\n\n只要其中任何一个环节真正把保护当成硬任务，旧砖和条石就不应该无声无息地进入废弃物处置流程。\n\n不知道价值，是专业能力不足；知道需要保护，最后仍没有保住，就是责任没有落地。\n\n林业局负责人所说的“做得不周到”，也不足以解释问题。一次会议通知漏发，可以叫不周到；一份材料整理不齐，可以叫不周到。古城墙旧貌难寻，旧砖和地基条石被当作废弃物，这已经涉及历史本体的损失，必须说明哪个环节出了问题、谁作出的决定、还能怎样补救。\n\n一项景观工程，为什么能主导古城墙修缮\n\n官方公开答复还揭示了另一个关键问题：所谓古城墙“保护性修缮”，实际被纳入森林康养步道项目，主要目标是建设步道和游憩点景观。\n\n森林康养项目重视道路是否连通、景观是否完整、设施能否使用；文物修缮重视原材料、原位置、原形制和最小干预。两者可以协同，但专业目标完全不同。\n\n如果景观工程主导项目，最容易出现的结果就是：新门楼修得完整漂亮，项目看得见、能拍照、可以验收；残破的老墙、旧砖和条石反而被视为影响施工的旧物。\n\n当“建出一个古城景观”压过“保住一段真实古城墙”，文物修缮就会变成仿古建设。\n\n中阳完整城垣在上世纪80年代城市扩建后已基本消失。剩下约50米残墙，恰恰因为其他城墙已经消失而更珍贵。没有保护牌，也不等于可以按普通残墙处理。国家文物局的认定导则和现行法律，都对未定级不可移动文物的调查、认定和保护留出了制度位置。\n\n如果这段墙尚未完成认定，施工前更应该先调查、先记录、先判断价值，而不是等工程完成以后，再讨论它究竟算不算文物。\n\n比起旧砖石去了哪里，还有更多问题必须查清\n\n这件事接下来不能停留在道歉和解释上。当地至少应公开四方面材料：\n\n第一，涉事城墙此前的调查、测绘和认定情况，专家现场察看形成了什么意见；\n\n第二，文旅局发给林业局的函件全文，以及保护要求有没有进入设计、招标、施工、监理和验收文件；\n\n第三，旧砖和地基条石由谁决定拆除、由谁认定为废弃物、运到了哪里，是否登记过数量和位置，能否追回；\n\n第四，工程由谁设计、谁施工、谁监理、谁验收，相关单位是否具备处理历史遗存的专业能力。\n\n能够追回的旧材料，应当尽快登记、评估和妥善保存；中阳县其他残存城墙，也应尽快调查建档，不能再等到下一个项目施工时临场决定。\n\n修缮不是把一座古城墙变得更新，而是让真实的古城墙活得更久。\n\n8月11日值得记录的，就是这样一种荒唐的倒置：一项名为“恢复修缮”的工程，留下了崭新的门楼，却抛弃了最需要保护的旧砖和条石。\n\n它缺的当然有文化常识，但在专家已经到场、部门已经协调、保护意见已经提出之后，更缺的是把常识变成施工约束、把提醒变成追责依据的责任心。\n\n旧砖和条石去了哪里，必须查清；已经提出的保护要求为何层层失效，也必须查清。否则，今天留下的就不是一项修缮成绩，而是一份无法补回的历史损失记录。\n\n这便是8月11日纪事。\n\n来源与口径说明\n\n• 澎湃新闻影子调查2026年8月11日报道：用于核对约50米古城墙被改建、旧貌难以辨认，以及中阳县林业部门相关人员关于“恢复修缮”、旧砖条石处置和工作不足的回应。旧材料去向属于媒体调查及受访者说法。\n• 吕梁市政府网站：关于建议对中阳县现存古城墙遗址进行保护的问题：用于核对森林康养步道项目属性、专家察看、部门协调及文旅局发函等公开信息。\n• 中国人大网：《中华人民共和国文物保护法》：用于核对不改变原状、最小干预、真实性和完整性原则，以及未定级不可移动文物相关制度。本文未在项目材料不完整时直接认定涉事行为违法。\n• 国家文物局推荐：《中国文物古迹保护准则（2015年修订）》：用于核对文物原状、最小干预和历史信息保护原则。\n• 国家文物局：《不可移动文物认定导则（试行）》：用于说明不可移动文物认定对象和价值判断范围。\n\n事实边界：截至成稿，公开材料尚不足以确认涉事墙段的正式认定级别、完整审批流程、施工方案、验收结论及旧砖石最终去向。正文对法律责任不作预断，等待当地调查和材料公开。",
+   "impact": "",
+   "publish_time": "2026-08-11T18:11:43",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786443074273-%E5%B1%B1%E8%A5%BF%E4%B8%AD%E9%98%B3%E6%98%8E%E4%BB%A3%E5%8F%A4%E5%9F%8E%E5%A2%99%E4%BF%AE%E7%BC%AE%E5%A6%82%E6%96%B0.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 20913,
+   "title": "8月11日话题｜800元的“折射手机壳”：偷拍商品化，平台岂能装睡",
+   "summary": "【话题金句】技术用途可以讨论，器材定性可以等待，但把偷拍做成商品，没有讨论余地。",
+   "heat": 94.0,
+   "category": "话题",
+   "story": "#隐私安全 #平台责任 #偷拍黑产 #网络治理\n\n“货还有，但是没办法发，因为查得严。”\n\n这不是走私电影里的接头暗号，而是一名商家向记者解释，为什么暂时发不了一只手机壳。\n\n据中国之声8月11日调查，一种售价300元至800元的“折射手机壳”正在电商平台隐蔽销售。它在摄像头外加装棱镜，让手机平放、镜头看似朝着别处时，仍能拍到侧面；配合相关设置，屏幕熄灭后还可以继续录像。有商家直言，这类产品的一个重要用途就是偷拍。\n\n普通手机壳卖材料、设计和防摔，这种手机壳卖什么？卖的是别人看不出来。\n\n把偷拍做成产品，把隐蔽做成溢价，再把“查得严”说得像生意不好做——这不是科技创新，这是违法风险的消费电子化。\n\n器材如何定性，平台管到哪一步，可以争；拿一句免责声明能不能洗掉责任，也可以争。但这些专业争议不能遮住最简单的事实：有人正在把“更难被发现”做成商品，把别人的隐私做成利润。\n\n真正有争议的，只有三点\n\n第一，它究竟是普通配件，还是窃照器材？\n\n商家当然可以说，棱镜只是改变光路，技术本身没有善恶。但问题是，商品不是躺在实验室里的光学原理。它被做成什么样、如何宣传、配什么软件、卖给谁、靠什么功能卖到数百元，都是判断真实用途的证据。具体是否属于窃照专用器材，需要公安机关技术认定和有权机关处理；但把它当成普通壳子，显然也是睁着眼睛装没看见。\n\n第二，拆开卖，再写一句“禁止偷拍”，能不能免责？\n\n调查发现，有商家把产品拆成手机壳、镜头盖和棱镜分别发货，再指导买家自行组装；有的页面还特意标注“禁止用于偷拍”。\n\n中国政法大学副教授朱巍说：“本身这东西就是为了让别人去偷拍偷录，这样的标注往往达到了一个商业宣传或者商业推广的效果，它在法律上也根本不能免责。”\n\n这句话说得够直白。如果商品的设计、讲解和成交都围着偷拍转，一句“请勿偷拍”不是免责金牌，更像给买家递眼色：功能我教了，责任你自负。\n\n第三，平台管到什么程度，才不算装睡？\n\n记者直接搜索相关关键词时，已经很难找到商品；换成关键词变体，一些商品却仍能出现。商品页可以留白，功能可以私聊，成品可以拆件，账号可以换壳。平台封住了一个词，商家马上换一种说法。\n\n这确实给治理增加了难度，但“难管”不是“不用管”的许可证。现行平台规则要求平台通过规则制定和执行，加强对平台内交易活动的管理，落实商品质量、消费者权益和个人信息保护等责任。平台也掌握商家身份、商品结构、聊天投诉、订单、支付和物流等信息。\n\n商家可以用暗语躲关键词，却很难同时躲过账号、订单、配件、投诉和资金流。平台若永远只追着商品名跑，不是在治理商品，而是在和商家玩文字接龙。\n\n可讨论的归可讨论，底线不打折\n\n折射技术有没有合法用途，可以讨论；某一具体商品是否达到刑事追责标准，要由有权机关认定；平台采取什么识别技术，也可以权衡准确率和误伤。\n\n但有一件事不需要假装“双方都有道理”：把别人不知情时的身体、生活和隐私，变成一门设备生意，没有任何值得尊重的商业创新。偷拍商品化，没有讨论余地。\n\n300元的是有孔款，七八百元的是更隐蔽的无孔款。换句话说，价格越高，买家买到的不是更好的保护，而是更低的被发现概率。几十元的棱镜，装进手机壳后卖出十倍价格，中间那几百元不是品牌价值，是对他人安全感的明码标价。\n\n更荒唐的是，这条链上每个角色似乎都准备好了退路：生产者说只是配件，卖家说只是演示，页面写着禁止偷拍，平台说关键词已经屏蔽，使用者则可能辩称只是拍摄。大家都只承认自己递出了一小块零件，最后却刚好拼成一台完整的偷拍工具。\n\n责任被拆成了零件，风险却完整地落在被偷拍的人身上。\n\n别再让潜在受害者负责识别每一只手机壳\n\n面对偷拍风险，普通人可以提高警惕，但不该被要求练成反侦察专家。我们不可能进入酒店先拆插座，坐地铁先检查每个人的手机壳，去更衣室再自学一遍光学原理。\n\n发现疑似偷拍时，先保证自身安全，不要独自抢夺或拆毁设备；记录时间、地点、人员和设备外观，保存订单、聊天或现场沟通记录，尽快报警。在酒店、更衣室、卫生间等私密场所，可要求管理方到场并保护现场，避免擅自传播设备里的影像，造成二次伤害。\n\n但这些只是最后一道防线。真正该跑在前面的，是生产端追查、平台巡检、异常交易识别和执法协查。\n\n记者已经把线索反馈给多个平台。截至目前，公开报道中尚未见相关平台的完整回应。接下来不能只等几个商品链接悄悄消失。谁在生产，谁在反复上架，谁在拆件发货，哪些账号和订单彼此关联，都应该继续往下查。\n\n下架一个链接只能让页面消失；追到生产、账号、订单和资金，才能让这门生意消失。\n\n话题结语：手机镜头可以借棱镜拐弯，平台责任不能跟着拐弯。商品改了名字，不等于用途变了；零件分开发货，不等于责任也被拆散。技术用途可以讨论，责任边界可以厘清，但一个正常的市场，不能允许商家靠“别人看不出来”赚钱。偷拍商品化，没有讨论余地。",
+   "impact": "",
+   "publish_time": "2026-08-11T18:11:39",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786443020595-%E6%8A%98%E5%B0%84%E6%89%8B%E6%9C%BA%E5%A3%B3.png",
+   "source": "日知录"
+  },
+  {
+   "id": 20860,
+   "title": "哥伦比亚政府通报7.4级强震致132死570伤，32个城市严重受灾",
+   "summary": "哥伦比亚政府通报，8月10日西部强震已造成132人死亡、570人受伤，全国32个城市严重受灾。",
+   "heat": 93.0,
+   "category": "社会",
+   "story": "据新华社波哥大8月10日电，哥伦比亚政府最新通报称，当天在该国西部发生的强烈地震已造成132人死亡、570人受伤。\n\n哥伦比亚地质部门此前将此次地震震级修正为7.4级，震源深度96公里。强震导致太平洋沿岸多省震感明显，全国已有32个城市严重受灾。\n\n较早通报显示，里萨拉尔达省省会佩雷拉市、乔科省省会基布多、考卡山谷省卡利市等地出现建筑受损、人员伤亡和被困情况。美国海啸预警中心称，此次地震无引发海啸风险。",
+   "impact": "伤亡数字大幅上升后，灾区搜救、医疗救治和临时安置压力将持续增加。后续还需关注余震、受损建筑安全评估以及道路通信恢复。",
+   "publish_time": "2026-08-11T10:11:14",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786414089039-%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%BC%BA%E9%9C%87%E8%87%B4132%E6%AD%BB%E3%80%81570%E4%BC%A4.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 20899,
+   "title": "胎儿窒息死亡医院改病历40余次，医院存在过错并承担全责赔偿",
+   "summary": "成都青羊区法院认定四川省人民医院病历修改超过正常限度，推定医院存在过错并承担全部赔偿责任。",
+   "heat": 91.0,
+   "category": "时政",
+   "story": "2024年10月17日，怀孕37周的向怡梅在四川省人民医院产检，因胎监数据不正常被安排紧急入院，准备剖宫产，但手术被安排在四天后。10月21日，胎儿被取出时已窒息死亡。\n\n成都市青羊区人民法院2026年4月9日认定，四川省人民医院在此次诊疗行为中，多次编辑修改病程、术前讨论记录、术前小结等病历材料，并且“超过正常限度及时限”，导致案件无法通过鉴定明确诊疗过错。\n\n法院查明，10月21日手术后，该院多名医护人员对首次病程记录、术前讨论记录、查房记录、护理记录等进行40余次编辑修改，其中主任医师岳某一人编辑修改30余次，最晚一次修改在10月23日9时47分。\n\n四川省人民医院辩称仅存在病历书写不规范，不存在篡改事实，也不影响对医疗过程的客观判断。但法院根据相关法律规定，推定医院对诊疗行为存在过错，并判决其赔偿向怡梅损失148634.59元。",
+   "impact": "医疗纠纷中，病历是厘清诊疗行为的核心证据。法院以多次超限修改病历推定医院全责，释放出明确信号：病历管理不规范一旦影响鉴定，医疗机构将承担不利后果。\n\n向怡梅称赔偿款已支付，但仍向卫健部门申请对篡改、隐匿病历等行为启动行政调查，并追究相关医护人员责任。后续行政调查是否启动，将决定事件是否停留在民事赔偿层面。",
+   "publish_time": "2026-08-11T15:02:44",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786431612228-%23%E8%83%8E%E5%84%BF%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1-%E5%8C%BB%E9%99%A2%E6%94%B9%E7%97%85%E5%8E%8640%E4%BD%99%E6%AC%A1%233.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 20907,
+   "title": "法拍房半年增加23%：真正变化其实是债务人“自救出口”变窄了",
+   "summary": "法拍房增加不只说明债务压力上升，更说明展期、再融资和主动卖房正在变难：越来越多债务只能通过法院折价处置最后的抵押物。",
+   "heat": 90.0,
+   "category": "财经",
+   "story": "法拍房突然多了23%。\n\n中指研究院公布的监测数据显示，2026年上半年，全国各类法拍房源累计交易截止挂拍约46.3万套，比去年同期的37.6万套增加23.1%；成交约10.3万套，同比增长29.8%；总成交金额约1515亿元，同比增长17.6%。\n\n这组数字最容易引发的联想，是越来越多购房人还不起按揭，房子被银行收走。但“断供潮”只能解释部分房源，也不是这轮数据最值得关注的变化。\n\n真正值得警惕的是，越来越多债务人已经无法通过展期、再融资或主动卖房解决债务，只能让最后的抵押物进入法院拍卖。\n\n这46.3万套不是46.3万个“还不起房贷的家庭”，甚至不全是住宅。统计范围还包括商业、办公、工业、土地和车位等物业；住宅只是在成交端占据主力，成交套数约占71%，成交金额约占53%。报告也没有披露被执行人是个人还是企业，更没有按住房按揭、经营贷款、民间借贷、企业担保等债务来源拆分。\n\n所以，46.3万套真正回答的不是“有多少家庭断供”，而是另一件事：越来越多债务已经走完协商、诉讼和执行，开始触及最后的抵押物。房子被推上拍卖台，往往只是债务链条最后一个被看见的环节。\n\n被拍卖的，究竟是谁的房子\n\n最直观的一类，当然是购房人失业、收入下降或家庭发生重大变故，住房按揭长期逾期，银行最终申请处置抵押房产。\n\n但法拍住宅远不只有这一种来源。\n\n对大量小微企业主和个体经营者来说，家庭住房同时也是最容易被金融机构接受的抵押物。企业借钱进货、扩店、建厂或周转，借款人可能是公司，担保人却是企业主夫妇；生意停摆以后，被处置的未必是厂房，也可能是夫妻名下的住房。\n\n还有一些房产来自民间借贷、为亲友或关联企业担保、开发商和其他企业的债务纠纷，甚至涉及已出售未过户、重复抵押、共有产权等复杂情形。最高人民法院近年来公布的执行异议典型案例中，就能看到开发商以整批房产担保融资、企业债务牵连个人或第三方房产的情况。\n\n一项较早的深圳样本调查或许能说明这种复杂性。第一财经曾对400套法拍房源逐一统计，其中金融机构借贷纠纷占64.75%，民间借贷占17%，其他合同纠纷占12.5%。这个样本既不能代表今天的全国市场，也不能把“金融机构借贷”全部等同于经营贷；但它至少证明，看到法拍住宅就直接联想到个人按揭断供，是一种过度简化。\n\n中国法拍房最值得关注的地方，不只是居民有没有能力还房贷，而是住房、家庭和生意的资产负债表从来没有真正分开。\n\n一门生意失败，可能先表现为拖欠供应商货款，再表现为贷款逾期、诉讼和账户冻结，最后才表现为一套住宅出现在司法拍卖平台上。公众看到的是房子，法院处置的却是一笔已经拖了很久的债。\n\n这也意味着，法拍房是一个典型的滞后指标。今天挂上拍卖平台的房子，反映的往往不是今天刚刚发生的困难，而是数月乃至更早以前已经出现、如今终于进入强制处置阶段的现金流问题。\n\n房子走上拍卖台，说明三条自救通道都在承压\n\n债务人不会把法院拍卖当作第一选择。在房子进入司法处置以前，通常还有三条自救通道。\n\n第一条是用未来现金流换时间：与银行或其他债权人协商展期、续贷或分期偿还。只要收入和经营还有恢复希望，债权人也未必愿意立刻处置抵押物，因为诉讼和拍卖同样耗时，而且未必能足额收回债权。\n\n第二条是再融资：用新的贷款置换到期债务，或者增加抵押物、引入担保人，渡过眼前的资金缺口。这条路依赖房产估值、个人信用和持续经营能力。抵押物贬值、现金流恶化以后，新的资金就更难进来。\n\n第三条是主动卖房。债务人自己在二手房市场出售，通常比走司法拍卖更容易控制价格，也能避免执行费用和更深折价。\n\n法拍房增加23%说明的，正是这三条路对一部分债务人同时变得更难：收入和生意不足以换来展期，房产贬值削弱了再融资能力，二手房又难以及时按理想价格成交。再叠加复杂担保、多方债权和财产查封，房子最终被推入强制执行。\n\n因此，法拍房增加的经济含义，不只是“欠债的人多了”，而是债务人通过时间、信用和主动出售资产止损的空间变小了。\n\n房价下行会放大这个变化。国家统计局数据显示，2026年6月，一、二、三线城市二手住宅价格同比分别下降4.9%、5.4%和6.0%。一套房如果从原来可以覆盖债务，跌到即使出售也难以还清全部本息，债务人就更难通过普通二手房市场退出；债权人也更难接受延期和展期，司法处置的概率随之上升。\n\n这是一种比“断供”更广泛的资产负债表压力：收入和经营现金流变弱，抵押物价格也在下降，现金流与资产两端同时失去腾挪空间。\n\n2025年上市银行年报已经留下了另一组旁证。在披露相关数据的13家银行中，有8家个人住房贷款不良率上升；国有六大行个人住房贷款余额合计减少7115亿元。它仍不足以证明大面积住房按揭违约，却说明居民房贷资产质量已经不再像过去那样稳若磐石。\n\n23%既是压力，也可能是出清加速\n\n不过，法拍房增多不能只作悲观解释。\n\n今年上半年，成交量增长29.8%，快于挂拍量的23.1%；清仓率约22.2%，比去年同期提高1.1个百分点；一拍成交占比约40.1%，也比去年同期提高2.4个百分点。这说明进入处置程序的资产在增加，但市场消化速度也有所提高。\n\n换句话说，一部分历史债务正在被更快确认价格、完成交易。对银行和其他债权人而言，这是清理不良资产；对债务人而言，这是用资产结束一段拖延已久的执行程序。只要成交率改善、折价不再持续扩大，法拍量增加也可能包含风险出清提速，而不只是风险继续恶化。\n\n真正的问题在于，这种出清极不均匀。\n\n上半年，一线城市法拍住宅清仓率达到60.9%，上海约76%；三四线城市只有29.7%。全国法拍住宅成交均价降至约8165元/平方米，整体仍在“以价换量”。核心城市的好房子甚至可能经过数十轮竞价成交，缺少人口和产业支撑的房产则要靠更深折扣寻找买家。\n\n法拍市场正在把同样叫作“房子”的资产，分成两种完全不同的东西：核心城市的流动资产，以及低能级城市越来越难变现的抵押物。\n\n这才是46.3万套房源背后更值得警惕的社会变化。过去，人们把房子视为家庭最后的安全垫：生意不顺可以卖房，收入中断可以抵押，老年生活也可以依靠房产。但当越来越多房子只能通过法院折价出售，安全垫就开始反过来暴露家庭和企业共同承担的风险。\n\n法拍房不是经济危机的发令枪，也不是居民断供的精确温度计。它更像一张迟到的检查报告：一些家庭和小企业早已出现的现金流问题，正在从账面进入资产处置阶段。\n\n接下来真正需要观察的，不是挂拍量会不会继续创造一个更惊人的百分比，而是三组数据：住宅房源中个人住房按揭与经营、担保类债务各占多少；二三线城市的清仓率能否回升；成交折价是否继续扩大。\n\n如果挂拍继续增加、清仓率重新下降、折价进一步加深，那意味着进入拍卖场的债务资产多于市场能够接住的数量。反过来，如果成交增速持续高于挂拍、首次拍卖成交占比提高、价格降幅收窄，23%的增长更可能是旧债加快出清。\n\n所以，法拍房半年增加23%，最准确的问题不是“有多少人断供了”，而是：\n\n为什么越来越多人的最后一套高价值资产，已经来不及在正常市场里自己卖掉？\n\n主要资料中指研究院：《CI Buddy：2026年1—6月全国法拍市场监测报告》，2026年7月13日。国家统计局：《2026年6月份商品住宅销售价格变动情况统计数据解读》，2026年7月15日。澎湃新闻：《“提前还房贷”现象犹在，国有六大行去年个人住房贷款余额集体下降》，2026年4月4日。第一财经：《法拍房增多源于“断供潮”？深圳样本让我们有些意外发现》，2020年7月。最高人民法院：涉财产权保护、金融借款合同纠纷等执行异议典型案例。",
+   "impact": "",
+   "publish_time": "2026-08-11T16:19:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786435995997-%E6%B3%95%E6%8B%8D%E6%88%BF%E5%8D%8A%E5%B9%B4%E5%A2%9E%E5%8A%A023%25.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 20903,
+   "title": "1.88万培训分期牵出1950万骗局：1200名求职者为何变成贷款客户",
+   "summary": "【一句话判断】一笔1.88万元培训分期，牵出十余家空壳公司和1200余名求职者；招聘、培训和放贷共同组成了债务陷阱。",
+   "heat": 90.0,
+   "category": "社会",
+   "story": "一份月薪8000元的运营助理招聘，把求职者古某带进了面试间。通过面试后，公司没有与他签订劳动合同，却说入职前要先参加实训，费用1.88万元。\n\n古某付不起，对方随即给出另一种办法：在小贷平台办理分期，每月还1777元。\n\n有关部门把这条线索与110警情、12345热线、行政投诉、关联企业、账户和资金链放在一起比对，最终查出一个利用十余家空壳公司运作的“招转培”团伙。\n\n人社部公布的数据显示，1200余名求职者被诱导参加所谓入职培训并借取小额贷款，涉案金额1950余万元。2026年1月，北京警方集中收网，抓获13名犯罪嫌疑人。\n\n一笔培训分期背后，是一门批量制造就业希望、再把希望变成个人债务的生意。\n\n5月15日，人力资源社会保障部、中央网信办、教育部、公安部、金融监管总局已经联合发出风险提示，点名“招转培”“培训贷”。三天后，人社部公布一批侵害劳动者就业权益典型案例；到了7月，新的求职者经历和侦办进展仍在出现。\n\n个人防骗只是最后一道防线。更重要的问题是，这条债务链如何运转，谁在每个环节获利。\n\n一句话结论\n\n求职者本来去获得收入，却被变成培训产品的消费者和贷款债务人。招聘、培训和放贷共同完成了这次身份转换。\n\n一场面试，怎样变成一笔贷款\n\n“招转培”先用岗位吸引人，再把面试改造成课程销售。\n\n入口通常是一份看起来不错的工作。岗位工资高，对学历和经验要求低，招聘者主动发来邀约。求职者来到面试现场后，对方开始改变谈话方向：你的能力不够，你缺少项目经验，你现在直接上岗很难，但公司有内部培训，学完可以入职，也可以推荐到合作企业。\n\n这一套话术先制造希望，再制造不足，最后提供付费解决方案。\n\n求职者拿不出一两万元培训费时，“先学后付”“从工资里慢慢扣”随即出现。工作承诺留在口头，分期付款或消费贷款却以合同和账单落到个人名下。\n\n最高人民法院今年2月发布的一起典型案例，展示了这条链条可以扩张到什么程度。徐某楠等人谎称与知名企业平台合作，可以提供稳定兼职，又以“边学边赚钱、收入可以覆盖学费”为诱饵，让求职者购买在线课程参加所谓入职培训，共骗取学费2200万余元。法院最终认定9人构成诈骗罪。\n\n类似陷阱并没有随着警示消失。《工人日报》7月报道，一名河北求职者应聘月薪8000元的岗位，面试后被以经验不足为由收取1080元培训费，最终只拿到线上培训账号和一张收据。另一起成都案件中，某科技公司及3家关联公司发布月薪8000元至12000元的招聘信息，诱导求职者签培训协议、办理高息消费贷款，培训后再把他们推向与招聘描述严重不符的岗位。警方已对12名犯罪嫌疑人采取刑事强制措施，案件仍在进一步侦办。\n\n责任还可能落在行政和民事层面。无证开展职业中介、发布虚假招聘信息、以招聘名义牟取不正当利益，可能受到行政处理；以欺诈手段诱导签订培训协议，可能引发撤销合同、返还费用等民事责任。\n\n“招转培”可能涉及虚假招聘、违规收费、合同欺诈乃至诈骗犯罪。责任认定取决于岗位真实性、培训自愿性、录用承诺、贷款告知和资金流向。\n\n最容易被利用的，是一个人对失业的恐惧\n\n求职者在面试现场签下贷款，因为眼前的课程被包装成了一张工作门票。\n\n失业时间越长，人越容易怀疑自己的能力。招聘者在面试中反复强调“你经验不足”“企业不会直接要你”，再把培训包装成唯一补救方法，恰好击中了这种自我怀疑。对应届毕业生来说，缺少经验本来就是普遍处境；对转行者和低学历求职者来说，“低门槛、高薪、包就业”又像是少有的翻身机会。\n\n骗局利用的是人对生计的焦虑、对职业评价的陌生，以及“再不抓住机会就更难就业”的紧迫感。\n\n复杂骗局把借贷伪装成入职流程：招聘公司制造岗位预期，培训机构签服务协议，第三方平台完成分期或放贷。三段业务连起来，形成从招聘引流到债务落地的闭环。\n\n正规培训和“招转培”，边界在哪里\n\n企业岗前培训、独立职业培训和招聘，是三种不同关系。风险来自对三者的故意混淆。\n\n如果对方自称是招聘单位，并把收费培训设为录用的前置条件，就应当高度警惕。《劳动合同法》第九条明确，用人单位招用劳动者，不得要求劳动者提供担保或者以其他名义收取财物。企业为劳动者提供专项技术培训，可以依法约定服务期，但这与向求职者出售一门课程不是一回事。\n\n独立职业培训机构可以提供收费课程，前提是真实、自愿，课程、收费、退费和服务范围清楚。录用机会应与付费课程分开。以欺诈手段使求职者违背真实意思签订的协议，可以依法主张撤销；最终结果仍取决于证据和具体法律关系。\n\n几个危险信号值得记住：岗位工资明显高于同类岗位却几乎没有门槛；面试持续否定求职者能力；培训被设为录用条件；“包就业”没有写明单位和岗位；现场催促签约、做人脸识别或操作贷款；合同主体与招聘公司不同；口头说“从工资扣”，书面文件却是消费分期。\n\n其中任何一个信号都不必然等于诈骗，但同时出现得越多，风险越高。\n\n一条产业链，需要共同识别\n\n招聘平台是第一道入口。营业执照核验之外，平台还应识别长期发布的高薪低门槛职位、“面试转培训”投诉和关联账号重复招聘，及时排查、下架异常职位。\n\n贷款机构和分期平台掌握另一组信号：大量年轻人在招聘面试现场向同一家培训机构借款，借款人缺少稳定收入，课程又与“包就业”捆绑。这些异常应当触发风控。\n\n一名求职者可能先后接触招聘平台、人社、市场监管、金融监管和公安机关。线索共享才能拼出全貌：谁发布岗位、谁组织面试、谁提供培训、谁发放贷款、谁最终收款，都要沿资金和控制关系追查。\n\n已经签了贷款，先做什么\n\n第一，尽快告诉家人或可信任的人，暂停签署补充协议、借新还旧或支付所谓解约费。\n\n第二，保存完整证据。包括最初的招聘页面、职位名称和工资承诺，聊天记录、面试地址、录音，培训合同、贷款合同、付款记录、收款主体、课程内容以及对方承诺就业的材料。尤其要保存招聘公司、培训公司、放贷或分期主体之间的关联线索。\n\n第三，按行为性质分别反映。涉及虚假招聘、违规人力资源服务的，可向当地人力资源社会保障部门投诉；涉及虚假宣传、格式条款和培训退费的，可向市场监管部门或消协投诉；涉及贷款争议的，应先向贷款或分期机构提出书面异议，并可向金融监管投诉渠道反映；发现虚构岗位、非法占有培训费等诈骗线索，应及时报警。不同渠道受理范围不同，保存投诉编号和书面答复，便于后续把分散线索串联起来。\n\n第四，培训合同争议不会自动消除贷款记录。及时向贷款机构提出书面异议并保存沟通记录；必要时寻求法律援助，通过撤销合同、确认合同效力、返还费用或刑事追赃等路径处理。停还贷款前，先取得针对具体合同的专业意见。\n\n常识回归\n\n找工作的人没有因为焦虑就失去被诚实对待的权利。\n\n一个正常的就业市场，应当让岗位真实、录用标准清楚、劳动获得报酬。职业培训服务于能力提升，金融服务解决真实资金需求。虚构岗位加贷款销售，越过了两者的边界。\n\n“先付费才能获得工作”一旦成为招聘流程，风险就不再只是求职者个人的判断题，而是平台审核、培训监管和贷款风控共同面对的责任题。\n\n求职者需要警惕，平台、机构和监管者更要守住入口。识破一条由多家公司、多份合同和多种话术拼成的利益链，本就不是一个求职者应独自承担的任务。\n\n资料来源\n\n• 人力资源社会保障部等五部门：警惕“招转培”“培训贷”等风险提示\n• 人力资源社会保障部：侵害劳动者就业权益典型案例\n• 最高人民法院：依法惩治电信网络诈骗等侵犯财产犯罪典型案例\n• 工人日报／新华网：没上班先交钱，求职变付费参加培训\n• 人力资源和社会保障部：《中华人民共和国劳动合同法》\n\n说明：文中涉及警方侦办的案件均未作有罪预断；不同案件可能分别涉及行政违法、民事争议或刑事犯罪，应以有权机关最终认定为准。",
+   "impact": "",
+   "publish_time": "2026-08-11T16:19:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786435899217-1.88%E4%B8%87%E5%9F%B9%E8%AE%AD%E5%88%86%E6%9C%9F%E7%89%B5%E5%87%BA1950%E4%B8%87%E9%AA%97%E5%B1%80.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 20846,
+   "title": "国际现货黄金一周涨超7%突破4400美元，创6月以来新高",
+   "summary": "8月11日早盘，现货黄金突破4400美元/盎司，过去一周涨超7%，机构提示仍需关注利率回升风险。",
+   "heat": 87.0,
+   "category": "财经",
+   "story": "北京时间8月11日早盘，现货黄金延续涨势，盘中突破4400美元/盎司，涨幅超过0.2%，创6月8日以来新高。前一交易日，金价盘中最高触及4395美元/盎司；过去一周累计涨超7%，为今年1月以来最大单周涨幅。\n\n多家机构把这轮上涨与美国就业数据、美元走势和央行购金联系在一起。苏克敦金融认为，美国7月就业报告使市场更多定价劳动力市场走弱，美元承压，对贵金属形成支撑；上海中期期货称，非农报告偏弱和通胀回落缓和了加息预期。\n\n瑞银近期报告则判断，黄金在中长期仍受多重因素支持，2027年上半年价格有望冲高至5000美元/盎司。不过，机构也提示，美国10年期债券收益率若继续回升，金价可能面临获利回吐压力。",
+   "impact": "黄金突破整数关口后，市场关注点将转向美国CPI、债券收益率和主要央行购金节奏。若利率预期再度转鹰，短线波动可能加大；若美元继续走弱，避险和配置需求仍会支撑金价。",
+   "publish_time": "2026-08-11T09:20:43",
+   "cover": "https://gongxiaotianxia.oss-cn-beijing.aliyuncs.com/uploads/1786410421228-01.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 20869,
+   "title": "宇树科技科创板网上发行最终中签率0.0181%，发行价150.8元",
+   "summary": "宇树科技科创板IPO网上发行中签率出炉，发行价150.80元/股，最终中签率0.01809759%。",
+   "heat": 86.0,
+   "category": "财经",
+   "story": "宇树科技8月10日公告，公司首次公开发行股票并在科创板上市的网上发行申购情况及中签率公布。\n\n本次发行价格为150.80元/股，发行股份数量为4044.6434万股。回拨机制启动后，网上最终发行数量为970.7000万股，约占扣除最终战略配售数量后发行数量的30.00%。\n\n公告显示，网上发行最终中签率为0.01809759%。作为机器人领域热门公司，宇树科技IPO申购热度和中签率受到市场关注。",
+   "impact": "低中签率说明申购端热度较高。上市后，市场将继续观察公司商业化收入、机器人产品交付能力，以及高估值能否由业绩增长支撑。",
+   "publish_time": "2026-08-11T10:19:04",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786414730528-%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%9C%80%E7%BB%88%E4%B8%AD%E7%AD%BE%E7%8E%870.0181%25.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 20847,
+   "title": "东条英机后代捐赠300件史料曝光，笔记显示其审判时仍在狡辩",
+   "summary": "日本战犯东条英机后代向国立国会图书馆捐赠约300件史料，笔记显示其在东京审判期间仍在狡辩。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "据日本共同社8月10日报道，日本甲级战犯、前首相东条英机的后代近日向日本国立国会图书馆捐赠约300件史料，其中包括亲笔笔记、书信等材料。\n\n公开史料显示，东条英机在东京审判期间仍将与检方对峙称作“最后机会”，并把受审心态描述成奔赴战场。相关笔记还记录了他对其他被告的评价以及对死刑判决的预感，但并未体现对侵略战争责任的反省。\n\n远东国际军事法庭1946年5月3日首次公开庭审，对策划、发动和实施侵略战争负有领导责任的甲级战犯进行审判。经过两年多审理，东条英机、松井石根、土肥原贤二等7名甲级战犯被处以绞刑。",
+   "impact": "这批史料的公开，使外界得以进一步观察日本战犯在战后审判中的真实心态。围绕侵略历史认知和战后责任，日本国内外仍会持续关注相关档案的开放与研究。",
+   "publish_time": "2026-08-11T09:21:06",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1786410422333-02.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 20890,
+   "title": "北京二级响应迎战强降雨：公交道临时开放、避险停车位启用",
+   "summary": "8月11日至13日，北京启动防汛二级响应，实施公交专用道开放、设立77条避险道路及182个免费停车点等交通管控措施，全力应对强降雨极端天气。",
+   "heat": 85.0,
+   "category": "时政",
+   "story": "8月11日9时，北京市因强降雨启动防汛二级应急响应。市交通委迅速调集2.3万名应急人员及2000余台装备投入交通保障，实施多项创新管控措施：晚高峰至13日全天临时开放公交专用道供社会车辆通行；在暴雨红色预警区域划定77条高地势道路及182个停车场作为紧急避险点，预警期间车辆违停免予处罚。公共交通方面，晚高峰计划发车2.8万次，地铁运力投放提前2小时并延后1小时，市郊铁路多条线路列车陆续停运。公路管养部门预置抢险力量，对高风险路段夜间主动封闭并加密巡查，确保道路通行安全。\n\n此次管控措施引发市民广泛关注。据交通部门通报，临时开放公交专用道有效分流社会车辆，晚高峰拥堵指数同比下降23%；避险停车点设置覆盖朝阳、海淀等重点区域，最大限度保障市民紧急避险需求。地铁运营数据显示，11日早高峰进站量较平日增长18%，部分线路采取限流措施。公路部门累计排查高风险路段52处，连夜封闭积水严重区域3处。",
+   "impact": "这场暴雨考验暴露出城市应急管理的深层挑战：\n\n市民出行：临时公交道开放虽缓解拥堵，但网约车应答率骤降40%，部分区域出现“抢道”争议；避险停车场标识不清导致误入封闭路段现象频发，暴露应急预案细节待完善。\n\n交通管理：地铁运力提前投放机制成功应对客流激增，但市郊铁路停运导致通勤族滞留，凸显轨道交通网络韧性不足。公路部门“夜间主动封路”获专业认可，但部分社区反映预警传达滞后。\n\n城市应急体系：此次响应验证了多部门联动机制有效性，但跨区域协调暴露出信息壁垒。专家建议建立动态管控模型，利用AI预测积水点并优化避险路线，同时需加强市民应急教育普及。",
+   "publish_time": "2026-08-11T14:27:50",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786429154735-%E5%8C%97%E4%BA%AC%E8%BF%8E%E6%88%98%E5%BC%BA%E9%99%8D%E9%9B%A8.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 20791,
+   "title": "外籍游客“反向海淘”爆火退税激增366%，中国成全球消费新高地",
+   "summary": "2026年上半年中国离境退税旅客量同比激增366%，新能源车、无人机等中国智造产品成外籍游客新宠。免签政策扩容与退税服务升级推动“中国购”热潮，反映国际消费者对中国产业链与文化创新的高度认可。",
+   "heat": 85.0,
+   "category": "时政",
+   "story": "2026年8月5日，新华网披露中国旅游消费新趋势：受144小时过境免签政策扩容和离境退税2.0版服务升级驱动，来华外籍游客掀起“反向海淘”热潮。海关总署数据显示，2025年全国离境退税销售额同比近乎翻倍，办理退税人数达27万人次；2026年上半年退税旅客量同比激增366%，销售额与退税额同步攀升69%，其中77.7%为免签入境游客。\n\n消费偏好呈现结构性转变，传统丝绸、茶叶等特产退居次席，智能穿戴设备、工业级无人机、新能源汽车及国潮品牌成为“必买清单”。外籍游客普遍采用“攻略化+批量化”采购模式，部分中东客商整箱采购智能手表回国转售，欧洲游客则热衷体验新能源汽车4S店“沉浸式购车”。\n\n商务部专家分析，该现象背后是中国制造的“三重跃升”：全球最完整产业链支撑规模化定制生产，AI技术专利储备形成的智能产品优势，以及外卡支付、多语种导购等国际化服务体系的完善。深圳某消费电子企业负责人透露：“海外客商通过跨境电商平台锁定款式后，72小时内即可完成从工厂到机场免税店的跨境交付。”\n\n政策层面，离境退税系统已升级至2.0版本，实现“即买即退”电子化办理，主要商圈外卡受理覆盖率超95%。北京SKP-S等高端商场甚至开设“全球游客专属服务中心”，提供退税、物流打包、文化导览一体化服务。",
+   "impact": "这一消费现象折射多重变革：\n\n全球消费格局重塑：中国正从“世界工厂”向“全球消费目的地”转型，2026年暑期北京、上海等地奢侈品店出现外籍游客排队盛况，LV专柜销售透露“中东客户单笔消费超百万已成常态”。\n\n经济结构优化：旅游消费外溢效应显著，深圳大疆无人机海外游客购买量占总销量12%，带动国产配件厂商订单增长。海关数据显示，离境退税商品中35%为技术含量高的智能产品，助力出口结构升级。\n\n文化软实力输出：故宫文创、李宁运动装备等国潮品牌在退税清单中占比达18%，巴黎游客安娜在社交媒体晒出汉服购物照：“这不是旅游纪念品，而是带着东方美学回家”。\n\n专家警示需防范“热消费”背后的隐忧：部分免税商品出现质量投诉，海外游客售后服务体系待完善；旅游消费与本地民生资源争夺现象初现，北京三里屯等商圈出现“游客挤占本地停车位”纠纷。如何平衡开放红利与治理效能，成为检验中国消费市场国际化的试金石。",
+   "publish_time": "2026-08-11T14:27:50",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786429537398-%E5%A4%96%E7%B1%8D%E6%B8%B8%E5%AE%A2%E2%80%9C%E5%8F%8D%E5%90%91%E6%B5%B7%E6%B7%98%E2%80%9D%E7%88%86%E7%81%AB.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 20878,
+   "title": "豆包回应“推荐酒店要收取12%佣金”：订单成交后收渠道服务费",
+   "summary": "豆包公关负责人称，“推荐酒店要收费”说法不准确，目前不收广告费，仅订单成交后收渠道服务费。",
+   "heat": 85.0,
+   "category": "科技",
+   "story": "8月10日晚，豆包公关负责人刘星发文回应“豆包推荐酒店要收费”一事，称这一说法并不准确。豆包生活服务业务目前没有付费推广，豆包推荐酒店也不收取广告费，商家不能通过付费影响推荐或排序。\n\n刘星表示，豆包现阶段主要按成交收费，商家仅在订单成交后支付渠道服务费。部分平台采用“佣金+广告”的收费模式，两者不宜直接比较。对商家而言，更有参考意义的是实际渠道成本和新增订单效果。\n\n此前媒体报道称，抖音生活服务平台7月27日发布政策说明，自8月10日起，豆包从“自然流量来源”转为“特定成交渠道”，对酒店订单执行11.4%软件服务费加0.6%支付手续费，综合费率约12%，较此前8%上调。",
+   "impact": "这次回应的关键在于区分“广告排序”和“成交服务费”。如果推荐结果不能被付费影响，争议会集中在平台导流成本是否合理；若未来商业化扩大，透明披露计费规则将更重要。",
+   "publish_time": "2026-08-11T12:10:41",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1786420698657-01.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 20829,
+   "title": "人民币对美元即期汇率升至6.7439，42个月新高且年内涨近3.5%",
+   "summary": "8月10日，人民币对美元即期汇率盘中最高升至6.7439，创2023年2月6日以来新高，今年以来累计升值近3.5%。",
+   "heat": 80.0,
+   "category": "财经",
+   "story": "8月10日，人民币对美元即期汇率盘中最高升至6.7439，创2023年2月6日以来的3年多新高。澎湃新闻报道，今年以来，人民币对美元即期汇率累计升值幅度接近3.5%。\n\n中间价方面，8月10日人民币对美元中间价调升20个基点，报6.7884，创2023年2月10日以来最高。今年以来，人民币对美元中间价累计升值3.42%。\n\n工银亚洲展望下半年人民币走势时认为，人民币汇率大概率延续波动、缓步走升态势。主要影响因素包括出口延续韧性增长、国际资金增配人民币资产带来资金净流入，以及美元对人民币中间价相机调整。\n\n中国民生银行首席经济学家团队指出，今年以来支撑人民币汇率走强的主要因素是出口高景气。在贸易结构持续优化下，出口高增速有望延续，贸易顺差也有望维持高位运行。\n\n该团队预计，8月份人民币汇率将在6.75附近维持平稳双向波动。",
+   "impact": "人民币汇率走强，对进口成本、外债偿付和人民币资产吸引力有正面影响，但也会影响部分出口企业的结汇收益和报价空间。\n\n后续走势仍取决于出口韧性、美元指数、资本流动和中美利差变化。对企业而言，汇率波动加大时，套期保值和订单定价管理会更重要。",
+   "publish_time": "2026-08-11T08:45:42",
+   "cover": "https://gongxiaotianxia.oss-cn-beijing.aliyuncs.com/uploads/1786357559382-20829.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 20839,
+   "title": "22岁女生独闯南太行失联14天确认遇难：悬崖附近找到遗体",
+   "summary": "22岁女子程某圆独闯南太行失联14天后确认遇难。救援人员称先找到其背包，随后在张良庙附近悬崖发现遗体。",
+   "heat": 80.0,
+   "category": "社会",
+   "story": "8月10日，22岁女子程某圆独闯南太行失联已14天。当日下午，极目新闻记者从现场救援人员处获悉，程某圆遗体已被找到。\n\n现场救援人员称，10日中午12时左右，搜救人员先找到程某圆的背包，包内有她本人的身份证。下午1时多，救援人员在张良庙附近悬崖找到一具遗体，疑似为程某圆。\n\n下午2时许，另一位现场救援人员表示，遗体身份仍有待警方及家属进一步确认。下午2时50分，救援人员再次致电记者称，警方和家属已到现场确认，发现的确为程某圆遗体。\n\n据此前报道，7月21日，河南省信阳市商城县22岁女子程某圆离家前往南太行游玩。7月26日晚，她还曾与家属视频聊天。家属称，程某圆刚大学毕业，到南太行旅行，失联前情绪没有异常。\n\n寻人启事显示，程某圆最后出现时间为2026年7月27日早上8时至9时之间，最后一笔消费记录为当天8时45分，走失地点在辉县对首寺民宿附近。8月9日，相关部门获取其“两步路”App最后轨迹，确认在南太行河南辉县上八里镇张良庙附近。",
+   "impact": "这起事件令人痛心，也再次提醒户外旅行尤其是独行线路的风险。山区路线、悬崖地形、通信盲区和天气变化，都可能让一次普通旅行变成高风险事件。\n\n后续应关注警方对遇难原因的确认。对游客而言，独自进入复杂山地前，应提前报备路线、携带定位通信设备，并避免脱离成熟线路。",
+   "publish_time": "2026-08-11T08:45:42",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1786357565841-20839.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 20826,
+   "title": "微型代步车集体遇冷销量暴跌55%：5万元小车为何卖不动",
+   "summary": "2026年上半年，中国乘用车市场出现一组反差强烈的数据：5万元以下乘用车累计销量约13万辆，同比暴跌55%；40万元以上新能源车型销量达24万辆，同比上涨46%。曾经的“国民神车”为何卖不动了？",
+   "heat": 65.0,
+   "category": "分辨",
+   "story": "2026年上半年，中国乘用车市场出现一组反差强烈的数据：5万元以下乘用车累计销量约13万辆，同比暴跌55%；40万元以上新能源车型销量达24万辆，同比上涨46%。曾经的“国民神车”为何卖不动了？\n\n低价车为何失速 需求迁移\n低价红利退潮5万元以下乘用车销量同比下降55%\n↓需求转向A0级消费者用更高预算换安全、智能与空间\n↓政策成本挤压购置税、补贴变化与锂价共同压缩低价优势\n\n变化主线：入门价格正在上移。消费者不再只买“能开”，而是用更高预算换安全、品质和空间。\n-55%5万元以下销量+46%40万以上新能源18%→6.25%微型车份额\nD【大家在聊什么】DISCUSSION话题由头是中汽协、乘联分会发布的细分市场数据，媒体跟进集中在“微型车为何集体遇冷”，大众讨论从汽车圈扩散至普通购车决策。\n\n热度65经济观察报、法治日报、中国汽车报、第一电动、OFweek等10余家媒体跟进，微博话题#微型代步车遇冷#累计阅读数千万，大众对“5万卖不动40万抢”的反差叙事高互动。\n\nT【话题】TOPIC微型电车的“国民神车”时代似乎正在落幕。2020年7月宏光MINI EV上市，凭借3-4万元的价格定位，五年间累计销售195万辆，连续72个月蝉联全球微型新能源销冠，五菱代步车全球累计销量突破300万辆——这是微型电车在中国市场的巅峰时刻。\n\n进入2026年，这一细分市场急转直下。1月份宏光MINI EV销量仅7133辆，环比暴跌76%；上半年7.28万辆的销量，与2025年同期17.11万辆相比近乎腰斩。“剁椒鱼头”（微型电车的网络代称）前5月销量下跌64%，市场占比从2023年巅峰的18%跌至6.25%。\n\n与此形成对照的是40万元以上高端市场的繁荣：2026年上半年40万元以上新能源车型销量达24万辆，同比上涨46%；该价位段新能源渗透率从2025年的44%提升至56%，自主品牌占据59%份额。\n\n更具反差感的是车型迭代节奏：2026年第五代宏光MINI EV上市，配备10.1英寸中控屏、提供两门版和四门版，试图重新激活市场。但定价区间已从此前的3-4万元上探至5-6万元——这本身就反映了微型车赛道的萎缩。\n\nV【观点梳理】VIEWS消费升级需求从“有无”转向“品质”这是业内最被广泛接受的解释：微型电车用户并非“买不起”，而是要“更高品质”。三类核心用户群体——家庭第二辆车用户、女性用户、下沉市场用户——需求都在升级，从“只看低价”转向综合品质。35.79%网友认为微型车已摆脱老年代步车标签，成为代步、短途通勤等“新刚需”。\n“微型电车呈现‘电动化普及与消费认知分化’双重特征，35.79%网友认为摆脱了老年代步车标签” 中国汽车报（2025-12-22）“5万元车的安全配置能有几何？价格区间决定了消费心态” 网友（微博，2026-08，讨论区归纳）政策挤压购置税减半对低端车冲击更大2026年1月起，新能源汽车购置税由全额免征改为减半征收。对4万元级别微型电车而言，需多缴约2000元购置税，占车价超5%——远超中高端车型。叠加以旧换新补贴规则调整（补贴与车价挂钩，中高端获补更多），微型电车失去政策加持。乘联分会秘书长崔东树认为，政策是核心变量之一。\n“微型轿车销量下滑是收入、政策、需求、供给、竞争等多重因素叠加的结果” 崔东树（乘联分会，2026）“购置税减半直接给微型车加了一道枷锁，本来赚个零花钱，现在零花钱也没了” 网友（微博，2026-08，讨论区归纳）贫富差距“便宜的卖不动，便宜的也买不起”汽车市场的K型分化，实际上是居民收入分化的镜像。有钱的人买更贵的车（40万+新能源同比+46%），没钱的人不仅买不起5万元的车（同比-55%），也买不起10万元的车——他们或转向二手车、共享出行，或干脆放弃购车。“5万卖不动”反映的不是消费意愿，而是消费能力的结构性下沉。\n“5万元以下乘用车销量崩塌与40万元以上暴涨，折射的是收入分配的结构性变化” 经济观察报评论（2026）“不是不想买车，是想买的车买不起，买得起的看不上” 网友（微博，2026-08，讨论区归纳）\nF【事实】FACTS销量数据5万以下-55%，40万以上+46%\n2026上半年5万元以下乘用车累计销量约13万辆，同比-55%\n宏光MINI EV：2026上半年7.28万辆，同比-57.5%（2025上半年17.11万）\n吉利熊猫：2026上半年1.99万辆，同比-78.2%\n五菱缤果：2026上半年1.62万辆，同比-79.3%\n40万+新能源：2026上半年24万辆，同比+46%，渗透率从44%升至56%\n自主品牌在40万+占59%份额\n微型电车市场份额：2023年巅峰18%→2026年6.25%\n宏光MINI EV 2026年1月销量7133辆，环比-76%\n政策时间线\n2026-01-01：新能源购置税由免征改减半\n2026（具体时间待官方确认）：以旧换新补贴规则调整，与车价挂钩\n2026-07：《电动汽车用动力蓄电池安全要求》实施，新增底盘撞击、快充循环、热失控抑制等测试\n成本数据碳酸锂涨一倍\n2025Q1低位约9万元/吨；2026-05现货价19万元/吨\n涨幅：较2025Q1低位+100%以上\n\nA【AI分析】ANALYSIS需求升级是根本，政策与成本是催化剂本案最核心的洞察：微型电车遇冷，本质不是消费者“买不起”，而是“不想要”了。2020年宏光MINI EV上市时，微型电车的用户很多是“新增用户”，用3-4万元低门槛完成“交通工具的消费升级”；现在这批用户再次升级，需求从“有无”转向“品质”，从“能开就行”转向安全、智能、品质——这是消费需求端的根本变化。\n\n政策端对低端车天然不利：购置税减半对4万元级别微型车占车价5%以上，在原本一两千元利润的微型车上不可承受；以旧换新补贴规则调整后中高端获补更多，微型车失去政策加持——政策制定者有合理考量，新能源产业已不需要靠3-4万元低价车“普及”，而需中高端车型“品牌向上”。\n\n成本端，碳酸锂涨一倍确实压缩了微型车利润空间，但只是“催化剂”而非“根本原因”——即使碳酸锂价格回到低位，微型电车赛道仍会萎缩，因为消费需求已升级，产品端迭代未跟上。第五代MINI EV上探至5-6万元，反映车企已意识到“低价低质的老路子走不通”，但品牌向上需要的不仅是定价上探，更是产品力提升。\nA0级替代品的崛起是结构性变化比亚迪海鸥2025年31.1万辆，逼近宏光MINI EV历史最高；2026年吉利星愿反超海鸥，成为A0级新销冠——A0级小车（4-7万元价位）正在替代A00级微型车（3-4万元价位）成为入门级电动车的主流。\n\n这一替代对消费者是利好（更安全、智能、空间更大），对深耕A00级的五菱、长安、奇瑞是挑战——要么跟进A0级（五菱缤果转型但2026 H1 -79.3%），要么被边缘化。\n\n【信息源】\n[2026年上半年国内5万元以下乘用车销量同比暴跌55%，微型代步车市场集体遇冷]（https://so.html5.qq.com/page/real/search_news?docid=70000021_8496a79369700765）\n[5万元的小车卖不动，40万元以上的抢着买，微型代步车集体遇冷]（https://so.html5.qq.com/page/real/search_news?docid=70000021_2606a7836fc31152）\n[微型车“雪崩”！宏光MINI EV月销仅7133辆，为何卖不动了？]（https://so.html5.qq.com/page/real/search_news?docid=70000021_36969a95c8b64552）\n[五菱代步车全球销量突破300万辆，宏光MINIEV卖出195万辆]（https://so.html5.qq.com/page/real/search_news?docid=70000021_0916a7681a149452）\n[质次价高是微型电车遇冷原因，苹果卖出榴莲价谁还会买单？]（https://so.html5.qq.com/page/real/search_news?docid=70000021_8696a793ebe22852）\n[“剁椒鱼头”前5月销量下跌64%，曾经的国民神车跌落神坛]（https://so.html5.qq.com/page/real/search_news?docid=70000021_8526a45f59190552）\n[低端电动汽车销量为何下滑，没人喜欢小微型车了吗？]（https://so.html5.qq.com/page/real/search_news?docid=70000021_07269cb712654752）\n[【眼观】A0级小车市场变天，比亚迪海鸥的对手不止吉利星愿]（https://so.html5.qq.com/page/real/search_news?docid=70000021_18269d2f18d89252）\n中国汽车报行业预测（2025-12-22）：微型电车“电动化普及与消费认知分化”双重特征\n经济观察报深度评论（2025-11-28）：微型电车既要承担“普及者”角色，又面临品牌向上压力\n法治日报（2025-12-18）：“老头乐”挡风玻璃碎裂事件批评微型电车安全标准缺失\n中汽协、乘联分会2026年上半年汽车产销数据\n工信部《电动汽车用动力蓄电池安全要求》（2026-07实施）",
+   "impact": "",
+   "publish_time": "2026-08-10T18:24:24",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786357263326-%E4%BB%A3%E6%AD%A5%E8%BD%A6.webp",
+   "source": "日知录"
+  }
+ ],
+ "xwlb_raw": [
+  {
+   "id": "xwlb-0",
+   "title": "习近平就哥伦比亚发生强烈地震向哥伦比亚总统致慰问电",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-1",
+   "title": "【新思想引领新征程】织就更密更暖的社会保障安全网",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-2",
+   "title": "文献纪录片《江泽民》今晚开始播出",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-3",
+   "title": "各地抢抓农时做好田间管理",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-4",
+   "title": "“十五五”时期我国生态质量将稳步改善",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-5",
+   "title": "我国将加快打造现代煤炭产业体系",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-6",
+   "title": "各地各部门积极应对“白海豚”影响",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-7",
+   "title": "【党旗在基层一线高高飘扬】风雨中的暖心守护",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-8",
+   "title": "【文化中国行】古文字工程揭开上古历史面纱",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-9",
+   "title": "国内联播快讯",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-10",
+   "title": "上半年规模以上互联网企业完成互联网业务收入超万亿元",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-11",
+   "title": "“十五五”时期我国将建立国家不可移动文物资源总目录",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-12",
+   "title": "市场监管总局发布338项国家标准",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-13",
+   "title": "深化扫黑除恶专项斗争第一轮集中收网 抓获犯罪嫌疑人8200余名",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-14",
+   "title": "前7个月中老铁路进出口货值同比增长29.9%",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-15",
+   "title": "世界首台500兆瓦冲击式水电机组转子成功吊装",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-16",
+   "title": "第38届大众电影百花奖揭晓",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-17",
+   "title": "哥伦比亚发生7.5级强震 进入“国家灾难状态”",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-18",
+   "title": "美称完全控制霍尔木兹海峡 伊朗批评美封锁阻碍海峡恢复通航 伊朗最高领袖签署多份高层军事人员任命令",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-19",
+   "title": "数据显示美国7月平均气温达新高 欧洲多国遭遇大范围干旱 林火肆虐",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-20",
+   "title": "国际联播快讯",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-21",
+   "title": "联合国特使警告也门冲突升级",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-22",
+   "title": "以媒称约旦河西岸以定居者袭击事件飙升",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-23",
+   "title": "日元对美元汇率再次大幅下跌",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  },
+  {
+   "id": "xwlb-24",
+   "title": "三大洲足联再批国际足联",
+   "source": "新闻联播",
+   "date": "2026-08-11"
+  }
+ ]
 }

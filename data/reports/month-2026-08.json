@@ -3,8 +3,8 @@
  "label": "月报",
  "type": "month",
  "date_from": "2026-08-01",
- "date_to": "2026-08-11",
- "days": 11,
+ "date_to": "2026-08-12",
+ "days": 12,
  "dates": [
   "2026-08-01",
   "2026-08-02",
@@ -16,9 +16,10 @@
   "2026-08-08",
   "2026-08-09",
   "2026-08-10",
-  "2026-08-11"
+  "2026-08-11",
+  "2026-08-12"
  ],
- "avg_mood": 4.1,
+ "avg_mood": 3.8,
  "mood_series": [
   {
    "date": "2026-08-01",
@@ -63,6 +64,10 @@
   {
    "date": "2026-08-11",
    "mood": 9.4
+  },
+  {
+   "date": "2026-08-12",
+   "mood": 0
   }
  ],
  "keywords": [
@@ -320,34 +325,34 @@
  "sectors": [
   {
    "sector": "PCB",
-   "avg_score": 47.5,
-   "max_score": 47.5,
-   "min_score": 47.5,
-   "news_count": 3
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
   },
   {
    "sector": "中证A500",
-   "avg_score": 30.0,
-   "max_score": 30.0,
-   "min_score": 30.0,
-   "news_count": 12
-  },
-  {
-   "sector": "纳斯达克100",
-   "avg_score": 23.7,
-   "max_score": 23.7,
-   "min_score": 23.7,
-   "news_count": 5
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
   },
   {
    "sector": "中证红利低波",
-   "avg_score": 20.9,
-   "max_score": 20.9,
-   "min_score": 20.9,
-   "news_count": 8
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
   },
   {
    "sector": "港股创新药",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "纳斯达克100",
    "avg_score": 0.0,
    "max_score": 0.0,
    "min_score": 0.0,
@@ -356,10 +361,10 @@
  ],
  "nav_series": [
   {
-   "date": "2026-08-11",
-   "total": 3912.54,
-   "earn": 5.58,
-   "today_income": -9.92
+   "date": "2026-08-12",
+   "total": 3902.25,
+   "earn": 5.29,
+   "today_income": 18.44
   }
  ],
  "holding_change": [
@@ -368,17 +373,17 @@
    "name": "财通价值动量混合A",
    "sector": "PCB",
    "money": 997.32,
-   "weight": 25.49,
+   "weight": 25.56,
    "earn_pct": -0.27,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
   {
    "code": "007466",
-   "name": "华泰柏瑞中证红利低波ETF联接A",
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
    "sector": "中证红利低波",
    "money": 966.24,
-   "weight": 24.7,
+   "weight": 24.76,
    "earn_pct": -3.08,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
@@ -388,7 +393,7 @@
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
    "money": 829.88,
-   "weight": 21.21,
+   "weight": 21.27,
    "earn_pct": 3.74,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
@@ -398,7 +403,7 @@
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
    "money": 807.29,
-   "weight": 20.63,
+   "weight": 20.69,
    "earn_pct": 0.91,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
@@ -408,43 +413,23 @@
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "港股创新药",
    "money": 301.52,
-   "weight": 7.71,
+   "weight": 7.73,
    "earn_pct": 0.51,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
   {
    "code": "016452",
-   "name": "南方纳斯达克100指数发起(QDII)A",
+   "name": "南方纳斯达克100指数(QDII)A",
    "sector": "纳斯达克100",
-   "money": 10.29,
-   "weight": 0.26,
-   "earn_pct": 2.9,
+   "money": 0.0,
+   "weight": 0.0,
+   "earn_pct": 0.0,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   }
  ],
  "advice_consistency": [
-  {
-   "name": "财通价值动量混合A",
-   "dominant": "可考虑加仓",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "可考虑加仓": 1
-   }
-  },
-  {
-   "name": "南方纳斯达克100指数发起(QDII)A",
-   "dominant": "零头持仓·可并入同类",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "零头持仓·可并入同类": 1
-   }
-  },
   {
    "name": "广发港股创新药ETF联接(QDII)C",
    "dominant": "持有偏乐观",
@@ -456,33 +441,53 @@
    }
   },
   {
-   "name": "南方纳斯达克100指数发起(QDII)I",
-   "dominant": "持有偏乐观",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "持有偏乐观": 1
-   }
-  },
-  {
-   "name": "易方达中证A500ETF联接A",
-   "dominant": "持有偏乐观",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "持有偏乐观": 1
-   }
-  },
-  {
-   "name": "华泰柏瑞中证红利低波ETF联接A",
+   "name": "财通价值动量混合A",
    "dominant": "维持观望",
    "days": 1,
    "total_days": 1,
    "ratio": 100,
    "detail": {
     "维持观望": 1
+   }
+  },
+  {
+   "name": "南方纳斯达克100指数(QDII)A",
+   "dominant": "零头持仓·可并入同类",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "零头持仓·可并入同类": 1
+   }
+  },
+  {
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "dominant": "维持观望",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 1
+   }
+  },
+  {
+   "name": "易方达中证A500ETF联接A",
+   "dominant": "维持观望",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 1
+   }
+  },
+  {
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "dominant": "持有偏谨慎",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏谨慎": 1
    }
   }
  ],
@@ -632,6 +637,6 @@
   "news_total": 234,
   "xwlb_total": 247
  },
- "generated_at": "2026-08-11T14:07:53",
+ "generated_at": "2026-08-12T01:46:27",
  "type_label": "月报"
 }

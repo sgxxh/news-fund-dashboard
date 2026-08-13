@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-08-12",
+   "date": "2026-08-13",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 3902.25,
-   "total_earn": 5.29,
-   "today_income": 18.57,
-   "today_income_rate": 0.48,
-   "generated_at": "2026-08-12T01:46:27"
+   "total_money": 4152.15,
+   "total_earn": 19.3,
+   "today_income": 47.65,
+   "today_income_rate": 1.15,
+   "generated_at": "2026-08-13T01:49:37"
+  },
+  {
+   "date": "2026-08-12",
+   "title": "8月12日日知录-朱镕基逝世：中国经济转轨的一代伟大改革者谢幕",
+   "mood": 1.1,
+   "mood_level": "中性",
+   "news_total": 23,
+   "xwlb_total": 18,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-08-13T01:48:28"
   },
   {
    "date": "2026-08-11",
@@ -326,6 +339,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-08-12",
- "updated_at": "2026-08-12T07:48:58"
+ "latest": "2026-08-13",
+ "updated_at": "2026-08-13T01:49:37"
 }

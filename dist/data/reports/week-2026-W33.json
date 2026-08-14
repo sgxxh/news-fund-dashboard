@@ -3,15 +3,16 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-08-10",
- "date_to": "2026-08-13",
- "days": 4,
+ "date_to": "2026-08-14",
+ "days": 5,
  "dates": [
   "2026-08-10",
   "2026-08-11",
   "2026-08-12",
-  "2026-08-13"
+  "2026-08-13",
+  "2026-08-14"
  ],
- "avg_mood": 5.6,
+ "avg_mood": 6.8,
  "mood_series": [
   {
    "date": "2026-08-10",
@@ -27,259 +28,263 @@
   },
   {
    "date": "2026-08-13",
+   "mood": 11.5
+  },
+  {
+   "date": "2026-08-14",
    "mood": 0
   }
  ],
  "keywords": [
   {
-   "word": "银行",
-   "count": 86,
+   "word": "平台",
+   "count": 109,
    "weight": 1.0
   },
   {
-   "word": "平台",
-   "count": 83,
-   "weight": 0.965
+   "word": "银行",
+   "count": 96,
+   "weight": 0.881
+  },
+  {
+   "word": "日本",
+   "count": 95,
+   "weight": 0.872
   },
   {
    "word": "风险",
-   "count": 70,
-   "weight": 0.814
+   "count": 81,
+   "weight": 0.743
+  },
+  {
+   "word": "美国",
+   "count": 78,
+   "weight": 0.716
   },
   {
    "word": "资本",
    "count": 68,
-   "weight": 0.791
+   "weight": 0.624
   },
   {
    "word": "产品",
    "count": 67,
-   "weight": 0.779
+   "weight": 0.615
+  },
+  {
+   "word": "家庭",
+   "count": 66,
+   "weight": 0.606
   },
   {
    "word": "手机",
    "count": 65,
-   "weight": 0.756
+   "weight": 0.596
+  },
+  {
+   "word": "能力",
+   "count": 64,
+   "weight": 0.587
+  },
+  {
+   "word": "出口",
+   "count": 61,
+   "weight": 0.56
   },
   {
    "word": "客户",
    "count": 56,
-   "weight": 0.651
+   "weight": 0.514
+  },
+  {
+   "word": "服务",
+   "count": 56,
+   "weight": 0.514
   },
   {
    "word": "消费者",
    "count": 55,
-   "weight": 0.64
+   "weight": 0.505
   },
   {
    "word": "存款",
    "count": 54,
-   "weight": 0.628
-  },
-  {
-   "word": "日本",
-   "count": 52,
-   "weight": 0.605
-  },
-  {
-   "word": "美国",
-   "count": 52,
-   "weight": 0.605
+   "weight": 0.495
   },
   {
    "word": "全球",
    "count": 49,
-   "weight": 0.57
+   "weight": 0.45
   },
   {
-   "word": "家庭",
-   "count": 49,
-   "weight": 0.57
-  },
-  {
-   "word": "服务",
-   "count": 47,
-   "weight": 0.547
+   "word": "信息",
+   "count": 48,
+   "weight": 0.44
   },
   {
    "word": "成本",
    "count": 47,
-   "weight": 0.547
+   "weight": 0.431
   },
   {
    "word": "价格",
    "count": 46,
-   "weight": 0.535
+   "weight": 0.422
+  },
+  {
+   "word": "国家",
+   "count": 45,
+   "weight": 0.413
   },
   {
    "word": "孩子",
    "count": 43,
-   "weight": 0.5
-  },
-  {
-   "word": "出口",
-   "count": 42,
-   "weight": 0.488
+   "weight": 0.394
   },
   {
    "word": "品牌",
    "count": 41,
-   "weight": 0.477
+   "weight": 0.376
   },
   {
    "word": "订单",
    "count": 41,
-   "weight": 0.477
+   "weight": 0.376
   },
   {
    "word": "同比",
    "count": 41,
-   "weight": 0.477
+   "weight": 0.376
   },
   {
    "word": "机器人",
    "count": 41,
-   "weight": 0.477
+   "weight": 0.376
   },
   {
-   "word": "能力",
+   "word": "经营",
+   "count": 41,
+   "weight": 0.376
+  },
+  {
+   "word": "小时",
    "count": 38,
-   "weight": 0.442
+   "weight": 0.349
   },
   {
    "word": "设备",
    "count": 37,
-   "weight": 0.43
+   "weight": 0.339
   },
   {
    "word": "商家",
    "count": 36,
-   "weight": 0.419
+   "weight": 0.33
   },
   {
-   "word": "信息",
+   "word": "居民",
    "count": 36,
-   "weight": 0.419
+   "weight": 0.33
   },
   {
    "word": "利率",
    "count": 34,
-   "weight": 0.395
+   "weight": 0.312
   },
   {
    "word": "调查",
    "count": 33,
-   "weight": 0.384
+   "weight": 0.303
   },
   {
    "word": "人员",
    "count": 33,
-   "weight": 0.384
+   "weight": 0.303
   },
   {
    "word": "新能源",
    "count": 33,
-   "weight": 0.384
+   "weight": 0.303
+  },
+  {
+   "word": "城市",
+   "count": 33,
+   "weight": 0.303
   },
   {
    "word": "消费",
    "count": 32,
-   "weight": 0.372
+   "weight": 0.294
+  },
+  {
+   "word": "稀土",
+   "count": 31,
+   "weight": 0.284
   },
   {
    "word": "培训",
    "count": 31,
-   "weight": 0.36
+   "weight": 0.284
   },
   {
-   "word": "经营",
+   "word": "湖人",
+   "count": 31,
+   "weight": 0.284
+  },
+  {
+   "word": "安全",
    "count": 30,
-   "weight": 0.349
+   "weight": 0.275
   },
   {
    "word": "销量",
    "count": 29,
-   "weight": 0.337
+   "weight": 0.266
   },
   {
    "word": "技术",
    "count": 29,
-   "weight": 0.337
-  },
-  {
-   "word": "国家",
-   "count": 28,
-   "weight": 0.326
+   "weight": 0.266
   },
   {
    "word": "商品",
    "count": 27,
-   "weight": 0.314
+   "weight": 0.248
+  },
+  {
+   "word": "统一",
+   "count": 26,
+   "weight": 0.239
   },
   {
    "word": "汽车",
    "count": 26,
-   "weight": 0.302
+   "weight": 0.239
   },
   {
    "word": "经济",
    "count": 25,
-   "weight": 0.291
+   "weight": 0.229
   },
   {
-   "word": "居民",
+   "word": "证明",
+   "count": 25,
+   "weight": 0.229
+  },
+  {
+   "word": "影响",
    "count": 24,
-   "weight": 0.279
+   "weight": 0.22
   },
   {
    "word": "资金",
    "count": 24,
-   "weight": 0.279
+   "weight": 0.22
   },
   {
    "word": "遗体",
    "count": 24,
-   "weight": 0.279
-  },
-  {
-   "word": "压力",
-   "count": 23,
-   "weight": 0.267
-  },
-  {
-   "word": "分红险",
-   "count": 23,
-   "weight": 0.267
-  },
-  {
-   "word": "规则",
-   "count": 23,
-   "weight": 0.267
-  },
-  {
-   "word": "芯片",
-   "count": 22,
-   "weight": 0.256
-  },
-  {
-   "word": "机构",
-   "count": 22,
-   "weight": 0.256
-  },
-  {
-   "word": "系统",
-   "count": 22,
-   "weight": 0.256
-  },
-  {
-   "word": "GPU",
-   "count": 21,
-   "weight": 0.244
-  },
-  {
-   "word": "安全",
-   "count": 21,
-   "weight": 0.244
+   "weight": 0.22
   }
  ],
  "sectors": [
@@ -305,6 +310,13 @@
    "news_count": 0
   },
   {
+   "sector": "混债",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
    "sector": "港股创新药",
    "avg_score": 0.0,
    "max_score": 0.0,
@@ -321,20 +333,30 @@
  ],
  "nav_series": [
   {
-   "date": "2026-08-13",
-   "total": 4152.15,
-   "earn": 19.3,
-   "today_income": 47.65
+   "date": "2026-08-14",
+   "total": 4199.46,
+   "earn": 39.69,
+   "today_income": 29.07
   }
  ],
  "holding_change": [
   {
+   "code": "022459",
+   "name": "易方达中证A500ETF联接A",
+   "sector": "中证A500",
+   "money": 1309.07,
+   "weight": 31.17,
+   "earn_pct": 2.02,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
-   "money": 1054.44,
-   "weight": 25.4,
-   "earn_pct": 0.42,
+   "money": 1111.42,
+   "weight": 26.47,
+   "earn_pct": 1.04,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -342,29 +364,9 @@
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 999.98,
-   "weight": 24.08,
-   "earn_pct": 1.43,
-   "money_delta": 0.0,
-   "earn_pct_delta": 0.0
-  },
-  {
-   "code": "007466",
-   "name": "华泰柏瑞中证红利低波动ETF联接A",
-   "sector": "中证红利低波",
-   "money": 962.27,
-   "weight": 23.18,
-   "earn_pct": -3.48,
-   "money_delta": 0.0,
-   "earn_pct_delta": 0.0
-  },
-  {
-   "code": "022459",
-   "name": "易方达中证A500ETF联接A",
-   "sector": "中证A500",
-   "money": 835.84,
-   "weight": 20.13,
-   "earn_pct": 4.48,
+   "money": 995.45,
+   "weight": 23.7,
+   "earn_pct": 0.97,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -372,14 +374,64 @@
    "code": "019671",
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "港股创新药",
-   "money": 299.62,
-   "weight": 7.22,
-   "earn_pct": -0.13,
+   "money": 301.83,
+   "weight": 7.19,
+   "earn_pct": 0.61,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "000143",
+   "name": "鹏华双债加利债券A",
+   "sector": "混债",
+   "money": 241.34,
+   "weight": 5.75,
+   "earn_pct": -0.09,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "007466",
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "sector": "中证红利低波",
+   "money": 240.35,
+   "weight": 5.72,
+   "earn_pct": -3.57,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   }
  ],
  "advice_consistency": [
+  {
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "鹏华双债加利债券A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
   {
    "name": "财通价值动量混合A",
    "dominant": "持有偏乐观",
@@ -388,26 +440,6 @@
    "ratio": 100,
    "detail": {
     "持有偏乐观": 1
-   }
-  },
-  {
-   "name": "广发港股创新药ETF联接(QDII)C",
-   "dominant": "持有偏乐观",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "持有偏乐观": 1
-   }
-  },
-  {
-   "name": "易方达中证A500ETF联接A",
-   "dominant": "维持观望",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "维持观望": 1
    }
   },
   {
@@ -421,17 +453,24 @@
    }
   },
   {
-   "name": "华泰柏瑞中证红利低波动ETF联接A",
-   "dominant": "维持观望",
+   "name": "易方达中证A500ETF联接A",
+   "dominant": "持有偏谨慎",
    "days": 1,
    "total_days": 1,
    "ratio": 100,
    "detail": {
-    "维持观望": 1
+    "持有偏谨慎": 1
    }
   }
  ],
  "top_events": [
+  {
+   "date": "2026-08-13",
+   "title": "美国发布了《太空威胁清单》，我们才知道中国航天这些年有多牛",
+   "heat": 98.0,
+   "sentiment": 7,
+   "category": "时政"
+  },
   {
    "date": "2026-08-12",
    "title": "8月12日纪事｜朱镕基逝世：中国经济转轨的一代伟大改革者谢幕",
@@ -503,6 +542,13 @@
    "category": "财经"
   },
   {
+   "date": "2026-08-13",
+   "title": "浙江建成93个外卖集聚区：6亿人点外卖，不该有“找不到的厨房”",
+   "heat": 93.0,
+   "sentiment": 4,
+   "category": "社会"
+  },
+  {
    "date": "2026-08-11",
    "title": "人民币对美元即期汇率升至6.7439，42个月新高且年内涨近3.5%",
    "heat": 80.0,
@@ -515,12 +561,26 @@
    "heat": 94.0,
    "sentiment": -3,
    "category": "财经"
+  },
+  {
+   "date": "2026-08-13",
+   "title": "张雪机车获红杉中国独家投资，今年营收或达25亿元",
+   "heat": 86.0,
+   "sentiment": 5,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-13",
+   "title": "8月13日话题｜多活了一个小时，不应成为失去工伤保障的理由",
+   "heat": 96.0,
+   "sentiment": -1,
+   "category": "话题"
   }
  ],
  "stats": {
-  "news_total": 64,
-  "xwlb_total": 65
+  "news_total": 85,
+  "xwlb_total": 90
  },
- "generated_at": "2026-08-13T01:49:37",
+ "generated_at": "2026-08-14T01:46:47",
  "type_label": "周报"
 }

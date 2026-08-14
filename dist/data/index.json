@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-08-13",
+   "date": "2026-08-14",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 4152.15,
-   "total_earn": 19.3,
-   "today_income": -1.08,
-   "today_income_rate": -0.03,
-   "generated_at": "2026-08-13T01:49:37"
+   "total_money": 4199.46,
+   "total_earn": 39.69,
+   "today_income": 29.07,
+   "today_income_rate": 0.69,
+   "generated_at": "2026-08-14T01:46:47"
+  },
+  {
+   "date": "2026-08-13",
+   "title": "8月13日日知录-东亚三国杀：中国潜射战略导弹亮剑，朝鲜日本坐不住了",
+   "mood": 11.5,
+   "mood_level": "中性",
+   "news_total": 21,
+   "xwlb_total": 25,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-08-14T01:46:28"
   },
   {
    "date": "2026-08-12",
@@ -339,6 +352,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-08-13",
- "updated_at": "2026-08-13T07:50:16"
+ "latest": "2026-08-14",
+ "updated_at": "2026-08-14T01:46:47"
 }

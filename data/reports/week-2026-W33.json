@@ -3,16 +3,17 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-08-10",
- "date_to": "2026-08-14",
- "days": 5,
+ "date_to": "2026-08-16",
+ "days": 6,
  "dates": [
   "2026-08-10",
   "2026-08-11",
   "2026-08-12",
   "2026-08-13",
-  "2026-08-14"
+  "2026-08-14",
+  "2026-08-16"
  ],
- "avg_mood": 6.8,
+ "avg_mood": 4.5,
  "mood_series": [
   {
    "date": "2026-08-10",
@@ -33,6 +34,10 @@
   {
    "date": "2026-08-14",
    "mood": 0
+  },
+  {
+   "date": "2026-08-16",
+   "mood": -7.0
   }
  ],
  "keywords": [
@@ -40,6 +45,11 @@
    "word": "平台",
    "count": 109,
    "weight": 1.0
+  },
+  {
+   "word": "美国",
+   "count": 108,
+   "weight": 0.991
   },
   {
    "word": "银行",
@@ -53,13 +63,33 @@
   },
   {
    "word": "风险",
+   "count": 91,
+   "weight": 0.835
+  },
+  {
+   "word": "能力",
+   "count": 84,
+   "weight": 0.771
+  },
+  {
+   "word": "服务",
    "count": 81,
    "weight": 0.743
   },
   {
-   "word": "美国",
-   "count": 78,
-   "weight": 0.716
+   "word": "手机",
+   "count": 77,
+   "weight": 0.706
+  },
+  {
+   "word": "成本",
+   "count": 69,
+   "weight": 0.633
+  },
+  {
+   "word": "培训",
+   "count": 69,
+   "weight": 0.633
   },
   {
    "word": "资本",
@@ -77,12 +107,12 @@
    "weight": 0.606
   },
   {
-   "word": "手机",
+   "word": "全球",
    "count": 65,
    "weight": 0.596
   },
   {
-   "word": "能力",
+   "word": "国家",
    "count": 64,
    "weight": 0.587
   },
@@ -92,12 +122,27 @@
    "weight": 0.56
   },
   {
-   "word": "客户",
-   "count": 56,
-   "weight": 0.514
+   "word": "信息",
+   "count": 61,
+   "weight": 0.56
   },
   {
-   "word": "服务",
+   "word": "价格",
+   "count": 60,
+   "weight": 0.55
+  },
+  {
+   "word": "品牌",
+   "count": 58,
+   "weight": 0.532
+  },
+  {
+   "word": "人员",
+   "count": 58,
+   "weight": 0.532
+  },
+  {
+   "word": "客户",
    "count": 56,
    "weight": 0.514
   },
@@ -112,39 +157,14 @@
    "weight": 0.495
   },
   {
-   "word": "全球",
-   "count": 49,
-   "weight": 0.45
-  },
-  {
-   "word": "信息",
-   "count": 48,
-   "weight": 0.44
-  },
-  {
-   "word": "成本",
-   "count": 47,
-   "weight": 0.431
-  },
-  {
-   "word": "价格",
-   "count": 46,
-   "weight": 0.422
-  },
-  {
-   "word": "国家",
-   "count": 45,
-   "weight": 0.413
-  },
-  {
    "word": "孩子",
+   "count": 53,
+   "weight": 0.486
+  },
+  {
+   "word": "安全",
    "count": 43,
    "weight": 0.394
-  },
-  {
-   "word": "品牌",
-   "count": 41,
-   "weight": 0.376
   },
   {
    "word": "订单",
@@ -167,6 +187,16 @@
    "weight": 0.376
   },
   {
+   "word": "技术",
+   "count": 41,
+   "weight": 0.376
+  },
+  {
+   "word": "销量",
+   "count": 39,
+   "weight": 0.358
+  },
+  {
    "word": "小时",
    "count": 38,
    "weight": 0.349
@@ -177,12 +207,27 @@
    "weight": 0.339
   },
   {
+   "word": "汽车",
+   "count": 37,
+   "weight": 0.339
+  },
+  {
    "word": "商家",
    "count": 36,
    "weight": 0.33
   },
   {
+   "word": "影响",
+   "count": 36,
+   "weight": 0.33
+  },
+  {
    "word": "居民",
+   "count": 36,
+   "weight": 0.33
+  },
+  {
+   "word": "变化",
    "count": 36,
    "weight": 0.33
   },
@@ -197,12 +242,12 @@
    "weight": 0.303
   },
   {
-   "word": "人员",
+   "word": "新能源",
    "count": 33,
    "weight": 0.303
   },
   {
-   "word": "新能源",
+   "word": "规则",
    "count": 33,
    "weight": 0.303
   },
@@ -217,12 +262,17 @@
    "weight": 0.294
   },
   {
-   "word": "稀土",
+   "word": "系统",
+   "count": 32,
+   "weight": 0.294
+  },
+  {
+   "word": "芯片",
    "count": 31,
    "weight": 0.284
   },
   {
-   "word": "培训",
+   "word": "稀土",
    "count": 31,
    "weight": 0.284
   },
@@ -230,21 +280,6 @@
    "word": "湖人",
    "count": 31,
    "weight": 0.284
-  },
-  {
-   "word": "安全",
-   "count": 30,
-   "weight": 0.275
-  },
-  {
-   "word": "销量",
-   "count": 29,
-   "weight": 0.266
-  },
-  {
-   "word": "技术",
-   "count": 29,
-   "weight": 0.266
   },
   {
    "word": "商品",
@@ -255,36 +290,6 @@
    "word": "统一",
    "count": 26,
    "weight": 0.239
-  },
-  {
-   "word": "汽车",
-   "count": 26,
-   "weight": 0.239
-  },
-  {
-   "word": "经济",
-   "count": 25,
-   "weight": 0.229
-  },
-  {
-   "word": "证明",
-   "count": 25,
-   "weight": 0.229
-  },
-  {
-   "word": "影响",
-   "count": 24,
-   "weight": 0.22
-  },
-  {
-   "word": "资金",
-   "count": 24,
-   "weight": 0.22
-  },
-  {
-   "word": "遗体",
-   "count": 24,
-   "weight": 0.22
   }
  ],
  "sectors": [
@@ -336,7 +341,7 @@
    "date": "2026-08-14",
    "total": 4199.46,
    "earn": 39.69,
-   "today_income": 29.07
+   "today_income": 28.64
   }
  ],
  "holding_change": [
@@ -465,6 +470,13 @@
  ],
  "top_events": [
   {
+   "date": "2026-08-16",
+   "title": "中欧北极快航排定8个航次：中国开始为全球贸易准备第二张船票",
+   "heat": 94.0,
+   "sentiment": -10,
+   "category": "财经"
+  },
+  {
    "date": "2026-08-13",
    "title": "美国发布了《太空威胁清单》，我们才知道中国航天这些年有多牛",
    "heat": 98.0,
@@ -484,6 +496,13 @@
    "heat": 96.0,
    "sentiment": 7,
    "category": "科技"
+  },
+  {
+   "date": "2026-08-16",
+   "title": "美国对华围堵升级：指责40国帮中国转运商品，拉35国排斥中国AI",
+   "heat": 96.0,
+   "sentiment": -5,
+   "category": "时政"
   },
   {
    "date": "2026-08-10",
@@ -535,6 +554,13 @@
    "category": "科技"
   },
   {
+   "date": "2026-08-16",
+   "title": "中国就业政策正在经历结构性变化，“十五五”规划培训5000万人次",
+   "heat": 97.0,
+   "sentiment": 3,
+   "category": "时政"
+  },
+  {
    "date": "2026-08-11",
    "title": "分红险半年保费破万亿超去年全年：居民越求稳，险企承诺越少",
    "heat": 99.0,
@@ -570,6 +596,13 @@
    "category": "财经"
   },
   {
+   "date": "2026-08-16",
+   "title": "多瑙河跌破核电站“百年低水位”设计线：缺水冲击中东欧能源系统",
+   "heat": 86.0,
+   "sentiment": -5,
+   "category": "社会"
+  },
+  {
    "date": "2026-08-13",
    "title": "8月13日话题｜多活了一个小时，不应成为失去工伤保障的理由",
    "heat": 96.0,
@@ -578,9 +611,9 @@
   }
  ],
  "stats": {
-  "news_total": 85,
-  "xwlb_total": 90
+  "news_total": 107,
+  "xwlb_total": 113
  },
- "generated_at": "2026-08-14T01:46:47",
+ "generated_at": "2026-08-17T01:07:59",
  "type_label": "周报"
 }

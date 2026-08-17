@@ -8,7 +8,7 @@
   "reason": "",
   "summary": {
    "hold_cost": 4209.78,
-   "today_income": 31.83,
+   "today_income": 31.77,
    "today_income_rate": 0.74,
    "total_money": 4276.79,
    "total_earn": 67.0,
@@ -96,11 +96,11 @@
     "nav": 1.3221,
     "day_pct": -2.38,
     "nav_date": "2026-08-14",
-    "est_pct": 1.76,
+    "est_pct": 1.74,
     "est_date": "2026-08-17",
     "year_pct": 5.38,
     "sector": "港股创新药",
-    "sector_pct": 1.76,
+    "sector_pct": 1.74,
     "market_type": "hk",
     "weight": 6.89
    },

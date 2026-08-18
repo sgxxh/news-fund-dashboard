@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-08-17",
+   "date": "2026-08-18",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 4276.79,
-   "total_earn": 67.0,
-   "today_income": 56.99,
-   "today_income_rate": 1.33,
-   "generated_at": "2026-08-17T01:07:59"
+   "total_money": 4388.56,
+   "total_earn": 128.76,
+   "today_income": 68.24,
+   "today_income_rate": 1.56,
+   "generated_at": "2026-08-18T01:06:01"
+  },
+  {
+   "date": "2026-08-17",
+   "title": "8月17日日知录-《牛来》荒诞逆袭：差评负责宣发，“牛”字闯进股市",
+   "mood": -11.8,
+   "mood_level": "中性",
+   "news_total": 18,
+   "xwlb_total": 20,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-08-18T01:05:44"
   },
   {
    "date": "2026-08-16",
@@ -378,6 +391,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-08-17",
- "updated_at": "2026-08-17T08:22:33"
+ "latest": "2026-08-18",
+ "updated_at": "2026-08-18T01:06:01"
 }

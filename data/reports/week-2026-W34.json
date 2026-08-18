@@ -3,19 +3,275 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-08-17",
- "date_to": "2026-08-17",
- "days": 1,
+ "date_to": "2026-08-18",
+ "days": 2,
  "dates": [
-  "2026-08-17"
+  "2026-08-17",
+  "2026-08-18"
  ],
- "avg_mood": 0.0,
+ "avg_mood": -5.9,
  "mood_series": [
   {
    "date": "2026-08-17",
+   "mood": -11.8
+  },
+  {
+   "date": "2026-08-18",
    "mood": 0
   }
  ],
- "keywords": [],
+ "keywords": [
+  {
+   "word": "日本",
+   "count": 31,
+   "weight": 1.0
+  },
+  {
+   "word": "俄罗斯",
+   "count": 31,
+   "weight": 1.0
+  },
+  {
+   "word": "安全",
+   "count": 27,
+   "weight": 0.871
+  },
+  {
+   "word": "服务",
+   "count": 26,
+   "weight": 0.839
+  },
+  {
+   "word": "国家",
+   "count": 26,
+   "weight": 0.839
+  },
+  {
+   "word": "土地",
+   "count": 25,
+   "weight": 0.806
+  },
+  {
+   "word": "紫光",
+   "count": 25,
+   "weight": 0.806
+  },
+  {
+   "word": "小时",
+   "count": 24,
+   "weight": 0.774
+  },
+  {
+   "word": "谷爱凌",
+   "count": 20,
+   "weight": 0.645
+  },
+  {
+   "word": "集团",
+   "count": 19,
+   "weight": 0.613
+  },
+  {
+   "word": "网友",
+   "count": 19,
+   "weight": 0.613
+  },
+  {
+   "word": "模型",
+   "count": 19,
+   "weight": 0.613
+  },
+  {
+   "word": "公子",
+   "count": 19,
+   "weight": 0.613
+  },
+  {
+   "word": "职业",
+   "count": 18,
+   "weight": 0.581
+  },
+  {
+   "word": "机构",
+   "count": 18,
+   "weight": 0.581
+  },
+  {
+   "word": "阿联酋",
+   "count": 18,
+   "weight": 0.581
+  },
+  {
+   "word": "部门",
+   "count": 17,
+   "weight": 0.548
+  },
+  {
+   "word": "能力",
+   "count": 17,
+   "weight": 0.548
+  },
+  {
+   "word": "孩子",
+   "count": 17,
+   "weight": 0.548
+  },
+  {
+   "word": "平台",
+   "count": 16,
+   "weight": 0.516
+  },
+  {
+   "word": "证明",
+   "count": 16,
+   "weight": 0.516
+  },
+  {
+   "word": "水印",
+   "count": 15,
+   "weight": 0.484
+  },
+  {
+   "word": "电影",
+   "count": 14,
+   "weight": 0.452
+  },
+  {
+   "word": "数字",
+   "count": 14,
+   "weight": 0.452
+  },
+  {
+   "word": "家长",
+   "count": 14,
+   "weight": 0.452
+  },
+  {
+   "word": "核电",
+   "count": 14,
+   "weight": 0.452
+  },
+  {
+   "word": "入学",
+   "count": 14,
+   "weight": 0.452
+  },
+  {
+   "word": "观众",
+   "count": 13,
+   "weight": 0.419
+  },
+  {
+   "word": "现实",
+   "count": 13,
+   "weight": 0.419
+  },
+  {
+   "word": "无法",
+   "count": 13,
+   "weight": 0.419
+  },
+  {
+   "word": "程序",
+   "count": 13,
+   "weight": 0.419
+  },
+  {
+   "word": "调查",
+   "count": 13,
+   "weight": 0.419
+  },
+  {
+   "word": "学员",
+   "count": 13,
+   "weight": 0.419
+  },
+  {
+   "word": "核电站",
+   "count": 13,
+   "weight": 0.419
+  },
+  {
+   "word": "话术",
+   "count": 13,
+   "weight": 0.419
+  },
+  {
+   "word": "信息",
+   "count": 12,
+   "weight": 0.387
+  },
+  {
+   "word": "风险",
+   "count": 12,
+   "weight": 0.387
+  },
+  {
+   "word": "材料",
+   "count": 12,
+   "weight": 0.387
+  },
+  {
+   "word": "全部",
+   "count": 12,
+   "weight": 0.387
+  },
+  {
+   "word": "普京",
+   "count": 12,
+   "weight": 0.387
+  },
+  {
+   "word": "军事",
+   "count": 12,
+   "weight": 0.387
+  },
+  {
+   "word": "飞行员",
+   "count": 12,
+   "weight": 0.387
+  },
+  {
+   "word": "伊朗",
+   "count": 12,
+   "weight": 0.387
+  },
+  {
+   "word": "活动",
+   "count": 11,
+   "weight": 0.355
+  },
+  {
+   "word": "记录",
+   "count": 11,
+   "weight": 0.355
+  },
+  {
+   "word": "考核",
+   "count": 11,
+   "weight": 0.355
+  },
+  {
+   "word": "训练",
+   "count": 11,
+   "weight": 0.355
+  },
+  {
+   "word": "身份",
+   "count": 11,
+   "weight": 0.355
+  },
+  {
+   "word": "标准",
+   "count": 11,
+   "weight": 0.355
+  },
+  {
+   "word": "上门",
+   "count": 11,
+   "weight": 0.355
+  }
+ ],
  "sectors": [
   {
    "sector": "PCB",
@@ -62,10 +318,10 @@
  ],
  "nav_series": [
   {
-   "date": "2026-08-17",
-   "total": 4276.79,
-   "earn": 67.0,
-   "today_income": 26.81
+   "date": "2026-08-18",
+   "total": 4388.56,
+   "earn": 128.76,
+   "today_income": 68.24
   }
  ],
  "holding_change": [
@@ -73,9 +329,9 @@
    "code": "022459",
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
-   "money": 1311.52,
-   "weight": 30.67,
-   "earn_pct": 2.21,
+   "money": 1335.55,
+   "weight": 30.43,
+   "earn_pct": 4.09,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -83,9 +339,9 @@
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
-   "money": 1173.5,
-   "weight": 27.44,
-   "earn_pct": 2.04,
+   "money": 1221.95,
+   "weight": 27.84,
+   "earn_pct": 1.83,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -93,9 +349,9 @@
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 1015.89,
-   "weight": 23.75,
-   "earn_pct": 3.04,
+   "money": 1050.03,
+   "weight": 23.93,
+   "earn_pct": 6.5,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -103,9 +359,9 @@
    "code": "019671",
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "港股创新药",
-   "money": 294.63,
-   "weight": 6.89,
-   "earn_pct": -1.79,
+   "money": 296.79,
+   "weight": 6.76,
+   "earn_pct": -1.07,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -113,9 +369,9 @@
    "code": "000143",
    "name": "鹏华双债加利债券A",
    "sector": "混债",
-   "money": 241.7,
-   "weight": 5.65,
-   "earn_pct": 0.06,
+   "money": 244.27,
+   "weight": 5.57,
+   "earn_pct": 1.13,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -123,9 +379,9 @@
    "code": "007466",
    "name": "华泰柏瑞中证红利低波ETF联接A",
    "sector": "中证红利低波",
-   "money": 239.55,
-   "weight": 5.6,
-   "earn_pct": -3.89,
+   "money": 239.97,
+   "weight": 5.47,
+   "earn_pct": -3.72,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   }
@@ -152,7 +408,7 @@
    }
   },
   {
-   "name": "华泰柏瑞中证红利低波ETF联接A",
+   "name": "广发港股创新药ETF联接(QDII)C",
    "dominant": "持有偏乐观",
    "days": 1,
    "total_days": 1,
@@ -162,13 +418,13 @@
    }
   },
   {
-   "name": "广发港股创新药ETF联接(QDII)C",
-   "dominant": "维持观望",
+   "name": "华泰柏瑞中证红利低波ETF联接A",
+   "dominant": "持有偏乐观",
    "days": 1,
    "total_days": 1,
    "ratio": 100,
    "detail": {
-    "维持观望": 1
+    "持有偏乐观": 1
    }
   },
   {
@@ -183,20 +439,49 @@
   },
   {
    "name": "易方达中证A500ETF联接A",
-   "dominant": "持有偏谨慎",
+   "dominant": "维持观望",
    "days": 1,
    "total_days": 1,
    "ratio": 100,
    "detail": {
-    "持有偏谨慎": 1
+    "维持观望": 1
    }
   }
  ],
- "top_events": [],
+ "top_events": [
+  {
+   "date": "2026-08-17",
+   "title": "多瑙河水位暴跌：罗马尼亚200万欧元“搬河”，仍没保住核电站",
+   "heat": 91.0,
+   "sentiment": -11,
+   "category": "科技"
+  },
+  {
+   "date": "2026-08-17",
+   "title": "《牛来》完成荒诞“赛博团建”：差评负责宣发，“牛”字闯进股市",
+   "heat": 96.0,
+   "sentiment": 4,
+   "category": "社会"
+  },
+  {
+   "date": "2026-08-17",
+   "title": "8月17日话题｜“巨婴式维权”消耗公共资源，最可怕是证明“闹有用”",
+   "heat": 96.0,
+   "sentiment": -4,
+   "category": "话题"
+  },
+  {
+   "date": "2026-08-17",
+   "title": "紫光集团旗下企业在东莞17亿拍下土地，政府为何无偿收回？",
+   "heat": 88.0,
+   "sentiment": -6,
+   "category": "分辨"
+  }
+ ],
  "stats": {
-  "news_total": 0,
-  "xwlb_total": 0
+  "news_total": 18,
+  "xwlb_total": 20
  },
- "generated_at": "2026-08-17T01:07:59",
+ "generated_at": "2026-08-18T01:06:01",
  "type_label": "周报"
 }

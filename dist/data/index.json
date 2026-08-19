@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-08-18",
+   "date": "2026-08-19",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 4388.56,
-   "total_earn": 128.76,
-   "today_income": -10.47,
-   "today_income_rate": -0.24,
-   "generated_at": "2026-08-18T01:06:01"
+   "total_money": 4428.26,
+   "total_earn": 118.45,
+   "today_income": -37.0,
+   "today_income_rate": -0.84,
+   "generated_at": "2026-08-19T01:06:59"
+  },
+  {
+   "date": "2026-08-18",
+   "title": "8月18日日知录-9部门发文活跃县域消费，将深化千集万店改造提升",
+   "mood": 3.1,
+   "mood_level": "中性",
+   "news_total": 22,
+   "xwlb_total": 26,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-08-19T01:06:43"
   },
   {
    "date": "2026-08-17",
@@ -391,6 +404,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-08-18",
- "updated_at": "2026-08-18T07:52:27"
+ "latest": "2026-08-19",
+ "updated_at": "2026-08-19T01:06:59"
 }

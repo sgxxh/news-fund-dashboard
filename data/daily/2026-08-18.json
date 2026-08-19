@@ -1,382 +1,2068 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T01:06:01",
+ "generated_at": "2026-08-19T01:06:43",
  "session": "auto",
- "digest_title": "",
+ "digest_title": "8月18日日知录-9部门发文活跃县域消费，将深化千集万店改造提升",
  "funds": {
-  "ok": true,
-  "reason": "",
-  "summary": {
-   "hold_cost": 4259.8,
-   "today_income": -10.47,
-   "today_income_rate": -0.24,
-   "total_money": 4388.56,
-   "total_earn": 128.76,
-   "count": 6,
-   "total_earn_pct": 3.02
-  },
-  "holdings": [
-   {
-    "account": "默认",
-    "fund_id": "25645",
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "money": 1335.55,
-    "earn": 52.45,
-    "earn_pct": 4.09,
-    "share": 1022.47,
-    "cost": 1.2549,
-    "category": 3,
-    "nav": 1.3062,
-    "day_pct": 1.83,
-    "nav_date": "2026-08-17",
-    "est_pct": -0.32,
-    "est_date": "2026-08-18",
-    "year_pct": 6.11,
-    "sector": "中证A500",
-    "sector_pct": -0.32,
-    "market_type": "ch",
-    "weight": 30.43
-   },
-   {
-    "account": "默认",
-    "fund_id": "23918",
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 1221.95,
-    "earn": 21.95,
-    "earn_pct": 1.83,
-    "share": 523.88,
-    "cost": 2.2906,
-    "category": 3,
-    "nav": 2.3325,
-    "day_pct": -0.13,
-    "nav_date": "2026-08-14",
-    "est_pct": -0.17,
-    "est_date": "2026-08-17",
-    "year_pct": 13.85,
-    "sector": "纳斯达克100",
-    "sector_pct": -0.17,
-    "market_type": "us",
-    "weight": 27.84
-   },
-   {
-    "account": "默认",
-    "fund_id": "138",
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "money": 1050.03,
-    "earn": 64.13,
-    "earn_pct": 6.5,
-    "share": 66.55,
-    "cost": 14.81442524,
-    "category": 1,
-    "nav": 15.778,
-    "day_pct": 3.36,
-    "nav_date": "2026-08-17",
-    "est_pct": -0.92,
-    "est_date": "2026-08-18",
-    "year_pct": 91.81,
-    "sector": "PCB",
-    "sector_pct": -1.17,
-    "market_type": "ch",
-    "weight": 23.93
-   },
-   {
-    "account": "默认",
-    "fund_id": "22504",
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "money": 296.79,
-    "earn": -3.21,
-    "earn_pct": -1.07,
-    "share": 222.85,
-    "cost": 1.34619699,
-    "category": 6,
-    "nav": 1.3318,
-    "day_pct": 0.73,
-    "nav_date": "2026-08-17",
-    "est_pct": 1.43,
-    "est_date": "2026-08-18",
-    "year_pct": 6.15,
-    "sector": "港股创新药",
-    "sector_pct": 1.43,
-    "market_type": "hk",
-    "weight": 6.76
-   },
-   {
-    "account": "默认",
-    "fund_id": "11353",
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "money": 244.27,
-    "earn": 2.72,
-    "earn_pct": 1.13,
-    "share": 109.78,
-    "cost": 2.20030971,
-    "category": 2,
-    "nav": 2.2251,
-    "day_pct": 1.06,
-    "nav_date": "2026-08-17",
-    "est_pct": 0.19,
-    "est_date": "2026-08-18",
-    "year_pct": 7.44,
-    "sector": "混债",
-    "sector_pct": -0.01,
-    "market_type": "ch",
-    "weight": 5.57
-   },
-   {
-    "account": "默认",
-    "fund_id": "5773",
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波ETF联接A",
-    "money": 239.97,
-    "earn": -9.28,
-    "earn_pct": -3.72,
-    "share": 150.67,
-    "cost": 1.6542938,
-    "category": 3,
-    "nav": 1.5927,
-    "day_pct": 0.18,
-    "nav_date": "2026-08-17",
-    "est_pct": 0.35,
-    "est_date": "2026-08-18",
-    "year_pct": -1.5,
-    "sector": "中证红利低波",
-    "sector_pct": 0.35,
-    "market_type": "ch",
-    "weight": 5.47
-   }
-  ],
+  "ok": false,
+  "reason": "HISTORICAL_NO_SNAPSHOT",
+  "summary": {},
+  "holdings": [],
   "index": []
  },
  "analysis": {
-  "keywords": [],
-  "market_mood": 0,
+  "keywords": [
+   {
+    "word": "城市",
+    "count": 43,
+    "weight": 1.0
+   },
+   {
+    "word": "单位",
+    "count": 32,
+    "weight": 0.744
+   },
+   {
+    "word": "骑手",
+    "count": 30,
+    "weight": 0.698
+   },
+   {
+    "word": "大疆",
+    "count": 28,
+    "weight": 0.651
+   },
+   {
+    "word": "美国",
+    "count": 27,
+    "weight": 0.628
+   },
+   {
+    "word": "住房",
+    "count": 26,
+    "weight": 0.605
+   },
+   {
+    "word": "以色列",
+    "count": 25,
+    "weight": 0.581
+   },
+   {
+    "word": "公积金",
+    "count": 25,
+    "weight": 0.581
+   },
+   {
+    "word": "枪支",
+    "count": 25,
+    "weight": 0.581
+   },
+   {
+    "word": "制度",
+    "count": 22,
+    "weight": 0.512
+   },
+   {
+    "word": "上海",
+    "count": 22,
+    "weight": 0.512
+   },
+   {
+    "word": "法院",
+    "count": 20,
+    "weight": 0.465
+   },
+   {
+    "word": "国家",
+    "count": 19,
+    "weight": 0.442
+   },
+   {
+    "word": "平台",
+    "count": 19,
+    "weight": 0.442
+   },
+   {
+    "word": "能力",
+    "count": 17,
+    "weight": 0.395
+   },
+   {
+    "word": "家庭",
+    "count": 17,
+    "weight": 0.395
+   },
+   {
+    "word": "产业",
+    "count": 17,
+    "weight": 0.395
+   },
+   {
+    "word": "孩子",
+    "count": 17,
+    "weight": 0.395
+   },
+   {
+    "word": "价格",
+    "count": 14,
+    "weight": 0.326
+   },
+   {
+    "word": "部门",
+    "count": 14,
+    "weight": 0.326
+   },
+   {
+    "word": "教育",
+    "count": 14,
+    "weight": 0.326
+   },
+   {
+    "word": "县城",
+    "count": 14,
+    "weight": 0.326
+   },
+   {
+    "word": "价值",
+    "count": 13,
+    "weight": 0.302
+   },
+   {
+    "word": "政策",
+    "count": 13,
+    "weight": 0.302
+   },
+   {
+    "word": "成本",
+    "count": 12,
+    "weight": 0.279
+   },
+   {
+    "word": "创业者",
+    "count": 12,
+    "weight": 0.279
+   },
+   {
+    "word": "同比",
+    "count": 12,
+    "weight": 0.279
+   },
+   {
+    "word": "设计",
+    "count": 12,
+    "weight": 0.279
+   },
+   {
+    "word": "干部",
+    "count": 12,
+    "weight": 0.279
+   },
+   {
+    "word": "诈骗",
+    "count": 12,
+    "weight": 0.279
+   },
+   {
+    "word": "天然气",
+    "count": 12,
+    "weight": 0.279
+   },
+   {
+    "word": "人口",
+    "count": 11,
+    "weight": 0.256
+   },
+   {
+    "word": "政府",
+    "count": 11,
+    "weight": 0.256
+   },
+   {
+    "word": "订单",
+    "count": 11,
+    "weight": 0.256
+   },
+   {
+    "word": "北京",
+    "count": 11,
+    "weight": 0.256
+   },
+   {
+    "word": "名单",
+    "count": 11,
+    "weight": 0.256
+   },
+   {
+    "word": "研究",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "证明",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "网络",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "创业",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "岗位",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "变化",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "风险",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "理由",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "空间",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "深圳",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "启动",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "标准",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "职业",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "学校",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "缅甸",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "新能源",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "环比",
+    "count": 10,
+    "weight": 0.233
+   },
+   {
+    "word": "战争",
+    "count": 9,
+    "weight": 0.209
+   },
+   {
+    "word": "数字",
+    "count": 9,
+    "weight": 0.209
+   },
+   {
+    "word": "出口",
+    "count": 9,
+    "weight": 0.209
+   },
+   {
+    "word": "改革",
+    "count": 9,
+    "weight": 0.209
+   },
+   {
+    "word": "人员",
+    "count": 9,
+    "weight": 0.209
+   },
+   {
+    "word": "个人",
+    "count": 9,
+    "weight": 0.209
+   },
+   {
+    "word": "黄浦江",
+    "count": 9,
+    "weight": 0.209
+   }
+  ],
+  "market_mood": 3.1,
   "market_mood_level": "中性",
-  "sector_impacts": {
-   "PCB": {
-    "sector": "PCB",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "中证A500": {
-    "sector": "中证A500",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "中证红利低波": {
-    "sector": "中证红利低波",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "混债": {
-    "sector": "混债",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "港股创新药": {
-    "sector": "港股创新药",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "纳斯达克100": {
-    "sector": "纳斯达克100",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   }
+  "sector_impacts": {},
+  "advices": [],
+  "forecast": [],
+  "category_dist": {
+   "时政": 10,
+   "纪事": 1,
+   "科技": 2,
+   "话题": 1,
+   "社会": 3,
+   "财经": 5,
+   "新闻联播": 26
   },
-  "advices": [
+  "top_news": [
    {
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "sector": "混债",
-    "weight": 5.57,
-    "tiny": false,
-    "earn_pct": 1.13,
-    "day_pct": 1.06,
-    "year_pct": 7.44,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 27.2,
-    "deviation": 66.6,
-    "total_score": 21.5,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上；仓位占比 5.6% 偏低"
+    "id": 21478,
+    "title": "中国7月汽车出口猛增81.3%，新能源占比超五成",
+    "summary": "2026年7月中国汽车出口量达104.3万辆，同比增长81.3%，连续两月突破百万辆。新能源汽车出口占比连续两月超50%，1-7月累计出口614万辆，同比增长66.8%，彰显全球竞争力提升。",
+    "category": "财经",
+    "heat": 89.0,
+    "sentiment": 7,
+    "sent_hits": [
+     "增长",
+     "突破",
+     "投产",
+     "提升"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-18T13:54:17",
+    "source": "日知录",
+    "story_len": 379
    },
    {
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "sector": "PCB",
-    "weight": 23.93,
-    "tiny": false,
-    "earn_pct": 6.5,
-    "day_pct": 3.36,
-    "year_pct": 91.81,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 93.9,
-    "deviation": -43.6,
-    "total_score": 19.5,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上；仓位占比 23.9% 偏集中"
+    "id": 21411,
+    "title": "一线城市二手房价连续5个月环比上涨：回暖是真的，分化也是真的",
+    "summary": "7月一线城市二手住宅价格环比上涨0.2%，连续第五个月上涨，但涨幅已经收窄。短期回暖与同比仍低并存，真正的稳定还要看成交、挂牌与城市分化。",
+    "category": "财经",
+    "heat": 88.0,
+    "sentiment": 7,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "涨幅",
+     "回暖",
+     "反弹",
+     "放缓"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T00:00:33",
+    "source": "日知录",
+    "story_len": 819
    },
    {
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "sector": "港股创新药",
-    "weight": 6.76,
-    "tiny": false,
-    "earn_pct": -1.07,
-    "day_pct": 0.73,
-    "year_pct": 6.15,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 21.3,
-    "deviation": 59.4,
-    "total_score": 18.3,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 6.8% 偏低"
+    "id": 21424,
+    "title": "以色列三年约15万人长期离境：强大军力背后，年轻人才正在外流",
+    "summary": "【一句话判断】特拉维夫大学研究估算，排除在以色列居住不足三年的新移民后，2023年至2025年约有14.5万至15万人长期离境。他们并非全是高技能人才，但多项数据共同显示，年轻、高学历人口以及医生、工程师和高收入者在外流人群中占比偏高。以色列的科技和军事能力依然强大，战争、政治撕裂与高昂生活成本也已经进入越来越多家庭的去留选择。",
+    "category": "时政",
+    "heat": 95.0,
+    "sentiment": -4,
+    "sent_hits": [
+     "增长",
+     "加快",
+     "衰退",
+     "危机",
+     "紧张"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济",
+       "财政",
+       "就业"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "人工智能"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-17T23:54:56",
+    "source": "日知录",
+    "story_len": 3444
    },
    {
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波ETF联接A",
-    "sector": "中证红利低波",
-    "weight": 5.47,
-    "tiny": false,
-    "earn_pct": -3.72,
-    "day_pct": 0.18,
-    "year_pct": -1.5,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": -1.7,
-    "deviation": 67.2,
-    "total_score": 12.9,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 5.5% 偏低"
+    "id": 21414,
+    "title": "中国油气重新排兵布阵：石油守两亿吨底线，天然气给新能源托底",
+    "summary": "【一句话判断】中东战争检验了中国提前建设的油气安全垫。未来五年，石油守住供应底线，天然气新增价值更多来自城燃保障、储气调峰和电力系统的灵活支撑。",
+    "category": "财经",
+    "heat": 80.0,
+    "sentiment": -8,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "充足",
+     "下跌",
+     "制裁",
+     "断供",
+     "限制",
+     "危机"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "电力",
+       "保险",
+       "水电"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-17T23:54:56",
+    "source": "日知录",
+    "story_len": 3036
    },
    {
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "sector": "纳斯达克100",
-    "weight": 27.84,
-    "tiny": false,
-    "earn_pct": 1.83,
-    "day_pct": -0.13,
-    "year_pct": 13.85,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 28.9,
-    "deviation": -67.0,
-    "total_score": -4.7,
-    "action": "维持观望",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上；仓位占比 27.8% 偏集中"
+    "id": 21473,
+    "title": "AI时代一个人也能开公司：县城第一次有机会和大城市争创业者",
+    "summary": "【一句话判断】AI把设计、客服、营销和软件开发压缩进一个人的工具箱，越来越多县城开始用低成本空间、产业数据和真实订单吸引创业者。这轮热潮能否留下来，取决于创业者能否持续拿到客户和收入。",
+    "category": "财经",
+    "heat": 91.0,
+    "sentiment": 4,
+    "sent_hits": [
+     "增长",
+     "开放",
+     "订单"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "算力",
+       "AI"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T16:29:59",
+    "source": "日知录",
+    "story_len": 2429
    },
    {
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "sector": "中证A500",
-    "weight": 30.43,
-    "tiny": false,
-    "earn_pct": 4.09,
-    "day_pct": 1.83,
-    "year_pct": 6.11,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 30.4,
-    "deviation": -82.6,
-    "total_score": -7.4,
-    "action": "维持观望",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上；仓位占比 30.4% 偏集中"
+    "id": 21505,
+    "title": "8月18日纪事｜当公积金离开“单位”：制度追上了就业，保障必须迁就收入",
+    "summary": "【纪事金句】35年后，住房公积金开始脱离固定劳动关系；这道新门能为普通劳动者打开多大空间，要等待持续缴存和实际使用数据回答。",
+    "category": "纪事",
+    "heat": 94.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "扩大",
+     "加快"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "存储"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "就业"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T18:15:14",
+    "source": "日知录",
+    "story_len": 3408
+   },
+   {
+    "id": 21471,
+    "title": "上海550亿再挖一条河：百年暴雨之后，超大城市给洪水找新路",
+    "summary": "【一句话判断】台风带来的雨水、太湖上游来水和黄浦江高潮位同时夹击时，仅靠加粗地下管道已经不够。投资超550亿元的吴淞江工程，正在为上海和太湖流域增加一条东排通道。",
+    "category": "时政",
+    "heat": 94.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "突破",
+     "领先",
+     "风险"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-18T16:29:59",
+    "source": "日知录",
+    "story_len": 2968
+   },
+   {
+    "id": 21479,
+    "title": "电摩市场爆发价格战：销量激增却陷盈利困局",
+    "summary": "2026上半年国内电动摩托车产销逆势增长14%，雅迪、台铃等头部品牌通过降价抢占市场导致盈利承压。绿源利润下滑35%，九号公司净利润下降18.79%，小牛电动单季净亏损超亿元。",
+    "category": "财经",
+    "heat": 82.0,
+    "sentiment": -5,
+    "sent_hits": [
+     "增长",
+     "盈利",
+     "下滑",
+     "亏损",
+     "暴跌",
+     "承压"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T13:54:17",
+    "source": "日知录",
+    "story_len": 477
+   },
+   {
+    "id": 21506,
+    "title": "8月18日话题｜当692分女孩放弃高中：家长们不怕吃苦，只怕啥也换不来",
+    "summary": "【话题金句】家庭并不是在为孩子选择一条更轻松的路，而是在不确定的未来里，试图选择一种更可计算的风险。",
+    "category": "话题",
+    "heat": 92.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策",
+       "就业"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-18T18:15:12",
+    "source": "日知录",
+    "story_len": 1800
+   },
+   {
+    "id": 21412,
+    "title": "缅甸反网络诈骗法通过：重刑瞄准的不只是诈骗，还有人口贩运",
+    "summary": "缅甸反网络诈骗法案获议会通过，重刑覆盖诈骗组织、人口贩运与强迫劳动等链条。所谓“最高可判死刑”有严格适用条件，不能被简化成开设园区即判死刑。",
+    "category": "时政",
+    "heat": 91.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "获批",
+     "成效",
+     "冲突",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "电子"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T00:00:33",
+    "source": "日知录",
+    "story_len": 789
+   },
+   {
+    "id": 21415,
+    "title": "大疆硬刚美国国防部迎来转机：“军工企业”认定被法院发回重审",
+    "summary": "【一句话判断】美国上诉法院撤销一审判决中支持核心认定的部分，将案件发回地区法院继续审理，但大疆仍在美国国防部名单上。判决要求法院按照国防部作出决定时实际采用的理由审查，不能再用诉讼中新补的说法维持行政决定；与此同时，美国正把年度名单、FCC新品准入和供应链豁免叠加成多道门槛。对中国企业而言，能打国际官司、能把行政指控拉回证据和程序，同样是全球竞争力。",
+    "category": "科技",
+    "heat": 93.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "支持",
+     "起诉"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "政策"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "国企"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-17T23:54:56",
+    "source": "日知录",
+    "story_len": 3606
+   },
+   {
+    "id": 21472,
+    "title": "10名市场监管干部送了14天外卖：跑出145个办公室里看不见的问题",
+    "summary": "【一句话判断】山东滨州让10名市场监管干部以真实骑手身份接单两周，发现的问题从幽灵外卖一直延伸到导航、换电、楼号、非机动车道和红绿灯。体验式调研的价值，要看145条台账最终能改动多少现实规则。",
+    "category": "社会",
+    "heat": 92.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "订单",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T14:13:30",
+    "source": "日知录",
+    "story_len": 2284
    }
   ],
-  "forecast": [
+  "scored_news": [
    {
-    "sector": "PCB",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.8,
-    "note": "消息面 +0 / 中期动量 +100"
+    "id": 21424,
+    "title": "以色列三年约15万人长期离境：强大军力背后，年轻人才正在外流",
+    "summary": "【一句话判断】特拉维夫大学研究估算，排除在以色列居住不足三年的新移民后，2023年至2025年约有14.5万至15万人长期离境。他们并非全是高技能人才，但多项数据共同显示，年轻、高学历人口以及医生、工程师和高收入者在外流人群中占比偏高。以色列的科技和军事能力依然强大，战争、政治撕裂与高昂生活成本也已经进入越来越多家庭的去留选择。",
+    "category": "时政",
+    "heat": 95.0,
+    "sentiment": -4,
+    "sent_hits": [
+     "增长",
+     "加快",
+     "衰退",
+     "危机",
+     "紧张"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济",
+       "财政",
+       "就业"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "人工智能"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-17T23:54:56",
+    "source": "日知录",
+    "story_len": 3444
    },
    {
-    "sector": "纳斯达克100",
-    "bias": "偏多震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 17.3,
-    "note": "消息面 +0 / 中期动量 +43"
+    "id": 21505,
+    "title": "8月18日纪事｜当公积金离开“单位”：制度追上了就业，保障必须迁就收入",
+    "summary": "【纪事金句】35年后，住房公积金开始脱离固定劳动关系；这道新门能为普通劳动者打开多大空间，要等待持续缴存和实际使用数据回答。",
+    "category": "纪事",
+    "heat": 94.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "扩大",
+     "加快"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "存储"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "就业"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T18:15:14",
+    "source": "日知录",
+    "story_len": 3408
    },
    {
-    "sector": "混债",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 9.7,
-    "note": "消息面 +0 / 中期动量 +24"
+    "id": 21471,
+    "title": "上海550亿再挖一条河：百年暴雨之后，超大城市给洪水找新路",
+    "summary": "【一句话判断】台风带来的雨水、太湖上游来水和黄浦江高潮位同时夹击时，仅靠加粗地下管道已经不够。投资超550亿元的吴淞江工程，正在为上海和太湖流域增加一条东排通道。",
+    "category": "时政",
+    "heat": 94.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "突破",
+     "领先",
+     "风险"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-18T16:29:59",
+    "source": "日知录",
+    "story_len": 2968
    },
    {
-    "sector": "港股创新药",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 8.1,
-    "note": "消息面 +0 / 中期动量 +20"
+    "id": 21415,
+    "title": "大疆硬刚美国国防部迎来转机：“军工企业”认定被法院发回重审",
+    "summary": "【一句话判断】美国上诉法院撤销一审判决中支持核心认定的部分，将案件发回地区法院继续审理，但大疆仍在美国国防部名单上。判决要求法院按照国防部作出决定时实际采用的理由审查，不能再用诉讼中新补的说法维持行政决定；与此同时，美国正把年度名单、FCC新品准入和供应链豁免叠加成多道门槛。对中国企业而言，能打国际官司、能把行政指控拉回证据和程序，同样是全球竞争力。",
+    "category": "科技",
+    "heat": 93.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "支持",
+     "起诉"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "政策"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "国企"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-17T23:54:56",
+    "source": "日知录",
+    "story_len": 3606
    },
    {
-    "sector": "中证A500",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 8.0,
-    "note": "消息面 +0 / 中期动量 +20"
+    "id": 21506,
+    "title": "8月18日话题｜当692分女孩放弃高中：家长们不怕吃苦，只怕啥也换不来",
+    "summary": "【话题金句】家庭并不是在为孩子选择一条更轻松的路，而是在不确定的未来里，试图选择一种更可计算的风险。",
+    "category": "话题",
+    "heat": 92.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策",
+       "就业"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-18T18:15:12",
+    "source": "日知录",
+    "story_len": 1800
    },
    {
-    "sector": "中证红利低波",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": -2.0,
-    "note": "消息面 +0 / 中期动量 -5"
+    "id": 21472,
+    "title": "10名市场监管干部送了14天外卖：跑出145个办公室里看不见的问题",
+    "summary": "【一句话判断】山东滨州让10名市场监管干部以真实骑手身份接单两周，发现的问题从幽灵外卖一直延伸到导航、换电、楼号、非机动车道和红绿灯。体验式调研的价值，要看145条台账最终能改动多少现实规则。",
+    "category": "社会",
+    "heat": 92.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "订单",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T14:13:30",
+    "source": "日知录",
+    "story_len": 2284
+   },
+   {
+    "id": 21473,
+    "title": "AI时代一个人也能开公司：县城第一次有机会和大城市争创业者",
+    "summary": "【一句话判断】AI把设计、客服、营销和软件开发压缩进一个人的工具箱，越来越多县城开始用低成本空间、产业数据和真实订单吸引创业者。这轮热潮能否留下来，取决于创业者能否持续拿到客户和收入。",
+    "category": "财经",
+    "heat": 91.0,
+    "sentiment": 4,
+    "sent_hits": [
+     "增长",
+     "开放",
+     "订单"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "算力",
+       "AI"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T16:29:59",
+    "source": "日知录",
+    "story_len": 2429
+   },
+   {
+    "id": 21412,
+    "title": "缅甸反网络诈骗法通过：重刑瞄准的不只是诈骗，还有人口贩运",
+    "summary": "缅甸反网络诈骗法案获议会通过，重刑覆盖诈骗组织、人口贩运与强迫劳动等链条。所谓“最高可判死刑”有严格适用条件，不能被简化成开设园区即判死刑。",
+    "category": "时政",
+    "heat": 91.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "获批",
+     "成效",
+     "冲突",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "电子"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T00:00:33",
+    "source": "日知录",
+    "story_len": 789
+   },
+   {
+    "id": 21478,
+    "title": "中国7月汽车出口猛增81.3%，新能源占比超五成",
+    "summary": "2026年7月中国汽车出口量达104.3万辆，同比增长81.3%，连续两月突破百万辆。新能源汽车出口占比连续两月超50%，1-7月累计出口614万辆，同比增长66.8%，彰显全球竞争力提升。",
+    "category": "财经",
+    "heat": 89.0,
+    "sentiment": 7,
+    "sent_hits": [
+     "增长",
+     "突破",
+     "投产",
+     "提升"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-18T13:54:17",
+    "source": "日知录",
+    "story_len": 379
+   },
+   {
+    "id": 21413,
+    "title": "新州率先启动澳大利亚新一轮枪支回购：并非一次普通“自愿上交”",
+    "summary": "新南威尔士州将率先实施澳大利亚新一轮枪支回购，预计最多影响27.4万支注册枪支。新州先行不等于全国同步，政策效果还要看非法枪支追踪和许可证审查。",
+    "category": "时政",
+    "heat": 89.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "支持",
+     "回购",
+     "风险",
+     "收紧"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T00:00:33",
+    "source": "日知录",
+    "story_len": 942
+   },
+   {
+    "id": 21411,
+    "title": "一线城市二手房价连续5个月环比上涨：回暖是真的，分化也是真的",
+    "summary": "7月一线城市二手住宅价格环比上涨0.2%，连续第五个月上涨，但涨幅已经收窄。短期回暖与同比仍低并存，真正的稳定还要看成交、挂牌与城市分化。",
+    "category": "财经",
+    "heat": 88.0,
+    "sentiment": 7,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "涨幅",
+     "回暖",
+     "反弹",
+     "放缓"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T00:00:33",
+    "source": "日知录",
+    "story_len": 819
+   },
+   {
+    "id": 21476,
+    "title": "17岁少年离世后捐献心脏、肝脏和眼角膜，曾接受过陌生人肾脏",
+    "summary": "【一句话判断】捐献不是一句“同意”就能完成的告别，而是一套必须同时尊重逝者、家属和受者的生命程序。",
+    "category": "社会",
+    "heat": 88.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "2026-08-18T16:30:34",
+    "source": "日知录",
+    "story_len": 917
+   },
+   {
+    "id": 21501,
+    "title": "9部门发文活跃县域消费，将深化千集万店改造提升",
+    "summary": "商务部等9部门发布意见，提出进一步激发下沉市场活力、活跃县域消费。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "支持",
+     "提升"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T14:13:30",
+    "source": "日知录",
+    "story_len": 172
+   },
+   {
+    "id": 21498,
+    "title": "糖尿病等158个病种同病同付，基层就医支付标准统一",
+    "summary": "国家医保部门推动158个基层病种同病同付，高血压、糖尿病等入选。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医保"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T14:13:30",
+    "source": "日知录",
+    "story_len": 164
+   },
+   {
+    "id": 21497,
+    "title": "正部级刘慧涉嫌受贿被公诉，曾任宁夏自治区主席",
+    "summary": "十三届全国政协教科卫体委员会副主任刘慧涉嫌受贿案，已由检察机关提起公诉。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": -2,
+    "sent_hits": [
+     "调查",
+     "起诉"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-18T14:13:30",
+    "source": "日知录",
+    "story_len": 184
+   },
+   {
+    "id": 21488,
+    "title": "格力技工学校首届招生，董明珠任校长学费最高1.5万",
+    "summary": "珠海市格力技工学校正式获得招生资格，董明珠任校长，学费最高1.5万元每学年。",
+    "category": "科技",
+    "heat": 86.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "制造业"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T14:15:33",
+    "source": "日知录",
+    "story_len": 188
+   },
+   {
+    "id": 21502,
+    "title": "伊朗给美国设数周最后期限，称政策转向全面进攻",
+    "summary": "伊朗高级官员称已为美国履行伊美谅解备忘录设定数周最后期限。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T14:22:15",
+    "source": "日知录",
+    "story_len": 190
+   },
+   {
+    "id": 21482,
+    "title": "北京构建餐厨废弃油脂闭环管理体系，杜绝“地沟油”回流餐桌",
+    "summary": "北京市城管委起草新规要求餐饮单位与指定收运单位签约，实施电子联单全流程追溯，新能源车辆实时定位监控，推动废弃油脂资源化利用，多部门协同监管。",
+    "category": "时政",
+    "heat": 85.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "支持",
+     "签约",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T14:06:03",
+    "source": "日知录",
+    "story_len": 460
+   },
+   {
+    "id": 21481,
+    "title": "培训机构虚构入学标准“贩卖焦虑”，65%新生被迫超前培训",
+    "summary": "央视曝光部分机构虚构“识字400为入学安全线”等标准诱导家长报课。北京海淀区调研显示65%新生接受过拼音、识字超前培训。教育部2021年明确要求“零起点教学”，但常州跟踪数据显示提前学习短期优势会消退。破解教育焦虑需强化政策执行与监管。",
+    "category": "时政",
+    "heat": 85.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济",
+       "政策"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-18T14:06:03",
+    "source": "日知录",
+    "story_len": 380
+   },
+   {
+    "id": 21479,
+    "title": "电摩市场爆发价格战：销量激增却陷盈利困局",
+    "summary": "2026上半年国内电动摩托车产销逆势增长14%，雅迪、台铃等头部品牌通过降价抢占市场导致盈利承压。绿源利润下滑35%，九号公司净利润下降18.79%，小牛电动单季净亏损超亿元。",
+    "category": "财经",
+    "heat": 82.0,
+    "sentiment": -5,
+    "sent_hits": [
+     "增长",
+     "盈利",
+     "下滑",
+     "亏损",
+     "暴跌",
+     "承压"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-18T13:54:17",
+    "source": "日知录",
+    "story_len": 477
+   },
+   {
+    "id": 21414,
+    "title": "中国油气重新排兵布阵：石油守两亿吨底线，天然气给新能源托底",
+    "summary": "【一句话判断】中东战争检验了中国提前建设的油气安全垫。未来五年，石油守住供应底线，天然气新增价值更多来自城燃保障、储气调峰和电力系统的灵活支撑。",
+    "category": "财经",
+    "heat": 80.0,
+    "sentiment": -8,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "充足",
+     "下跌",
+     "制裁",
+     "断供",
+     "限制",
+     "危机"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "电力",
+       "保险",
+       "水电"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-17T23:54:56",
+    "source": "日知录",
+    "story_len": 3036
+   },
+   {
+    "id": 21440,
+    "title": "7 岁小孩哥逛深圳自然博物馆，一眼指出两处错误",
+    "summary": "8 月 17 日，深圳 7 岁古生物爱好者朱子序在深圳自然博物馆参观时，当场指出泥盆纪末大灭绝和菊石讲解两处错误。馆方公开致谢并连夜核查修正。",
+    "category": "社会",
+    "heat": 76.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "2026-08-18T18:11:58",
+    "source": "日知录",
+    "story_len": 445
+   },
+   {
+    "id": "xwlb-0",
+    "title": "朱镕基同志遗体在京火化",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-1",
+    "title": "习近平举行仪式欢迎厄瓜多尔总统访华",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-2",
+    "title": "习近平同厄瓜多尔总统会谈",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-3",
+    "title": "李强签署国务院令 公布《国务院关于修改〈住房公积金管理条例〉的决定》",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-4",
+    "title": "赵乐际主持召开十四届全国人大常委会第七十一次委员长会议 决定十四届全国人大常委会第二十四次会议8月25日至28日在京举行",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-5",
+    "title": "多项举措进一步激发下沉市场活力",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-6",
+    "title": "“十五五”我国将加快建设现代油气产业体系",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "加快"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-7",
+    "title": "长三角外贸规模创新高 “新动能”引领高质量发展",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 4,
+    "sent_hits": [
+     "新高",
+     "创新"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-8",
+    "title": "澳门特区政府正式公布第三个五年规划",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-9",
+    "title": "2025年南海区海洋生态状况总体稳定",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-10",
+    "title": "国内联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-11",
+    "title": "两部门再次拨付6000万元 支持河南做好防汛抢险救灾工作",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "支持"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-12",
+    "title": "跨国公司资金池政策推广至全国",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-13",
+    "title": "医保基金即时结算年度目标任务提前完成",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医保"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-14",
+    "title": "我国已将建筑门窗等6大类72种产品纳入绿色建材认证范畴",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-15",
+    "title": "横琴口岸新旅检区域通关旅客累计超1.1亿人次",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-16",
+    "title": "田湾核电7号机组进入带核调试阶段",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-17",
+    "title": "新疆奇台射电望远镜完成核心结构安装",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-18",
+    "title": "99000立方米超大型乙烷乙烯运输船今天交付",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-19",
+    "title": "厄尔尼诺快速发展 大概率成为历史最强",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-20",
+    "title": "俄外长批评日本企图借抨击俄罗斯掩盖具有侵略性质的军事动向",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-21",
+    "title": "美称不延长谅解备忘录 伊朗称不接受最后通牒",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-22",
+    "title": "国际联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-23",
+    "title": "美特使与哈马斯及以总理会面 进展有限",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-24",
+    "title": "俄就乌使用英无人机打击俄纵深警告英国",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": -2,
+    "sent_hits": [
+     "警告"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-25",
+    "title": "超22万加拿大人请愿驱逐美国大使",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
    }
   ],
-  "category_dist": {},
-  "top_news": [],
-  "scored_news": [],
   "stats": {
-   "news_total": 0,
-   "xwlb_total": 0,
-   "scored_total": 0,
-   "pos": 0,
-   "neg": 0,
-   "neutral": 0
+   "news_total": 22,
+   "xwlb_total": 26,
+   "scored_total": 48,
+   "pos": 10,
+   "neg": 8,
+   "neutral": 30
   }
  },
- "news_raw": [],
- "xwlb_raw": []
+ "news_raw": [
+  {
+   "id": 21424,
+   "title": "以色列三年约15万人长期离境：强大军力背后，年轻人才正在外流",
+   "summary": "【一句话判断】特拉维夫大学研究估算，排除在以色列居住不足三年的新移民后，2023年至2025年约有14.5万至15万人长期离境。他们并非全是高技能人才，但多项数据共同显示，年轻、高学历人口以及医生、工程师和高收入者在外流人群中占比偏高。以色列的科技和军事能力依然强大，战争、政治撕裂与高昂生活成本也已经进入越来越多家庭的去留选择。",
+   "heat": 95.0,
+   "category": "时政",
+   "story": "以色列用一个带着方向感的词形容犹太人迁入：`Aliyah`，本意是“上升”。\n\n迁出则叫`Yerida`，字面意思是“下降”。\n\n在这个靠全球犹太人回流建立的国家，离开从来不只是换一个居住地。它一度被视为离开民族共同体、放弃国家使命，很多人宁愿说自己只是“搬去海外工作”，也不愿承认是永久移民。\n\n现在，这个难以启齿的词正变成一组无法回避的数字。\n\n特拉维夫大学研究团队根据以色列中央统计局出入境数据估算：排除在以色列居住不足三年的新移民后，2023年和2024年约有10万人长期离境；2025年预计再有4.5万至5万人。\n\n三年合计约14.5万至15万人。\n\n另一套更宽的跨境停留指标显示，2023年至2025年共有26.85万名以色列人连续在境外停留至少三个月。这里面可能包括旅行、求学、外派以及后来回国的人，不能用来证明永久移民，只能说明较长时间停留海外的人明显增加。\n\n一个长期依靠全球人口回流壮大的国家，如今不得不重新面对一个问题：怎样留住年轻人和专业人才。\n\n15万人并非全是精英，以色列更在意谁正在离开\n\n15万人约占以色列总人口的1.5%。单看比例，它还称不上人口危机。\n\n真正让以色列议会和经济学家紧张的，是谁在离开。\n\n以色列议会披露，2023年离境者平均年龄约32.45岁。2022年离境者中，本科学历者所占比例是全国人口的1.5倍，硕士是2倍，博士达到4.6倍。几组数据虽然年份和口径不同，却指向同一个现象：离境者整体更年轻，学历也普遍更高。\n\n移民从来不是随机抽样。\n\n有能力离开的人，往往拥有英语、国际学历、跨国公司职位、双重国籍或者海外同行网络。其中包括医生、工程师、程序员、科研人员和创业者。另一项研究发现，从2023年至2024年9月，约有1.9万名大学毕业生离境，医生、工程师和高收入者的外流也在增加。\n\n对普通国家而言，人口流失意味着少一些消费者和纳税人；对以色列而言，流失的还可能是支撑科技、医疗和公共财政的骨干。\n\n2025年，以色列高科技产业创造约3520亿谢克尔产值，出口约850亿美元，占全国出口的58%；约40万人在这一行业工作，占就业人口11.4%。\n\n一个高收入工程师离开，带走的不只是一份工资，还有税收、技术经验和创业网络。他下一次创业，也可能把公司和岗位一起留在海外。\n\n另一个变化发生在企业内部：以色列国内研发岗位十年来首次减少，企业在海外增加研发和管理岗位。企业靠近海外客户、人工智能改变岗位结构，都可能推动岗位转移。人才外流和岗位外迁不是一回事，结果却可能相同：更多新工作和决策岗位落到海外。\n\n这还不能证明以色列科技产业已经衰退。2025年高科技产值仍增长8.2%，就业人数约40万，同比增长约2.5%；融资、出口和企业并购也依然活跃。问题在于，产业继续增长时，新增岗位、税收和决策中心还能留下多少。\n\n战争推了一把，裂缝早已存在\n\n加沙战争加快了外流，裂缝却在战前已经出现。\n\n2023年初，内塔尼亚胡政府推动司法改革，试图削弱最高法院对政府和议会的制衡，引发以色列历史上规模最大的国内抗议之一。研究者和受访者把政治不确定性列为部分家庭与专业人士考虑离境的原因之一。\n\n街头争论的表面是法官权力，背后还连着司法制衡、宗教角色、兵役义务和公共财政怎样分配。这些问题长期撕扯以色列社会，战争又让每一项矛盾都变得更昂贵。\n\n最有能力跨国生活和工作的人，也最容易真的搬走。\n\n随后，2023年10月7日袭击击碎了以色列最重要的建国承诺：无论世界其他地方多么危险，以色列至少应当是犹太人最安全的家园。\n\n战争持续以后，生活开始被警报、避难所和征召令切碎。创业公司失去员工，医生和工程师反复离岗服预备役，家庭随时要为局势再次升级做准备。以色列央行估算，2023年至2026年战争财政成本约为3500亿谢克尔；截至2025年底，相对于战前增长趋势的累计产出损失约为1770亿谢克尔。\n\n与此同时，特拉维夫的住房、食品和育儿成本长期处在高位。部分世俗家庭还认为，自己一边服役、纳税和承担战争风险，一边要为兵役参与不足、男性劳动参与率较低的哈雷迪（超正统派）群体提供更多财政支持。\n\n战争不是唯一原因，却让原有的政治、宗教和阶层裂缝，变成许多家庭讨论要不要离开的现实理由。\n\n美国可以买来武器，却买不回以色列人的信任\n\n以色列为什么能够在中东长期维持远超人口规模的军事和科技影响力？\n\n它依靠两根支柱。\n\n一根是美国。根据美以现行十年备忘录，美国在2019年至2028年间每年向以色列提供33亿美元军事融资和5亿美元导弹防御合作资金。F-35、精确弹药、“铁穹”和“大卫投石索”，帮助以色列保持对周边国家的军事技术优势。\n\n另一根是以色列自己的人。全民兵役、预备役制度、大学研究、军事情报部门和创业生态，把一个人口约千万的国家变成网络安全、无人机、导弹防御、芯片设计和生物医药强国。\n\n美国可以补充弹药，可以提供外交保护，也可以在危机时把航母开到附近。\n\n但美国无法替以色列培养下一代希伯来语医生，无法命令硅谷里的以色列工程师回国，也无法用一笔军援重建年轻人对本国政治的信任。\n\n导弹可以靠军援补，医生、工程师和创业者不能。\n\n人才外流由此成为中东博弈的一部分。\n\n以色列的战略优势从来不是人口和资源，而是比对手更快地发现问题、研发技术、组织动员。持续冲突即使没有立刻在战场上分出胜负，也会让人才、家庭和企业重新考虑，还要不要把未来留在以色列。对一个依靠技术和动员效率维持优势的小国，这种缓慢的人才流失同样会削弱它。\n\n以色列依然强大，人才外流的影响已经出现\n\n把人才外流写成以色列即将崩溃，同样不符合事实。\n\n科技产业仍在增长，以色列也继续吸引来自欧美、俄罗斯和乌克兰的犹太移民，高出生率仍在推动总人口增加。它远没有到“人才空心化”或国家衰落的地步。\n\n以色列创新管理局的数据还显示，科技从业者长期离境人数在2024年初达到峰值后有所回落。很多离开者也可能在战争结束、政治稳定或获得海外经验后回国。\n\n但强大不能消除人才外流的影响。过去不断吸引人才进入的以色列，如今也在看着一部分年轻人向外走。\n\n过去，以色列从世界各地吸收医生、科学家、工程师和资本，把他们汇聚在一个小而强的国家。现在，战争与内部政治把一部分人才重新推向世界，跨国科技公司又让他们可以带着工作一起走。\n\n政府已经推出税收优惠，吸引2026年新移民以及在海外居住至少十年的长期回归居民，相关优惠预计五年耗资约5.6亿谢克尔。但它并不覆盖所有近期离境者，减税也解决不了战争和政治造成的不安。\n\n准备留下或回流的人，还会判断孩子是否安全、法院是否独立、战争何时结束、预备役负担是否公平，以及这个国家十年后会变成什么样。\n\n今后判断这轮外流会不会继续恶化，可以看三个结果：离境的医生和研发人员是否回来；以色列企业把新增研发岗位放在国内还是海外；“暂时搬走”的家庭是否开始在其他国家长期定居。\n\n以色列过去七十多年不断证明，散居世界的犹太人愿意把这里当作终点。如今，一部分已经在这里生活、纳税、服役和创业的人，开始考虑要不要把未来搬到别处。\n\n这不值得旁人幸灾乐祸，也不需要旁人替以色列焦虑。它只说明一条冷酷的常识：一个国家可以靠武器抵挡外部威胁，可以从盟友那里获得资金和外交保护，却不能无限透支内部信任，再命令年轻人留下。\n\n美国可以帮助以色列守住边境。战争与政治选择造成的人才流失，只能由以色列自己承受。\n\n来源与口径说明\n\n• 特拉维夫大学研究：2023年至2025年约26.85万人连续离境至少三个月\n• 以色列议会：年轻、高学历人口外流及2022—2024年迁移数据\n• 以色列创新管理局：2026年高科技产业报告\n• 以色列创新管理局：科技就业与长期离境趋势\n• Times of Israel：大学毕业生、医生、工程师和高收入者外流研究\n• 以色列央行2025年年度报告\n• 美国国会研究处：美国对以色列援助与2019—2028年备忘录\n• 以色列议会：2026年新移民及长期回归居民税收优惠方案\n\n本文标题中的“约15万”采用特拉维夫大学研究对长期离境的估算：2023年和2024年合计约10万人，2025年预计4.5万至5万人；研究排除了在以色列居住不足三年的新移民。26.85万人采用连续离境三个月以上的更宽口径，两组数据不能相加，也不能直接等同于永久移民。",
+   "impact": "",
+   "publish_time": "2026-08-17T23:54:56",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786981674050-%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%89%E5%B9%B4%E7%BA%A615%E4%B8%87%E4%BA%BA%E9%95%BF%E6%9C%9F%E7%A6%BB%E5%A2%83.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 21505,
+   "title": "8月18日纪事｜当公积金离开“单位”：制度追上了就业，保障必须迁就收入",
+   "summary": "【纪事金句】35年后，住房公积金开始脱离固定劳动关系；这道新门能为普通劳动者打开多大空间，要等待持续缴存和实际使用数据回答。",
+   "heat": 94.0,
+   "category": "纪事",
+   "story": "1991年，公积金帮助住房离开单位；35年后，它开始帮助住房保障离开单位。\n\n8月18日，国务院公布修改《住房公积金管理条例》的决定。个体工商户、非全日制从业人员和其他灵活就业人员，可以自愿缴存住房公积金。决定将于9月20日起施行。\n\n条例里只是增加了几类人，背后改变的却是一套延续了三十多年的关系：过去，一个人通常先进入单位，才进入公积金制度；以后，即使没有固定单位，也可能拥有自己的公积金账户。\n\n一个骑手、网约车司机、自由职业者或者小店经营者，不会因为条例多了一句话，立刻凑齐首付。但资格决定谁能进入低息贷款和住房提取的通道，也决定公共制度承认哪一种工作才算“正经工作”。\n\n这一天值得记录的，不是公积金替灵活就业者买下了一套房，而是一项长期跟着单位走的住房福利，开始尝试跟着人走。\n\n公积金原本就是为了让住房离开单位\n\n理解今天的变化，要回到1991年的上海。\n\n那一年，上海率先建立住房公积金制度，次年又率先发放个人住房贷款。当时城镇住房仍深深嵌在单位制里。公积金出现，不只是增加一笔储蓄，而是在为住房制度换轨筹钱。\n\n1994年，国务院决定在全国全面推行住房公积金制度，确定“个人存储、单位资助、统一管理、专项使用”的原则：把国家和单位统包住房改为多方负担，把实物福利分房改为货币化分配，推进住房商品化和社会化。\n\n1998年，改革又向前迈了一大步：停止住房实物分配，逐步实行住房分配货币化。职工购买住房的资金来源，被明确为工资、住房公积金、个人住房贷款以及部分地区的住房补贴。\n\n过去，单位直接分房；此后，单位通过公积金和住房补贴帮助职工进入市场。公积金由此成为两种住房时代之间的桥：一端是等待分房，另一端是个人买房。\n\n1999年出台的《住房公积金管理条例》，也把那个时代的结构写进了制度。公积金的定义围绕“单位及其在职职工”展开，开户、代扣和配缴都由单位完成。一个人有稳定单位、稳定工资和清晰劳动关系，便可以自然进入这套体系。\n\n这套设计在当时有它的合理性。问题是，制度习惯了单位，人却渐渐走出了单位。\n\n没有固定单位的人，为什么一直进不了公积金制度\n\n平台用工、非全日制工作、个体经营和自由职业，改变的不只是发工资的方式。\n\n一个人可能每天都在劳动，收入也来自真实经营或服务，却没有一家传统意义上的单位为他开户、代扣并配缴公积金。他可以在城市送餐、载客、拍摄、设计、维修、开店，承担房租和生活成本，住房保障却可能因为劳动关系的形状不同而与他无关。\n\n地方试验已经走在全国条例之前。重庆、成都、广州、深圳、苏州等城市先后探索灵活就业人员缴存，2024年试点扩大到36个城市。全国住房公积金年度报告显示，当年灵活就业人员实缴218.82万人，占全部实缴人数的1.24%；当年新开户91.61万人，占全部新开户人数的4.92%。\n\n两个比例放在一起，才接近真实图景：1.24%说明覆盖仍小，4.92%说明入口正在加快打开。到2024年末，试点城市累计已有超过100万名灵活就业人员缴存，其中24万人使用公积金租房或购房。\n\n这24万人证明改革并非纸面扩围。但开户数不能代替使用效果。能否持续缴存，实际用于租房还是贷款，使用者处于什么收入区间，仍需要更细的数据回答。\n\n一些城市已经给出了局部切片。连云港从2023年11月启动相关工作，到2025年5月底有3.2万名灵活就业人员参与缴存，累计缴存1.62亿元，608个家庭获得公积金贷款。武汉截至2025年底累计发放相关贷款233笔，其中灵活就业人员作为主借款人的有201笔、金额1.45亿元；另有5966人次提取3389.06万元。\n\n这些数字说明，一部分没有单位的人确实取得了低息贷款或更灵活的资金使用权；也说明缴存者与真正借到款的人之间，不能画等号。\n\n单位职工有人缴纳另一半，灵活就业者只能自己承担\n\n单位职工的公积金通常由个人和单位共同缴存。灵活就业者的钱则主要来自自己：他既是“职工”，也是本该配缴的“单位”。订单减少、生意清淡时，这笔住房储蓄也可能成为难以持续的固定支出。\n\n账户名称相同，不等于保障结构相同：一边是单位和个人共同负担，另一边很可能是劳动者从不稳定的收入里独自切下一块。\n\n因此，一些试点城市不得不重新设计规则。有人把申请贷款所需的连续缴存期从12个月缩短为6个月，有人允许自主确定缴存额、暂停后恢复，有人提供1%左右的缴存补贴，还有地方在没有未结清贷款时允许较灵活地提取。\n\n这些细则比“全面开门”的口号更接近改革成败。如果缴存额不能随收入变化，一次断缴就影响贷款，收入证明仍按标准工资单设计，那么制度只是允许灵活就业者进门，却仍要求他们像一个标准单位职工。\n\n低息贷款可以降低资金价格，却不能替人创造首付、提高收入或者缩短房价与收入之间的距离。对每月结余都不稳定的人，公积金可能很有价值，也可能暂时排不到生活支出的前面。\n\n让灵活就业者开户，是制度看见了人；让收入不稳定的人缴得起、接得上、用得着，才是制度真正走到人身边。\n\n判断民生价值，未来不能只公布新增开户人数。还需要持续缴存率、收入分层、租房提取、贷款申请与获批等数据。\n\n如果主要受益者是收入较高的自由职业者和经营稳定的个体工商户，改革更接近政策性住房金融扩围；如果普通骑手、小商户也能以可承受的成本持续参加，制度才真正增加了普惠性。\n\n从帮助买房，到保障居住\n\n提取公积金支付房租，不再要求房租超过家庭工资收入的规定比例；装修自住住房、支付自住住房物业费，也被纳入提取情形。缴存记录将推动全国互信互认，转移接续和异地贷款也要更加便利。\n\n2024年，全国有2257.44万人提取公积金用于租房，金额2720.57亿元，同比分别增长22.28%和33.93%。这已经不是边缘用途。对许多年轻人和流动就业者来说，一笔能够按月提取的房租，可能比一张多年以后才有机会使用的贷款资格更切近生活。\n\n1998年的政策目标，是加快住房建设，让住宅业成为新的经济增长点。今天，中国城市已经从大规模增量扩张转向存量提质增效，住房需求也不再等于购买一套新建商品房。有人长期租住，有人偿还存量房贷款，有人要修缮旧房、加装电梯、支付物业费。\n\n房地产市场调整解释了公积金为什么要扩大覆盖、拓宽用途，但不能把改革简单归结为寻找新一批买房人。恰恰因为它同时承认租房、修房和养房，才显出不同于房地产扩张时代的方向。\n\n如果公积金只能帮助人购买新增商品房，它仍属于房地产扩张的逻辑；当它开始支持租房、修房和养房，它才真正接近一项居住制度。\n\n衡量改革是否以人为本，不只看它为市场带来多少资金，更要看它能否减轻普通人的居住支出，能否让最需要帮助的人获得稳定预期。\n\n一次尚未完成的离开\n\n35年前，公积金诞生于住房离开单位实物分配的时刻。35年后，劳动者已经离开单一单位关系，住房保障也必须寻找跟随人的办法。第一次离开推动了住房商品化；第二次离开，则要证明公积金不只是一件购房工具。\n\n改革的方向值得肯定，改革的成色仍要由结果证明。今后几年，真正重要的不是又有多少城市宣布开门，而是没有单位替他缴纳另一半的人，能否负担这项制度；收入中断的人，权益能否继续；不买房的人，能否同样得到支持；跨城谋生的人，账户是否真的跟得上他的脚步。\n\n公积金正在从“有单位者的购房福利”，走向“无单位者的居住保障”。方向已经改变，保障能否追上真实收入，还没有现成答案。\n\n8月18日，条例先把门打开了。\n\n这便是8月18日纪事。\n\n资料来源与事实边界\n\n• 中国新闻网转新华社：国务院公布修改《住房公积金管理条例》的决定\n• 国务院：1994年《关于深化城镇住房制度改革的决定》\n• 国务院公报：1998年《关于进一步深化城镇住房制度改革加快住房建设的通知》\n• 上海市住建委：上海住房公积金制度建立30周年回顾\n• 住房城乡建设部等：全国住房公积金2024年年度报告\n• 连云港市政府：灵活就业人员参加住房公积金制度试点新闻发布会\n• 武汉住房公积金管理中心：2025年灵活就业人员试点执行情况\n\n事实边界：国务院决定确立全国性制度方向，具体缴存额、连续缴存期限、补贴、提取和贷款条件仍需依各地实施办法执行。文中全国数据采用2024年度报告，地方数据用于呈现试点切片，不据此推定全国灵活就业人员的整体受益比例。",
+   "impact": "",
+   "publish_time": "2026-08-18T18:15:14",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787048098360-%E5%BD%93%E5%85%AC%E7%A7%AF%E9%87%91%E7%A6%BB%E5%BC%80%E2%80%9C%E5%8D%95%E4%BD%8D%E2%80%9D.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 21471,
+   "title": "上海550亿再挖一条河：百年暴雨之后，超大城市给洪水找新路",
+   "summary": "【一句话判断】台风带来的雨水、太湖上游来水和黄浦江高潮位同时夹击时，仅靠加粗地下管道已经不够。投资超550亿元的吴淞江工程，正在为上海和太湖流域增加一条东排通道。",
+   "heat": 94.0,
+   "category": "时政",
+   "story": "上海刚刚经历了一场近乎把城市排水系统推到极限的暴雨。\n\n受台风“白海豚”影响，上海全市累计降雨约5亿立方米。徐家汇国家气象站24小时降雨量达到316.1毫米，刷新该站自1872年有记录以来的最高值。数百条道路和下立交积水，百余个小区进水，2万多户居民用电受到影响。\n\n水务部门提前降低河网水位、腾出库容，苏州河河口泵组又首次启动应急翻排，把苏州河水强排进黄浦江。\n\n一座拥有全国领先排水能力的城市，仍然差点被雨水顶住。\n\n这并不意味着上海的排水工程没有用。恰恰相反，它说明极端天气正在把城市逼到新的工程边界：当一场雨同时从天上、上游和海上夹击，继续加粗几根地下管道已经不够，整座城市需要多一条排洪通道。\n\n上海正在建设的吴淞江工程，投资超过550亿元。通俗地说，它要做的事情就是给拥挤了几百年的黄浦江分流，让太湖洪水和上海内河涝水多一条通往长江的路。\n\n上海被淹，问题不只在地下水管\n\n许多人看到城市积水，第一反应是排水管道不够粗。\n\n这次暴雨提醒人们，上海面对的远不只是一场“下水道考试”。\n\n第一股水从天上来。短时间内数亿立方米雨水落进城市，屋顶、道路和硬化地面来不及吸收，只能迅速涌进河道和管网。\n\n第二股水从上游来。上海处在太湖流域下游，太湖流域约80%的水最终要经过黄浦江干流东排入海。即便上海没有下雨，江苏、浙江上游来水也可能继续推高河网水位。\n\n第三股水从海上顶回来。台风赶上高潮位，黄浦江和杭州湾的外河水位可能高于内河。排水泵想往外送水，相当于顶着更高的水位往外推。\n\n暴雨、上游洪水和海潮如果同时出现，地下管道即使畅通，也要面对一个更直接的问题：水排到河里以后，河又往哪里排？\n\n上海目前约70%的中心城区，雨水排水能力已达到三至五年一遇水平，小时雨强达到约51.2至58毫米时，可以尽量避免明显积水。规划到2030年，这一比例提高到80%左右。\n\n但徐家汇此次24小时降雨超过316毫米。面对这种历史极值，任何一根管道都不可能独自解决问题。\n\n地下管网负责把街上的水送进河里，骨干河道负责把整座城市和上游流域的水送出去。这是两场不同的考试。\n\n中国城市多次“看海”，冲进来的却不是同一种水\n\n近年来，郑州、北京、涿州和南方多座城市都经历过严重积水。“城市内涝”四个字看起来相同，水的来源和破坏方式却差别很大。\n\n第一类是雨下得太快，迅速压垮城市管网。\n\n2021年郑州“7·20”特大暴雨中，最强一小时降雨达到201.9毫米，突破当时中国大陆气象观测纪录。大量地表径流在极短时间内涌向低洼处，地铁、隧道、地下车库和下沉式道路迅速变成最危险的空间。\n\n这种灾害首先考验雨水口、地下管网、泵站和应急封闭能力。排水标准固然重要，地铁何时停运、隧道何时封闭、人员怎样转移，同样决定灾害后果。\n\n第二类是水从山里和上游河道冲进来。\n\n2023年京津冀极端强降雨中，北京昌平王家园水库累计降雨达到744.8毫米，创北京有仪器测量记录140年以来最高值。北京西部山地汇水速度快，山洪、中小河流洪水、滑坡和城市积水同时发生；下游涿州等地又要承接流域洪水。\n\n这种情况下，只改造城区下水道远远不够。水库、河道、堤防、蓄滞洪区以及上下游联合调度，决定洪水往哪里走。\n\n第三类是沿海城市的复合型洪涝。\n\n上海此次面对的就是典型场景：本地暴雨把水倒进河网，太湖流域上游继续来水，台风和高潮位又把黄浦江、杭州湾水位推高。城市想往外排，海潮却在出口处往回顶。\n\n这类风险需要管网、泵站、骨干河道、海塘和潮汐调度一起工作。吴淞江工程主要解决的，正是黄浦江出口过于集中、流域东排通道不足的问题。\n\n现实中的洪灾往往是几种类型叠加，但区分水从哪里来依然重要。把所有积水都归咎于“下水道不够粗”，很容易开错药方：短时暴雨需要抢排和封闭地下空间，山洪需要守住河道与危险区，沿海城市则必须给河网增加出口并防范潮水顶托。\n\n城市治水没有一张全国通用的施工图。先分清天上落下的水、山里冲来的水和海上顶回来的水，才能决定钱该花在管道、河道，还是堤防和预警上。\n\n600多年只有一条主通道，现在必须增加出口\n\n上海为什么非要花550多亿元再挖一条河？\n\n答案藏在地图上。\n\n吴淞江就是今天的苏州河。历史变迁和城市建设改变了它的行洪能力，太湖洪水东排长期高度依赖黄浦江。黄浦江既要承接上海本地河网来水，又要消化太湖流域上游来水，两岸还分布着人口密集区、金融中心、港口和千亿元级产业带。\n\n平时，这条水道是城市景观和黄金岸线；汛期，它又是一条不能堵、不能慢、也不能轻易加宽的排洪主干道。\n\n吴淞江工程要恢复和扩大另一条东排通道。整个工程西起太湖瓜泾口，经江苏、上海后入江，全长约125.7公里，其中上海段约64公里。工程将新开、拓宽河道，建设泵闸，改造桥梁，并将一部分水经新川沙河、罗蕰河直接排入长江。\n\n它要在密集建成区里重新安排水的去路，施工难度远远超过挖一条普通河道。\n\n工程涉及青浦、嘉定、宝山等区域，要处理土地、桥梁、航道、既有水系和城市设施之间的关系。它从酝酿到全面实施经历数十年，目标是在2030年前基本建成上海段主要工程。\n\n建成后，黄浦江不再独自承担几乎全部压力，上海北部和太湖流域多出一条向长江排水的骨干通道。它还能改善区域水生态、提升部分航道能力。\n\n550多亿元购买的是一座超大城市应对极端天气的第二条排洪通道。\n\n一条新河救不了所有积水，却能避免全城只押一条水路\n\n吴淞江工程建成以后，上海不会从此告别积水。\n\n一场暴雨能不能迅速退水，还取决于小区排水、道路管网、泵站能力、河道水位、海塘堤防和潮汐调度。哪一环堵住，水都可能留在居民脚下。\n\n上海“十五五”水系统规划因此不是只押注一条河。到2030年，上海还计划推进约200公里骨干河道整治、30余座外围泵闸建设、50个低洼圩区改造，提升主海塘和黄浦江堤防能力，并建设数字孪生水网。\n\n所谓数字孪生，落到防汛现场，就是让管理者提前看见：雨将落在哪里、河水会涨多快、哪座泵站应该先开、哪段河道还有库容。\n\n硬工程负责给水让路，预报和调度负责抢时间。\n\n这也是今天所有沿海超大城市共同面对的变化。过去修排水系统，常常依据历史降雨概率；现在，所谓“百年一遇”可能在一代人的生活中反复出现。城市不能每次都等水退了，再把同一条路重新铺一遍。\n\n吴淞江工程真正重要的地方，就在这里。\n\n它承认了一件并不轻松的事实：黄浦江再重要，也不能让整座城市永远只押一条排洪通道；现有标准再先进，也必须为更极端的天气留下余量。\n\n暴雨无法被取消，洪水却可以多一条路。上海花550多亿元建设的，是下一次极端天气来临时不至于无路可退的底气。\n\n来源与口径说明\n\n• 上海市水务局：《上海市水系统治理“十五五”规划》\n• 上海市人民政府：《上海市国民经济和社会发展第十五个五年规划纲要》\n• 上海市人民政府：吴淞江工程建设范围通告及工程定位\n• 人民网：吴淞江工程上海段建设进度及总体数据\n• 中新网：台风暴雨与吴淞江工程报道\n• 国务院调查组：河南郑州“7·20”特大暴雨灾害调查报告\n• 北京市政府：2023年北京极端强降雨数据\n• 国家发展改革委：城市内涝与山洪风险的区别\n• 国务院办公厅：加强城市内涝治理的实施意见",
+   "impact": "",
+   "publish_time": "2026-08-18T16:29:59",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787028778987-%E4%B8%8A%E6%B5%B7550%E4%BA%BF%E5%86%8D%E6%8C%96%E4%B8%80%E6%9D%A1%E6%B2%B3.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21415,
+   "title": "大疆硬刚美国国防部迎来转机：“军工企业”认定被法院发回重审",
+   "summary": "【一句话判断】美国上诉法院撤销一审判决中支持核心认定的部分，将案件发回地区法院继续审理，但大疆仍在美国国防部名单上。判决要求法院按照国防部作出决定时实际采用的理由审查，不能再用诉讼中新补的说法维持行政决定；与此同时，美国正把年度名单、FCC新品准入和供应链豁免叠加成多道门槛。对中国企业而言，能打国际官司、能把行政指控拉回证据和程序，同样是全球竞争力。",
+   "heat": 93.0,
+   "category": "科技",
+   "story": "美国给大疆贴上一张“军工企业”标签，已经四年。\n\n8月14日，美国上诉法院撤销了一审判决中支持核心认定的部分，把案件发回地区法院继续审理。\n\n美国联邦哥伦比亚特区巡回上诉法院裁定，大疆关于正当程序、政府资助证据和差别待遇的三项主张不成立，却撤销了一审法院对核心问题的判断：现有审理能否证明美国国防部有充分理由认定大疆“对中国国防工业基础作出贡献”？\n\n国防部把公开材料中的这部分理由全部涂黑。一审法院没有查看未删节的涉密材料，却根据政府律师在诉讼中补充的说法，替行政机关把答案拼了出来。\n\n上诉法院说，这种审法不行。\n\n法院可以尊重国家安全判断，但不能允许行政机关先给企业定性，再让律师和法官替它寻找理由。\n\n案件被发回重审。国防部的认定并未被撤销，大疆也尚未摘牌；变化在于，地区法院必须按照国防部作出决定时实际采用的理由继续审查，不能再用诉讼中新补的说法替原决定填空。\n\n四年里，美国不断重贴同一张标签\n\n这场拉锯战始于2022年。\n\n美国国防部依据《国防授权法》第1260H条，把大疆列为在美国经营的“中国军工企业”。大疆随即否认与中国军方存在隶属关系，并申请移出名单。\n\n申请被拒。2024年和2025年，大疆又被连续列入更新名单。2024年10月，大疆正式起诉美国国防部；2025年9月，一审败诉。\n\n大疆随后继续上诉。诉讼还没有结束，美国国防部又在2026年6月发布新名单，再次写入大疆，并补上“单项冠军”、产业园区和政府部门关联等新理由。\n\n这正是这场官司最磨人的地方：大疆起诉的是上一张名单，美国政府却可以在诉讼期间印出下一张。\n\n企业需要逐条反驳，政府只需要按年度更新。官司按年打，标签却按年续。\n\n美国把产业围堵做成了一条不断移动的传送带。随着法律定义扩张、秘密证据增多和部门权限交叉，后来者面对的门已经越来越厚。\n\n大疆赢了一点，也输了不少\n\n这次判决不能包装成“大疆胜诉”。\n\n上诉法院认为，大疆没有证明这张名单已经广泛剥夺其继续经营无人机业务的能力。判决还认可，美国国防部可以根据大疆获得“国家企业技术中心”认定及相关政策利益，推断它接受了中国政府提供的科技支持。\n\n换句话说，美国法院并没有接受大疆的全部辩护。\n\n大疆真正撬动的，是认定链条最后、也是最重要的一环。\n\n“获得政府支持”与“为国防工业作出贡献”不是同一句话。企业获得税收优惠、研发补助或者产业称号，也不能自动完成从民用科技公司到军工企业的身份跳跃。\n\n美国国防部声称掌握秘密理由，却把相关段落全部删黑。一审法官没有审查未删节材料，转而使用政府律师在法庭上提出的新解释。上诉法院认为，这违反了美国行政法的一条基本原则：行政决定必须由行政机关自己给出理由，法院不能事后替它补作业。\n\n案件发回后，地区法院可以审查涉密记录，再决定这些材料是否足以证明大疆与中国国防工业存在法定意义上的“贡献”关系。判决没有保证大疆或其律师能够看到相关材料，也没有要求国防部公开全部证据。\n\n因此，这不是标签已经撕掉，而是地区法院被要求重新批改最关键的一道证明题，并且只能依据行政机关当时留下的答案。\n\n为什么美国非要盯住大疆\n\n因为美国无人机市场有一个让华盛顿难受的事实：最成熟、最好用、价格最有竞争力的产品，长期来自中国。\n\n上诉法院判决引用的美国研究资料显示，大疆约占全球消费级无人机市场九成，在整个无人机领域的份额也接近七成。美国的警察、消防队、测绘公司、农场和影视团队，都曾大量使用大疆。\n\n如果大疆只是一家边缘供应商，美国不需要连续四年更新名单，也不需要让国防部、国会和联邦通信委员会轮番上场。\n\n困难恰恰在于，美国一边把大疆描述成安全威胁，一边又无法在价格、性能和供应能力上迅速复制一个大疆。\n\n于是，美国没有放弃企业名单，而是在名单之外继续加门。2025年底，美国联邦通信委员会把外国生产的无人机及关键部件整体纳入受管制清单，原则上不再为新设备发放进入美国市场所需的设备授权；进入Blue UAS清单或符合Buy American国内最终产品标准的两类豁免只持续至2027年1月1日，具体设备或类别还可以申请条件批准。\n\n这与国防部的1260H名单是两条不同战线。\n\n大疆即使在国防部官司中最终翻盘，也不会自动推翻FCC的行业性限制。美国正在把年度企业名单、FCC新品准入、生产地要求和供应链豁免叠加成多道门槛。\n\n一场官司只能拆一道门。美国正在做的，是让不同部门同时把门关上。\n\n有的赢，有的输：打官司本身也是出海能力\n\n中国企业与美国政府的官司，已经留下了一份胜负参半的成绩单。这些案件并非适用同一部法律，比较的不是同一种名单的胜率，而是不同权力来源给法院留下了多大的审查空间。\n\n2021年，小米和箩筐科技分别取得初步禁令，法院认为它们很可能证明国防部的认定越权或缺乏充分依据；美国政府随后没有继续对抗小米裁定，并将小米移出名单。2024年，中微公司起诉美国国防部，四个月后被正式移出1260H名单。这个结果不是法院判决胜诉，却证明提起诉讼、提交材料和迫使行政机关重新审查，也可能改变名单状态。\n\n另一边，华为挑战美国国会禁止联邦机构采购其设备的法律，2020年败诉；TikTok挑战“不出售就禁用”的联邦法律，2025年也未获最高法院支持。禾赛在地区法院败诉后继续上诉，大疆则刚刚把核心问题发回重审。\n\n这组结果至少显示出一种倾向：当争议集中在行政机关有没有越权、证据能不能支撑认定、程序有没有补洞时，中国企业可能打开缺口；当美国国会直接立法，并把限制包装成国家安全选择时，法院通常会给政治部门更大的裁量空间。\n\n产品卖得好只是第一场比赛。下一场比赛发生在监管清单、政府采购、通信认证、供应链审查和法院卷宗里。\n\n美国的打法也越来越清楚：先用国家安全标签抬高合规成本，再让政府采购、地方部门、合作伙伴和金融机构主动远离。名单本身未必立即禁止所有交易，却会像一滴墨水落进水里，把不确定性扩散到整个商业网络。\n\n中国企业的应对不能只剩一句抗议。\n\n它们需要建立可以长期作战的法律团队；把股权、补贴、研发合作和政府项目整理成经得住外国法院审查的证据；用第三方安全测试回应数据风险；同时加快美国以外的销售、维修和认证网络，降低一张名单对全球业务的传染能力。\n\n大疆已经在这么做。2026年5月，大疆公布美国网络安全公司OnDefend对Air 3S和Matrice 4E两套系统所做的独立安全评估，并继续在FCC程序中提交材料。但这条路昂贵、漫长，而且无法保证美国政府不会再换一个入口。\n\n未来最值得观察的是三件事：一审法院审查涉密材料后是否仍然支持国防部；大疆能否获得接触或质疑关键证据的机会；美国新一轮年度名单是否继续增加完全不同的理由。\n\n如果国防部原有记录拿不出足够证据，大疆就可能复制小米当年的法律突破；如果既有涉密记录已经足以支撑国防部原决定，这次发回重审就可能只是一段程序插曲。\n\n无论结果如何，这场官司已经留下一个重要信号：\n\n国家安全可以使用涉密材料，却不能让政府律师在诉讼中另写一套理由。美国要把一家中国民用科技公司列为军工企业，行政决定仍要接受法院按原有理由审查。\n\n大疆争的不是一纸好评，而是在美国不断移动的围堵线前，迫使对方把行政决定重新放回证据和程序中接受审查。\n\n这场拉锯战还没有赢家，美国的名单和准入限制仍在加码。\n\n但对越来越多走向全球的中国企业来说，答案已经很清楚：产品、成本和供应链是全球竞争力，跨境合规、证据管理和国际诉讼同样是全球竞争力。能在海外卖出去，也要能在别人制定的规则里为自己守住市场。\n\n全球化竞争已经打进法院。能造出世界级产品是一种硬实力，能把一项行政指控拖回证据桌上，同样是一种硬实力。\n\n来源与口径说明\n\n• 美国联邦哥伦比亚特区巡回上诉法院判决：SZ DJI Technology Co., Ltd. v. Department of Defense\n• 大疆关于2025年一审判决的声明\n• 美国国防部1260H名单与合规说明\n• 美国联邦通信委员会：外国制造无人机受管制清单及临时豁免\n• 美国联邦通信委员会：大疆复议程序\n• 美国法院：小米诉国防部初步禁令\n• 美国法院：箩筐科技诉国防部初步禁令\n• 美国国防部：中微公司与IDG资本移出1260H名单\n• 美国法院：华为挑战2019财年国防授权法判决\n• 美国最高法院：TikTok诉Garland案\n• 禾赛科技2025年年度报告：1260H诉讼与上诉状态\n• 大疆：OnDefend对Air 3S和Matrice 4E的独立安全评估\n\n本文所称“发回重审”是部分撤销、部分维持后的程序结果，不等于大疆已经被移出1260H名单。国防部名单与FCC受管制清单属于不同法律机制，一项诉讼结果不会自动改变另一项限制。",
+   "impact": "",
+   "publish_time": "2026-08-17T23:54:56",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786981753345-%E5%A4%A7%E7%96%86.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 21506,
+   "title": "8月18日话题｜当692分女孩放弃高中：家长们不怕吃苦，只怕啥也换不来",
+   "summary": "【话题金句】家庭并不是在为孩子选择一条更轻松的路，而是在不确定的未来里，试图选择一种更可计算的风险。",
+   "heat": 92.0,
+   "category": "话题",
+   "story": "#中本贯通 #职业教育 #教育焦虑 #升学选择 #未来不确定性\n\n上海一名中考成绩692.5分的女孩，没有把普通高中作为唯一答案，而是选择了中本贯通项目。这个分数达到相关高中录取线水平，也超过她所报专业的最低分数线。消息传开后，最常见的追问是：考得这么好，为什么不去读高中？\n\n她自己的回答并不悲壮：“这个专业偏工科，就业形势不错，又不用高考的强度学习数理化，对于相对偏文的我来说，是最好的一条路了。”她还说，希望“脚踏实地走好七年的每一步，把基础打扎实”。\n\n这原本只是一个女孩对自身特点的判断，却很快变成一场公共讨论。人们争论的表面是普高与职校，深处却是另一道越来越普遍的难题：当高考、学历和就业都难以预测，我们究竟应该为孩子保留更多可能，还是尽早换取一条相对清晰的道路？\n\n高分没有“浪费”，它只是换了一种风险\n\n把这次选择简单解释为“逃离高考”，会低估这个家庭的计算。中本贯通不是入学即获得本科文凭。学生先在中职学校学习三年，完成学业并通过转段考试后，才能进入对应本科院校继续学习。它减少了一部分升学路径上的反复竞争，却增加了专业适配、学校培养质量和未来产业变化的风险。\n\n所谓稳妥，从来不是没有风险，而是把一种风险换成另一种自己更愿意承担的风险。\n\n对擅长某类技能、较早形成职业兴趣的孩子来说，提前进入专业学习未必是退而求其次。但对一个十五岁左右的孩子来说，过早确定专业，也可能意味着选择空间缩小。问题不该是“高分为什么去职校”，而应是：孩子是否了解这条路，家庭是否获得了充分信息，制度是否允许他在发现不适合时重新选择。\n\n家长真正害怕的，是三年后不知道会落在哪里\n\n一位为孩子考虑贯通培养的母亲说：“前景我其实是有疑虑的。万一转段考核不过怎么办？万一学校教学跟不上怎么办？”但她最终仍尊重孩子：“毕竟是他自己走下面的路，我不能替他走。”\n\n这两句话几乎装下了许多家庭的矛盾：既希望孩子少一些无意义的竞争，又怕一次选择过早决定一生；既尊重孩子的兴趣，又担心兴趣抵不过现实；既期待职业教育提供新出口，又不敢完全相信师资、管理、转段和就业质量。\n\n一位职业学校校长说得更直接：“其实，避开的不是学业压力，而是面对升学目标时的不确定性带来的压力和焦虑。”\n\n今天的教育焦虑，已经不只是怕孩子吃苦，更是怕苦吃了，却不知道能换来什么。\n\n因此，中本贯通受到关注，不只是因为它看起来少走一次独木桥，而是因为它给出了一个相对可描述的未来：学什么、在哪里学、下一站可能去哪里。对于被不确定性包围的家庭，“能够描述”本身就有吸引力。\n\n职业教育不能只靠几个高分孩子证明自己\n\n但一个高分女孩的选择，并不能自动证明职业教育已经获得真正认可。如果社会关注的仍是“这条路也能读本科”，那么大家追逐的可能依旧是学历，只是换了一条通道。\n\n职业教育成为主动选择，不能只靠招生分数上升，更要靠真实的教学质量、就业质量和职业尊严。\n\n学校能否紧跟产业变化？课程是否既教当下技能，也培养继续学习的能力？学生毕业后能否获得合理收入、晋升空间和社会尊重？这些问题不解决，再漂亮的贯通设计，也可能被家长理解为一次充满未知的押注。\n\n还有信息公平的问题。熟悉政策、能够比较学校和专业、懂得研究转段规则的家庭，更容易利用新通道；信息不足的家庭则可能只看见“七年本科”几个字。一种好的教育制度，不应把读懂复杂规则的能力，变成孩子获得机会的隐形门槛。\n\n未来越难预测，教育越要允许孩子改道\n\n贯通培养强调专业与产业需求对接，这是它的现实价值。但产业变化往往比一届学生的培养周期更快。今天紧缺的岗位，七年后可能重组；今天热门的技能，也可能被新技术重新定义。\n\n所以，真正可靠的“贯通”，不能只是把一名学生从中职送到本科，还要贯通知识与技能、学校与产业，也贯通转专业、继续深造和终身学习的出口。\n\n面对快速变化的未来，最宝贵的确定性，不是十五岁就把道路锁死，而是走错以后仍有能力、有通道重新出发。\n\n我们无需把这个女孩塑造成职业教育的代言人，也不必把她的选择复制给每个家庭。她只是认真地选择了自己认为合适的一条路。真正值得全社会讨论的是：我们能不能提供不止一种体面的成功，能不能让不同教育路径之间可进、可退、可转换，能不能让孩子不因一次分流就被定义终身。\n\n一个女孩选择中本贯通，是她个人的决定；如此多的人为此争论，则是整个社会在为未来投票。",
+   "impact": "",
+   "publish_time": "2026-08-18T18:15:12",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787047986360-%E5%BD%93692%E5%88%86%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E9%87%8D%E7%82%B9%E9%AB%98%E4%B8%AD.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 21472,
+   "title": "10名市场监管干部送了14天外卖：跑出145个办公室里看不见的问题",
+   "summary": "【一句话判断】山东滨州让10名市场监管干部以真实骑手身份接单两周，发现的问题从幽灵外卖一直延伸到导航、换电、楼号、非机动车道和红绿灯。体验式调研的价值，要看145条台账最终能改动多少现实规则。",
+   "heat": 92.0,
+   "category": "社会",
+   "story": "如果只看监管报表，外卖是一笔订单，从商家出发，按时送到消费者手里。\n\n如果骑上电动车亲自跑一遍，这笔订单中间可能要经过一家找不到门头的餐馆、一条被汽车占满的非机动车道、一个等不起的红灯、一栋没有楼号的老楼，以及一座已经没有电池可换的换电站。\n\n今年7月，山东滨州市市场监管局让10名年轻干部去美团、京东秒送、淘宝闪购等平台当了两周外卖骑手。\n\n他们办健康证、租电动车、接受培训，按照真实骑手身份接单。14天后，10个人带回145个问题。\n\n平均每人每天发现一个以上。\n\n骑手的辛苦，公众早已知道。145这个数字更值得注意，因为它暴露出一条治理缝隙：许多问题明明每天都在街上发生，却要等干部成为骑手以后，才第一次完整地进入部门台账。\n\n第一张清单：一份外卖可能来自一家“隐身”餐馆\n\n市场监管干部变成骑手以后，最先看到的是网络餐饮的线下真相。\n\n平台页面上，商家可能有精美照片、醒目门头和漂亮评分；到了导航终点，骑手却可能绕几圈也找不到店。\n\n有些无堂食商户租借证照、使用虚假地址、伪造门店照片；有些线上地址与实际取餐地址不一致；还有些店铺把自己包装成正常经营的高分门店，后厨却藏在居民楼和偏僻院落里。\n\n这就是“幽灵外卖”最难监管的地方。消费者看不到后厨，平台主要依靠线上材料审核，执法人员也不可能天天跟着每一笔订单跑。\n\n骑手反而是最接近现场的人。\n\n他们每天进入商家，看得到证照、后厨、操作人员和封签，也最早知道一家店是不是从注册地址“搬走了”。\n\n市场监管总局今年已经部署外卖骑手参与食品安全监督，并要求平台强化实名登记和资质核验。成都已有3000多名骑手担任食品安全监督员，发现并推动下线资质违规商家超过5500家。\n\n骑手可以成为流动的监督探头，但这不等于平台可以把审核责任外包给骑手。平台掌握商户注册、交易、定位和评价数据，本应承担最主要的入口核验责任；骑手的现场发现，是补充，也是对平台审核结果的一次现实校验。\n\n第二张清单：超时背后，可能是一块缺失的楼号牌\n\n10名干部跑出的145个问题，很快越过了食品安全边界。\n\n老旧小区楼栋排列混乱，没有清晰楼号；平台导航把骑手带到错误入口；部分非机动车道长期被汽车占用；高峰期换电站没有电池；一些路口红灯等待时间长，配送倒计时却不会停。\n\n在消费者手机上，这些问题最后只显示为一句：“骑手距离您还有5分钟。”\n\n平台可能认为骑手效率不够，消费者可能认为骑手故意磨蹭，交警看到的则可能是闯灯和超速。\n\n可真正让订单慢下来的，有时只是一块没人补上的楼号牌、一段被占用的非机动车道，或者一条没有更新的导航路线。\n\n这就是基层治理最容易丢失的部分。住建部门管小区标识，公安部门管信号灯和交通秩序，街道和物业管社区入口，平台管导航和配送时限，市场监管部门又主要盯食品与经营秩序。\n\n每个部门都能看见其中一段，骑手却要用自己的时间和安全把所有断点接起来。\n\n一份外卖的迟到，表面上是骑手慢了几分钟，背后可能是整座城市把几项管理成本同时压到了一个人身上。\n\n第三张清单：算法只计算时间，城市必须计算安全\n\n干部们体验后发现，部分路口等待时间较长，个别骑手为了避免超时和差评，只能抢灯、超速。\n\n算法当然不是交通违法的免责理由。但如果配送系统持续按照最顺利的道路、最准确的导航和最快的取餐速度计算时间，风险就会稳定地落在骑手身上。\n\n更合理的治理不能只靠一句“骑手要遵守交通规则”。平台需要根据真实路况、楼宇难度和等待时间校正算法；城市管理者也要修复长期占道、楼号混乱和换电不足等基础问题。\n\n滨州把145个问题全部建立整改台账，并由市场监管、公安、街道、商圈运营方和平台分类处理。报道显示，当地已着手优化部分信号灯配时、整改小区标识，并完善骑手线索直报机制。\n\n这一步很重要，但“建账”只是开始。\n\n体验式调研最容易收获的是干部日记、晒痕和媒体镜头，最难留下的是几个月后仍然有效的制度变化。145个问题中，究竟有多少已经解决，有多少需要平台修改系统，有多少涉及长期城市改造，应该继续公开跟踪。\n\n否则，两周以后干部回到办公室，骑手仍会沿着原来的错误导航继续奔跑。\n\n真正值得推广的不是干部轮流送外卖\n\n让干部体验一线有价值，但治理一座城市不能依赖所有干部把每一种职业都干一遍。\n\n更值得复制的，是把骑手每天获得的现场信息稳定送进治理系统。\n\n骑手发现地址不符和后厨问题，可以匿名、便捷地上传；平台发现商户定位异常，应主动核验；一处小区长期被大量骑手标记为难找，街道和物业应该收到提示；某个路口频繁出现超时和急刹车，平台数据也应成为优化交通设施的参考。\n\n与此同时，骑手承担监督工作应当有培训、有奖励、有隐私保护，不能再增加一项没有报酬的任务，更不能因为举报商家而遭遇报复或减少派单。\n\n监管干部送了14天外卖，最大的收获不应是一句“终于理解骑手辛苦”。\n\n真正有用的答案是：他们已经亲眼看见，一份外卖怎样穿过商家、平台、道路、社区和消费者。接下来，每个掌握一段权力和数据的主体，都该把自己负责的那一段修好。\n\n145个问题跑进台账，只完成了调研。等这些问题变成更准确的导航、更合理的时限、更清楚的楼号和更安全的道路，这两周外卖才算真正送达。\n\n来源与口径说明\n\n• 中新网转引人民日报：市场监管干部体验外卖骑手及145个问题\n• 市场监管总局：部署网络餐饮食品安全共治活动\n• 市场监管总局：外卖平台企业行政指导会\n• 市场监管总局：食品安全专题新闻发布会实录\n• 市场监管总局转载：中国市场监管报关于成都骑手监督机制的报道",
+   "impact": "",
+   "publish_time": "2026-08-18T14:13:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787028925077-10%E5%90%8D%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E5%B9%B2%E9%83%A8%E9%80%81%E4%BA%8614%E5%A4%A9%E5%A4%96%E5%8D%96.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21473,
+   "title": "AI时代一个人也能开公司：县城第一次有机会和大城市争创业者",
+   "summary": "【一句话判断】AI把设计、客服、营销和软件开发压缩进一个人的工具箱，越来越多县城开始用低成本空间、产业数据和真实订单吸引创业者。这轮热潮能否留下来，取决于创业者能否持续拿到客户和收入。",
+   "heat": 91.0,
+   "category": "财经",
+   "story": "过去创业，第一件事往往是组团队。\n\n做产品要找程序员，做海报要找设计师，卖货要招运营和客服，管理几十个人以后，还需要财务、人事和办公室。\n\n现在，一个人坐在县城的一台电脑前，也可能同时调动文案模型、设计软件、数字人、智能客服和跨境电商平台。\n\n他仍然只有两只手，身后却多出了一支不睡觉的“数字班组”。\n\n这种被称为OPC的“一人公司”正在走出大城市。海南澄迈、广东东源、福建德化、山东寿光等县域开始建设创业社区、开放产业场景、发布需求订单，争夺能够独立创业的技术人员、产品经理和内容创作者。\n\n县城过去争夺一家企业，常见办法是准备土地、厂房和税收优惠；现在，它们开始拿出陶瓷、蔬菜、文旅和跨境电商的真实问题，请一个人带着AI来解题。\n\nAI改变的不只是一个人能干多少活，也开始改变创业者必须在哪里工作。\n\n“一人公司”早就存在，AI第一次让一个人像一支团队\n\n先拆掉一个概念误区。\n\n法律意义上的一人有限责任公司早已存在。今天被热议的OPC，也不一定真的只有一名员工，更不是注册一种新的企业类型。\n\n它真正的新意，是创业者把核心决策握在自己手里，把设计、开发、营销、客服等工作交给AI工具、云服务和外部协作者，用极小组织完成一套商业闭环。\n\n以前，一个人开网店，只是自己多干几份活；现在，AI可以先生成商品图、剪辑短视频、回复常见咨询、分析销售数据，甚至按照自然语言指令调用多个软件继续执行任务。\n\n一个人因此获得了过去小团队才具备的最低生产能力。\n\n但这里有一道很容易被忽略的边界：AI能把产品做出来，不会自动把客户送上门。\n\n创业最难的几件事——找到真实需求、取得客户信任、持续交付、控制现金流——仍然要由人负责。一人公司降低了开门成本，也把判断失误、收入波动和法律责任集中到了一个人身上。\n\nOPC是一种更轻、更快，也更脆弱的创业组织。它的价值在于降低起步门槛，而不是许诺每个人都能当上大老板。\n\n大城市卖资源密度，县城开始卖真实场景\n\n在互联网时代，县城长期面对一个难题：年轻人带着学历和技术走出去，本地却很难提供匹配的工作。\n\nAI让这个关系第一次出现松动。\n\n写代码、做设计、剪视频和服务海外客户，不再要求创业者每天出现在北上广深的写字楼。县城的房租、人工和生活成本更低，试错时间更长；一根网线又能把产品送往全国甚至海外。\n\n但低成本不是县城最重要的筹码。真正稀缺的是具体产业。\n\n德化拥有完整陶瓷产业链，AI可以参与花型设计、跨境营销、直播电商和生产管理；寿光拥有蔬菜种植、种子、病虫害和销售数据，可以训练农业问答工具；东源把企业、景区、乡镇和农村的200多项需求整理成超过3000万元的首批订单池。\n\n对于创业者来说，这些具体需求有机会变成第一批客户和第一笔收入。\n\n海南澄迈则依托自贸港、跨境电商和数字经济园区吸引创业者。当地媒体今年6月报道已有超过300家OPC进驻，8月最新采访称相关创客主体超过500个。这个数字仍需要等待统一统计口径，但增长趋势已经足以让更多县城加入竞争。\n\n过去，县城招商追求一家工厂带来几百个岗位；现在，它们开始尝试同时引入几百个只有一两个人的微型创业主体。\n\n大城市拥有密集的人才、资本和信息；县城想赢，就要把本地产业变成创业者可以直接接单的市场。\n\n免费工位很容易，第一张订单最难\n\nOPC热潮正在迅速变成一场县域招商竞赛。\n\n有的地方提供免费办公空间，有的发算力券、模型调用额度和人才补贴，有的成立联盟、举办大赛，还有地方提出到2027年培育数百家相关主体。\n\n这些动作能够把人请来，却不能保证公司活下来。\n\n一间办公室挂上OPC招牌，里面可能坐着真正有收入的跨境卖家，也可能只是参加培训的自由职业者；工商注册数量增加，不等于产生新的税收和就业；一个写着3000万元的订单池，也要看最终有多少项目成交、验收和回款。\n\n这轮热潮最需要防范的，是县城再次复制熟悉的园区冲动：先装修空间、举行揭牌、统计入驻数量，几年后发现创业者没有客户，办公室只剩下桌椅。\n\n判断一个OPC社区是否真实，可以盯住四个数字：\n\n• 创业者从本地获得了多少付费订单；\n• 一年后还有多少公司继续经营；\n• 政府补贴退出后，收入能否覆盖成本；\n• 本地企业是否愿意追加第二次采购。\n\n如果这四项没有公开，所谓“一人公司之城”就可能只是又一个新名词招商园。\n\n县城不必制造下一个大厂，可以先养活一批小生意\n\n一人公司不会取代大企业。\n\n制造汽车、芯片和大型装备，仍然需要巨额资本、复杂供应链和成千上万名员工。即使在内容、电商和软件行业，当业务扩大到一定规模，一个人也需要招聘、融资或与更多机构合作。\n\nOPC真正适合的，是不需要重资产、可以快速试错的业务：垂直软件、数字内容、工业服务、跨境电商、设计、咨询和本地产业数字化。\n\n它对县城的意义也不在于一夜之间诞生一家独角兽。\n\n传统县域经济往往一头是大型龙头企业，一头是个体工商户，中间缺少能够提供技术、品牌、设计和数字服务的小公司。一批能够活下来的OPC，恰好可以填补这一层。\n\n一个人帮助十家陶瓷厂做海外营销，一个小团队为几十个农场提供病虫害识别，一名设计师借助AI承接全国订单，这些生意未必轰动资本市场，却可能真正留住一部分年轻人，并让本地产业获得过去买不起的服务。\n\nAI先让创业组织变小，县城再用成本和场景把这些小组织留下来。这个故事如果跑通，中国县域经济获得的将不只是几间共享办公室，而是一层新的商业细胞。\n\n过去，年轻人离开县城，是因为工作必须去大城市寻找。现在，AI把一部分工作装进电脑，县城终于有机会反过来争夺带着客户和能力回来的人。\n\n来源与口径说明\n\n• 中新网：一人公司开始“奔县”调查\n• 东源县政府：首批3000万元OPC订单采购服务发榜\n• 海南日报：澄迈OPC创业社区进驻情况\n• 德化县政府：陶瓷产业数字化案例\n• 中新网海南：澄迈OPC创新创业专项赛",
+   "impact": "",
+   "publish_time": "2026-08-18T16:29:59",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787028848569-AI%E6%97%B6%E4%BB%A3%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%B9%9F%E8%83%BD%E5%BC%80%E5%85%AC%E5%8F%B8.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21412,
+   "title": "缅甸反网络诈骗法通过：重刑瞄准的不只是诈骗，还有人口贩运",
+   "summary": "缅甸反网络诈骗法案获议会通过，重刑覆盖诈骗组织、人口贩运与强迫劳动等链条。所谓“最高可判死刑”有严格适用条件，不能被简化成开设园区即判死刑。",
+   "heat": 91.0,
+   "category": "时政",
+   "story": "缅甸议会近日通过反网络诈骗法案。公开文本显示，新法把网络诈骗背后的组织、招募、非法拘禁、人口贩运、资金转移等环节一并纳入打击范围，并设置最高至无期徒刑、死刑的严厉刑罚。\n\n但在传播中，有一个边界必须说清楚。\n\n“最高可判死刑”不能简化成“开设电诈园区就会被判死刑”。\n\n缅甸官方公布的法案文本显示，死刑对应的是以暴力、威胁、拘禁等方式强迫他人从事网络诈骗并造成死亡等严重后果的情形。组织经营诈骗集团、强迫他人参与诈骗，可以面临10年以上有期徒刑直至无期徒刑；具体罪责仍取决于行为、后果和司法认定。\n\n这一设计指向了东南亚电诈产业最残酷的一面：不少园区并非只有“骗子”和“受骗者”两端，中间还存在招募、偷渡、人口贩运、看守、虐待、洗钱和非法支付等完整链条。一些所谓“工作人员”本身也是被诱骗出境、限制人身自由后被迫实施诈骗的受害者。如果法律只统计诈骗金额，却不处理拘禁和强迫劳动，就很难触及园区的控制结构。\n\n法案还关注银行账户、电子钱包、手机卡以及加密资产等资金工具。其现实意义在于，反诈不再只追究拨打电话、发送信息的末端人员，而是试图切断招募和资金网络。\n\n不过，法条严厉并不等于治理已经完成。缅甸部分电诈园区位于边境和冲突地区，执法能力、地方控制关系和跨境协作都会影响法律能否落地。银行账户能否及时冻结，园区负责人能否真正归案，被强迫参与诈骗的人能否得到识别和救助，比刑罚上限本身更能检验成效。\n\n还需注意程序口径：缅甸官方6月底披露的是人民院批准法案，7月底多家媒体报道议会完成通过；正式公布文本、施行日期及配套执法规则，仍应以缅甸官方后续文件为准。\n\n对电诈产业最有效的震慑，不只是把最高刑罚写得更重，而是让组织者、贩运者和资金操盘者真正付出代价，同时不把被胁迫者再次当成工具。\n\n核验依据：缅甸官方媒体关于法案获批的报道、缅甸官方公布的法案文本、缅甸总统府发布草案说明",
+   "impact": "",
+   "publish_time": "2026-08-18T00:00:33",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786982228715-%E7%BC%85%E7%94%B8%E5%8F%8D%E7%BD%91%E7%BB%9C%E8%AF%88%E9%AA%97%E6%B3%95%E8%8E%B7%E8%AE%AE%E4%BC%9A%E9%80%9A%E8%BF%87.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 21478,
+   "title": "中国7月汽车出口猛增81.3%，新能源占比超五成",
+   "summary": "2026年7月中国汽车出口量达104.3万辆，同比增长81.3%，连续两月突破百万辆。新能源汽车出口占比连续两月超50%，1-7月累计出口614万辆，同比增长66.8%，彰显全球竞争力提升。",
+   "heat": 89.0,
+   "category": "财经",
+   "story": "百万级跨越：出口量连续两月破百万\n2026年7月中国汽车出口量达104.3万辆，环比增长0.6%，同比增长81.3%，这是继6月后第二次单月突破百万辆大关。中汽协数据显示，上半年出口量已超越2021年全年总量，预计全年出口量有望突破1000万辆。\n\n新能源引擎：拉动出口的核心动力\n新能源汽车出口占比连续两个月维持在50%以上，比亚迪“海豹”、蔚来ET5等车型在欧洲市场单月交付量突破2万辆。长城汽车泰国工厂投产后，单月出口量环比增长37%。工信部数据显示，中国新能源车专利数占全球总量的43%，电池续航技术突破600公里大关。\n\n全球布局：三大市场全面开花\n欧洲市场渗透率突破15%，上汽MG4成英国最畅销电动车型；中东市场同比增长120%，广汽传祺混动车型占据沙特细分市场35%份额；在南美市场，奇瑞连续五年市占率第一，巴西工厂扩建后产能提升至20万辆。",
+   "impact": "产业跃迁：全球汽车格局重构\n中国汽车出口量已连续18个月保持增长，带动产业链产值突破万亿。宁德时代在德国工厂投产后，全球市占率提升至38%，带动锂电材料出口同比增长89%。德国汽车工业协会报告显示，2026年上半年中国新能源车在欧盟市场占有率较2020年提升9个百分点。\n\n技术突围：标准制定权争夺战\n中国主导制定的《电动汽车安全全球技术法规》获联合国批准，比亚迪刀片电池技术被纳入欧盟新电池法案技术标准。清华大学汽车产业研究院指出，中国企业在智能驾驶领域累计专利达1.2万件，占全球总量的39%。\n\n隐忧显现：贸易壁垒与产能过剩\n欧盟启动反补贴调查，拟对中国电动车加征关税。乘联会数据显示，国内新能源车产能利用率仅68%，部分企业库存系数突破2.0警戒线。商务部专家建议，应加速推进“技术+品牌”双输出模式，避免陷入价格竞争陷阱。",
+   "publish_time": "2026-08-18T13:54:17",
+   "cover": "https://gongxiaotianxia.oss-cn-beijing.aliyuncs.com/uploads/1787032418220-%E4%B8%AD%E5%9B%BD7%E6%9C%88%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E7%8C%9B%E5%A2%9E81.3%25%EF%BC%8C%E6%96%B0%E8%83%BD%E6%BA%90%E5%8D%A0%E6%AF%94%E8%B6%85%E4%BA%94%E6%88%90.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 21413,
+   "title": "新州率先启动澳大利亚新一轮枪支回购：并非一次普通“自愿上交”",
+   "summary": "新南威尔士州将率先实施澳大利亚新一轮枪支回购，预计最多影响27.4万支注册枪支。新州先行不等于全国同步，政策效果还要看非法枪支追踪和许可证审查。",
+   "heat": 89.0,
+   "category": "时政",
+   "story": "澳大利亚联邦政府与新南威尔士州政府宣布，新州将率先实施新一轮枪支回购计划。按照已披露方案，首阶段将于11月2日启动，重点回购因新规而超过个人持有上限、或在重新分类后不再允许持有的枪支；联邦与州政府各承担一半费用。\n\n预计受影响的注册枪支最多约27.4万支，约占新州注册枪支总量的24%，涉及约5万名许可证持有人。首阶段按枪型提供每支450至1000澳元补偿；第二阶段预计2027年初启动，处理估值超过3000澳元的高价值枪支，单支补偿上限为1万澳元。\n\n项目已披露安排首阶段2026年11月2日启动，处理超出新上限或重新分类后禁持有的枪支一般补偿每支约450至1000澳元第二阶段预计2027年初启动，处理高价值枪支高价值枪支补偿上限每支1万澳元费用承担联邦政府与新州政府各50%\n\n回购的关键不是“政府花钱买枪”，而是用补偿机制消化新法产生的超额和禁持枪支。\n\n这也意味着，它与长期存在的枪支赦免制度不是一回事。赦免通常允许持有人无罚交出非法或未登记枪支，但不提供补偿；回购则是政府修改持枪规则后，对原本可能合法持有、如今必须退出的枪支支付一定对价。\n\n澳大利亚上一次最著名的全国性枪支回购发生在1996年亚瑟港枪击案后，当时收缴超过65万支枪，并伴随全国较统一的枪支管制改革。此次计划则源于2025年12月14日邦迪海滩枪击事件，联邦立法为2026年至2027年的全国回购建立了框架。\n\n但“新州率先实施”不等于“全国同步落地”。今年以来，澳大利亚各州和领地对持枪数量上限、枪型分类和是否参加回购的态度并不一致。新州把普通娱乐用途持枪上限收紧至4支，对部分生产者和体育射手设置不同上限；其他州是否采取同样规则，仍存在分歧。\n\n争议也由此产生。支持者认为，大规模减少民间枪支能够降低枪击风险；反对者则质疑统一定价能否覆盖枪支真实价值，以及政策是否过多影响守法持证者。最终效果不能只看回购了多少支，还要看非法枪支能否被追踪、许可证审查是否更严格、枪支登记系统是否真正补上漏洞。\n\n一项枪支政策的成败，不在于仓库里堆起多少被回收的枪，而在于危险的人能否更难拿到枪、失管的枪能否更快被发现。\n\n核验依据：澳大利亚联邦枪支回购立法、新州枪支改革第二阶段说明、新州警方关于赦免与回购区别的说明",
+   "impact": "",
+   "publish_time": "2026-08-18T00:00:33",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786982303283-%E6%96%B0%E5%B7%9E%E7%8E%87%E5%85%88%E5%90%AF%E5%8A%A8%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%96%B0%E4%B8%80%E8%BD%AE%E6%9E%AA%E6%94%AF%E5%9B%9E%E8%B4%AD.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 21411,
+   "title": "一线城市二手房价连续5个月环比上涨：回暖是真的，分化也是真的",
+   "summary": "7月一线城市二手住宅价格环比上涨0.2%，连续第五个月上涨，但涨幅已经收窄。短期回暖与同比仍低并存，真正的稳定还要看成交、挂牌与城市分化。",
+   "heat": 88.0,
+   "category": "财经",
+   "story": "国家统计局8月17日公布的70个大中城市房价数据显示，7月一线城市二手住宅销售价格环比上涨0.2%，比6月的0.3%收窄0.1个百分点。至此，一线城市二手房价格已连续5个月环比上涨。\n\n这当然是一个积极信号。二手房通常比新房更贴近真实供需：挂牌多、议价充分、成交价格也更快反映买卖双方预期。连续5个月上涨，说明一线城市二手房市场已经不只是个别月份反弹，而是出现了一段具有延续性的修复。\n\n但“连续上涨”不能直接翻译成“房价重新进入普涨周期”。\n\n观察指标6月7月应当怎样理解一线城市二手住宅环比+0.3%+0.2%仍在上涨，但动能有所放缓6月一线城市二手住宅同比-4.9%待结合7月分项数据观察环比修复尚未完全填平此前跌幅\n\n国家统计局此前披露，6月一线城市二手住宅价格同比仍下降4.9%，其中北京、上海、广州、深圳分别下降5.5%、3.2%、6.1%和4.7%。这组数据提醒人们：环比回答的是“比上个月好一点没有”，同比回答的则是“和一年前相比处在什么位置”。两个结论可以同时成立——短期市场正在回暖，价格水平仍低于去年同期。\n\n城市之间也并不同步。6月，北京、上海、广州、深圳二手住宅价格环比分别上涨0.1%、0.4%、0.4%和0.3%；到了7月，总体涨幅收窄，更需要看四座城市各自的成交结构。核心区和改善型住房成交占比增加，可能抬高价格指数；远郊、老旧小区和高挂牌量板块，却未必有同样体感。\n\n楼市真正的稳定，不是指数连续几个月出现小幅正增长，而是成交量能够承接、挂牌周期能够缩短、居民收入和购房预期能够改善。\n\n因此，这5个月值得重视，却不必急于渲染。一线城市二手房率先出现修复，可能为全国市场提供情绪和价格参照；但7月涨幅收窄也说明，修复仍然脆弱。接下来应重点观察三项数据：四城成交量能否维持，二手房挂牌量和议价空间是否下降，以及二、三线城市能否跟上。\n\n核验依据：21世纪经济报道、国家统计局6月房价解读、新华社6月数据报道",
+   "impact": "",
+   "publish_time": "2026-08-18T00:00:33",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786982190017-%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BB%B7.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 21476,
+   "title": "17岁少年离世后捐献心脏、肝脏和眼角膜，曾接受过陌生人肾脏",
+   "summary": "【一句话判断】捐献不是一句“同意”就能完成的告别，而是一套必须同时尊重逝者、家属和受者的生命程序。",
+   "heat": 88.0,
+   "category": "社会",
+   "story": "据现有公开报道，安徽一名17岁少年小王因突发脑部疾病，经抢救无效于8月15日离世。父母随后决定捐献他的心脏、肝脏和眼角膜，希望帮助更多患者。\n\n报道还提到，小王生前曾患严重肾病，并接受过一名陌生捐献者的肾脏。手术后，他重新回到学校，度过了三年相对正常的学习生活。如今，在生命终点，他的家人又作出了捐献决定。\n\n这段经历令人动容，但器官捐献并不只是一个关于“善意循环”的故事。一次捐献能够真正抵达等待中的患者，背后需要严格的死亡判定、家属书面确认、医学评估、器官获取、统一分配和移植手术等一整套制度程序。\n\n器官捐献最珍贵的地方，不是把逝者写成神话，而是在自愿、无偿、规范和可追溯的制度中，让一个家庭的决定真正抵达另一些生命。\n\n现行《人体器官捐献和移植条例》明确，人体器官捐献应当遵循自愿、无偿原则。公民生前未表示不同意捐献的，去世后，其配偶、成年子女和父母可以共同作出书面捐献决定。\n\n未成年人捐献问题也容易被误读。法律禁止从未满18周岁的公民身上获取活体器官用于移植，但这并不等于未成年人去世后绝对不能进行器官捐献。逝世后的捐献，仍须依法完成死亡判定、近亲属书面决定、伦理和医学审查等程序。\n\n从规范分类看，心脏和肝脏属于人体器官，眼角膜通常归入人体组织。公众习惯把两者合称为器官捐献，但在实际操作中，它们分别由相应的专业体系完成评估、获取、保存和移植。\n\n一次生命捐献之所以庄重，既因为家属作出了艰难决定，也因为每一步都必须经得起制度检验。\n\n器官捐献报道还应守住另一条边界：保护捐献者家庭和受者的个人信息。谁接受了器官、手术是否成功、患者恢复到什么程度，都应以医院和有关机构正式发布为准，不宜通过拼接细节制造“寻找受者”式叙事。\n\n根据公开报道，小王捐献的器官和眼角膜有望帮助多名患者，具体获取、分配和移植情况仍应以医院及有关机构发布的信息为准。\n\n对于这个家庭而言，捐献无法抵消失去17岁孩子的痛苦。它只是让一次无法挽回的离别，在严格的医学和法律程序中，多了一种面向他人的意义。\n\n如果说小王曾被一份陌生的善意托住三年青春，那么他最后留下的，也不是一句需要被反复煽情的口号，而是一份由家人郑重签下、由制度负责送达的生命礼物。",
+   "impact": "",
+   "publish_time": "2026-08-18T16:30:34",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787028982207-17%E5%B2%81%E5%B0%91%E5%B9%B4%E7%A6%BB%E4%B8%96%E5%90%8E%E6%8D%90%E7%8C%AE%E5%BF%83%E8%84%8F%E3%80%81%E8%82%9D%E8%84%8F%E5%92%8C%E7%9C%BC%E8%A7%92%E8%86%9C.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21501,
+   "title": "9部门发文活跃县域消费，将深化千集万店改造提升",
+   "summary": "商务部等9部门发布意见，提出进一步激发下沉市场活力、活跃县域消费。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "据新华社消息，《商务部等9部门关于进一步激发下沉市场活力 活跃县域消费的意见》8月18日对外发布。\n\n在支持县域消费渠道升级方面，意见提出深化“千集万店”改造提升，支持乡镇商贸中心、集贸市场、农贸市场、乡镇特色大集等改造。\n\n意见还围绕县域商业体系、农村物流、特色商品供给、便民服务和消费环境提出安排，目标是补齐县域消费短板，释放下沉市场潜力。",
+   "impact": "县域消费是扩大内需的重要空间，但短板往往在供应链、物流、售后和商业基础设施。\n\n政策能否见效，要看地方是否把资金和项目投向真实需求，而不是简单建设同质化商业街和空置市场。",
+   "publish_time": "2026-08-18T14:13:30",
+   "cover": "https://gongxiaotianxia.oss-cn-beijing.aliyuncs.com/uploads/1787032216266-17.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 21498,
+   "title": "糖尿病等158个病种同病同付，基层就医支付标准统一",
+   "summary": "国家医保部门推动158个基层病种同病同付，高血压、糖尿病等入选。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "据九派新闻报道，高血压、糖尿病等158个基层病种入选“同病同付”。\n\n所谓“同病同付”，是指对于这158个基层病种，在同一医保统筹区内的各等级医疗机构执行相同的医保支付标准。\n\n国家医保局相关政策要求地方结合DRG/DIP 3.0版落地实施，因地制宜完善本地基层病种范围和支付标准，并做好与国家卫生健康委推荐基层服务病种的衔接。",
+   "impact": "同病同付不是简单调整报销比例，而是通过支付价格和支付政策，引导常见病、多发病在基层医疗机构诊治。\n\n如果执行到位，患者在家门口看病的负担有望下降，基层医疗机构也能获得更稳定的医保支付预期。",
+   "publish_time": "2026-08-18T14:13:30",
+   "cover": "https://gongxiaotianxia.oss-cn-beijing.aliyuncs.com/uploads/1787032214234-14.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 21497,
+   "title": "正部级刘慧涉嫌受贿被公诉，曾任宁夏自治区主席",
+   "summary": "十三届全国政协教科卫体委员会副主任刘慧涉嫌受贿案，已由检察机关提起公诉。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "最高检8月18日消息，十三届全国政协教科卫体委员会副主任刘慧涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。\n\n经最高人民检察院指定，刘慧案由河南省郑州市人民检察院审查起诉，并已向郑州市中级人民法院提起公诉。\n\n检察机关起诉指控，刘慧利用担任宁夏回族自治区政府副主席、宁夏回族自治区党委常委等职务上的便利，为他人谋取利益，非法收受他人财物，数额特别巨大。",
+   "impact": "正部级干部被公诉，说明反腐败高压态势仍在持续，退休或转岗并不是违法违纪问题的终点。\n\n后续案件将进入法院审理阶段，具体受贿金额、犯罪事实和量刑结果应以司法裁判为准。",
+   "publish_time": "2026-08-18T14:13:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787033546677-%E6%AD%A3%E9%83%A8%E7%BA%A7%E5%88%98%E6%85%A7%E8%A2%AB%E5%85%AC%E8%AF%89.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21488,
+   "title": "格力技工学校首届招生，董明珠任校长学费最高1.5万",
+   "summary": "珠海市格力技工学校正式获得招生资格，董明珠任校长，学费最高1.5万元每学年。",
+   "heat": 86.0,
+   "category": "科技",
+   "story": "据“格力文化”公众号消息，经珠海市人力资源和社会保障局批准，由格力电器创办的珠海市格力技工学校正式获得招生资格，招生代码为9800242。\n\n该校将启动首届招生，招生持续至9月中旬，格力电器董事长董明珠亲自担任学校校长。公开报道提到，学校学费最高为1.5万元/学年。\n\n格力方面称，创办技工学校是完善技能人才培养链条、深化产教融合的重要举措，意在为制造业培养更多一线技能人才。",
+   "impact": "企业办技校能让课程更贴近真实工厂和岗位需求，但也需要接受教育、人社等部门监管，确保招生、收费、实训和就业承诺透明。\n\n对学生和家长而言，选择企业技校时应重点核实办学资质、专业设置、实习安排、毕业证书属性和就业去向。",
+   "publish_time": "2026-08-18T14:15:33",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1787032202347-4.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 21502,
+   "title": "伊朗给美国设数周最后期限，称政策转向全面进攻",
+   "summary": "伊朗高级官员称已为美国履行伊美谅解备忘录设定数周最后期限。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "新华社德黑兰8月17日消息，一名伊朗高级官员接受路透社采访时说，伊朗已为美国全面履行伊美谅解备忘录设定数周最后期限。\n\n该官员称，伊朗不会无限期等待美国继续实施海上封锁，并表示由于与美国达成永久停战协议的前景有限，伊朗决定将政策“从防御变全面进攻”。\n\n这一表态与霍尔木兹海峡通行、伊美谅解备忘录执行、海上封锁和地区安全形势有关。美国方面是否承认相关备忘录执行义务，仍需继续观察。",
+   "impact": "伊朗将政策表述转向“全面进攻”，会提高地区误判和海上摩擦风险。\n\n后续若美国和伊朗无法就备忘录履行、制裁和通行安排形成可执行机制，霍尔木兹相关局势仍可能继续升温。",
+   "publish_time": "2026-08-18T14:22:15",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787034122755-%E4%BC%8A%E6%9C%97%E7%BB%99%E7%BE%8E%E5%9B%BD%E8%AE%BE%E6%95%B0%E5%91%A8%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 21482,
+   "title": "北京构建餐厨废弃油脂闭环管理体系，杜绝“地沟油”回流餐桌",
+   "summary": "北京市城管委起草新规要求餐饮单位与指定收运单位签约，实施电子联单全流程追溯，新能源车辆实时定位监控，推动废弃油脂资源化利用，多部门协同监管。",
+   "heat": 85.0,
+   "category": "时政",
+   "story": "为彻底切断“地沟油”回流餐桌链条，北京市城管委发布《餐厨废弃油脂管理规定（征求意见稿）》，提出四大核心措施：\n\n**源头管控**：全市餐饮服务单位需与属地街道完成排放登记，与指定收运单位签订协议，通过电子联单系统实现从厨房到处理终端的全流程数据追踪。新规要求餐饮企业公示签约收运单位信息，接受社会监督。\n\n**智慧运输**：收运车辆须采用新能源动力，配备GPS定位与作业数据实时上传系统，确保运输路线、时间、载量全程可视化。市城管委透露，首批试点车辆将加装AI识别设备，自动检测运输异常行为。\n\n**资源转化**：政策明确鼓励在京建立废弃油脂分离提纯基地，支持生物柴油、航空燃料等高附加值产品开发。数据显示，北京年产餐厨废弃油脂约6万吨，目前资源化利用率不足40%。\n\n**协同监管**：市场监管部门将建立“黑作坊画像”模型，通过大数据分析锁定高风险区域；生态环境部门对违规排放单位实施联合惩戒。新规还设立年度评估机制，对收运企业实行末位淘汰。\n\n目前该政策正公开征求意见至9月13日，市民可通过12345热线反馈建议。",
+   "impact": "**食品安全保障**：通过闭环管理切断“地沟油”回流渠道，预计使北京餐厨废弃油脂非法加工案件下降70%以上，直接惠及1500万消费者餐桌安全。\n\n**环保产业机遇**：新规催生新能源收运车辆、智慧监管系统等市场需求，北京生物柴油企业已启动产能扩建计划，预计带动上下游产业链新增就业岗位超2000个。\n\n**企业成本压力**：中小型餐饮单位反映，指定收运模式可能削弱议价能力，部分企业需新增3%-5%的运营成本。市商务局表示将研究配套补贴政策。\n\n**监管协同挑战**：跨部门数据共享机制尚待完善，执法尺度统一性将成为政策落地的关键。专家建议借鉴上海“食安码”经验，建立废弃油脂电子身份证制度。",
+   "publish_time": "2026-08-18T14:06:03",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787032874467-%E5%8C%97%E4%BA%AC%E6%9E%84%E5%BB%BA%E9%A4%90%E5%8E%A8%E5%BA%9F%E5%BC%83%E6%B2%B9%E8%84%82%E9%97%AD%E7%8E%AF%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%EF%BC%8C%E6%9D%9C%E7%BB%9D%E2%80%9C%E5%9C%B0%E6%B2%9F%E6%B2%B9%E2%80%9D%E5%9B%9E%E6%B5%81%E9%A4%90%E6%A1%8C.png",
+   "source": "日知录"
+  },
+  {
+   "id": 21481,
+   "title": "培训机构虚构入学标准“贩卖焦虑”，65%新生被迫超前培训",
+   "summary": "央视曝光部分机构虚构“识字400为入学安全线”等标准诱导家长报课。北京海淀区调研显示65%新生接受过拼音、识字超前培训。教育部2021年明确要求“零起点教学”，但常州跟踪数据显示提前学习短期优势会消退。破解教育焦虑需强化政策执行与监管。",
+   "heat": 85.0,
+   "category": "时政",
+   "story": "央视近日曝光部分培训机构通过社交平台散布“识字400至500为入学安全线”“拼音掌握率达80%才合格”等虚假标准，刻意制造“幼小衔接焦虑”。北京市海淀区某重点小学摸底调查显示，65%新生入学前已完成拼音、识字或算术类超前学习，部分家长坦言“不提前学怕孩子跟不上”。\n\n教育部早在2021年就发文明确要求小学实施“零起点教学”，2023年《学前教育法》更严禁校外机构提前教授小学课程内容。但常州市教育部门对3000名学生的长期跟踪显示，超前学习的学生在三年级后学业表现与未提前学习者无显著差异，学习习惯和专注力才是关键因素。\n\n业内人士透露，部分机构通过“制造标准”收割焦虑经济：某教育博主账号半年内发布200余条“入学门槛”科普视频，带动关联培训机构报名量激增300%。尽管多地启动“双减”专项整治，但隐蔽在社交平台的“教育测评号”仍以“过来人经验”变相营销。",
+   "impact": "这场教育焦虑贩卖引发多重连锁反应：\n\n家长群体：“提前学”成为隐形入学门槛，家长被迫卷入“不报课不放心”的死循环。海淀区家长李女士坦言“花2万报班学完拼音，结果老师开学从‘a’开始教”，但放弃培训又担心孩子落后。\n\n教育政策：教育部“零起点教学”政策遭遇执行梗阻，部分学校迫于家长压力“明零起点，暗赶进度”。某省会城市教育局内部文件显示，2023年接到相关投诉同比激增140%。\n\n培训机构：地下化趋势明显，某机构将“幼小衔接”改头换面为“亲子思维课”，通过私域社群隐蔽运营。专家建议应建立“教育类自媒体白名单”，切断虚假焦虑传播链。\n\n破解困局需多管齐下：北京朝阳区试点“入学适应课程”，用一个月时间帮助零基础学生过渡；上海推行“家长教育学分制”，通过社区课堂普及科学育儿观。只有当政策监管、学校教学、家长认知形成合力，才能打破“剧场效应”式内卷。",
+   "publish_time": "2026-08-18T14:06:03",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787033133100-%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E8%99%9A%E6%9E%84%E5%85%A5%E5%AD%A6%E6%A0%87%E5%87%86%E2%80%9C%E8%B4%A9%E5%8D%96%E7%84%A6%E8%99%91%E2%80%9D%EF%BC%8C65%25%E6%96%B0%E7%94%9F%E8%A2%AB%E8%BF%AB%E8%B6%85%E5%89%8D%E5%9F%B9%E8%AE%AD.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21479,
+   "title": "电摩市场爆发价格战：销量激增却陷盈利困局",
+   "summary": "2026上半年国内电动摩托车产销逆势增长14%，雅迪、台铃等头部品牌通过降价抢占市场导致盈利承压。绿源利润下滑35%，九号公司净利润下降18.79%，小牛电动单季净亏损超亿元。",
+   "heat": 82.0,
+   "category": "财经",
+   "story": "政策驱动：两轮车市场结构剧变\n2026年上半年，电动自行车“新国标”实施引发行业洗牌，叠加北京、深圳等城市放宽电摩路权，国内两轮出行市场加速转型。行业数据显示，电动自行车销量同比暴跌28%，而电动摩托车销量却逆势增长14%，6月单月增幅更达55.63%，成为唯一正增长细分市场。\n\n头部混战：3000元到2万元的价格攻防\n雅迪推出6999元旗舰车型挑战高端市场，台铃同步发布续航120km的3999元下沉市场产品，爱玛携手周杰伦启动亿元补贴计划。九号公司更祭出“以旧换新直降2000”策略，其财报显示Q2营收增长22.28%但净利润暴跌18.79%。小牛电动则陷入深度亏损，二季度净亏1.02亿元，整车毛利率同比缩水4.1个百分点。\n\n数据迷局：销量狂欢背后的利润黑洞\n尽管电摩市场呈现爆发式增长，但价格战已严重侵蚀行业利润空间。绿源最新财报显示，其上半年利润同比缩水超35%；行业龙头雅迪虽保持盈利，但内部人士透露部分车型单车亏损达800元。中国自行车协会数据显示，当前电摩市场TOP5品牌市占率已从72%攀升至85%，但行业平均利润率跌破5%警戒线。",
+   "impact": "行业洗牌加速：中小厂商生存空间被压缩\n头部企业凭借规模优势掀起价格战，直接导致中小品牌市场份额从18%骤降至6%。江苏某电摩制造商负责人透露：“现在每卖出一台车亏损200-300元，但停产意味着彻底退出市场。”\n\n技术创新承压：研发投入面临两难\n在利润空间被压缩的背景下，企业研发支出普遍缩减。九号公司研发费用率从5.8%降至3.2%，其原定于下半年发布的AI智能电摩项目已延期。但雅迪却逆势加码钠离子电池技术，试图通过差异化竞争破局。\n\n政策博弈升级：路权开放或成新变量\n多地电摩解禁政策催生市场红利，但广州、杭州等城市已开始重新评估电摩管理方案。业内专家预测：“若全国推行电摩专用车道，将释放2000万辆级市场空间，但牌照管理趋严也可能带来新的不确定性。”\n\n消费者行为变迁：低价刺激下的隐忧\n价格下探使电摩购车门槛降低至3000元级，但产品质量投诉量同比激增47%。北京消费者协会数据显示，低价车型电池故障率高达18%，部分用户陷入“年年换新车”的恶性循环。”\n}",
+   "publish_time": "2026-08-18T13:54:17",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787032225308-%E7%94%B5%E6%91%A9%E5%B8%82%E5%9C%BA%E7%88%86%E5%8F%91%E4%BB%B7%E6%A0%BC%E6%88%98%EF%BC%9A%E9%94%80%E9%87%8F%E6%BF%80%E5%A2%9E%E5%8D%B4%E9%99%B7%E7%9B%88%E5%88%A9%E5%9B%B0%E5%B1%80.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 21414,
+   "title": "中国油气重新排兵布阵：石油守两亿吨底线，天然气给新能源托底",
+   "summary": "【一句话判断】中东战争检验了中国提前建设的油气安全垫。未来五年，石油守住供应底线，天然气新增价值更多来自城燃保障、储气调峰和电力系统的灵活支撑。",
+   "heat": 80.0,
+   "category": "财经",
+   "story": "据每日经济新闻8月17日报道，国家发展改革委、国家能源局已印发石油天然气发展“十五五”规划。报道披露的部署包括：推动上游气源多元化，促进城镇燃气企业整合和规范经营，全面实施天然气上下游价格联动，完善储气调峰市场机制，定期校核跨省天然气管输价格，并研究完善成品油消费税制度和配套定价机制。\n\n截至发稿，规划完整附件尚未出现在两部门可检索的公开页面中，本文涉及新增条款均以公开报道为边界。\n\n理解这份规划，要先回到今年春天的霍尔木兹海峡。\n\n2月28日中东战争爆发后，这条海峡的油气运输量从战前约每天2000万桶降至3月至5月平均每天270万桶。国际能源署称，这是全球石油市场有记录以来最大的供应中断。亚洲最先感到疼痛：日本释放商业和国家储备，韩国评估恢复俄罗斯原油进口，泰国限制石油出口并增加煤电，越南企业面对燃油、运费和原料涨价。\n\n中国同样承受了高油价，却没有陷入追涨抢油。国际能源署估算，2月至5月，中国原油进口减少40%，相当于每天少买460万桶。此前积累的库存、国内稳产、多来源进口和新能源替代，一起托住了供应。\n\n这场战争提前演示了油气“十五五”的底层逻辑：平时看似闲置的油田、储罐、洞库和管道，在危机中出售的不是油，而是时间。\n\n那些“打进地下”的原油，买的是断供缓冲期\n\n市场上常有一种形象说法：中国大量进口原油，却不急着炼，而是把油“打回地下”。\n\n准确地说，这些油不是重新注入油田，而是一部分进入地面储罐和地下水封洞库。地下水封洞库是在岩体中开挖巨大洞室，利用地下水压力封存原油。宁波大榭正在建设的项目就包含300万立方米地下原油洞罐，计划2026年底投用。\n\n中国不公布战略与商业库存的完整流量，外界通常用“进口量加国内产量，再减去炼厂加工量”倒推库存变化。路透根据公开项目梳理，中国在2025年至2026年新增或推进11处储备设施，合计库容约1.69亿桶，其中既有沿海基地，也有陕西、云南等内陆项目。\n\n这解释了为什么国家“十五五”规划纲要一面提出石油消费达峰，一面要求原油年产量稳定在2亿吨左右、增加国家石油储备。2025年中国原油产量达到2.16亿吨，原油净进口仍有5.8亿吨。2亿吨无法让中国摆脱进口，却能在海运受阻、制裁升级或油价暴涨时，守住第一道防线。\n\n因此，国际油价短期下跌，也很难让国内勘探开发停摆。中国石油、中国海油、中国石化的上游资本开支，以及深地、深水、页岩油气和老油田提高采收率项目，已经带有国家购买“供应保险”的属性。\n\n天然气增长已经分叉，增量价值转向灵活供给\n\n天然气的任务更复杂。它既要服务居民和工业，也要在寒潮、晚高峰和新能源出力不足时顶上去。\n\n2025年，全国天然气消费只增长1.9%，内部却冷热分明：城镇燃气用气增长6.9%，天然气发电用气增长5.3%，工业燃料用气下降3.3%。2026年上半年，工业用气仍然偏弱；煤电、水电和新能源出力充足时，气电也没有明显扩张。\n\n这意味着规划不会带来天然气需求的全面高增长。新增价值将更多落在城燃保障、储气调峰、管网互联和气电灵活性上。《“十五五”新型能源体系建设规划》提出，到2030年，全国天然气管网主干通道输送能力达到每年5000亿立方米。管网越通、储气越足，区域短缺越容易被调度解决。\n\n气电项目未来是否赚钱，也不能只看发电量。容量电价、辅助服务和顶峰补偿能否覆盖“平时少发、关键时刻必须可用”的成本，才决定燃气轮机和调峰电站能否把系统价值变成收入。\n\n气价联动推动城燃分化，采购能力决定谁能整合\n\n全面实施天然气上下游价格联动，将直接改变城燃企业的利润表。上游合同价或现货LNG上涨后，地方调价越及时，城燃企业垫付成本的时间越短，单位售气毛差也越容易稳定。\n\n但联动不等于利润必然改善。居民承受能力、地方调价节奏、特许经营权和安全改造成本都会限制传导。采购能力弱、客户密度低的小型城燃项目仍会承压，并购、托管和区域整合可能增加。\n\n新奥能源、华润燃气、北京控股、深圳燃气等企业，后续要看单位售气毛差、当地调价文件、应收账款和并购回报，而不是只看“价格联动”四个字。\n\n“交易即开票”先锁住零售数据，消费税改革才有落脚点\n\n“研究完善成品油消费税制度”仍是研究方向，尚无公开文件表明消费税征收环节已经从炼厂后移至批发或零售端。\n\n已经确定的是，自2026年11月1日起，全国加油站将推广“交易即开票”。每笔付款、油品数量和发票能够对应后，依靠不开票、变名销售和票货分离形成的价差会更难维持。\n\n从制度条件看，一种可能的改革顺序是：先提高零售数据透明度、压缩票税套利，再研究消费税征收环节和中央地方收入分配。首先承压的更可能是依靠税务不规范获得成本优势的批发商、社会加油站和小炼化链条，合规零售网络的相对优势上升。\n\n成品油定价也不会简单放开。2026年4月，按现行机制，汽油、柴油每吨原本应分别上调800元和770元；国家实施调控后，实际只上调420元和400元。未来改革仍要在国际油价传导、国内通胀和居民承受能力之间分摊风险。\n\n未来五年，四个判断可以公开复盘\n\n以下是基于规划方向和现有数据作出的情景判断，并非规划原文。\n\n时间窗口判断与观察对象置信度什么情况会推翻判断2026—2030年原油稳产优先于短期回报。观察中国石油、中国海油、中国石化资本开支、重点油田产量和中海油服、杰瑞股份订单高上游预算连续削减，原油产量明显跌破2亿吨2027—2030年天然气更多依靠城燃、储气和气电调峰增长。观察储气库投运、容量电价、辅助服务收入和气电峰时出力中高工业燃料用气重新成为主要增量，调峰补偿长期停滞2026—2028年城燃并购、托管和区域整合可能增加。观察地方调价、新奥能源及华润燃气等企业的单位毛差和并购回报中高多地价格联动长期冻结，整合数量没有增加2026—2029年成品油先压缩票税套利，再探索税制调整。观察“交易即开票”执行率、税务稽查和改革试点中高零售数字化后灰色价差不降，且长期没有制度试点\n\n这份规划没有宣告油气消费重新起飞。它做的是另一件事：把国内产量、进口通道、储备洞库、天然气管网和价格机制组成一张安全网。\n\n霍尔木兹海峡已经给出了一次压力测试。中国提前买下的不是一批便宜原油，而是下一次断供来临时，不必立刻向市场低头的时间。\n\n---\n\n资料来源与口径说明\n\n1. 国家“十五五”规划纲要 \n2. 国家发展改革委、国家能源局：《“十五五”新型能源体系建设规划》 \n3. 国家统计局：“十四五”能源发展成就报告 \n4. 国家能源局：《中国天然气发展报告（2026）》 \n5. 国际能源署：霍尔木兹海峡供应冲击与全球石油流向调整 \n6. 美联社：中东战争冲击亚洲能源供应 \n7. 商务部转引央视：宁波大榭地下石油储备项目 \n8. 路透：2025—2026年中国新增原油储备设施梳理 \n9. 国家税务总局：加油站“交易即开票”全国推广安排 \n10. 国家发展改革委：2026年4月国内成品油价格调控 \n11. 腾讯新闻转引每日经济新闻：两部门印发石油天然气发展“十五五”规划\n\n说明：2025年原油净进口5.8亿吨、天然气净进口1765亿立方米，取自国家统计局“十四五”能源发展成就报告，其中2025年净进口数据为海关快报数。中国战略与商业原油库存规模及流量未完整公开，文中新增库容与库存变化仅采用公开项目和第三方估算，不将其写作官方储备数字。",
+   "impact": "",
+   "publish_time": "2026-08-17T23:54:56",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1786982021813-%E7%9F%B3%E6%B2%B9%E5%AE%88%E4%B8%A4%E4%BA%BF%E5%90%A8%E5%BA%95%E7%BA%BF.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21440,
+   "title": "7 岁小孩哥逛深圳自然博物馆，一眼指出两处错误",
+   "summary": "8 月 17 日，深圳 7 岁古生物爱好者朱子序在深圳自然博物馆参观时，当场指出泥盆纪末大灭绝和菊石讲解两处错误。馆方公开致谢并连夜核查修正。",
+   "heat": 76.0,
+   "category": "社会",
+   "story": "据第一现场报道，8 月 17 日，深圳 7 岁男孩朱子序在深圳自然博物馆参观时，当场挑出两处科普讲解错误，相关视频在社交媒体引发广泛关注。\n第一处错误是地质年代。博物馆视频把泥盆纪末大灭绝错说成志留纪末大灭绝，两场生物大灭绝相距近 1 亿年，直接影响观众对生命演化时间线的理解。\n第二处错误是生物分类。讲解员为了便于理解，把菊石比作蜗牛。但菊石属于头足类，与蜗牛所属的腹足类分属不同纲，这一类比容易让观众形成错误认知。\n馆方连夜核查并致谢\n馆方公开感谢这孩子，目前正核查修正时间点，后续也会改掉不严谨的讲解词。消息一出，网友纷纷点赞。\n值得一提的是，朱子序虽然识字量不到 50 个，但在古生物领域已是资深小爱好者，这次纠错全凭记忆和兴趣积累。\n小孩纠错博物馆并非孤例\n这并非孤例。今年 3 月 17 日，成都 15 岁初中生徐伟哲在四川博物院参观时，指出馆内一面铜镜的断代错误，馆方当天核实后即改正。在更早的 2022 年，还有小男孩在气象博物馆指出伏羲八卦图画错，馆方同样公开回应并纠正。",
+   "impact": "博物馆作为公共教育的重要载体，其讲解内容的准确性直接影响观众的认知。朱子序事件让“专业审核”和“内容校验”这些平时容易被忽视的环节重新进入公众视野。\n更暖的一面在于，这次 7 岁孩子的“硬核纠错”在社交媒体引发广泛共鸣，激发了更多家庭对古生物等通识教育的兴趣。兴趣驱动下的扎实知识储备，可能比任何标准化的参观动线都更能塑造一个孩子的认知底色。",
+   "publish_time": "2026-08-18T18:11:58",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787011379099-%E6%B7%B1%E5%9C%B3.webp",
+   "source": "日知录"
+  }
+ ],
+ "xwlb_raw": [
+  {
+   "id": "xwlb-0",
+   "title": "朱镕基同志遗体在京火化",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-1",
+   "title": "习近平举行仪式欢迎厄瓜多尔总统访华",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-2",
+   "title": "习近平同厄瓜多尔总统会谈",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-3",
+   "title": "李强签署国务院令 公布《国务院关于修改〈住房公积金管理条例〉的决定》",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-4",
+   "title": "赵乐际主持召开十四届全国人大常委会第七十一次委员长会议 决定十四届全国人大常委会第二十四次会议8月25日至28日在京举行",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-5",
+   "title": "多项举措进一步激发下沉市场活力",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-6",
+   "title": "“十五五”我国将加快建设现代油气产业体系",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-7",
+   "title": "长三角外贸规模创新高 “新动能”引领高质量发展",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-8",
+   "title": "澳门特区政府正式公布第三个五年规划",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-9",
+   "title": "2025年南海区海洋生态状况总体稳定",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-10",
+   "title": "国内联播快讯",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-11",
+   "title": "两部门再次拨付6000万元 支持河南做好防汛抢险救灾工作",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-12",
+   "title": "跨国公司资金池政策推广至全国",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-13",
+   "title": "医保基金即时结算年度目标任务提前完成",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-14",
+   "title": "我国已将建筑门窗等6大类72种产品纳入绿色建材认证范畴",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-15",
+   "title": "横琴口岸新旅检区域通关旅客累计超1.1亿人次",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-16",
+   "title": "田湾核电7号机组进入带核调试阶段",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-17",
+   "title": "新疆奇台射电望远镜完成核心结构安装",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-18",
+   "title": "99000立方米超大型乙烷乙烯运输船今天交付",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-19",
+   "title": "厄尔尼诺快速发展 大概率成为历史最强",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-20",
+   "title": "俄外长批评日本企图借抨击俄罗斯掩盖具有侵略性质的军事动向",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-21",
+   "title": "美称不延长谅解备忘录 伊朗称不接受最后通牒",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-22",
+   "title": "国际联播快讯",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-23",
+   "title": "美特使与哈马斯及以总理会面 进展有限",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-24",
+   "title": "俄就乌使用英无人机打击俄纵深警告英国",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "xwlb-25",
+   "title": "超22万加拿大人请愿驱逐美国大使",
+   "source": "新闻联播",
+   "date": "2026-08-18"
+  }
+ ]
 }

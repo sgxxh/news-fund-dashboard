@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-08-19",
+   "date": "2026-08-20",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 4428.26,
-   "total_earn": 118.45,
-   "today_income": -145.51,
-   "today_income_rate": -3.29,
-   "generated_at": "2026-08-19T01:06:59"
+   "total_money": 4395.44,
+   "total_earn": -25.17,
+   "today_income": -126.89,
+   "today_income_rate": -2.89,
+   "generated_at": "2026-08-20T01:06:40"
+  },
+  {
+   "date": "2026-08-19",
+   "title": "8月19日日知录-朱雀三号一级成功回收：中国商业航天再斩一头拦路虎",
+   "mood": 1.7,
+   "mood_level": "中性",
+   "news_total": 22,
+   "xwlb_total": 25,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-08-20T01:06:06"
   },
   {
    "date": "2026-08-18",
@@ -404,6 +417,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-08-19",
- "updated_at": "2026-08-19T07:54:05"
+ "latest": "2026-08-20",
+ "updated_at": "2026-08-20T01:06:40"
 }

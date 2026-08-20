@@ -7,13 +7,13 @@
   "ok": true,
   "reason": "",
   "summary": {
-   "hold_cost": 4420.61,
-   "today_income": -126.89,
-   "today_income_rate": -2.89,
-   "total_money": 4395.44,
+   "hold_cost": 5659.79,
+   "today_income": 53.56,
+   "today_income_rate": 0.95,
+   "total_money": 5634.61,
    "total_earn": -25.17,
-   "count": 7,
-   "total_earn_pct": -0.57
+   "count": 8,
+   "total_earn_pct": -0.44
   },
   "holdings": [
    {
@@ -36,7 +36,7 @@
     "sector": "纳斯达克100",
     "sector_pct": -0.22,
     "market_type": "us",
-    "weight": 29.58
+    "weight": 23.08
    },
    {
     "account": "默认",
@@ -52,13 +52,13 @@
     "nav": 1.2586,
     "day_pct": -3.33,
     "nav_date": "2026-08-19",
-    "est_pct": -3.33,
+    "est_pct": 0.54,
     "est_date": "2026-08-20",
     "year_pct": 2.24,
     "sector": "中证A500",
-    "sector_pct": -3.58,
+    "sector_pct": 0.57,
     "market_type": "ch",
-    "weight": 29.28
+    "weight": 22.84
    },
    {
     "account": "默认",
@@ -74,13 +74,57 @@
     "nav": 14.484,
     "day_pct": -7.37,
     "nav_date": "2026-08-19",
-    "est_pct": -7.37,
+    "est_pct": 1.1,
     "est_date": "2026-08-20",
     "year_pct": 76.08,
     "sector": "PCB",
-    "sector_pct": -7.79,
+    "sector_pct": 1.59,
     "market_type": "ch",
-    "weight": 21.93
+    "weight": 17.11
+   },
+   {
+    "account": "默认",
+    "fund_id": "20638",
+    "code": "017811",
+    "name": "东方人工智能主题混合C",
+    "money": 800.0,
+    "earn": 0.0,
+    "earn_pct": 0.0,
+    "share": 236.88,
+    "cost": 3.37723742,
+    "category": 1,
+    "nav": 3.3773,
+    "day_pct": -7.6,
+    "nav_date": "2026-08-19",
+    "est_pct": 1.35,
+    "est_date": "2026-08-20",
+    "year_pct": 110.27,
+    "sector": "半导体材料设备",
+    "sector_pct": 0.9,
+    "market_type": "ch",
+    "weight": 14.2
+   },
+   {
+    "account": "默认",
+    "fund_id": "23655",
+    "code": "020640",
+    "name": "广发半导体材料设备主题ETF联接C",
+    "money": 500.0,
+    "earn": 0.0,
+    "earn_pct": 0.0,
+    "share": 148.78,
+    "cost": 3.36066676,
+    "category": 3,
+    "nav": 3.3606,
+    "day_pct": -7.09,
+    "nav_date": "2026-08-19",
+    "est_pct": 0.21,
+    "est_date": "2026-08-20",
+    "year_pct": 84.71,
+    "sector": "半导体材料",
+    "sector_pct": 0.65,
+    "market_type": "ch",
+    "weight": 8.87
    },
    {
     "account": "默认",
@@ -96,13 +140,13 @@
     "nav": 1.3412,
     "day_pct": -0.77,
     "nav_date": "2026-08-19",
-    "est_pct": -0.77,
+    "est_pct": 8.17,
     "est_date": "2026-08-20",
     "year_pct": 6.9,
     "sector": "港股创新药",
-    "sector_pct": 0.0,
+    "sector_pct": 7.39,
     "market_type": "hk",
-    "weight": 6.8
+    "weight": 5.3
    },
    {
     "account": "默认",
@@ -118,13 +162,13 @@
     "nav": 1.6175,
     "day_pct": 1.14,
     "nav_date": "2026-08-19",
-    "est_pct": 1.14,
+    "est_pct": -0.43,
     "est_date": "2026-08-20",
     "year_pct": 0.03,
     "sector": "中证红利低波",
-    "sector_pct": 1.19,
+    "sector_pct": -0.43,
     "market_type": "ch",
-    "weight": 5.54
+    "weight": 4.33
    },
    {
     "account": "默认",
@@ -140,35 +184,13 @@
     "nav": 2.1938,
     "day_pct": -1.46,
     "nav_date": "2026-08-19",
-    "est_pct": -1.46,
+    "est_pct": 0.11,
     "est_date": "2026-08-20",
     "year_pct": 5.93,
     "sector": "混债",
-    "sector_pct": -0.69,
+    "sector_pct": 0.07,
     "market_type": "ch",
-    "weight": 5.48
-   },
-   {
-    "account": "默认",
-    "fund_id": "20638",
-    "code": "017811",
-    "name": "东方人工智能主题混合C",
-    "money": 60.83,
-    "earn": 0.0,
-    "earn_pct": 0.0,
-    "share": 18.01,
-    "cost": 3.37723742,
-    "category": 1,
-    "nav": 3.3773,
-    "day_pct": -7.6,
-    "nav_date": "2026-08-19",
-    "est_pct": -7.6,
-    "est_date": "2026-08-20",
-    "year_pct": 110.27,
-    "sector": "半导体材料设备",
-    "sector_pct": -7.45,
-    "market_type": "ch",
-    "weight": 1.38
+    "weight": 4.27
    }
   ],
   "index": []

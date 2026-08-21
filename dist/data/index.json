@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-08-20",
+   "date": "2026-08-21",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 5634.61,
-   "total_earn": -25.17,
-   "today_income": 15.13,
-   "today_income_rate": 0.27,
-   "generated_at": "2026-08-20T01:06:40"
+   "total_money": 5701.16,
+   "total_earn": -8.64,
+   "today_income": -0.98,
+   "today_income_rate": -0.02,
+   "generated_at": "2026-08-21T01:10:37"
+  },
+  {
+   "date": "2026-08-20",
+   "title": "8月20日日知录- 许家印无期，恒大被罚158.2亿：前首富还剩多少钱？",
+   "mood": 2.3,
+   "mood_level": "中性",
+   "news_total": 21,
+   "xwlb_total": 25,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-08-21T01:10:18"
   },
   {
    "date": "2026-08-19",
@@ -417,6 +430,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-08-20",
- "updated_at": "2026-08-20T07:57:03"
+ "latest": "2026-08-21",
+ "updated_at": "2026-08-21T01:10:37"
 }

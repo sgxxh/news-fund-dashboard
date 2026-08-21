@@ -1,460 +1,2165 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T01:06:40",
+ "generated_at": "2026-08-21T01:10:18",
  "session": "auto",
- "digest_title": "",
+ "digest_title": "8月20日日知录- 许家印无期，恒大被罚158.2亿：前首富还剩多少钱？",
  "funds": {
-  "ok": true,
-  "reason": "",
-  "summary": {
-   "hold_cost": 5659.79,
-   "today_income": 15.13,
-   "today_income_rate": 0.27,
-   "total_money": 5634.61,
-   "total_earn": -25.17,
-   "count": 8,
-   "total_earn_pct": -0.44
-  },
-  "holdings": [
-   {
-    "account": "默认",
-    "fund_id": "23918",
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 1300.38,
-    "earn": 0.4,
-    "earn_pct": 0.03,
-    "share": 567.16,
-    "cost": 2.2921,
-    "category": 3,
-    "nav": 2.2928,
-    "day_pct": -1.53,
-    "nav_date": "2026-08-18",
-    "est_pct": -0.22,
-    "est_date": "2026-08-19",
-    "year_pct": 11.91,
-    "sector": "纳斯达克100",
-    "sector_pct": -0.22,
-    "market_type": "us",
-    "weight": 23.08
-   },
-   {
-    "account": "默认",
-    "fund_id": "25645",
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "money": 1286.88,
-    "earn": 3.78,
-    "earn_pct": 0.29,
-    "share": 1022.47,
-    "cost": 1.2549,
-    "category": 3,
-    "nav": 1.2586,
-    "day_pct": -3.33,
-    "nav_date": "2026-08-19",
-    "est_pct": 0.22,
-    "est_date": "2026-08-20",
-    "year_pct": 2.24,
-    "sector": "中证A500",
-    "sector_pct": 0.22,
-    "market_type": "ch",
-    "weight": 22.84
-   },
-   {
-    "account": "默认",
-    "fund_id": "138",
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "money": 963.91,
-    "earn": -21.99,
-    "earn_pct": -2.23,
-    "share": 66.55,
-    "cost": 14.81442524,
-    "category": 1,
-    "nav": 14.484,
-    "day_pct": -7.37,
-    "nav_date": "2026-08-19",
-    "est_pct": -0.33,
-    "est_date": "2026-08-20",
-    "year_pct": 76.08,
-    "sector": "PCB",
-    "sector_pct": 0.38,
-    "market_type": "ch",
-    "weight": 17.11
-   },
-   {
-    "account": "默认",
-    "fund_id": "20638",
-    "code": "017811",
-    "name": "东方人工智能主题混合C",
-    "money": 800.0,
-    "earn": 0.0,
-    "earn_pct": 0.0,
-    "share": 236.88,
-    "cost": 3.37723742,
-    "category": 1,
-    "nav": 3.3773,
-    "day_pct": -7.6,
-    "nav_date": "2026-08-19",
-    "est_pct": 0.72,
-    "est_date": "2026-08-20",
-    "year_pct": 110.27,
-    "sector": "半导体材料设备",
-    "sector_pct": 0.15,
-    "market_type": "ch",
-    "weight": 14.2
-   },
-   {
-    "account": "默认",
-    "fund_id": "23655",
-    "code": "020640",
-    "name": "广发半导体材料设备主题ETF联接C",
-    "money": 500.0,
-    "earn": 0.0,
-    "earn_pct": 0.0,
-    "share": 148.78,
-    "cost": 3.36066676,
-    "category": 3,
-    "nav": 3.3606,
-    "day_pct": -7.09,
-    "nav_date": "2026-08-19",
-    "est_pct": -0.62,
-    "est_date": "2026-08-20",
-    "year_pct": 84.71,
-    "sector": "半导体材料",
-    "sector_pct": -0.62,
-    "market_type": "ch",
-    "weight": 8.87
-   },
-   {
-    "account": "默认",
-    "fund_id": "22504",
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "money": 298.89,
-    "earn": -1.11,
-    "earn_pct": -0.37,
-    "share": 222.85,
-    "cost": 1.34619699,
-    "category": 6,
-    "nav": 1.3412,
-    "day_pct": -0.77,
-    "nav_date": "2026-08-19",
-    "est_pct": 4.85,
-    "est_date": "2026-08-20",
-    "year_pct": 6.9,
-    "sector": "港股创新药",
-    "sector_pct": 4.35,
-    "market_type": "hk",
-    "weight": 5.3
-   },
-   {
-    "account": "默认",
-    "fund_id": "5773",
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波动ETF联接A",
-    "money": 243.71,
-    "earn": -5.54,
-    "earn_pct": -2.22,
-    "share": 150.67,
-    "cost": 1.6542938,
-    "category": 3,
-    "nav": 1.6175,
-    "day_pct": 1.14,
-    "nav_date": "2026-08-19",
-    "est_pct": 0.59,
-    "est_date": "2026-08-20",
-    "year_pct": 0.03,
-    "sector": "中证红利低波",
-    "sector_pct": 0.59,
-    "market_type": "ch",
-    "weight": 4.33
-   },
-   {
-    "account": "默认",
-    "fund_id": "11353",
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "money": 240.84,
-    "earn": -0.71,
-    "earn_pct": -0.29,
-    "share": 109.78,
-    "cost": 2.20030971,
-    "category": 2,
-    "nav": 2.1938,
-    "day_pct": -1.46,
-    "nav_date": "2026-08-19",
-    "est_pct": -0.11,
-    "est_date": "2026-08-20",
-    "year_pct": 5.93,
-    "sector": "混债",
-    "sector_pct": 0.01,
-    "market_type": "ch",
-    "weight": 4.27
-   }
-  ],
+  "ok": false,
+  "reason": "HISTORICAL_NO_SNAPSHOT",
+  "summary": {},
+  "holdings": [],
   "index": []
  },
  "analysis": {
-  "keywords": [],
-  "market_mood": 0,
+  "keywords": [
+   {
+    "word": "美国",
+    "count": 44,
+    "weight": 1.0
+   },
+   {
+    "word": "平台",
+    "count": 41,
+    "weight": 0.932
+   },
+   {
+    "word": "订单",
+    "count": 41,
+    "weight": 0.932
+   },
+   {
+    "word": "全球",
+    "count": 34,
+    "weight": 0.773
+   },
+   {
+    "word": "日本",
+    "count": 33,
+    "weight": 0.75
+   },
+   {
+    "word": "司机",
+    "count": 28,
+    "weight": 0.636
+   },
+   {
+    "word": "机器人",
+    "count": 28,
+    "weight": 0.636
+   },
+   {
+    "word": "成本",
+    "count": 25,
+    "weight": 0.568
+   },
+   {
+    "word": "资产",
+    "count": 24,
+    "weight": 0.545
+   },
+   {
+    "word": "风险",
+    "count": 24,
+    "weight": 0.545
+   },
+   {
+    "word": "上海",
+    "count": 23,
+    "weight": 0.523
+   },
+   {
+    "word": "恒大",
+    "count": 23,
+    "weight": 0.523
+   },
+   {
+    "word": "国家",
+    "count": 20,
+    "weight": 0.455
+   },
+   {
+    "word": "短剧",
+    "count": 20,
+    "weight": 0.455
+   },
+   {
+    "word": "能力",
+    "count": 19,
+    "weight": 0.432
+   },
+   {
+    "word": "数字",
+    "count": 18,
+    "weight": 0.409
+   },
+   {
+    "word": "模型",
+    "count": 18,
+    "weight": 0.409
+   },
+   {
+    "word": "全部",
+    "count": 18,
+    "weight": 0.409
+   },
+   {
+    "word": "信息",
+    "count": 18,
+    "weight": 0.409
+   },
+   {
+    "word": "变化",
+    "count": 18,
+    "weight": 0.409
+   },
+   {
+    "word": "调整",
+    "count": 18,
+    "weight": 0.409
+   },
+   {
+    "word": "合作",
+    "count": 17,
+    "weight": 0.386
+   },
+   {
+    "word": "标准",
+    "count": 17,
+    "weight": 0.386
+   },
+   {
+    "word": "债务",
+    "count": 17,
+    "weight": 0.386
+   },
+   {
+    "word": "用户",
+    "count": 17,
+    "weight": 0.386
+   },
+   {
+    "word": "资金",
+    "count": 16,
+    "weight": 0.364
+   },
+   {
+    "word": "医生",
+    "count": 16,
+    "weight": 0.364
+   },
+   {
+    "word": "地铁",
+    "count": 16,
+    "weight": 0.364
+   },
+   {
+    "word": "巴拿马",
+    "count": 16,
+    "weight": 0.364
+   },
+   {
+    "word": "港口",
+    "count": 16,
+    "weight": 0.364
+   },
+   {
+    "word": "供应链",
+    "count": 15,
+    "weight": 0.341
+   },
+   {
+    "word": "出口",
+    "count": 15,
+    "weight": 0.341
+   },
+   {
+    "word": "技术",
+    "count": 15,
+    "weight": 0.341
+   },
+   {
+    "word": "外环",
+    "count": 15,
+    "weight": 0.341
+   },
+   {
+    "word": "最低工资",
+    "count": 15,
+    "weight": 0.341
+   },
+   {
+    "word": "网络",
+    "count": 14,
+    "weight": 0.318
+   },
+   {
+    "word": "政策",
+    "count": 14,
+    "weight": 0.318
+   },
+   {
+    "word": "记录",
+    "count": 14,
+    "weight": 0.318
+   },
+   {
+    "word": "利息",
+    "count": 14,
+    "weight": 0.318
+   },
+   {
+    "word": "小时",
+    "count": 14,
+    "weight": 0.318
+   },
+   {
+    "word": "仲裁",
+    "count": 14,
+    "weight": 0.318
+   },
+   {
+    "word": "投资",
+    "count": 13,
+    "weight": 0.295
+   },
+   {
+    "word": "工厂",
+    "count": 13,
+    "weight": 0.295
+   },
+   {
+    "word": "乘客",
+    "count": 13,
+    "weight": 0.295
+   },
+   {
+    "word": "消费者",
+    "count": 13,
+    "weight": 0.295
+   },
+   {
+    "word": "能源",
+    "count": 12,
+    "weight": 0.273
+   },
+   {
+    "word": "对应",
+    "count": 12,
+    "weight": 0.273
+   },
+   {
+    "word": "价格",
+    "count": 12,
+    "weight": 0.273
+   },
+   {
+    "word": "伴侣",
+    "count": 12,
+    "weight": 0.273
+   },
+   {
+    "word": "影响",
+    "count": 12,
+    "weight": 0.273
+   },
+   {
+    "word": "补贴",
+    "count": 12,
+    "weight": 0.273
+   },
+   {
+    "word": "票价",
+    "count": 12,
+    "weight": 0.273
+   },
+   {
+    "word": "城市",
+    "count": 12,
+    "weight": 0.273
+   },
+   {
+    "word": "网约",
+    "count": 12,
+    "weight": 0.273
+   },
+   {
+    "word": "活跃",
+    "count": 12,
+    "weight": 0.273
+   },
+   {
+    "word": "交易",
+    "count": 12,
+    "weight": 0.273
+   },
+   {
+    "word": "商家",
+    "count": 12,
+    "weight": 0.273
+   },
+   {
+    "word": "名单",
+    "count": 11,
+    "weight": 0.25
+   },
+   {
+    "word": "政府",
+    "count": 11,
+    "weight": 0.25
+   },
+   {
+    "word": "规则",
+    "count": 11,
+    "weight": 0.25
+   }
+  ],
+  "market_mood": 2.3,
   "market_mood_level": "中性",
-  "sector_impacts": {
-   "PCB": {
-    "sector": "PCB",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "中证A500": {
-    "sector": "中证A500",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "中证红利低波": {
-    "sector": "中证红利低波",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "半导体材料设备": {
-    "sector": "半导体材料设备",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "混债": {
-    "sector": "混债",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "港股创新药": {
-    "sector": "港股创新药",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "纳斯达克100": {
-    "sector": "纳斯达克100",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   }
+  "sector_impacts": {},
+  "advices": [],
+  "forecast": [],
+  "category_dist": {
+   "时政": 5,
+   "财经": 9,
+   "话题": 1,
+   "纪事": 1,
+   "科技": 2,
+   "娱乐": 1,
+   "社会": 2,
+   "新闻联播": 25
   },
-  "advices": [
+  "top_news": [
    {
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波动ETF联接A",
-    "sector": "中证红利低波",
-    "weight": 5.54,
-    "tiny": false,
-    "earn_pct": -2.22,
-    "day_pct": 1.14,
-    "year_pct": 0.03,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 11.0,
-    "deviation": 61.2,
-    "total_score": 15.5,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 5.5% 偏低"
+    "id": 21625,
+    "title": "北向资金持A股市值大涨至3.13万亿：外资同时购买两种中国能力",
+    "summary": "【一句话判断】北向持仓和部分QFII数据正在显示，外资对A股的态度从持续降低敞口转向选择性恢复配置。资金同时购买两种中国能力：拿到全球订单的制造能力，以及中国自主供应链中的技术稀缺性。",
+    "category": "财经",
+    "heat": 92.0,
+    "sentiment": 10,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "涨幅",
+     "新高",
+     "创新",
+     "订单"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "A股",
+       "消费",
+       "外资",
+       "北向"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "电力",
+       "公用事业"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "电子"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "科技股"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T00:25:17",
+    "source": "日知录",
+    "story_len": 2883
    },
    {
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "sector": "港股创新药",
-    "weight": 6.8,
-    "tiny": false,
-    "earn_pct": -0.37,
-    "day_pct": -0.77,
-    "year_pct": 6.9,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 8.3,
-    "deviation": 52.4,
-    "total_score": 13.0,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 6.8% 偏低"
+    "id": 21681,
+    "title": "许家印无期，恒大被罚158.2亿：前首富还剩多少钱，先赔给谁？",
+    "summary": "恒大集团和恒大地产一审合计被罚158.2亿元，许家印被判无期徒刑、没收个人全部财产。但判决真正触及普通人的问题，是恒大还能找回多少钱，以及这些钱先退赔受害人、完成交房，还是先缴入国库。法院已经明确：退赔损失优先于罚金和没收财产。",
+    "category": "财经",
+    "heat": 96.0,
+    "sentiment": -5,
+    "sent_hits": [
+     "上市",
+     "下跌",
+     "罚款",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "财政"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T14:00:23",
+    "source": "日知录",
+    "story_len": 3810
    },
    {
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "sector": "混债",
-    "weight": 5.48,
-    "tiny": false,
-    "earn_pct": -0.29,
-    "day_pct": -1.46,
-    "year_pct": 5.93,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 0.1,
-    "deviation": 61.6,
-    "total_score": 12.4,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 5.5% 偏低"
+    "id": 21686,
+    "title": "半年多出3700名司机，单车日营收降至354元：跑网约车能养家吗？",
+    "summary": "【一句话判断】2026年1月至6月，广州日均活跃网约车司机增加约3700人，单车订单略增，单车日营收却下降约8.6%；这比全国订单总量更接近准备入行者需要的答案。",
+    "category": "财经",
+    "heat": 92.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "增长",
+     "上市",
+     "订单",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "就业"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T15:38:14",
+    "source": "日知录",
+    "story_len": 4297
    },
    {
-    "code": "017811",
-    "name": "东方人工智能主题混合C",
-    "sector": "半导体材料设备",
-    "weight": 1.38,
-    "tiny": true,
-    "earn_pct": 0.0,
-    "day_pct": -7.6,
-    "year_pct": 110.27,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 40.3,
-    "deviation": 0.0,
-    "total_score": 12.1,
-    "action": "零头持仓·可并入同类",
-    "reason": "仅占 1.38%，属尾数份额；板块消息面中性，建议与同标的主份额合并管理，单独调仓意义不大"
+    "id": 21623,
+    "title": "美国逼AI伙伴在中美之间选边：芯片、矿产和数据中心成联盟筹码",
+    "summary": "【一句话判断】一份尚未发出的美国国务院草案，准备把芯片、数据中心、融资和供应链项目的准入资格变成限制对华AI合作的联盟纪律。美国未必能让34个伙伴整体站队，却可能率先推动“项目级选边”。",
+    "category": "时政",
+    "heat": 97.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "宽松",
+     "创新",
+     "合作",
+     "开放",
+     "冲突",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "算力",
+       "芯片",
+       "半导体",
+       "数据中心",
+       "AI",
+       "人工智能"
+      ],
+      "n": 6
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T00:13:30",
+    "source": "日知录",
+    "story_len": 4459
    },
    {
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "sector": "PCB",
-    "weight": 21.93,
-    "tiny": false,
-    "earn_pct": -2.23,
-    "day_pct": -7.37,
-    "year_pct": 76.08,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 39.6,
-    "deviation": -53.5,
-    "total_score": 1.2,
-    "action": "维持观望",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上；仓位占比 21.9% 偏集中"
+    "id": 21699,
+    "title": "今日纪事｜用户意图奸杀女友遭AI报警后被判刑：私聊并非私密空间",
+    "summary": "【纪事金句】这起案件确认了一项事实：生成式AI平台不仅在回答问题，也在识别风险，并决定何时把用户信息交给执法机关。",
+    "category": "纪事",
+    "heat": 94.0,
+    "sentiment": -2,
+    "sent_hits": [
+     "风险",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T17:09:47",
+    "source": "日知录",
+    "story_len": 3189
    },
    {
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "sector": "纳斯达克100",
-    "weight": 29.58,
-    "tiny": false,
-    "earn_pct": 0.03,
-    "day_pct": -1.53,
-    "year_pct": 11.91,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 12.3,
-    "deviation": -100,
-    "total_score": -16.3,
-    "action": "持有偏谨慎",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 29.6% 偏集中"
+    "id": 21688,
+    "title": "中国“机器人员工”已卖到全球141国：下一步要复制大疆出海征途",
+    "summary": "中国在2025年首次成为工业机器人净出口国，今年前7个月出口额进一步达到73.4亿元。机器人开始进入汽车工厂学习真实工位，下一场竞争将从制造和装箱，转向系统集成、培训维修和全球服务。",
+    "category": "科技",
+    "heat": 93.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "增长"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "特斯拉"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T15:38:14",
+    "source": "日知录",
+    "story_len": 3486
    },
    {
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "sector": "中证A500",
-    "weight": 29.28,
-    "tiny": false,
-    "earn_pct": 0.29,
-    "day_pct": -3.33,
-    "year_pct": 2.24,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": -18.9,
-    "deviation": -100,
-    "total_score": -25.7,
-    "action": "持有偏谨慎",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 29.3% 偏集中"
+    "id": 21684,
+    "title": "上海楼市八项新政：最高8万元补贴，重点打通外环外置换链条",
+    "summary": "【一句话判断】上海从公积金、房贷、购房补贴、房票安置和收购二手房五方面推出八项措施，政策重点由放宽资格进一步转向降低交易成本、盘活置换链条。",
+    "category": "财经",
+    "heat": 90.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "加快",
+     "支持",
+     "优化"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T14:55:00",
+    "source": "日知录",
+    "story_len": 1263
+   },
+   {
+    "id": 21683,
+    "title": "多地开始整顿外卖隐形打包费：小金额不能成为平台计费的盲区",
+    "summary": "【一句话判断】多地案例显示，外卖打包费的争议不在于商家能不能收费，而在于收费是否真实、透明，是否对应实际提供的包装服务。",
+    "category": "社会",
+    "heat": 84.0,
+    "sentiment": -5,
+    "sent_hits": [
+     "订单",
+     "警告",
+     "罚款",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T14:55:00",
+    "source": "日知录",
+    "story_len": 1150
+   },
+   {
+    "id": 21700,
+    "title": "今日话题｜查出艾滋病，医生该不该告诉患者伴侣？",
+    "summary": "【话题金句】保密不能变成对风险的沉默，告知也不能变成对病历的任意公开；真正缺少的是一套有授权、有边界的伴侣告知程序。",
+    "category": "话题",
+    "heat": 95.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-20T17:09:44",
+    "source": "日知录",
+    "story_len": 2639
+   },
+   {
+    "id": 21656,
+    "title": "美债突破40万亿美元：美国正在失去救火空间，世界没有避风港",
+    "summary": "【一句话判断】40万亿美元不会让美国明天破产，但利息正在吞噬它应对危机的能力；一旦美国自身成为危机中心，美元、美债、贸易和资产价格会把冲击传向全球，中国也不可能置身事外。",
+    "category": "财经",
+    "heat": 95.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "突破",
+     "扩大",
+     "爆炸",
+     "衰退",
+     "危机"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "GDP",
+       "经济",
+       "财政"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医保"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T12:46:51",
+    "source": "日知录",
+    "story_len": 4079
+   },
+   {
+    "id": 21624,
+    "title": "上海地铁票价3元起步21年：听证会后涨价，乘客和财政怎样分账",
+    "summary": "【一句话判断】上海将于9月7日召开轨道交通票价机制优化听证会。官方目前尚未公布本轮具体方案，网上流传的“两套方案”主要来自2024年市域铁路听证，不能套到此次地铁调价。真正需要讨论的，不只是票价涨不涨，而是906公里地铁的运营成本该由乘客、财政和城市共同承担多少。",
+    "category": "时政",
+    "heat": 94.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "上涨",
+     "优化",
+     "亏损"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策",
+       "财政",
+       "就业"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "电力"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T00:13:30",
+    "source": "日知录",
+    "story_len": 2757
+   },
+   {
+    "id": 21685,
+    "title": "长和向巴拿马索赔15亿美元：两场仲裁争的是港口合同与国家责任",
+    "summary": "【一句话判断】长江和记正式依据投资保护条约对巴拿马启动国际仲裁。它与旗下港口公司此前提起的合同仲裁并非同一程序，港口争议由经营权纠纷升级为国家投资责任之争。",
+    "category": "财经",
+    "heat": 88.0,
+    "sentiment": -3,
+    "sent_hits": [
+     "扩大",
+     "风险",
+     "违约"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "国企"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T14:55:00",
+    "source": "日知录",
+    "story_len": 1219
    }
   ],
-  "forecast": [
+  "scored_news": [
    {
-    "sector": "半导体材料设备",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.9,
-    "note": "消息面 +0 / 中期动量 +100"
+    "id": 21623,
+    "title": "美国逼AI伙伴在中美之间选边：芯片、矿产和数据中心成联盟筹码",
+    "summary": "【一句话判断】一份尚未发出的美国国务院草案，准备把芯片、数据中心、融资和供应链项目的准入资格变成限制对华AI合作的联盟纪律。美国未必能让34个伙伴整体站队，却可能率先推动“项目级选边”。",
+    "category": "时政",
+    "heat": 97.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "宽松",
+     "创新",
+     "合作",
+     "开放",
+     "冲突",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "算力",
+       "芯片",
+       "半导体",
+       "数据中心",
+       "AI",
+       "人工智能"
+      ],
+      "n": 6
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T00:13:30",
+    "source": "日知录",
+    "story_len": 4459
    },
    {
-    "sector": "PCB",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.5,
-    "note": "消息面 +0 / 中期动量 +99"
+    "id": 21681,
+    "title": "许家印无期，恒大被罚158.2亿：前首富还剩多少钱，先赔给谁？",
+    "summary": "恒大集团和恒大地产一审合计被罚158.2亿元，许家印被判无期徒刑、没收个人全部财产。但判决真正触及普通人的问题，是恒大还能找回多少钱，以及这些钱先退赔受害人、完成交房，还是先缴入国库。法院已经明确：退赔损失优先于罚金和没收财产。",
+    "category": "财经",
+    "heat": 96.0,
+    "sentiment": -5,
+    "sent_hits": [
+     "上市",
+     "下跌",
+     "罚款",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "财政"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T14:00:23",
+    "source": "日知录",
+    "story_len": 3810
    },
    {
-    "sector": "纳斯达克100",
-    "bias": "偏多震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 15.1,
-    "note": "消息面 +0 / 中期动量 +38"
+    "id": 21700,
+    "title": "今日话题｜查出艾滋病，医生该不该告诉患者伴侣？",
+    "summary": "【话题金句】保密不能变成对风险的沉默，告知也不能变成对病历的任意公开；真正缺少的是一套有授权、有边界的伴侣告知程序。",
+    "category": "话题",
+    "heat": 95.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-20T17:09:44",
+    "source": "日知录",
+    "story_len": 2639
    },
    {
-    "sector": "港股创新药",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 9.0,
-    "note": "消息面 +0 / 中期动量 +23"
+    "id": 21656,
+    "title": "美债突破40万亿美元：美国正在失去救火空间，世界没有避风港",
+    "summary": "【一句话判断】40万亿美元不会让美国明天破产，但利息正在吞噬它应对危机的能力；一旦美国自身成为危机中心，美元、美债、贸易和资产价格会把冲击传向全球，中国也不可能置身事外。",
+    "category": "财经",
+    "heat": 95.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "突破",
+     "扩大",
+     "爆炸",
+     "衰退",
+     "危机"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "GDP",
+       "经济",
+       "财政"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医保"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T12:46:51",
+    "source": "日知录",
+    "story_len": 4079
    },
    {
-    "sector": "混债",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 7.8,
-    "note": "消息面 +0 / 中期动量 +20"
+    "id": 21699,
+    "title": "今日纪事｜用户意图奸杀女友遭AI报警后被判刑：私聊并非私密空间",
+    "summary": "【纪事金句】这起案件确认了一项事实：生成式AI平台不仅在回答问题，也在识别风险，并决定何时把用户信息交给执法机关。",
+    "category": "纪事",
+    "heat": 94.0,
+    "sentiment": -2,
+    "sent_hits": [
+     "风险",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T17:09:47",
+    "source": "日知录",
+    "story_len": 3189
    },
    {
-    "sector": "中证A500",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 3.0,
-    "note": "消息面 +0 / 中期动量 +7"
+    "id": 21624,
+    "title": "上海地铁票价3元起步21年：听证会后涨价，乘客和财政怎样分账",
+    "summary": "【一句话判断】上海将于9月7日召开轨道交通票价机制优化听证会。官方目前尚未公布本轮具体方案，网上流传的“两套方案”主要来自2024年市域铁路听证，不能套到此次地铁调价。真正需要讨论的，不只是票价涨不涨，而是906公里地铁的运营成本该由乘客、财政和城市共同承担多少。",
+    "category": "时政",
+    "heat": 94.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "上涨",
+     "优化",
+     "亏损"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策",
+       "财政",
+       "就业"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "电力"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T00:13:30",
+    "source": "日知录",
+    "story_len": 2757
    },
    {
-    "sector": "中证红利低波",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 0.0,
-    "note": "消息面 +0 / 中期动量 +0"
+    "id": 21688,
+    "title": "中国“机器人员工”已卖到全球141国：下一步要复制大疆出海征途",
+    "summary": "中国在2025年首次成为工业机器人净出口国，今年前7个月出口额进一步达到73.4亿元。机器人开始进入汽车工厂学习真实工位，下一场竞争将从制造和装箱，转向系统集成、培训维修和全球服务。",
+    "category": "科技",
+    "heat": 93.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "增长"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "特斯拉"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T15:38:14",
+    "source": "日知录",
+    "story_len": 3486
+   },
+   {
+    "id": 21625,
+    "title": "北向资金持A股市值大涨至3.13万亿：外资同时购买两种中国能力",
+    "summary": "【一句话判断】北向持仓和部分QFII数据正在显示，外资对A股的态度从持续降低敞口转向选择性恢复配置。资金同时购买两种中国能力：拿到全球订单的制造能力，以及中国自主供应链中的技术稀缺性。",
+    "category": "财经",
+    "heat": 92.0,
+    "sentiment": 10,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "涨幅",
+     "新高",
+     "创新",
+     "订单"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "A股",
+       "消费",
+       "外资",
+       "北向"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "电力",
+       "公用事业"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "电子"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "科技股"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T00:25:17",
+    "source": "日知录",
+    "story_len": 2883
+   },
+   {
+    "id": 21611,
+    "title": "人民日报评杭州酒局事件，性质恶劣令人愤慨",
+    "summary": "人民日报“人民锐评”8月19日发文评杭州酒局事件，定性“性质恶劣，影响极坏，令人愤慨”，强调手握权力和资源的人借饭局侵害女性权益，不仅道德败坏，更违法违规。",
+    "category": "时政",
+    "heat": 92.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "优化",
+     "调查"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-19T21:58:38",
+    "source": "日知录",
+    "story_len": 528
+   },
+   {
+    "id": 21686,
+    "title": "半年多出3700名司机，单车日营收降至354元：跑网约车能养家吗？",
+    "summary": "【一句话判断】2026年1月至6月，广州日均活跃网约车司机增加约3700人，单车订单略增，单车日营收却下降约8.6%；这比全国订单总量更接近准备入行者需要的答案。",
+    "category": "财经",
+    "heat": 92.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "增长",
+     "上市",
+     "订单",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "就业"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T15:38:14",
+    "source": "日知录",
+    "story_len": 4297
+   },
+   {
+    "id": 21651,
+    "title": "俄罗斯开始进口成品油：能源出口大国为何也会“缺油”",
+    "summary": "【一句话判断】俄罗斯一面进口成品油，一面限制汽油、柴油等油品出口。矛盾表象背后，是原油资源、炼油能力和终端供应并不是同一回事。",
+    "category": "财经",
+    "heat": 91.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "上涨",
+     "扩大",
+     "限制",
+     "减产"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-20T13:13:07",
+    "source": "日知录",
+    "story_len": 730
+   },
+   {
+    "id": 21684,
+    "title": "上海楼市八项新政：最高8万元补贴，重点打通外环外置换链条",
+    "summary": "【一句话判断】上海从公积金、房贷、购房补贴、房票安置和收购二手房五方面推出八项措施，政策重点由放宽资格进一步转向降低交易成本、盘活置换链条。",
+    "category": "财经",
+    "heat": 90.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "加快",
+     "支持",
+     "优化"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T14:55:00",
+    "source": "日知录",
+    "story_len": 1263
+   },
+   {
+    "id": 21653,
+    "title": "半年36万部！红果短剧治理“千剧一脸”：AI短剧不能再换皮量产",
+    "summary": "【一句话判断】2026年上半年各平台上线微短剧36.7万部，其中AI剧约27.5万部。产能暴涨之后，角色撞脸、模板复用和版权风险迫使平台提高准入门槛。",
+    "category": "娱乐",
+    "heat": 89.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "增长",
+     "量产",
+     "放量",
+     "风险",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T13:09:02",
+    "source": "日知录",
+    "story_len": 1302
+   },
+   {
+    "id": 21685,
+    "title": "长和向巴拿马索赔15亿美元：两场仲裁争的是港口合同与国家责任",
+    "summary": "【一句话判断】长江和记正式依据投资保护条约对巴拿马启动国际仲裁。它与旗下港口公司此前提起的合同仲裁并非同一程序，港口争议由经营权纠纷升级为国家投资责任之争。",
+    "category": "财经",
+    "heat": 88.0,
+    "sentiment": -3,
+    "sent_hits": [
+     "扩大",
+     "风险",
+     "违约"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "国企"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T14:55:00",
+    "source": "日知录",
+    "story_len": 1219
+   },
+   {
+    "id": 21650,
+    "title": "中国相机在东京浅草开旗舰店：20年前写进重生小说的情节成真了",
+    "summary": "【一句话判断】日本曾用相机、随身听和半导体定义全球消费电子。二十多年前，中国市场还在进行VCD广告大战；如今，中国影像品牌影石把直营旗舰店开到浅草寺旁，并在BCN覆盖的日本零售渠道拿下全景相机六成以上销量份额。产业逆袭最痛快的部分，是中国开始自己命题。",
+    "category": "科技",
+    "heat": 88.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片",
+       "半导体",
+       "电子",
+       "消费电子"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "国企"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T12:46:51",
+    "source": "日知录",
+    "story_len": 4648
+   },
+   {
+    "id": 21644,
+    "title": "受贿数额特别巨大，交行原副行长侯维栋被提起公诉",
+    "summary": "交通银行原党委委员、副行长侯维栋涉嫌受贿一案，经国家监委调查终结，近日由重庆市人民检察院第五分院向重庆市第五中级人民法院提起公诉。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "合作",
+     "调查",
+     "起诉"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "保险"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-20T10:33:16",
+    "source": "日知录",
+    "story_len": 512
+   },
+   {
+    "id": 21677,
+    "title": "美军被曝霍尔木兹秘密护航，每日15到20艘油轮",
+    "summary": "美官员称，美军已在霍尔木兹海峡建立秘密航运通道，过去两周每日15到20艘油轮通行。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-20T13:53:25",
+    "source": "日知录",
+    "story_len": 183
+   },
+   {
+    "id": 21610,
+    "title": "佛山通报教师招聘逆袭事件，多人被立案调查",
+    "summary": "佛山联合调查组8月19日通报“季华中学教师招聘笔试前13名被淘汰、后5名进体检”事件：面试存在违规，多人被立案调查，面试成绩无效，将重新组织面试。",
+    "category": "社会",
+    "heat": 86.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "调查"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-19T21:58:26",
+    "source": "日知录",
+    "story_len": 378
+   },
+   {
+    "id": 21683,
+    "title": "多地开始整顿外卖隐形打包费：小金额不能成为平台计费的盲区",
+    "summary": "【一句话判断】多地案例显示，外卖打包费的争议不在于商家能不能收费，而在于收费是否真实、透明，是否对应实际提供的包装服务。",
+    "category": "社会",
+    "heat": 84.0,
+    "sentiment": -5,
+    "sent_hits": [
+     "订单",
+     "警告",
+     "罚款",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T14:55:00",
+    "source": "日知录",
+    "story_len": 1150
+   },
+   {
+    "id": 21608,
+    "title": "多地宣布调整最低工资标准，9月起陆续执行",
+    "summary": "广东、山西、新疆等地近日宣布调整最低工资标准：广东9月1日起、深圳月最低2700元；山西10月1日起执行；新疆10月1日起执行；四川拟于12月1日起调整。",
+    "category": "财经",
+    "heat": 82.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "2026-08-19T21:56:41",
+    "source": "日知录",
+    "story_len": 567
+   },
+   {
+    "id": 21634,
+    "title": "Token也能变出贷款？广东首个词元贷在海珠区落地",
+    "summary": "广东省首个词元经济专项金融产品Token贷在广州市海珠区发布，中国银行广州分行、中信银行、广州银行等同步推出。Token消耗量直接作为授信核心依据，无须传统不动产抵押。",
+    "category": "财经",
+    "heat": 78.0,
+    "sentiment": 4,
+    "sent_hits": [
+     "创新",
+     "首个",
+     "订单",
+     "充足"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "算力",
+       "AI"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-20T08:27:10",
+    "source": "日知录",
+    "story_len": 384
+   },
+   {
+    "id": "xwlb-0",
+    "title": "习近平致电祝贺希奇莱马当选连任赞比亚总统",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-1",
+    "title": "【新思想引领新征程】优质医疗资源下沉惠民 绘就健康中国新图景",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-2",
+    "title": "中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-3",
+    "title": "赵乐际同萨尔瓦多立法大会主席举行会谈",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-4",
+    "title": "各地重大工程稳步推进",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-5",
+    "title": "我国工业经济新动能贡献持续增强",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-6",
+    "title": "丰收时节 特色农产品助农增收",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "丰收"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-7",
+    "title": "国内联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-8",
+    "title": "全国总工会发布“十五五”规划 明确产业工人队伍建设改革目标",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-9",
+    "title": "“十五五”期间基本医保参保率保持在95%左右",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医保"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-10",
+    "title": "我国启动“人工智能+交通运输”典型应用场景创新行动",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "创新"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "人工智能"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-11",
+    "title": "最高法修改审理著作权案件的司法解释",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-12",
+    "title": "两部门部署发展服务类社会救助",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-13",
+    "title": "中国240小时过境免签“朋友圈”扩展至57国",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-14",
+    "title": "第七届中非媒体合作论坛开幕",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-15",
+    "title": "四川石渠记录到百余头白唇鹿渡过雅砻江",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-16",
+    "title": "日本民众抗议高市政权危险动向将国家引向战争边缘",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-17",
+    "title": "美总统称对伊朗实施毁灭性经济行动 伊朗称严禁敌对船只进入霍尔木兹海峡",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-18",
+    "title": "美国联邦政府债务首次超40万亿美元 美媒称美结构性危机加剧",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": -3,
+    "sent_hits": [
+     "危机"
+    ],
+    "sectors": [
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-19",
+    "title": "国际联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-20",
+    "title": "俄太平洋舰队在俄日争议岛屿附近演习",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-21",
+    "title": "德国称“北溪”爆炸案又一嫌疑人被捕",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": -2,
+    "sent_hits": [
+     "爆炸"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-22",
+    "title": "伊拉克领导人会见伊朗议长 拟深化合作",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-23",
+    "title": "以称不容土军在叙立足 土呼吁制止侵略",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-24",
+    "title": "因技术问题 美取消救援卫星天文台任务",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
    }
   ],
-  "category_dist": {},
-  "top_news": [],
-  "scored_news": [],
   "stats": {
-   "news_total": 0,
-   "xwlb_total": 0,
-   "scored_total": 0,
-   "pos": 0,
-   "neg": 0,
-   "neutral": 0
+   "news_total": 21,
+   "xwlb_total": 25,
+   "scored_total": 46,
+   "pos": 12,
+   "neg": 11,
+   "neutral": 23
   }
  },
- "news_raw": [],
- "xwlb_raw": []
+ "news_raw": [
+  {
+   "id": 21623,
+   "title": "美国逼AI伙伴在中美之间选边：芯片、矿产和数据中心成联盟筹码",
+   "summary": "【一句话判断】一份尚未发出的美国国务院草案，准备把芯片、数据中心、融资和供应链项目的准入资格变成限制对华AI合作的联盟纪律。美国未必能让34个伙伴整体站队，却可能率先推动“项目级选边”。",
+   "heat": 97.0,
+   "category": "时政",
+   "story": "6月25日，哈萨克斯坦副总理兼人工智能与数字发展部长扎斯兰·马季耶夫在华盛顿签署文件，使哈萨克斯坦成为第一个加入美国主导的Pax Silica机制的中亚国家。\n\n21天后，他又出现在上海，代表哈萨克斯坦签署成立世界人工智能合作组织的协定。这一次，发起者是中国。\n\n同一个国家，分别在中美两套AI机制上签了一次名。名单摊开后，它成了唯一的重合点。\n\n两次签署原本可以被理解为一个中等国家的正常多边外交。8月，一份由美国国务院拟定、但尚未正式发出的内部信函草案改变了这件事的含义。据路透社看到的文本，美国准备告知一批伙伴：如果同时参加与Pax Silica目标重叠、要求相冲突的机制，就可能失去留在美国阵营内的资格。美国官员对这套逻辑的概括更直接：不能两边都要。\n\n目前，没有证据表明这封信已经发出，草案也仍可能修改；美国公开发布的合作文件中，尚不存在明确的排他条款。美国正在试探，能否把芯片、数据中心、融资和供应链项目的准入资格，变成限制对华AI合作的联盟纪律。\n\n它未必能让34个伙伴整体站队，却可能率先推动“项目级选边”：用了美国的芯片和资金，就要接受美国指定的供应商与合作边界。\n\n过去，美国主要限制中国能不能买到某些芯片；现在，它开始试探能不能约束伙伴与谁共同建设AI。围堵的边界正在从“卖不卖”，推进到“跟谁一起干”。\n\n三张名单，代表三种不同强度的合作\n\n围绕这件事，最容易混淆的是“35国联盟”。实际上，美国体系内部也有两层，加上中国推动成立的世界人工智能合作组织，共有三张名单。\n\n机制截至目前的规模公开法律或政治状态主要内容《AI机遇伙伴关系联合声明》35国，包含美国自身，即34个外部伙伴非约束性政治声明创新监管、研发合作、可信半导体、算力、模型、数据中心和AI全栈出口Pax Silica24个签署方，其中包括欧盟非约束性供应链宣言及项目平台芯片、关键矿产、能源、先进制造、物流、通信网络和投资安全世界人工智能合作组织成立协定37个国家签署政府间组织成立协定，仍需各国履行批准程序能力建设、供需对接、规则与标准协调、开源生态和民用AI合作\n\n美国35国声明加上WAICO 37国，一共是72个名单席位。逐项核对，只有哈萨克斯坦出现了两次。\n\n35国声明的公开文本没有要求签署者排斥中国。它提出的，是共同建设人工智能的“物理底座”：关键矿产、能源、算力和半导体制造，并探索向第三国联合输出包括连接设施、模型和应用在内的AI技术栈。\n\nPax Silica范围更窄，却更接近供应链项目、投资审查和执行工具。它把合作压缩到硅基供应链，强调减少过度依赖、保护敏感技术和关键基础设施，并协调投资安全及对非市场政策的应对。24个签署方大多也在35国声明中，但欧盟只出现在Pax Silica名单里。这说明35国声明更像政治入口，Pax Silica才是美国试图经营的供应链核心圈。\n\n中国推动的世界人工智能合作组织则是另一种结构。7月16日首批29国签署成立协定，签署期结束前又有8国加入，总数达到37国。协定提出能力建设、规则与标准协调、供需对接和开源生态合作，限于民用人工智能，并向所有国家开放。它的制度形式比美国两份非约束性声明更完整，但能否转化为预算、秘书处能力和具体项目，仍要看后续批准和运转。\n\n把三张名单逐一比对，可以看到一个事实增量：美国35国声明与中国37国签署名单的唯一交集，是哈萨克斯坦。\n\n美国草案真正要做的，是用较宽松的35国政治声明，为较紧密的Pax Silica供应链俱乐部设置兼容性门槛。所谓“选边”，目前还不是一项成文禁令，而是一场关于准入资格的压力测试。\n\n哈萨克斯坦为什么会成为第一块试金石\n\n哈萨克斯坦在AI大国竞争中的价值，首先不是算法，而是算法背后的物理条件。\n\n它拥有铀、铬、铜和多种关键矿产资源，也有较强的能源供给；向西连接里海和欧洲，向东与中国接壤，是跨里海运输通道和中欧陆路网络的重要节点。哈方加入Pax Silica时公开提出，希望合作不止停留在采矿，而要进入矿物加工、电池、半导体、储能和人工智能基础设施。\n\n这恰好触及美国新联盟的核心：不能只买模型，还要组织从矿石、能源、晶圆到数据中心的完整供应链。美国需要资源国和通道国，但这些国家也要借联盟获得加工能力、技术转移和更高附加值。\n\n哈萨克斯坦同时加入中国机制，并不难理解。中国既是其邻国和重要贸易伙伴，也是中亚基础设施、能源和数字项目的重要参与者。对于阿斯塔纳而言，美国可以提供高端技术、资本和供应链多元化，中国则能提供邻近市场、工程实施、成本更低的模型和应用。只选择其中一方，意味着主动放弃另一半发展选项。\n\n因此，哈萨克斯坦不是一个偶然“站错队”的成员。它代表的是多数中等国家的真实策略：安全要求可以分层，供应链可以分段，项目可以逐项谈判，但国家不愿把全部数字发展权一次性交给任何一个技术中心。\n\nAI名单里为什么有矿产国、能源国和港口国家\n\n如果把人工智能理解成模型排行榜，美国这份名单会显得松散。名单里既有日本、韩国、德国、荷兰等芯片与设备强国，也有卡塔尔、阿联酋等能源和资本节点，还有智利、阿根廷、哈萨克斯坦等资源国，以及巴拿马、新加坡等港口与物流枢纽。\n\n如果把AI看作一套工业系统，名单就清楚了。\n\n训练和运行模型需要芯片，晶圆厂和数据中心需要稳定电力，芯片制造需要矿产、化学品和精密设备，跨境部署需要海缆、云服务、港口和可信物流，巨额建设成本还需要主权资本与长期融资。美国已经为巴拿马试点启动项目招募，准备把海关、港口、托运人和货物溯源接入同一套认证平台，为经过核验的半导体、AI设备和关键矿产提供快速通道。\n\n这说明联盟竞争已经从“谁的模型更聪明”进入“谁来定义可信货物、可信设备和可信项目”。一旦认证、融资、出口许可和采购资格被打包，非约束性声明也能产生实际约束。\n\n美国能逼34个伙伴整体选边吗\n\n美国拥有真实而强大的筹码，但这些筹码在不同产业环节上的约束力并不相同。\n\n34个伙伴也不是34名等待分组的学生。海湾国家既需要美国的先进芯片，也需要中国企业建设通信、电力和城市基础设施；欧洲国家依赖美国技术，同时追求数字主权；东南亚国家希望承接数据中心投资，也希望使用价格更低、可以本地部署的中国模型。\n\n在先进GPU、半导体制造设备、出口许可、美国资本和高安全等级数据中心等瓶颈环节，美国可以把合规要求写进具体项目：使用何种供应商、数据如何隔离、设备能否转移、合作方是否接受共同的投资审查。伙伴若拒绝，确实可能失去最稀缺的技术和资金。\n\n但在开源模型、普通行业应用、人才培训和不涉及敏感算力的民用项目上，美国很难建立同样严密的排他体系。模型权重可以跨境传播，本地企业会比较价格和部署条件，很多国家与中国又有无法绕开的贸易和基础设施联系。\n\n盟友也未必愿意接受无限扩张的安全边界。菲律宾在讨论Pax Silica相关工业园时，就公开强调项目必须受本国法律管辖。这个分歧提醒美国：伙伴愿意合作，不等于愿意让渡司法权、产业政策和供应商选择权。\n\n因此，未来更可能出现的是项目级选边：使用美国先进芯片和资金的数据中心接受一套“可信供应链”规则；同一个国家的农业、气象、教育或政务项目，仍可能采用中国开源模型和本地化方案。\n\n到那时，“选边”未必写在外交公报里，而会藏在采购合同和出口许可证中：设备从哪里买，模型由谁提供，数据存在哪里，接受美国资金后还能不能与中国企业合作。\n\n哈萨克斯坦如果继续留在两边，而敏感项目单独隔离，说明美国接受分层兼容；如果其资格或项目因加入WAICO受到影响，联盟竞争才真正跨过排他门槛。\n\n中国必须把“不选边”变成可以交付的能力\n\n面对美国在高端芯片和供应链认证上的优势，中国最有效的回应，不是要求37个签署国作出反向忠诚承诺，而是提高“不选边”的收益。\n\n对一个准备建设AI系统的发展中国家而言，问题非常具体：买不起最先进GPU时模型能不能运行，本国数据能不能留在本地，电力和网络不稳定时系统是否可用，出了问题由谁维护，培训结束后有没有工程团队留下。政治原则要获得长期支持，最终必须回答这些交付问题。\n\n第一，把低成本、可本地部署的开源模型变成各国看得见的生产工具。中国已提出未来五年为发展中国家提供5000个人工智能培训名额，并面向东盟、阿盟、非盟、拉共体、上合组织和金砖国家建设应用合作中心。“妈祖”气象预警方案已被用于30个国家。这类农业、气象、医疗、制造和公共服务项目，比抽象的治理宣言更容易形成黏性。\n\n第二，把模型优势接到算力、能源、融资和交付能力上。只提供便宜模型，并不能替代数据中心、电网、云服务和运维体系。中国机制能否吸引更多国家，取决于能否公布一批有地点、有预算、有本地就业和技术转移安排的项目。\n\n第三，让伙伴保留更多价值增量。如果合作仍停留在资源出口、设备采购和成品应用，矿产国和港口国迟早会要求重新谈判。加工、训练、数据治理和本地企业参与度，才是中等国家衡量两套体系的关键。\n\n未来三个月到一年，判断不能只看外交表态，要看规则和项目是否发生变化。\n\n时间窗观察信号若出现，意味着什么反向信号未来3个月美国正式发信，或在Pax Silica文件中加入兼容性与资格审查“选边”由内部讨论进入规则化阶段草案未发、排他措辞被删除未来3个月哈萨克斯坦被要求解释、退出或遭遇项目冻结双重参与开始产生实际成本哈方继续留在两边且项目照常推进未来6—12个月芯片许可、供应链认证和融资条件被打包美国在瓶颈环节形成项目级联盟纪律合作项目不区分伙伴的其他机制身份未来6—12个月WAICO完成更多批准并公布秘书处、预算和首批项目中国机制从签署名单转向交付能力长期没有预算、项目和国别成果\n\n美国准备递出一道单选题。哈萨克斯坦是第一个要回答的人：它还能不能同时坐在两张桌子旁，将决定“选边”究竟是一句施压口号，还是已经开始执行的资格规则。\n\n中国真正有力的回答，不是要求其他国家改选自己，而是证明这道题可以不接受：谁能提供更便宜、更可靠的技术，也给伙伴留下更多自主空间，谁才更可能赢得下一批项目。\n\n答案不会只写在外交信函里。它会写在芯片交付单、矿山加工厂、港口认证系统、数据中心合同，以及每一个国家最终保留了多少技术选择权之中。\n\n主要核验依据\n\n• 路透社，2026年8月14日：美国国务院内部信函草案及其未发送状态。\n• 美国国务院，2026年6月：AI Opportunity Statement签署名单及Pax Silica峰会材料。\n• 澳大利亚工业部：Pax Silica公开宣言全文。\n• 中国外交部，2026年7月16日、8月4日：WAICO首批29国及后续8国签署信息。\n• WAICO成立协定公开文本：组织性质、开放成员资格、民用范围和批准程序。\n• 哈萨克斯坦政府，2026年6月25日：加入Pax Silica及本国合作诉求。",
+   "impact": "",
+   "publish_time": "2026-08-20T00:13:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787155802792-%E7%BE%8E%E5%9B%BD%E9%80%BCAI%E4%BC%99%E4%BC%B4%E5%9C%A8%E4%B8%AD%E7%BE%8E%E4%B9%8B%E9%97%B4%E9%80%89%E8%BE%B9.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 21681,
+   "title": "许家印无期，恒大被罚158.2亿：前首富还剩多少钱，先赔给谁？",
+   "summary": "恒大集团和恒大地产一审合计被罚158.2亿元，许家印被判无期徒刑、没收个人全部财产。但判决真正触及普通人的问题，是恒大还能找回多少钱，以及这些钱先退赔受害人、完成交房，还是先缴入国库。法院已经明确：退赔损失优先于罚金和没收财产。",
+   "heat": 96.0,
+   "category": "财经",
+   "story": "恒大体系最后一份公开合并报表曾列出近两万亿元账面资产。现在，两家核心公司被判缴纳158.2亿元罚金。\n\n这个数字看起来只占恒大旧资产的一小角，现实中却可能很难收齐。\n\n8月20日，深圳市中级人民法院一审宣判：恒大集团数罪并罚，被处罚金88.2亿元；恒大地产被处罚金70亿元；许家印被判无期徒刑，剥夺政治权利终身，并处没收个人全部财产。\n\n同日，甄立涛、柯鹏、许腾鹤、许智健、杜亮、梁栋等56名相关人员获刑，刑期从十八年至一年十个月不等。\n\n法院还留下了一句决定分钱顺序的话：\n\n退赔损失优先于罚金刑、没收财产刑的执行。\n\n意思很直白：国家虽然开出了158.2亿元罚单，但国库不是第一个来恒大废墟里拿钱的人。先找回违法所得、退赔受害人，剩下的钱才轮到罚金和没收财产。\n\n这也把恒大案从“许家印判了多少年”，推进到一个更现实的问题：恒大最后还能找回多少钱，这些钱又该先救谁？\n\n158.2亿元谁来出：两家公司各交各的\n\n88.2亿元由恒大集团承担，70亿元由恒大地产承担。许家印被没收个人全部财产，是另一项独立处罚。\n\n罚金原则上从两家公司的银行存款、股权、房产、应收账款等可执行财产中缴纳。员工、购房者和普通股东不会被要求直接掏钱，政府也不会替恒大交罚款。\n\n但“账上有楼”不等于“账上有钱”。\n\n恒大的大量土地和在建工程已经抵押给金融机构；不少项目资产对应着购房者、施工单位和供应商权益；部分股权、房产和账户已经被查封冻结。卖掉一块地，往往要先处理抵押权、工程款和项目续建资金，不能直接把成交款划给国库。\n\n最高人民法院关于财产刑执行的规定也很明确：同时承担赔偿和罚金时，应先赔偿被害人；判决前形成的正当债务，经债权人请求，也应依法处理。公司一时没有足够财产，罚金可以继续追缴；公司最终终止且确无财产，相关执行才可能依法终结。\n\n因此，158.2亿元更像法院确定的一笔法律责任，不等于两家公司明天就能向财政账户转入158.2亿元。\n\n近1.8万亿元资产，为何清盘人只卖出约18亿元\n\n要看懂恒大还剩多少钱，必须同时看三张完全不同的资产表。\n\n第一张，是恒大最后的公开财务报表。\n\n中国恒大2023年中期报告显示，截至当年6月底，合并口径总资产约1.744万亿元，总负债约2.388万亿元，净负债缺口达到6442亿元。现金及受限资金合计约133.8亿元，其中现金及现金等价物只有约40.5亿元。\n\n这组数据覆盖的是上市公司中国恒大及其附属公司的历史合并口径，不等于本次被判罚的两家境内公司今天还拥有同样资产。更重要的是，1.744万亿元是三年前的账面价值：其中大量是土地、在建工程、应收款和受限制资产，后来还经历了房价下跌、停工、查封、破产和变卖。\n\n第二张，是境外清盘人的追债表。\n\n截至2025年7月底，中国恒大境外清盘人接管了集团内100多家公司。这些实体截至2024年1月的账面资产合计约35亿美元，但清盘人实际变现的资产只有约2.55亿美元，折合人民币约18亿元，而且其中并非全部能够归中国恒大自身债权人分配。\n\n同一时期，清盘人收到约187份债权申报，总额约3500亿港元，申报还没有结束。\n\n从近1.8万亿元历史账面资产，到清盘人手里约18亿元实际变现款，差距并不等于中间的钱全部消失了。两者的时间、主体和统计范围都不同。但这组对照说明了一件事：\n\n房地产公司的账面资产可以很大，真正能够确认产权、解除抵押并卖成现金的资产却可能很少。\n\n第三张，才是刑事追缴和退赔需要重新清点的财产表。目前它还没有公开总数。\n\n6039.8亿元合同负债，购房者最先等的是房子\n\n2023年6月底，中国恒大合并报表还有约6039.8亿元合同负债。这是最容易被误读成“恒大欠购房者的钱”的数字。\n\n合同负债主要记录企业已经收钱、却尚未完成相应履约义务的款项，其中包含大量预售房款。但它并不是一张购房者退款清单，更不等于本次刑事案件确定的退赔金额。\n\n对多数购房家庭来说，最重要的不是把购房款原路退回，而是房子继续建完、最终交付。土地、监管账户资金和未售房源也往往需要留在项目里完成建设，不能全部拆走清偿集团罚金。\n\n恒大披露，截至2023年2月底累计完成保交楼42.1万套、涉及515个项目。此后多地继续推进恒大项目交付，但目前没有一份公开、统一的全国数据，能够准确说明恒大还剩多少套未交付、对应多少购房款、建设缺口究竟多大。\n\n因此，稿件里可以写“受害人退赔优先于国库”，却不能把所有受害人都写成购房者，也不能拿6039.8亿元直接充当退赔金额。\n\n“没收全部个人财产”，为什么没有一个金额\n\n许家印曾以2900亿元估算身家登上中国首富榜。如今法院判决没收其全部个人财产，却没有写出一个对应的总金额。\n\n这并不矛盾。\n\n富豪榜只需要把持有的股票乘以市场价格。股票退市、股价归零，大部分榜面财富就会消失。司法执行则要一项一项确认：银行账户是谁的，离岸公司由谁控制，房产有没有抵押，亲属名下资产是否属于代持，历史分红是否来自违法所得。\n\n香港法院此前冻结许家印全球资产的额度最高达到77亿美元。这个数字只是为了覆盖清盘人的追偿请求，并不代表法院已经找到77亿美元现金。\n\n后来，香港法院任命中国恒大清盘人为许家印全部资产及业务的接管人。判决材料和公开报道涉及多家离岸公司、境外银行账户以及相关物业。法院之所以需要接管人，一个重要原因正是许家印没有按照此前命令完整披露其全球资产，单靠冻结令难以管理。\n\n清盘人还在向许家印、夏海钧等人追讨约60亿美元分红及其他利益。本次内地刑事判决则进一步认定，许家印组织财务造假，以分红名义侵占公司财产。\n\n这一笔尤其关键。恒大报表里的利润曾经支持实际控制人和高管分红；如今，虚假利润背后的部分分红，已经从“首富财富”变成需要重新追查的资金。\n\n父亲、儿子和前妻，进入了三条不同的法律线\n\n同日获刑人员名单中出现了许智健和许腾鹤。公开资料显示，二人分别为许家印的长子和次子，均曾被媒体报道参与恒大相关业务，其中许腾鹤还曾负责过恒大财富。\n\n但官方通报没有逐一公布二人所涉罪名、具体职务和刑期。在完整裁判文书公开前，只能确认他们进入同批判决名单，不能自行补写责任细节。\n\n许家印的前妻丁玉梅没有出现在本次内地刑事判决的被告名单中，不能把她写成本案罪犯。但在中国恒大境外清盘程序中，清盘人已经围绕她及相关公司的部分境外资产申请禁制和追索。相关程序延伸到加拿大、新加坡、泽西岛和直布罗陀等司法辖区，公开金额超过2.2亿美元。\n\n2024年，丁玉梅还曾在香港起诉次子许腾鹤，追讨本金和利息合计超过10亿港元的借款。单看法律关系，这是一场母亲向儿子追债的民事诉讼，现有证据不足以把它定性为转移资产。但在恒大清盘背景下，它自然会引出追债人最关心的问题：资金最初从哪里来，这项家庭债权能否对抗外部债权人，胜诉后又会落入谁的资产池。\n\n曾经，许氏家族通过恒大的股权和分红分享财富。现在，父亲的刑事没收、儿子的刑事判决、前妻的境外资产程序和母子之间的债务诉讼，正在把同一张家族财富图拆成不同案件。\n\n判决回答谁负责，执行决定谁拿回钱\n\n恒大案最荒诞的地方，是一家房地产商最终接通了远超房地产范围的资金入口。\n\n法院查明：恒大通过持续性、大规模财务造假虚增资产、隐瞒负债，非法吸收公众存款、集资诈骗、欺诈发债；又通过行贿取得金融机构控制权，违法套取信贷资金和保险资金供集团使用；许家印还以分红名义侵占公司财产。\n\n卖房、理财、债券、银行信贷和保险资金，最终接进了同一台融资机器。\n\n现在机器停了，四本账摆在一起：两家公司158.2亿元罚金，上市公司历史合同负债6039.8亿元，境外清盘人约18亿元实际变现款，以及许家印尚未清点完成的个人财产。\n\n许家印的无期徒刑回答了谁应当负责。\n\n接下来更漫长的资产追缴、保交房和清盘程序，才会回答谁能拿回多少钱。\n\n法院已经给出最重要的顺序：恒大的最后一笔钱，先退赔受害人，再轮到国库。\n\n来源与口径说明\n\n新华社、深圳市中级人民法院关于恒大集团、恒大地产、许家印等案一审宣判的通报，用于核对罚金、量刑、罪名、56名相关人员及退赔优先顺序。中国恒大《2023年中期报告》，用于核对2023年6月底合并口径总资产、总负债、合同负债、现金及受限资金。该报告是历史合并报表，不代表2026年实时可变现资产，也不等同于本次两家被告单位的独立财务状况。中国恒大清盘人2025年进展报告及香港交易所公告，用于核对债权申报、接管公司数量、相关实体账面资产和实际变现规模。最高人民法院《关于刑事裁判涉财产部分执行的若干规定》，用于核对赔偿、正当债务、罚金和没收财产的执行关系。中国恒大境外债务重组文件，用于核对截至2023年2月底累计保交楼数量。此后仍有项目继续交付，该数字不是2026年未交付住房余额。香港高等法院相关裁决及清盘人公告，用于核对许家印全球资产冻结、接管和分红追索状态。77亿美元为冻结额度上限，不是已经确认或追回的资产总额。关于丁玉梅境外资产程序和母子借款诉讼的公开报道，仅用于说明仍在进行的民事及清盘程序，不据此推断刑事责任或资产转移。\n\n本文依据一审判决通报创作。判决尚可能进入上诉程序；各项罚金、追缴、退赔和没收财产的实际执行金额，以生效裁判及后续执行、清盘公告为准。",
+   "impact": "",
+   "publish_time": "2026-08-20T14:00:23",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787205600808-%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%97%A0%E6%9C%9F%EF%BC%8C.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21700,
+   "title": "今日话题｜查出艾滋病，医生该不该告诉患者伴侣？",
+   "summary": "【话题金句】保密不能变成对风险的沉默，告知也不能变成对病历的任意公开；真正缺少的是一套有授权、有边界的伴侣告知程序。",
+   "heat": 95.0,
+   "category": "话题",
+   "story": "#婚检 #HIV告知 #患者隐私 #伴侣健康权 #公共卫生\n\n如果两个人一起去婚检，其中一人查出HIV，医生难道不该告诉另一人吗？\n\n很多人的答案毫不犹豫：当然应该。婚检本来就是为了让两个人在知情的基础上决定是否结婚。如果连可能影响伴侣健康的结果都不能让对方知道，婚检还有什么意义？\n\n近日重新流传的一则网帖，把这种不解推到了极端。发帖者自称是妇产科医生，称一名女性婚检查出HIV阳性后要求保密，医生只按规定上报疾控；后来男方感染并投诉，医生因此停职。\n\n这则故事最早可追溯到2025年6月。迄今没有具名医院、当事人、处分决定或卫健部门回应，真实性仍待核实。但它提出的问题并不虚假：如果感染者拒绝告诉伴侣，医生究竟应当保密，还是应当预警？\n\n第一问：一起婚检，为什么不能直接互看结果？\n\n从生活常识看，婚检是一件共同完成的事；从医疗法律关系看，两个人仍是两个独立的受检者。\n\n现行《婚前保健工作规范》要求婚检机构针对异常情况提出“不宜结婚”“暂缓结婚”或“建议采取医学措施”等意见，帮助当事人在知情基础上决定。但规范同时要求保护个人隐私，婚检证明也分别交给受检者。\n\n这意味着，婚检可以向双方发出影响结婚决定的医学信号，却不等于医生可以把一方的完整病历递给另一方。\n\n问题恰恰出在这里：如果医学意见只写得含糊，另一方可能不知道风险有多大；如果医生直接说出具体诊断，又可能越过患者隐私边界。\n\n共同参加婚检，应当意味着双方都有权知道是否存在影响共同生活的重大健康风险，但不必等于双方可以无条件翻阅彼此全部病历。 制度需要说明哪些风险必须共同确认，而不是把难题留给诊室里的一句话。\n\n第二问：已经结婚，配偶就当然有权知道吗？\n\n答案仍然不是简单的“是”或“否”。\n\n《艾滋病防治条例》第三十八条规定，HIV感染者和艾滋病病人应当“将感染或者发病的事实及时告知与其有性关系者”，并采取必要防护措施。夫妻存在性关系时，配偶当然属于应被告知者。\n\n但法律首先把这项义务放在感染者本人身上，而不是医生身上。医生必须将确证结果告知本人、依法报告，并保护患者隐私；全国规则并没有进一步明确：如果本人拒绝，医生是否必须越过患者直接通知配偶。\n\n而且，“配偶”身份本身也不能变成调阅病历的万能钥匙。分居多年、没有性接触的配偶，与正在承受现实暴露风险的伴侣，情况并不相同。伴侣需要被保护，不只是因为有一张结婚证，更因为他可能在不知情中承担健康风险、失去对亲密关系作出自主决定的机会。\n\n第三问：感染者拒绝说，谁来接过告知责任？\n\n这才是全国规则最明显的断点。\n\n国家卫生主管部门2016年曾答复全国人大建议，认为由于难以核验性伴侣身份、判断感染者是否已履行告知义务，同时存在隐私泄露风险，“现阶段暂不宜制定全国统一的配偶（性伴）告知规定和实施细则”。\n\n一些地方已经向前走了一步。云南规定，感染者本人不告知时，医疗卫生机构有权告知配偶或性伴侣。云南省人大解释说，向特定配偶或性伴侣告知，不应被误解为向社会“公开”。\n\n这里仍有两个关键词：一是“有权”，不等于任何情况下都必须说；二是“特定对象”，不等于可以向家人、单位或网络扩散。\n\n隐私权保护的是一个人不被无端公开和歧视，不是赋予任何人让伴侣在未知风险中作出决定的权利。 可告知的对象、条件和内容越明确，患者和医生反而越安全。\n\n第四问：为什么不能干脆规定“医生必须告诉”？\n\n因为医生面对的不只是一个名字和一个阳性结果。\n\n筛查阳性是否已经确证？伴侣身份是否真实？双方是否仍有性关系？感染者是否正在规范治疗？是否持续达到病毒载量检测不到？直接告知会不会引发家庭暴力、报复或向社会扩散隐私？这些都需要专业评估。\n\n世界卫生组织已经确认，持续规范治疗并维持病毒载量检测不到的HIV感染者，不会通过性行为传播病毒，也就是U=U。HIV阳性不是道德判决，更不意味着每一次亲密接触都会传播。\n\n但U=U也不能成为隐瞒的理由。能否接受一段关系、是否共同采取防护、是否接受检测，本来就应由伴侣在真实信息基础上决定。\n\n因此，医生不该被推上一个人拍板的位置。把所有责任压给医生，看似保护了伴侣，实际上只是用个人冒险填补制度空白。\n\n第五问：隐瞒病情与伴侣发生性关系，是否违法？\n\n首先，隐瞒本身已经违反法定义务。《艾滋病防治条例》要求感染者及时告知与其有性关系者、采取必要防护措施，并明确禁止故意传播。\n\n但“违反条例”不等于在所有情况下都已经构成刑事犯罪。两高司法解释划出了一条明确红线：明知自己感染HIV，故意不采取防范措施与他人发生性关系，并致使对方感染的，感染后果属于刑法意义上的“重伤”，以故意伤害罪追究。\n\n因此，是否入罪需要分别审查：本人是否明知，是否故意隐瞒并拒绝防护，对方是否感染，感染是否由这次行为造成。如果没有造成感染，普通自愿性关系并不会仅因隐瞒就自动构成故意伤害罪；但违反告知和防护义务、民事侵权以及婚姻撤销等责任仍可能存在。\n\n如果疾病在结婚登记前已经存在并被隐瞒，另一方可以在知道或者应当知道后一年内请求撤销婚姻；造成实际损害的，还可能主张赔偿。若涉及明知感染HIV而卖淫、嫖娼，司法解释另有更严格的刑事规定。\n\n法律在这里惩罚的不是“HIV感染者发生亲密关系”，而是明知风险，却剥夺他人的知情选择并故意造成伤害。\n\n第六问：一套负责任的告知程序应该长什么样？\n\n至少应当有五步。\n\n第一，确证结果后，由专业人员向感染者说明治疗、防护和法定告知义务，而不是只递出一张报告。\n\n第二，鼓励并协助本人告知。可以由疾控人员陪同，可以安排双方咨询，也要评估家庭暴力等现实风险。\n\n第三，本人明确拒绝告知、伴侣又面临可信的现实暴露风险时，由疾控或依法授权的专业机构核验身份、评估风险，而不是让首诊医生单独决定。\n\n第四，只向需要保护的特定对象作最小必要通知，提供检测、阻断和咨询路径，不向无关家属、单位和社会公开。\n\n第五，全程留痕，并为依法履职的医生提供免责和申诉机制。该告知而不告知、无权披露却随意扩散，都应能够追责。\n\n婚前和婚后，问题其实是同一个：一方的隐私边界，不能直接覆盖另一方的身体。\n\n我们不需要在“保护患者”和“保护伴侣”之间粗暴地牺牲一方。需要的是让患者敢于检测和治疗，让伴侣免于未知风险，也让医生不必靠猜测法律、押上职业生涯。\n\n真正成熟的保密制度，从来不是所有人都闭嘴，而是明确谁在什么情况下、可以向谁、说到什么程度。",
+   "impact": "",
+   "publish_time": "2026-08-20T17:09:44",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787216951774-%E8%89%BE%E6%BB%8B%E7%97%85.png",
+   "source": "日知录"
+  },
+  {
+   "id": 21656,
+   "title": "美债突破40万亿美元：美国正在失去救火空间，世界没有避风港",
+   "summary": "【一句话判断】40万亿美元不会让美国明天破产，但利息正在吞噬它应对危机的能力；一旦美国自身成为危机中心，美元、美债、贸易和资产价格会把冲击传向全球，中国也不可能置身事外。",
+   "heat": 95.0,
+   "category": "财经",
+   "story": "8月18日，美国联邦总债务达到40.047万亿美元。\n\n这个数字很容易制造一种末日想象：美国是不是快还不起债了？美元体系是不是走到了尽头？下一场全球经济危机会不会从美债开始？\n\n答案没有那么戏剧化。美国短期不会因为债务跨过40万亿美元突然破产。它拥有征税权、美元发行权和全球最深的国债市场，只要新债还能顺利卖出，到期的旧债就可以继续滚动。\n\n但40万亿美元仍然是一个危险的里程碑。它提醒世界，美国不是马上没钱，而是每解决一次新问题，都比过去更贵。\n\n美国真正失去的不是偿债能力，而是面对下一场危机时的选择空间。\n\n世界真正需要担心的，不只是美国能不能继续偿债，而是下一场危机到来时，它还有多少财力托住需求、救助金融市场并维持全球美元体系的稳定。如果危机本身从美国内部爆发，全球也很难找到一个足以替代它的外部稳定器。\n\n40万亿美元是怎样滚出来的\n\n先把口径说清楚。40.047万亿美元是联邦总债务，其中约32.27万亿美元由公众持有，约7.78万亿美元属于政府内部账户。真正进入金融市场、影响利率和融资条件的，主要是公众持有债务。\n\n美国债务的问题，也不是某一天突然借了40万亿美元，而是联邦政府长期支出大于收入。\n\n美国国会预算办公室预计，2026财年联邦收入约5.6万亿美元，支出约7.4万亿美元，赤字约1.9万亿美元。即使经济仍在增长、失业率保持低位，美国政府仍需借入巨额资金维持日常运转。\n\n债务还会不断到期。财政部通常发行新债偿还旧债，同时为当年的新增赤字融资。过去低利率时期发行的债券陆续到期后，被利率更高的新债替换，债务本金没有消失，付息价格却被重新抬高。\n\nCBO预计，公众持有债务的平均利率在2026年约为3.4%，此后逐步升至3.9%左右。几个百分点看起来不高，乘以数十万亿美元本金，就会变成每年上万亿美元的财政支出。\n\n债务危机最先出现的地方，因此未必是本金，而是利息。\n\n净利息今年超过1万亿美元，十年后可能翻倍\n\nCBO的十年预测，把美国财政空间怎样收窄压缩成了四组数字：\n\n指标起点2036年联邦净利息支出2026年超过1万亿美元2.1万亿美元净利息占GDP2026年3.3%4.6%公众持有债务占GDP2026年101%120%社保与Medicare占GDP2027年8.7%10.1%\n\n这四行数字说明，美国面对的不是某天突然还不起本金，而是利息和福利支出持续扩大，留给战争、衰退和金融救助的预算越来越少。到2036年，净利息将接近当年全部联邦可自由裁量支出的规模，公众持有债务率也会超过二战结束后的历史高点。更麻烦的是，利息上涨没有换来新的医院、道路、芯片工厂或武器。它只是在为过去的支出付款。\n\n一笔预算用于利息，就不能再用于应对衰退、重建基础设施、补充弹药或救助金融市场。债务对美国最现实的威胁，不是财政部某天突然停止付款，而是政府的选择越来越少。\n\n这也解释了为什么长期国债收益率比“40万亿美元”更值得盯住。只要市场继续接受美国国债，财政机器就能运转；但投资者要求的收益率越高，旧债再融资就越昂贵，新增债务又会带来更多利息。\n\n它形成的不是一声爆炸，而是一个越来越紧的循环：\n\n赤字需要借债，借债增加利息，利息扩大赤字，政府再借更多的钱。\n\n社保、医保和利息正在锁住财政选择\n\n美国财政最沉重的长期压力并不来自某一场战争，而是社会保障、Medicare等医疗项目和债务利息。\n\n随着人口老龄化和人均医疗成本上升，这些支出会自动增长。削减福利会直接触碰选民，增加税收同样面临巨大的政治阻力。\n\n这意味着，美国即使想控制赤字，也很难迅速动到最大的几笔支出。国防、科研、教育和基础设施反而更容易在年度预算中被挤压。\n\n中东和亚太军事投入尚不足以单独压垮美国。真正的问题是，社保、医保和利息已经先拿走大部分预算后，一旦战争扩大，新增军费大概率还要继续借钱。\n\nAI必须另算一本账。微软、亚马逊、谷歌、Meta等企业承担了数据中心、芯片和模型研发的大部分投资，这些钱不能直接计入联邦支出。私营企业正是美国最重要的缓冲器：它们能替政府建设技术能力，降低部分采购成本，也可能通过生产率和利润增长扩大税基。\n\nCBO已经把生成式AI带来的生产率改善纳入预测，估计它平均每年可为生产率增长增加约0.1个百分点，到2036年使非农商业部门产出水平提高约1%。\n\n但AI也在争夺资本、电力和输电资源。大型科技企业发债建设数据中心，会与财政部争夺长期资金；电网、能源和产业补贴又可能把部分成本转回公共部门。\n\n所以，AI不是另一项与战争并列的政府开支，而是美国押在增长上的一张牌：如果生产率兑现，它能缓解债务；如果只有资本开支和资产泡沫留下来，它会使融资竞争更加激烈。\n\n中东推高通胀，亚太可能同时冲击增长\n\n美国真正经不起的，是几个冲击在同一时期发生。\n\n中东冲突首先影响能源。霍尔木兹海峡承担全球约27%的海运原油和成品油贸易，以及约22%的液化天然气贸易。航道受阻会推高油气、航运和保险价格，通胀重新上升，美联储便更难降息。\n\n亚太冲突的传导更复杂。高强度危机可能同时冲击半导体、航运、保险、贸易和资本市场。美国一边需要扩大军费，一边可能面对企业投资放缓、居民财富缩水和税收下降。\n\n最危险的组合由此出现：\n\n能源冲击推高通胀，通胀把利率留在高位；亚太或金融冲击压低增长，经济放缓又减少税收；政府同时增加军费和救助，最终只能发行更多国债。\n\n7月美联储会议纪要已经显示，多名官员认为，如果通胀不下降，政策可能还要继续收紧。美国财政部随后把10年至30年期国债的单次流动性支持回购上限从20亿美元提高到至少40亿美元。\n\n这项回购是改善旧券交易的流动性管理工具，不是量化宽松，也不能证明美债市场已经失灵。但它说明财政部正在主动维护长期国债市场。以后真正需要警惕的，是长期收益率持续上升、国债拍卖需求转弱和流动性支持不断加码同时出现。\n\n如果美国被危机击穿，全球没有避风港\n\n全球金融体系仍把美元、美债和美国需求放在核心位置。美债既是各国重要的储备资产，也是银行、基金和衍生品交易广泛使用的抵押品；美元则支撑大量跨境借贷和贸易结算。若美国自身同时出现深度衰退、国债市场失序和美元融资紧张，冲击不会停留在华尔街。\n\n金融市场会先要求降低杠杆、补充保证金和收缩信贷，美元短期甚至可能因为避险需求变得更贵。随后，美国需求下降会压缩其他国家的出口，资产价格下跌会削弱企业和家庭的资产负债表，能源与大宗商品价格也可能在通胀冲击和需求衰退之间剧烈摆动。\n\n美国仍然拥有征税、发债和提供美元流动性的能力，但债务利息越高、通胀越顽固，每一次大规模刺激和救助的成本就越高，政策选择也越容易互相冲突。没有避风港，不等于所有国家会同时、同幅度崩溃；它意味着没有主要经济体能够毫发无损，区别只在于谁的缓冲更厚、恢复更快。\n\n中国要防的是高利率与贸易压力长期并存\n\n中国可以比许多经济体更有韧性，却不可能成为美国崩溃之后的孤立繁荣区。美国债务越重，中国越不能把“等待美国被债务拖垮”当成战略假设。\n\n第一，美债压力不一定先削弱美元。全球危机初期，资金仍可能涌入美元和短期美债避险，美元走强会给人民币汇率、跨境资金和中国企业的美元融资带来压力。美国财政问题恶化与美元短期上涨，完全可能同时发生。\n\n第二，高利率会改变全球资产价格。长期美债收益率居高不下，会压低股票、房地产和高杠杆资产估值；但如果市场进一步担忧美国财政纪律、通胀和地缘冲突，黄金及储备多元化需求又可能获得支持。对中国而言，关键不是简单判断美元跌、黄金涨，而是防止外汇、利率和大宗商品风险同时进入企业资产负债表。\n\n第三，美国财政压力可能转化为更强的贸易压力。关税既可以被包装为保护就业和产业的工具，也能带来财政收入。CBO在最新基线中估计，更高关税在2026年至2035年间可使美国累计赤字减少约3万亿美元，但同时会拖累部分经济增长并推高物价。\n\n这并不意味着美国会因为缺钱必然对中国加税，却意味着财政、就业和产业竞争可以在同一套政治叙事中合流。美国国内削减福利和加税都很困难时，向进口商品征税、要求盟友分担军费、继续限制中国高技术产业，会变成更容易出售给选民的选择。\n\n中国已经拥有超过3.4万亿美元外汇储备，外债结构也以人民币负债为主，外部缓冲仍在。真正需要补的，是企业和金融系统对长期高美元利率、能源价格波动、出口限制和海外需求下降同时发生的承受能力。\n\n未来一年，可以先盯住三个变化：美国净利息占财政收入的比例是否继续上升，10年和30年期国债收益率能否稳定回落，以及关税与国防补充预算是否再次扩张。\n\n如果经济和税收增长持续快于债务，基本赤字开始下降，长期利率也稳定回落，那么美国仍有时间慢慢修复财政。反过来，如果利息、关税、军费和长期收益率一起上升，40万亿美元就不再只是一个醒目的整数。\n\n它会成为美国失去下一次选择权的起点。\n\n当全球最大经济体的救火空间收窄，世界便没有真正的避风港，只有承受力不同的船。\n\n---\n\n信息来源与口径说明\n\n• 美国财政部“Debt to the Penny”：2026年8月18日联邦总债务及公众持有债务口径。\n• 美国国会预算办公室《2026—2036年预算与经济展望》：赤字、债务率、净利息、社保医保及利率预测。\n• CBO主任关于2026—2036年预算展望的说明：关税、AI生产率与财政预测。\n• 美联储2026年7月28—29日会议纪要：通胀风险与政策收紧判断。\n• 美国财政部长期国债回购公告：回购规模、期限及流动性支持口径。\n• 美国国会研究处《伊朗冲突与霍尔木兹海峡：油气市场影响》：霍尔木兹海峡油气贸易份额。\n• 国家外汇管理局2026年6月外汇储备数据及2026年一季度外债数据。\n\n本文所称“危机”是战争、金融震荡、经济衰退或重大供应链冲击的统称。文章判断的是美国应对冲击的财政空间，不预测具体违约或崩溃时间，也不构成投资建议。",
+   "impact": "",
+   "publish_time": "2026-08-20T12:46:51",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787200621943-%E7%BE%8E%E5%80%BA%E7%AA%81%E7%A0%B440%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21699,
+   "title": "今日纪事｜用户意图奸杀女友遭AI报警后被判刑：私聊并非私密空间",
+   "summary": "【纪事金句】这起案件确认了一项事实：生成式AI平台不仅在回答问题，也在识别风险，并决定何时把用户信息交给执法机关。",
+   "heat": 94.0,
+   "category": "纪事",
+   "story": "8月中旬，美国佛罗里达州棕榈滩县法院处理了一起由ChatGPT聊天记录引发的刑事案件。\n\n一名25岁男子承认三项重罪，涉及加重跟踪、书面死亡威胁和使用通信设备实施犯罪。法官暂缓作出正式的重罪定罪裁判，判处他八年社区监管，前两年接受电子监控，同时禁止他接触前女友和枪支。\n\n先澄清两个容易误读的事实。\n\n第一，男子曾在对话中透露强奸、杀害前女友的计划，但暴力没有实施，警方事前将其逮捕。第二，本案的probation是社区监管，不能简单译成中国刑法意义上的“缓刑”，更不存在“奸杀后只判五年缓刑”。\n\n这起案件的新闻价值也不在刑期本身。关键事实是：最早向FBI报告风险的不是当事人的亲友，而是OpenAI。\n\nOpenAI为什么报告这个用户\n\n据公开报道，今年3月，该男子开始在ChatGPT中谈论分手，此后多次表达针对前女友的暴力意图。媒体援引逮捕材料称，相关内容涉及具体受害人、持续的死亡威胁、对受害人行程的关注以及关于武器的说法。它不是一句孤立的气话，而是一组能够与现实对象对应的信息。\n\nOpenAI的自动安全系统识别出风险，随后由人员复核，并向FBI报告。FBI把线索转交当地执法机关。警方调查后，该男子于5月被捕；8月，他通过认罪协议承认三项指控。\n\n这个过程必须准确表述。不是“ChatGPT自动报警”，也不是算法直接认定一个人有罪。自动系统负责发现异常，平台人员决定是否报告，执法机关负责调查，最终由法院处理。\n\n平台提供的是犯罪线索，不是司法结论；但如果没有这条线索，警方很可能不会在暴力发生前介入。\n\n新变化是从事后取证转向事前干预\n\nChatGPT聊天记录进入刑事案件，并不是第一次。\n\n今年已有两起美国刑事案件披露ChatGPT记录：一起涉及嫌疑人在两名学生遇害前询问枪支和处理尸体，另一起涉及嫌疑人在女友死亡后询问怎样解释现场。这些记录主要用于事后取证。\n\n本案的次序不同。OpenAI没有等待警方持搜查令调取数据，而是在伤害尚未发生时主动向执法机关报告。聊天记录由此从潜在证据变成了风险预警。\n\n这是本案最值得记录的变化：AI平台开始参与现实风险的事前判断，而不再只是被动保存用户数据。\n\n这种变化来自生成式AI的产品特点。ChatGPT会持续回应并保留上下文，单条信息不明显的风险，可能在连续对话中变得具体。OpenAI今年5月公布的技术说明显示，其系统正在加强长对话和跨对话的风险识别。\n\n这意味着，用户所理解的“一对一聊天”，在平台内部同时也是可以被自动分类、风险评估和人工复核的内容。\n\n报告规则不能只由企业内部决定\n\nOpenAI公开说明，其系统发现用户可能伤害他人时，会把相关对话转入专门流程，由经过训练的小型团队审核。只有在人工审核认为存在对他人造成严重身体伤害的迫近、可信风险时，平台才可能向执法机关报告。\n\n这比关键词报警多了一道人工判断，但仍有不少信息没有公开。\n\n公众目前不知道自动系统的误报率、人工审核可以查看多少对话，也不知道本案向FBI披露了哪些信息。OpenAI公布的是原则和流程，不是独立审计结果。\n\n平台还需要说明模型在高风险对话中提供过什么回答。如果模型此前曾迎合用户的偏执或帮助其细化计划，平台不能只公布最后的报警行为。OpenAI已经承认，安全措施在长对话中可能失效，模型也可能作出不符合政策的回答。\n\n平台报警是否正确，要看它发现了什么；平台是否尽责，还要看模型此前说了什么。\n\n另一方面，不能因为这次报告可能阻止了犯罪，就把所有暴力表达都纳入报警范围。小说、新闻讨论、游戏情节、情绪发泄和现实犯罪计划都可能包含相似词语。算法如果缺少上下文判断，误报可能让没有行动意图的人遭遇执法调查。\n\n平台因此取得了一项敏感权力：它可以判断一段私密对话是否已经构成公共安全风险，并决定是否打破用户对保密的预期。这项权力可能保护潜在受害者，也可能伤害被错误识别的用户。\n\n越是必要的安全权力，越不能只依靠企业自行设定标准、自行执行，再自行宣布结果正确。\n\n中国平台也有法定报告义务\n\n这不是美国才会遇到的问题。\n\n中国《生成式人工智能服务管理暂行办法》第十四条规定，提供者发现用户利用生成式AI从事违法活动，应当采取警示、限制功能、暂停或者终止服务等措施，保存有关记录，并向有关主管部门报告。\n\n同一部规章第十一条又要求，平台保护用户的输入信息和使用记录，不得收集非必要个人信息，不得非法留存或者向他人提供相关信息。\n\n两项规定并不矛盾。通常情况下，平台应当保护用户信息；发现违法活动时，平台又承担处置、留存和报告义务。\n\n国内的制度缺口在执行层面：什么情况进入人工复核，报告哪个部门，提供多少内容，误报后如何申诉，相关记录保存多久。\n\n如果报告条件不清楚，用户无法判断隐私边界；如果监督机制不清楚，平台也难以证明自己没有扩大审查范围。\n\nAI平台已经成为风险信息的掌握者\n\n这起案件没有证明AI可以预测犯罪。男子被追究责任，依据的仍是具体威胁、跟踪行为、警方调查和司法程序，而不是模型给出的风险分数。\n\n它也没有证明所有ChatGPT对话都会被人工阅读。按OpenAI的说法，人工复核只针对自动系统标记出的少量高风险内容。\n\n但案件确认了一个新的现实：生成式AI平台掌握的信息，已经足以影响现实中的执法行动。\n\n过去，平台治理通常集中在删帖、封号和停止服务。生成式AI进入私人咨询和长期对话以后，仅仅拒绝回答已不一定足够。用户如果明确透露针对现实对象的严重暴力计划，平台何时报告，会直接影响另一个人的安全。\n\n因此，平台不能只公布内容规则，还应公布人工复核和执法转介的基本数据，接受独立审计，并建立误报申诉机制。具体触发词不必公开，权力运行必须接受监督。\n\nAI平台正在从信息服务者变成风险信息的掌握者。它获得的不是执法权，却是一项可能启动执法程序的报告权。\n\n8月20日值得记录的，正是这项权力通过一宗具体案件进入公众视野。\n\n一名男子在ChatGPT中持续透露针对前女友的暴力计划，OpenAI报告FBI，警方在暴力发生前介入。潜在受害人没有成为命案受害者，这是这次报告最直接的结果。\n\n接下来的问题同样明确：平台可以在什么条件下查看高风险对话，什么条件下向警方报告，谁来监督它没有漏报，也没有越界。\n\n这便是8月20日纪事。\n\n资料来源与事实边界\n\n• Palm Beach Post经Yahoo转载：用于核对案件时间线、认罪协议、八年probation、前两年电子监控及法院暂缓正式定罪裁判。probation在本文中译为“社区监管”，不等同于中国刑法中的缓刑。\n• EFE：佛罗里达ChatGPT犯罪计划案：用于核对逮捕材料转引、三项罪名和OpenAI向FBI报告。正文省略可识别潜在受害人的姓名及过度具体的威胁原话。\n• OpenAI：高风险对话的人工复核与执法转介及2026年4月社区安全说明：用于核对平台公开描述的处理机制。该流程属于OpenAI自述，不能视为对本案全过程的独立审计。\n• OpenAI：敏感对话中的上下文识别：用于核对平台对长对话、跨对话安全上下文和模型局限的公开说明。\n• 美联社关于佛罗里达州两名学生遇害案中的ChatGPT记录及前NFL球员案件中的ChatGPT记录：用于核对“聊天记录在伤害发生后成为调查证据”的对照。两案均仍有司法争议，正文不据此判断ChatGPT促成犯罪。\n• 国家网信办等七部门：《生成式人工智能服务管理暂行办法》：用于核对中国生成式AI服务提供者的报告义务与用户输入信息保护义务。\n• 本案证明平台报告机制在一次公开刑事案件中实际运行，不证明所有ChatGPT对话都会被人工阅读，也不证明该案是全球首例。暴力计划没有实施；平台报告和警方线索不等于有罪结论。",
+   "impact": "",
+   "publish_time": "2026-08-20T17:09:47",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787216739978-%E7%94%A8%E6%88%B7%E6%84%8F%E5%9B%BE%E5%A5%B8%E6%9D%80%E5%A5%B3%E5%8F%8B%E9%81%ADAI%E6%8A%A5%E8%AD%A6%E5%90%8E%E8%A2%AB%E5%88%A4%E5%88%91.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 21624,
+   "title": "上海地铁票价3元起步21年：听证会后涨价，乘客和财政怎样分账",
+   "summary": "【一句话判断】上海将于9月7日召开轨道交通票价机制优化听证会。官方目前尚未公布本轮具体方案，网上流传的“两套方案”主要来自2024年市域铁路听证，不能套到此次地铁调价。真正需要讨论的，不只是票价涨不涨，而是906公里地铁的运营成本该由乘客、财政和城市共同承担多少。",
+   "heat": 94.0,
+   "category": "时政",
+   "story": "2005年，一名上海乘客坐进地铁，起步价是3元。\n\n21年后，这座城市的物价、工资和地铁线路都变了很多，他刷卡进站，起步价仍然是3元。\n\n现在，这张沿用了21年的价格表准备重新拿出来讨论。\n\n上海市政府已经公告，9月7日将举行轨道交通票价机制优化听证会。此次范围是上海城市轨道交通网络，不包括磁浮线、金山铁路、机场联络线等市域铁路。\n\n先纠正一个已经传开的误读：截至目前，官方只公布了听证时间和参加办法，并没有公布本轮具体调价方案。网上流传的“两套方案”，主要来自2024年市域铁路票价听证，恰恰不属于本次听证范围。\n\n所以，现在还不能计算上海地铁究竟要涨几毛、哪些乘客多付多少钱。\n\n但有一笔账已经可以先算：为什么一张用了21年的票价表必须重新讨论？如果要改，应该由谁多付钱？\n\n3元起步用了21年，地铁的成本没有停在2005年\n\n上海现行票制并不复杂：6公里以内3元，此后每增加10公里加1元。\n\n这套规则确立时，上海地铁还远没有今天这么庞大。到2025年，按上海交通部门的运营统计口径，轨道交通网络已达906公里，全年运送乘客37.1亿人次，平均每天超过1000万人次。\n\n线路越长，列车越密，意味着司机、调度、安检、保洁、维修和电力都要长期投入。车站不会因为午夜以后没有乘客就停止折旧，隧道、信号、车辆和供电设备也不能等坏了再修。\n\n公开评级资料披露，申通集团轨道交通运营业务2024年收入约85.83亿元，运营成本约263.42亿元，账面毛亏损约177.59亿元。主要成本包括人工、维修、电力和固定资产折旧。同年，企业收到的政府补助中，大修更新及安全保障补贴约107.38亿元，换乘优惠补贴约1.25亿元。\n\n这组数字不能被简单翻译成“每年少收了177亿元票款”。运营成本中包含折旧，财政补助也承担设备更新、安全保障和换乘优惠等公共任务。\n\n但它把现实摆得很清楚：3元票价只是乘客在闸机口付出的那一份，地铁剩下的成本，一直有人在其他地方支付。\n\n有人说，既然地铁有亏损，票价就该涨。这个算法太省事。\n\n地铁不是普通商场。它把大量通勤者从汽车里接走，减少道路拥堵和空气污染；它让郊区居民能够进入市中心就业，也让城市不必把所有工作、学校和医院都挤在一小块土地上。\n\n这些收益不会出现在地铁公司的售票收入里，却真实地落在整座城市身上。\n\n因此，票价听证不是讨论“乘客要不要为乘车付费”，而是重新划分三本账：乘客承担多少，公共财政承担多少，城市从交通便利和土地增值中获得的收益又该拿出多少。\n\n北京的价格表，能给上海什么参考\n\n京沪地铁现在都是3元起步，但长距离计价并不一样。\n\n北京现行规则是：6公里以内3元，6至12公里4元，12至22公里5元，22至32公里6元；超过32公里以后，每增加20公里才增加1元。上海在6公里以后，每10公里增加1元。\n\n按现行规则粗略计算：\n\n乘车距离上海北京5公里3元3元10公里4元4元20公里5元5元30公里6元6元50公里8元7元\n\n短途差别不大，距离拉长以后，北京对远距离通勤者更友好。\n\n这不是说上海应该照抄北京，而是说明票价机制从来不只有“统一涨多少”这一种改法。起步价、里程区间、长途递减、月度优惠、换乘折扣和特殊群体保障，都可以重新组合。\n\n北京还提供了另一个更重要的参照。当地建立过轨道交通票价动态调整机制，2017年测算结果一度达到启动条件，但政府综合考虑公交改革、疏堵政策和社会承受能力后，并未启动调价。\n\n成本变化可以触发一次公开测算，却不应该变成票价自动上涨的传送带。公共交通还要计算居民负担、城市拥堵和公共利益。\n\n同样涨一元，对不同乘客不是同一件事\n\n上海每天有超过1000万人次乘坐轨道交通，但他们面对的不是同一张账单。\n\n偶尔坐两站的游客，每次多付一元，感受有限；每天往返的通勤者，一个月乘坐四十多次，同样的一元就是四十多元；住在远郊、只能依靠长距离地铁进入中心城区的人，如果里程加价同时上调，负担还会更重。\n\n问题正在这里：收入较高、居住选择更多的人，往往更容易住得离工作地点近；被高房价推向远郊的人，反而更依赖长距离公共交通。\n\n如果只按里程机械上涨，地铁票价可能把住房成本造成的空间差距再收一遍钱。\n\n因此，比“涨不涨”更重要的问题是：谁涨得多，谁得到保护。\n\n上海目前已有“同一自然月乘坐地铁满70元后享9折”等优惠，但对每天乘车的通勤者而言，力度并不算大。新机制完全可以讨论更精细的办法：保住基础出行的低价区间，对高频通勤设置月度封顶或更强折扣，对长距离乘客实行递减计价；也可以把调价与服务质量绑定，列车拥挤度、故障率、准点率和末班车覆盖没有改善，涨价就不能只给成本找理由。\n\n这些不是替听证会预设答案，而是听证方案至少应该回答的问题。\n\n听证会不能只交出一张新价格表\n\n这次听证真正需要公开的，至少有四张表。\n\n第一张是成本表。人工、电力、维修、折旧各是多少，哪些属于日常运营，哪些属于新线建设和政策性任务。\n\n第二张是乘客影响表。不同距离、不同乘坐频率的乘客，一月和一年分别多付多少。\n\n第三张是财政分担表。政府为什么补、补到哪里，票价调整后补贴是否减少，减少的钱又用在哪里。\n\n第四张是保障表。学生、老人、低收入者、高频通勤者和远郊乘客，哪些人的负担需要专门托住。\n\n上海地铁票价用了21年，重新核算并不奇怪。真正决定这次调整能否获得理解的，也不是一句“运营成本上涨”，而是全市乘客能否看懂每一块钱的去向。\n\n听证会不是请少数代表替全市乘客挑一个价格，而是把一项公共服务为什么需要更多钱、这笔钱为什么该由这些人来付，公开讲明白。\n\n如果这两句话讲不清，价格表做得再精密，也只是一道算术题。\n\n来源与口径说明\n\n• 上海市人民政府：《关于召开优化上海市轨道交通票价机制听证会的公告》，用于核对听证时间、适用范围和参加办法。\n• 上海市交通委员会：2025年上海市城市轨道交通运营服务情况，用于核对906公里、37.1亿人次和日均客流数据。\n• 上海久事（集团）有限公司跟踪评级报告，用于核对申通集团轨道交通运营收入、成本、补贴及主要成本构成。文中相关数据为企业和评级机构披露口径，不等同于票价成本监审结论。\n• 北京市政府：北京市轨道交通现行票价，用于京沪现行计价规则对照。\n• 北京市发展和改革委员会：2017年公共交通票价动态调整说明，用于核对达到测算条件但未启动调价的政策实践。\n• 上海市发展和改革委员会：2024年市域铁路票价机制听证方案。该方案不属于本次城市轨道交通听证范围，仅用于纠正网上“两套方案”的口径混淆。\n• 上海市人民政府公开信息：现行公共交通优惠政策，用于核对同一自然月地铁消费满70元后享9折优惠。",
+   "impact": "",
+   "publish_time": "2026-08-20T00:13:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787155986444-%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E7%A5%A8%E4%BB%B721%E5%B9%B4%E5%90%8E%E5%8F%AF%E8%83%BD%E5%A4%A7%E6%B6%A8.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21688,
+   "title": "中国“机器人员工”已卖到全球141国：下一步要复制大疆出海征途",
+   "summary": "中国在2025年首次成为工业机器人净出口国，今年前7个月出口额进一步达到73.4亿元。机器人开始进入汽车工厂学习真实工位，下一场竞争将从制造和装箱，转向系统集成、培训维修和全球服务。",
+   "heat": 93.0,
+   "category": "科技",
+   "story": "2025年，中国工业机器人出口第一次超过进口。\n\n2026年前7个月，工业机器人出口额进一步达到73.4亿元，同比增长13.2%。仅上半年，中国工业机器人就卖到全球141个国家和地区。\n\n这意味着一个被忽略的身份变化：中国曾经大量购买外国机器建设自己的工厂，现在开始把生产机器卖给全世界。\n\n不过，机器人装进集装箱，只完成了最容易的一步。\n\n汽车交付以后，用户可以直接开走；光伏板安装以后，只要接入系统便能发电。一台机器人抵达外国工厂，却不能立刻打卡上班。它要认识当地的零件，学习产线节拍，接入工厂软件，适应温度、粉尘和电压，还要有人教它、修它，并在生产任务改变时重新训练它。\n\n所以，中国机器人产业真正的下一关，是让卖出去的机器长期工作。\n\n它要把设备、模型、工程师、维修网络和操作标准组合起来，向全球输出一套可以长期工作的“机器劳动力”。\n\n小米把汽车工厂变成训练场，模型另吃10万小时数据\n\n小米近期展示的新一代人形机器人，新闻点落在它接受过汽车工厂的真实训练。\n\n小米公开了两条彼此独立的进展。\n\n一条发生在工厂：机器人实训四个月后，自攻螺母双侧作业成功率从90.2%提高到98%；中控台侧盖板排序、料箱折叠等新增任务成功率达到90%。\n\n另一条发生在基础模型训练中：Xiaomi-Robotics-1使用超过10万小时、覆盖1700多个场景的真实世界操作轨迹，其中包含不绑定特定机器人本体的UMI轨迹。这些数据不能写成全部采自小米汽车工厂，但两条进展共同说明，机器人的工作能力要靠大量真实操作喂出来。\n\n这些数字没有舞台表演热闹，却更接近商业化。\n\n汽车零件会反光、变形、卡住，料箱摆放会有误差，上一辆车和下一辆车的配置也可能不同。机器人在展台上完成一次动作，只需要成功一次；它进入工厂以后，要在八小时、两班甚至三班生产中不断重复，还不能拖慢整条产线。\n\n这也是汽车公司纷纷进入机器人产业的真正优势。特斯拉、小米、小鹏以及多家国内车企拥有的工厂，同时是一所每天都在产生新题目的机器人学校。\n\n一次失败的抓取、一颗拧歪的螺母、一块突然卡住的盖板，都可以变成模型下一次训练的数据。\n\n王兴兴所说的物理AI模型“自我进化”，正是在解决同一个问题。\n\n如果每换一个工位，都要几十名工程师重新编程、采集数据和调试数周，机器人卖得越多，交付压力反而越大。模型如果能够从真实作业、仿真训练和失败经验中继续学习，一项在中国汽车工厂练成的技能，才有可能更快迁移到泰国的电子厂、德国的仓库或者中东的能源设施。\n\n不过，“自我进化”目前仍是技术方向，距离通用能力还有很长距离。真正过关要看客户更换工位时，部署时间能否从数周缩短到数天，工程师人数能否减少，机器停机时间能否下降。\n\n大疆70万架农业无人机背后，站着3500个维修网点\n\n大疆为机器人出海提供了一个更贴近的中国样本。\n\n截至2026年6月底，大疆农业披露的全球保有量已经超过70万台，覆盖100多个国家和地区。与这些设备同时铺开的，还有3500余家维修网点、7000余名认证培训讲师和累计培养的70余万名持证飞手。\n\n这组数字揭示了大疆真正的护城河。\n\n如果它只向海外销售会飞的硬件，竞争对手可以模仿结构、寻找供应商，再用低价抢走客户。但农业无人机进入一片新市场，还要适配当地法规、作物、农药和地形；要有人培训飞手、维修电机、更换喷头、更新软件，并告诉农民怎样规划航线。\n\n大疆卖出一架飞机，也由此输出一种新的农业作业方式。\n\n机器人未来也会如此。一家海外工厂购买十台中国机器人，随后需要本地工程师完成安装，需要备件仓库保证维修，需要模型团队适配新工艺，需要系统集成商把机器人接入生产管理系统，还可能涉及数据跨境、网络安全、责任保险和工人培训。\n\n谁先把这张网络铺起来，谁就能把一次性设备收入变成持续的软件、维护、升级和服务收入。客户一旦把整条产线建立在这套系统上，更换供应商的成本也会越来越高。\n\n机器人的全球竞争，最后拼的是谁能让机器在一万公里外持续开工。\n\n净出口之后，中国机器人面前有三条路\n\n工业机器人长期由日本、德国、瑞士等国企业主导。中国利用全球最大的机器人市场和制造现场，不断完成零部件国产化、成本下降和产品迭代，最终在2025年跨过净出口分界线。\n\n这张成绩单代表制造能力，却还不是全部能力。在部分高精度、高可靠性和长寿命工位上，发那科、安川、ABB、库卡等国际厂商依然拥有深厚积累；人形机器人从会走、会跳和批量出货，走到产线连续工作数千小时，中间还隔着漫长的工程验证。\n\n中国机器人接下来可能走向三种不同的结局。\n\n第一条是光伏走过的路：依靠完整供应链和规模制造，把产品价格打下来，以绝对产量占领全球市场。\n\n这条路能够快速扩大份额，也可能带来同质化、价格战、利润下降和贸易壁垒。中国机器人如果只剩下“比外国同类产品便宜一半”，就可能赢得产量，却把最厚的利润留给海外软件商、系统集成商和服务公司。\n\n第二条是新能源汽车正在走的路：产品出口之后跟进海外建厂、零部件供应、维修网络和本地用工，把中国供应链变成当地产业的一部分。\n\n这能降低关税和市场准入压力，也意味着更高的资本投入、更复杂的合规责任，以及更长的回报周期。\n\n第三条是大疆走出的路：硬件成为入口，操作系统、数据、培训认证、维修中心和行业规则共同形成生态。\n\n机器人要获得最高的长期价值，必须把三条路合在一起：用光伏式制造能力降低成本，用新能源汽车式本地化进入市场，再用大疆式服务生态锁定客户。\n\n中国企业已经开始补这门课。商务部2026版机器人出口商品技术指南，首先解决的是怎样理解并适应亚太、北美、欧洲和中东的市场准入、技术标准与合格评定程序。国内企业和机构参与国际标准制定，是更往前一步；等到中国设备、软件和服务被大量海外客户采用，才可能进一步形成事实上的操作规范。三个阶段不能提前合并成“输出中国标准”。\n\n早期出口商品，工厂负责把东西造好，装船以后任务基本完成。今天出口新能源汽车和机器人，产品抵达海外只是服务的开始。中国企业必须理解当地法律，建设本地团队，持续更新软件，处理故障和数据，并对设备几年后的运行结果负责。\n\n前7个月73.4亿元工业机器人出口，说明中国已经获得了登场资格。\n\n下一张成绩单要看三件事：海外收入中服务和软件占比是否提高，中国企业能否在主要市场建立维修与备件网络，国内工厂练出的机器人技能能否快速复制到不同国家。\n\n新能源汽车证明，中国可以把一种西方率先突破的技术发展成全球规模产业；大疆证明，中国企业可以围绕硬件建立跨国服务和行业生态。\n\n机器人正在接受两场经验共同给出的考试。\n\n这套能力未来还可能延伸至低空领域。无人机和低空飞行器同样需要通信、运营、培训、维修与安全规则。但在此之前，中国机器人必须先证明，国内工厂练出的能力能够在海外稳定复制。\n\n谁能在世界任何一座工厂停机时接起电话、让机器重新开工，谁才是真正的全球机器人冠军。\n\n来源与口径说明\n\n海关总署、国务院新闻办公室发布会及相关公开报道，用于核对2025年中国工业机器人首次实现净出口、2026年上半年出口62.9亿元并销往141个国家和地区，以及前7个月出口73.4亿元。现有稿件未取得2026年前7个月完整进口额，因此没有将出口增长写成今年继续保持净出口的直接证据。工业机器人海关统计包含机械臂、协作机器人、焊接机器人等多个品类，不能直接等同于人形机器人。工业和信息化部、国务院国资委关于人形机器人与具身智能实景实训专项行动的通知，用于核对真实工位、真机数据、应用验证和常态部署等政策方向。小米机器人团队公开材料及Xiaomi-Robotics相关论文，用于分别核对汽车工厂实训、作业成功率，以及基础模型使用的操作轨迹。两者属于不同披露，企业测试数据也不等同于第三方验收或大规模商业订单。大疆农业及深圳市相关部门公开资料，用于核对截至2026年6月底的全球保有量、持证飞手、培训讲师和维修网点。相关数据主要来自企业披露口径。商务部《出口商品技术指南——机器人（2026版）》及国内人工智能、机器人标准文件，用于核对海外准入、检测认证和标准建设。出口指南证明的是海外合规能力建设，不等同于中国机器人标准已经成为国际规则。\n\n本文将传统工业机器人、人形机器人和农业无人机放在同一产业演进框架中比较，但三者的产品形态、统计口径和商业成熟度不同。王兴兴关于物理AI自我进化的表述属于技术方向判断，不能视为通用机器人已经实现自主学习和规模化上岗。",
+   "impact": "",
+   "publish_time": "2026-08-20T15:38:14",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787211318858-%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%91%98%E5%B7%A5%E2%80%9D%E5%8D%96%E5%88%B0%E5%85%A8%E7%90%83141%E5%9B%BD.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21625,
+   "title": "北向资金持A股市值大涨至3.13万亿：外资同时购买两种中国能力",
+   "summary": "【一句话判断】北向持仓和部分QFII数据正在显示，外资对A股的态度从持续降低敞口转向选择性恢复配置。资金同时购买两种中国能力：拿到全球订单的制造能力，以及中国自主供应链中的技术稀缺性。",
+   "heat": 92.0,
+   "category": "财经",
+   "story": "2026年二季度，北向资金持有A股的市值从一季度末的约2.58万亿元升至3.13万亿元，增加约5500亿元，增幅超过21%。但同期持股数量只增加39.07亿股，增幅约3.8%。\n\n这组反差很重要。它说明持仓扩张既包含外资重新买入，也包含科技股上涨带来的市值抬升。把全部增量都解释成外资大举流入，会高估资金回归的速度；只把它看成股价上涨，又会漏掉持股数量、行业分布和重仓名单同时发生的变化。\n\n目前最强的证据来自北向持仓，部分QFII披露提供辅助印证。它们共同指向的不是“外资全面回来了”，而是一次有方向的重新筛选：外资正在同时购买两种中国能力，一种是能够拿到全球订单的制造能力，另一种是中国自主供应链中难以替代的技术稀缺性。\n\n二季度北向持仓增加5504亿元，股数只增长3.8%\n\n先看两套不能直接连线的数据。中国人民银行公布的“境外机构和个人持有境内股票余额”，在2021年末约为3.94万亿元，2022年末降至3.20万亿元，2023年末进一步降到2.79万亿元，2024年末回升至2.91万亿元，2025年9月达到3.54万亿元。另一边，官方媒体披露，截至2026年5月，各类境外投资者持有A股流通市值已经超过4万亿元并创出新高。\n\n前者是人民银行金融资产统计序列，后者是“各类境外投资者持有A股流通市值”的广义快照，统计范围并不完全相同。因此，4万亿元可以作为当前持仓规模创新高的事实，不能写成同一序列“重回4万亿元”，也不能把两组数字机械连成资金流入曲线。\n\n二季度的北向资金数据给出了更近距离的观察。Choice数据显示，北向资金持股市值约3.13万亿元，覆盖3958只股票；按持股变化和区间成交均价估算，季度净买入约2086亿元。这不是交易所恢复公布的逐日净买入额，而是商业数据库的估算值，但持股股数增加本身仍然意味着，市值上升不能全部由行情解释。\n\n与此同时，上半年科创50上涨64.25%，创业板上涨35.58%，电子设备板块涨幅接近八成。市场价格贡献显然很大。因此，当前最稳妥的判断是：北向持仓和部分QFII数据开始显示，外资对A股的态度正从持续降低敞口转向选择性恢复配置。\n\n北向资金同时买两种科技能力：全球订单与国产替代\n\n二季度北向资金持仓市值前十中，既有贵州茅台、美的集团、招商银行，也有宁德时代、中际旭创、北方华创、中微公司、新易盛、澜起科技和立讯精密。传统核心资产没有消失，但科技制造企业明显占据了更大位置。\n\n行业变化更直接。电子行业的北向持仓市值环比增加约4053亿元，通信、电力设备和机械设备分别增加约735亿元、690亿元和469亿元。由于电子板块本身大涨，这些增量不能等同于等额新资金；但宁德时代、中微公司、寒武纪、新易盛、立讯精密等公司同时出现在估算净买入前列，说明外资并非只是被动看着市值上涨，也在主动增加部分科技制造龙头的仓位。\n\n全球基准指数的结构也提供了一张对照图。MSCI 2026年7月31日事实表显示，MSCI China A Index前十大成分股包括宁德时代、贵州茅台、中际旭创、招商银行、长江电力、寒武纪、紫金矿业、海光信息、工业富联和农业银行。科技制造已经进入基准组合的前列，但消费、金融、公用事业和资源资产仍占据重要位置。指数权重会受到股价涨跌和定期调整影响，这只能证明全球基准组合的结构变化，不能证明主动外资当季买入。\n\n配置逻辑观察样本（不构成投资建议）外资在买什么下一步看什么全球订单中际旭创、新易盛、宁德时代、立讯精密海外收入、全球客户和规模交付云厂商资本开支、海外收入、订单与毛利兑现国产替代北方华创、中微公司、寒武纪、海光信息中国市场中的技术稀缺性国产设备验证、客户导入、收入增长和研发投入稳定现金流贵州茅台、美的集团、招商银行品牌、现金流和经营质量分红、资产质量、需求韧性和估值稳定性\n\n这不是一次整齐划一的科技风格切换。全球订单组赚的是海外资本开支和规模交付的钱；国产替代组依赖的是中国市场的技术自主需求和稀缺供给；稳定现金流组仍承担组合压舱石的作用。三组资产的盈利来源、风险和验证方法并不相同。\n\n全球订单看海外收入，国产替代看国内技术稀缺性\n\n过去，国际资本理解中国公司，常用三个标签：庞大的国内市场、低成本制造、政策驱动的增长。现在，持仓名单出现了两条不同的新线索。\n\n第一条是全球订单。海外云厂商增加资本开支，订单沿着服务器、光通信、印制电路板和电力设备向上游传导；全球电动化和消费电子周期，则检验电池与精密制造企业的客户覆盖、成本控制和规模交付。中际旭创、新易盛、宁德时代和立讯精密主要属于这条线。投资者购买的不是抽象的“中国复苏”，而是中国企业从全球客户手中持续取得订单并兑现利润的能力。\n\n第二条是国产替代。北方华创、中微公司、寒武纪和海光信息的主要配置逻辑，并不是它们都已成为全球供应链中不可绕开的节点，而是它们在中国半导体设备、AI芯片和自主计算体系中的技术稀缺性。这里更重要的变量是国内客户验证、国产设备份额、政策性市场需求和研发兑现。\n\n这两条线也解释了为什么外资态度改善与宏观数据仍有分化可以同时发生。资金没有等待所有消费、地产和价格指标一起转强，而是先选择利润能够核对的全球订单，以及中国自主供应链中供给较少、替代难度较高的技术资产。它表达的不是对整个中国经济无条件乐观，而是对两类具体能力重新给出配置权重。\n\n一个开始要变成长期转向，还要过三道关\n\n这个信号仍然不够全面，更谈不上确凿完成。首先，二季度持仓市值增长远快于持股数量，行情放大效应不能忽略。其次，资金集中在少数AI硬件和制造龙头，尚未形成广泛行业扩散。再次，北向资金、QFII、离岸主动基金和外资公募不是同一类资金，不能用其中一个渠道代替全部外资态度。\n\n接下来可以观察三件事。\n\n第一，未来两个季度境外持股余额能否维持高位，同时持股数量继续增加。如果只有市值涨、股数不涨，回流强度就需要下调。\n\n第二，配置能否从拥挤的AI硬件向工业自动化、能源基础设施、创新药和真正产生收入的AI应用扩散。扩散出现，才说明外资买的不只是一次行情，而是一组新的中国能力。\n\n第三，离岸主动型中国基金能否转为持续净流入。被动指数资金会随权重调整进入，主动资金愿意连续增配，才代表对盈利和风险的中期判断发生改变。\n\n因此，这轮变化最可能沿着三条线推进：全球订单组继续跟随AI、电动化和消费电子资本开支；国产替代组继续检验技术验证、客户导入和利润兑现；消费与金融组保留现金流和经营质量。若科技股短期拥挤，资金可能轮动，但三组资产不能再用同一套“外资核心资产”叙事解释。\n\n外资重新买入的，不再只有代表中国消费增长的白酒、家电和银行，也包括承接全球订单的中国制造，以及支撑国产替代的稀缺技术。\n\n接下来，如果持股数量继续增长，主动基金开始净流入，配置再从少数AI硬件扩散到更多有利润的产业，这才是一轮长期转向。如果只有股价继续上涨、持股数量停止增加，那么4万亿元更多是一轮行情留下的市值，而不是外资重新投下的信任票。",
+   "impact": "",
+   "publish_time": "2026-08-20T00:25:17",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787156703109-%E5%8C%97%E5%90%91%E8%B5%84%E9%87%91.png",
+   "source": "日知录"
+  },
+  {
+   "id": 21611,
+   "title": "人民日报评杭州酒局事件，性质恶劣令人愤慨",
+   "summary": "人民日报“人民锐评”8月19日发文评杭州酒局事件，定性“性质恶劣，影响极坏，令人愤慨”，强调手握权力和资源的人借饭局侵害女性权益，不仅道德败坏，更违法违规。",
+   "heat": 92.0,
+   "category": "时政",
+   "story": "杭州专项调查组8月18日通报：7月26日晚，犯罪嫌疑人赵某峰（某企业高管）、郁某栋（杭州滨江区公职人员）餐后在KTV对被害人实施强制猥亵，期间赵某峰将被害人推倒致轻伤二级。两人已被刑事拘留、免职，纪检监察机关将依纪依法严肃调查处理。结合媒体披露，赵某峰即招商蛇口浙江公司总经理赵海峰，郁某栋即杭州滨江区副区长郁廷栋。\n\n8月19日，人民日报“人民锐评”微信公众号发布评论《“酒局事件”不会绊住一座城，优化营商环境没有休止符》，直言“手握权力和资源的人，借由饭局等侵害女性权益，不仅道德败坏，更违法违规”，用“性质恶劣，影响极坏，令人愤慨”三个短句连击。评论强调，酒局从来不是法外之地，商务应酬不能成为违法犯罪的挡箭牌。\n\n事件在网络上迅速发酵。多名网友评论指出，部分商务场合把女性当作应酬附属品、以工作为由胁迫员工参加酒局、被迫陪酒，早已逾越职场底线与法律红线。法律层面，二人涉嫌强制猥亵罪，暴力推倒致人轻伤二级，还涉及伤害后果，公职人员参与此类恶性事件更是知法犯法，社会影响极其恶劣。\n\n中央对公职人员接受宴请有明确规定，严禁可能影响公正执行公务的吃喝。评论指出，纪检监察机关将依纪依法严肃调查处理，郁某栋出现在这样的酒局上，本身就触碰了纪律的敏感神经。",
+   "impact": "事件叠加官方权威媒体评论，性质被快速定性为“恶劣/极坏/愤慨”三连击，对公职人员违规参与饭局的零容忍态度再次被强调。对涉事企业及滨江区营商环境的舆论冲击仍会持续一段时间，纪检监察机关后续处分决定与可能的司法判决，将成为观察当地营商环境是否“知错即改”的窗口。",
+   "publish_time": "2026-08-19T21:58:38",
+   "cover": "https://cdn-gongxiao.cjiot.cc/articles/2026/08/19/20260819_215105_545864_5ea6e8.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 21686,
+   "title": "半年多出3700名司机，单车日营收降至354元：跑网约车能养家吗？",
+   "summary": "【一句话判断】2026年1月至6月，广州日均活跃网约车司机增加约3700人，单车订单略增，单车日营收却下降约8.6%；这比全国订单总量更接近准备入行者需要的答案。",
+   "heat": 92.0,
+   "category": "财经",
+   "story": "一句话结论\n\n网约车仍然能够提供一份门槛相对较低、进退较灵活的现金收入，但现有数据不足以把它概括成一份稳定养家的好工作；在已经公开完整数据的城市，越来越清楚的风险是：司机和订单都在增加，单车营收却可能下降。\n\n2026年1月，广州日均活跃网约车驾驶员约10.46万人；到6月增至10.83万人，半年多出约3700名活跃司机。同期单车日均订单从13单增至13.47单，单车日均营收却从387.5元降至353.98元。\n\n对准备租车、买车或者辞职跑网约车的人来说，这组数据比“全国半年有55.83亿单”更重要：分订单的人增加了，单车订单略有增加，但一辆车一天能够取得的营收反而少了约33.5元。\n\n全国订单总量只能说明网约车仍是一个庞大的出行市场。判断它是不是一份能够养家的工作，还要回答四个更具体的问题：活跃司机有没有增加、订单有没有同步增长、每单能带来多少钱、司机扣除成本后实际能留下多少收入。\n\n遗憾的是，全国月报只能完整回答其中的订单总量问题。\n\n四个关键问题，目前分别能回答到什么程度\n\n用户真正关心的问题全国统一数据能否回答目前可确认的情况活跃司机数量怎样变化不能全国月报不披露去重后的活跃司机；累计发证量也不等于实际接单人数订单总量怎样变化能上半年55.83亿单；除春节月份外，月订单基本在9.24亿至9.79亿单之间订单总额和单价怎样变化不能完整回答全国月报不披露交易总额和平均订单金额；只能从个别平台财报或城市车辆营收观察局部变化司机平均收入怎样变化不能缺少全国、连续、统一成本口径的司机净收入数据；调研报告和地方监测结果差异很大\n\n这意味着，不能仅凭交通运输部月报回答“网约车是不是灵活就业的好选择”。它能告诉我们行业有多少订单，却没有给出判断就业质量最重要的三个分母：活跃司机、劳动时间和经营成本。广州之所以值得作为样本，正是因为它把活跃司机和单车营收同时公开了。\n\n先看司机数量：累计发了多少证，不等于有多少人正在跑车\n\n《网约车司机就业图景与职业表现（2025）》引用的数据显示，截至2024年10月，全国累计核发网约车驾驶员证748.3万本、车辆运输证320.6万本。与上年同期相比，驾驶员证增长18.1%，约增加115万本。\n\n但证件存量不能当作活跃司机数量。一名持证司机可能从未接单、已经退出，也可能同时接入多个平台。判断订单是否被更多人分走，真正需要的是按城市去重的月度活跃司机，而不是累计发证量或平台注册账号数。\n\n交通运输部2026年月报没有公布这一指标。北京目前公开可查的行业概况仍是截至2023年底的8.1万名合规网约车驾驶员，不能据此核实所谓“一个月新增6万名注册司机”，也不能判断北京2026年的真实活跃运力变化。\n\n再看订单：数量很多，但需求并没有持续快速扩张\n\n2026年1月至6月，全国网约车订单量分别为9.74亿、7.65亿、9.64亿、9.24亿、9.77亿和9.79亿单。\n\n2月受到春节假期影响，订单明显下降。排除这个特殊月份，其余五个月都在9亿单以上，但波动区间并不大。1月有9.74亿单，6月有9.79亿单，月度总量只增加约0.5%。\n\n因此，这组数据更适合表述为“需求保持高位”，而不是“行业正在高速扩张”。\n\n对司机而言，订单总量稳定并不是坏消息，但也不能单独构成入行理由。假如订单增加1%，活跃司机增加5%，每名司机能够获得的订单仍可能减少。只有把订单与实际出车人数放在一起，才能判断就业容量。\n\n订单总额和平均单价：没有统一公开答案\n\n交通运输部月报不公布行业交易总额，也不公布平均每单金额。部分头部平台和拟上市公司会披露交易额与订单量，但各家业务范围、车型结构、城市分布和统计定义并不相同，不能直接拼成全国平均价格。\n\n例如，滴滴披露的2026年一季度中国出行业务交易总额为857.69亿元、交易量35.47亿笔，按披露值折算，平均每笔交易总额约24.2元；2025年同期约为24.0元，变化不大。但滴滴的交易定义包括其中国出行业务范围，并且拼车可能按照付费乘客计算交易笔数，与交通运输部收到的监管订单不是同一个口径。\n\n其他平台的趋势也不一致。T3出行披露的平均订单价值由2023年的22.4元升至2024年和2025年的23.7元；享道出行披露的整体平均售价则由2023年的28.1元降至2025年的25.8元。\n\n这些数据能够说明平台之间存在差异，却不能证明全国网约车单价整体上涨或下降。更不能从某一家平台的客单价，直接推断司机到手收入，因为乘客支付金额还要经过优惠、平台分配、司机奖励以及其他费用环节。\n\n司机收入：不能只看“月入过万”，还要问这是不是净收入\n\n2025年发布的《城市出行的就业韧性：网约车司机就业图景与职业表现》调研了5417名司机，并匹配其在滴滴平台的后台数据。报告给出的网约车司机月均收入为7623元；一线城市日均上线8小时以上的司机，平均月收入为11557.1元。\n\n但这组数据主要来自滴滴平台司机，属于一次横截面调研，并不是2026年月度变化数据；报告也不能提供全国所有平台、所有城市统一扣除车辆租金、折旧、保险、能源和维修后的净收入。因此，它适合说明部分司机的收入水平，不适合直接回答“全国司机平均能净赚多少”。\n\n地方主管部门披露的结果差异很大。常德市交通运输局在2026年上半年风险提示中称，当地全职合规网约车司机月均净收入不足4000元，日平均劳动12至13小时。这个结果与一线城市平台样本差距明显。\n\n差距本身就是答案的一部分：网约车并不是一个全国同薪的职业。城市需求、运价、车辆取得方式、充电成本、空驶时间和平台结构不同，都会改变司机能否养家。\n\n广州样本：司机增加、订单略增，单车营收却下降\n\n广州是目前连续披露数据较完整的城市之一。当地月报同时公布日均活跃车辆、日均活跃司机、单车日均订单、载客里程和单车日均营收。\n\n月份日均活跃司机单车日均订单单车日均载客里程单车日均营收按公开值折算的单均车辆营收1月10.46万人13.00单135.94公里387.50元约29.81元2月7.50万人13.45单154.58公里467.37元约34.75元3月10.61万人13.79单139.87公里408.54元约29.63元4月10.43万人13.45单145.19公里396.54元约29.48元5月10.60万人13.31单139.78公里358.97元约26.97元6月10.83万人13.47单138.69公里353.98元约26.28元\n\n2月有春节和春运效应，活跃司机明显减少，单车营收反而升高，因此不适合拿来代表常态。\n\n比较恢复日常状态后的3月和6月，可以看到：日均活跃司机增加约2.1%，单车日均订单减少约2.3%，单车日均营收下降约13.4%，按公开数折算的单均车辆营收下降约11.3%。\n\n即使比较1月和6月，结果也相似：活跃司机增加约3.5%，单车订单增加约3.6%，但单车日均营收下降约8.6%，单均车辆营收下降约11.8%。\n\n这说明司机收入承压未必只是“没有订单”。订单数量可以保持稳定甚至略有增加，但如果低价订单占比上升、行程结构变化或单位订单营收下降，司机仍然需要用更多工作时间维持原有流水。\n\n需要特别说明的是，广州公布的是“单车日均营收”，并非司机扣除全部成本后的净收入；按营收除以订单得到的也只是车辆端单均营收近似值，不等同于乘客最终支付价格。\n\n新闻背后的故事：这份工作能否养家，关键数据其实掌握在平台和监管部门手中\n\n平台知道每名司机上线多久、完成多少单、乘客支付多少、司机取得多少报酬；地方主管部门掌握许可、运营和市场供需数据。普通求职者反而只能看到“高薪招聘”“流水过万”或全国订单总量。\n\n2021年《关于加强交通运输新业态从业人员权益保障工作的意见》已经提出，平台应当向司机列明乘客支付总额、司机劳动报酬和抽成比例；相关主管部门、工会和行业协会应持续关注司机劳动报酬水平，并适时公开发布，引导司机形成合理收入预期。\n\n广州等地的月度监测已经证明，这些数据并非无法统计。真正缺少的是一套更普遍、更统一的公开标准。\n\n如果目的是帮助人们判断能否入行，城市月报至少应当公布：去重后的活跃司机数、全职和兼职比例、单车订单、在线与接单时长、司机流水中位数、主要经营成本、净收入区间，以及新增和退出人数。\n\n常识回归：网约车可以是就业缓冲，但不能只凭“月流水”判断能否养家\n\n判断这份工作是否适合自己，至少要计算四笔账：\n\n第一，计算净收入，而不是流水。车辆租金或折旧、保险、能源、维修、停车和违章风险都要扣除。\n\n第二，计算每小时净收入，而不是只看月收入。每天工作12小时挣到的8000元，与每天工作8小时挣到的8000元，不是同一种就业质量。\n\n第三，看本地活跃运力，而不是全国订单。网约车是高度城市化的市场，常德、广州和北京不能套用同一个收入结论。\n\n第四，把社会保障和休息成本算进去。没有带薪休假、收入波动以及职业伤害风险，都会影响一份工作能否长期支撑家庭。\n\n因此，更稳妥的判断是：网约车仍然适合承担短期过渡、补充收入和就业缓冲功能；但对需要租车、融资买车，或者必须依靠单一司机收入长期养家的家庭，在看不到本地净收入和工时数据之前，不应把它默认成低风险选择。\n\n充分竞争能否让乘客打车更便宜，是第二层问题。第一层问题是，价格竞争带来的成本由谁承担：如果主要由司机延长工时、降低单均收入和放弃保障来消化，那么低价并不等于整个社会付出的成本更低。\n\n数据说明与主要来源\n\n本文比例根据公开值计算并四舍五入。全国月报统计的是监管系统收到的订单；广州“单车日均营收”不是司机净收入；平台交易额和交易笔数与监管订单的定义不同，不作直接横向比较。\n\n• 交通运输部：2026年6月份网约车行业运行基本情况\n• 广州市交通运输市场监测月报栏目\n• 广州2026年1月月报\n• 广州2026年2月月报\n• 广州2026年3月月报\n• 广州2026年4月月报\n• 广州2026年5月月报\n• 广州2026年6月月报\n• 常德市2026年上半年网约车运行监测与风险提示\n• 滴滴2026年一季度业绩\n• T3出行上市申请文件\n• 享道出行上市申请文件\n• 《城市出行的就业韧性：网约车司机就业图景与职业表现（2025）》\n• 央视网转引交通运输部：截至2023年10月发放驾驶员证633.4万本\n• 关于加强交通运输新业态从业人员权益保障工作的意见",
+   "impact": "",
+   "publish_time": "2026-08-20T15:38:14",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787211360546-%E5%B9%BF%E5%B7%9E%E5%8D%8A%E5%B9%B4%E5%A4%9A%E5%87%BA%E7%BA%A63700%E5%90%8D%E6%B4%BB%E8%B7%83%E5%8F%B8%E6%9C%BAG.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21651,
+   "title": "俄罗斯开始进口成品油：能源出口大国为何也会“缺油”",
+   "summary": "【一句话判断】俄罗斯一面进口成品油，一面限制汽油、柴油等油品出口。矛盾表象背后，是原油资源、炼油能力和终端供应并不是同一回事。",
+   "heat": 91.0,
+   "category": "财经",
+   "story": "俄罗斯是全球重要的石油生产和出口国，却开始从国外进口成品油，同时延长部分油品出口限制。这个看似反常的画面，首先说明一件事：原油多，不等于每个加油站都不会缺汽油和柴油。\n\n据新华社7月初报道，俄罗斯已从印度接收至少6万吨汽油，并计划从白俄罗斯等国扩大进口。俄方随后表示，将从7月起进口石油产品，以稳定国内燃料市场。\n\n俄政府采取的另一项措施，是把本可出口的成品油优先留在国内。但不同油品的禁令不能混为一谈：俄方7月底公布的安排显示，汽油出口禁令延长至2027年1月31日；柴油、船用燃料和瓦斯油的限制期限较短，部分生产企业自9月起可恢复出口。政府间协议和人道援助等情形也有例外。\n\n为什么一个能源出口大国也要进口燃料？\n\n因为从地下的原油到汽车油箱里的汽油，中间还隔着炼油、仓储、运输和零售网络。乌克兰对俄罗斯能源设施的袭击造成部分炼厂减产；维修和物流调整又压缩了局部供应。俄方还称，抢购一度令需求增加20%至30%。生产端受扰、需求突然上升、配送重新安排，最终会在个别地区表现为限购、排队和价格上涨。\n\n这并不意味着俄罗斯失去了石油生产能力，更不能简单解读为“俄罗斯没有油了”。它反映的是，能源安全不仅取决于资源储量，也取决于炼厂能否运转、运输能否接上、库存能否及时投放。\n\n短期看，进口、释放储备和限制出口可以为国内市场补缺口。中期更值得观察的，是受损炼厂何时恢复、燃料价格能否回稳，以及出口限制会不会影响周边市场供应。若设施持续受扰，俄罗斯可能不得不在国内保供、炼油企业收益和传统出口客户之间反复权衡。\n\n能源出口大国开始买油，真正暴露的不是“有没有资源”，而是从资源到供应之间的每一环都可能成为瓶颈。\n\n资料来源：新华社7月3日报道、新华社7月9日报道。",
+   "impact": "",
+   "publish_time": "2026-08-20T13:13:07",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787201456094-%E4%BF%84%E7%BD%97%E6%96%AF%E5%BC%80%E5%A7%8B%E8%BF%9B%E5%8F%A3%E6%88%90%E5%93%81%E6%B2%B9.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21684,
+   "title": "上海楼市八项新政：最高8万元补贴，重点打通外环外置换链条",
+   "summary": "【一句话判断】上海从公积金、房贷、购房补贴、房票安置和收购二手房五方面推出八项措施，政策重点由放宽资格进一步转向降低交易成本、盘活置换链条。",
+   "heat": 90.0,
+   "category": "财经",
+   "story": "上海楼市政策又向前走了一步。\n\n8月20日，上海六部门联合印发《关于优化本市房地产政策措施的通知》，从住房公积金、个人住房信贷、阶段性购房补贴、房票安置和收购二手住房五方面推出八项措施，自8月21日起施行。\n\n这次最醒目的数字是“最高8万元”，但政策真正想打通的，是一条更长的交易链：让居民卖得掉旧房、付得起首付、买得动外环外新房，同时把部分难交易的二手房转成保障性租赁住房。\n\n八项措施，分别解决什么问题\n\n第一，公积金可以覆盖更多购房支出。购买新建商品住房现房，也可提取公积金支付首付款，并继续支持“既提又贷”；符合条件的已购房缴存人，购房提取频次从取得不动产权证后5年内一次，调整为每个自然年一次；公积金还可用于支付购房契税，以及配套车位、车库和储藏室支出。\n\n第二，外环外二套房首付再降。购买外环外住房，二套商业性个人住房贷款最低首付款比例由20%降至15%。调整后，上海首套最低首付统一为15%；二套房仍实行区域差异化，外环内最低25%，外环外最低15%，宝山、嘉定全域包含在外环外口径内。\n\n第三，外环外“以旧换新”增加两类阶段性补贴。在政策实施日至2027年3月31日期间，家庭购买外环外新房并完成网签备案，且在网签前后一年内出售上海二手房，可按新房贷款总额的1%申请补贴，单套最高5万元，这项补贴总盘子为2亿元、用完即止。\n\n如果出售的是外环内二手房，再购买外环外新房，还可申请3万元“以旧换新”补贴。两项条件同时满足时可以叠加，最高8万元。\n\n第四，征收安置增加房票选择。政策将在城中村改造、旧城区改建等项目中进一步使用房票安置，居民可在货币补偿和实物安置之外获得更多选择。\n\n第五，中心城区收购二手房用作保障性租赁住房。各中心城区及浦东外环内区域将根据需求推进收购，加快改造出租。这既补充保障性租赁住房，也尝试为部分流动性较弱的存量房增加一个制度化买方。\n\n政策重心已经从“能不能买”走向“怎么完成交易”\n\n过去几轮上海楼市调整，市场注意力多集中在限购套数、社保年限和贷款资格。这一次并未全面改写限购规则，而是把更多政策资源投向外环外、置换家庭和存量房流通。\n\n背景并非市场没有成交。上海官方披露，今年3月至6月，二手住房成交10.1万套，同比增加20%，处于近五年高位。问题在于，成交回升并不意味着每一套房都容易卖：房龄、楼层、面积和区位不同，流动性分化仍然明显；不少改善家庭只有先卖掉旧房，才能启动下一笔购房。\n\n因此，最高8万元补贴的传播力很强，政策价值却不能只用补贴金额衡量。对一套总价数百万元的住房来说，几万元很难单独改变购房决定；它更可能缩短犹豫时间、覆盖部分税费和融资成本，并促成原本已经接近成交的置换需求。\n\n这轮政策不是简单给楼市“加一把火”，而是尝试把卡住的交易链一段一段接起来。\n\n接下来更值得观察三组数据：外环外新房网签能否明显增加，外环内二手房挂牌周期能否缩短，中心城区收购二手房的规模和定价机制能否形成常态。如果只有新房成交短期上升，旧房流动性没有改善，置换链条仍可能再次堵住。",
+   "impact": "",
+   "publish_time": "2026-08-20T14:55:00",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787208704465-%E4%B8%8A%E6%B5%B7%E6%A5%BC%E5%B8%82%E5%85%AB%E9%A1%B9%E6%96%B0%E6%94%BF.png",
+   "source": "日知录"
+  },
+  {
+   "id": 21653,
+   "title": "半年36万部！红果短剧治理“千剧一脸”：AI短剧不能再换皮量产",
+   "summary": "【一句话判断】2026年上半年各平台上线微短剧36.7万部，其中AI剧约27.5万部。产能暴涨之后，角色撞脸、模板复用和版权风险迫使平台提高准入门槛。",
+   "heat": 89.0,
+   "category": "娱乐",
+   "story": "同一张AI脸换一套衣服、改一个名字，就能在不同短剧里轮番出演。角色很多，观众却像一直在看同一个人——AI短剧的“千剧一脸”，开始被平台正式治理。\n\n红果短剧发布《关于规范AI剧角色创作的公告》，要求避免不同剧集、不同角色使用高度相似的面部形象，同一部剧中的人物也要有清晰区分；未经授权，不得使用他人作品中的角色、服装、造型和道具设计，也不能盗用受版权保护的写真与美术素材。\n\n平台还将针对高频AI脸、形象同质化和素材违规开展专项治理，并要求创作者自查存量内容。\n\n“千剧一脸”不是一句夸张的吐槽，它背后是短剧供给量的急剧膨胀。\n\n中国网络视听协会发布的《微短剧创作指引》显示：\n\n2026年第一季度，全行业上线微短剧约12.8万部，其中AI微短剧约12.2万部，占比超过95%。\n\n第二季度，国内上线微短剧进一步增至23.9万部，其中真人剧8.6万部、AI剧15.3万部。两个季度相加，2026年上半年各平台共上线微短剧约36.7万部，其中AI剧约27.5万部，占比接近75%。\n\n这组数字需要解释口径。“上线量”可能包含同一作品在不同平台、账号或发行环节的重复上架，并不等于36.7万部完全不同的独立作品。中国网络视听协会此前估算，2025年短视频平台、小程序和微短剧应用上的竖屏剧上线记录超过14万条，去除重复后，全年独立制作并上线的竖屏剧约4万部。\n\n另一组行业数据则显示，2025年全年上线AI微短剧约6万部。到了2026年，仅第一季度就达到约12.2万部。虽然两年的统计范围未必完全一致，不能机械计算同比增幅，但AI内容从“新增品类”迅速变成供给主力，已经十分明确。\n\n产量暴涨的另一面，是注意力并没有同步增长。2026年春节档，真人短剧上线量约为AI剧的五十分之一，总播放量却达到AI剧的25倍。2025年上线的6万余部漫剧中，播放量破亿的只有96部，比例约为0.16%。\n\n当生成速度远远快于观众消化速度，最省事的办法就是复用同一套脸、动作、场景和叙事模板；“千剧一脸”由此从技术问题变成商业模式问题。\n\n红果的新规限制的不是“用AI拍短剧”，而是“用同一套模板无限换皮”。这会抬高一部分制作成本：团队需要为主要角色建立稳定且有区别的形象设定，保存素材授权与生成记录，并在发布前检查人物是否撞脸、素材是否侵权。\n\n这些要求不会自动造就好故事，却至少意味着“批量生成”不再等于“批量过审”。对观众而言，最直观的变化应当是人物更容易认、不同剧集不再像换了服装的同一批数字演员。\n\n接下来更值得观察的是，平台能否公开更清晰的相似度判断标准，为原创角色建立可追溯的数字资产记录，并提供有效的误判申诉机制。否则，规则可能只拦住小团队，却难以改变低成本铺量的整体激励。\n\nAI可以降低制作成本，却不能替代审美、人物塑造和版权责任。短剧真正需要的不是更多能动的脸，而是让观众记得住的人。\n\n资料来源：中国网络视听协会2026年第二季度《微短剧创作指引》、新华社转引一季度行业数据、中国网络视听协会《微短剧行业发展白皮书（2025）》、光明日报相关行业数据、新华社漫剧供给与播放数据、红果短剧公告相关报道。",
+   "impact": "",
+   "publish_time": "2026-08-20T13:09:02",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787202509993-%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E6%B2%BB%E7%90%86%E2%80%9C%E5%8D%83%E5%89%A7%E4%B8%80%E8%84%B8%E2%80%9D.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 21685,
+   "title": "长和向巴拿马索赔15亿美元：两场仲裁争的是港口合同与国家责任",
+   "summary": "【一句话判断】长江和记正式依据投资保护条约对巴拿马启动国际仲裁。它与旗下港口公司此前提起的合同仲裁并非同一程序，港口争议由经营权纠纷升级为国家投资责任之争。",
+   "heat": 88.0,
+   "category": "财经",
+   "story": "长江和记与巴拿马的港口争端，正式进入第二条国际仲裁轨道。\n\n8月20日，长江和记宣布，已依据投资保护条约对巴拿马共和国启动国际仲裁，索赔超过15亿美元。公司称，巴拿马自2025年初起采取一系列行政和司法措施，并于今年2月23日接管巴拿马港口公司运营的巴尔博亚港和克里斯托瓦尔港两座集装箱码头，导致其投资遭受损失。\n\n上述定性和损失主张目前来自长和一方。启动仲裁只是正式提出请求，并不意味着仲裁庭已经认定巴拿马违约，更不意味着15亿美元已经成为可执行的赔偿。\n\n为什么现在才启动这场仲裁\n\n长和早在2月便向巴拿马发出投资保护条约争议通知。按照公司8月20日的说法，双方此后六个多月只举行了一次磋商，巴拿马没有提出赔偿或解决方案，因此公司由争议通知阶段转入正式仲裁。\n\n这段等待期并非没有动作。1月29日，巴拿马方面宣布最高法院认定支撑港口特许经营权的1997年第5号法律违宪；2月3日，巴拿马港口公司依据特许经营合同启动仲裁；2月23日，巴拿马政府接管两座码头；此后长和又通过行政和国际法律程序继续交涉。\n\n8月20日的新动作意味着，争议的性质进一步升级：此前主要争的是一份港口特许经营合同是否被违反，现在还要判断巴拿马的国家行为是否侵犯了受条约保护的境外投资。\n\n两场仲裁不是一回事，索赔金额也不能相加\n\n目前至少有两条平行程序。\n\n第一条由巴拿马港口公司提起，依据的是巴尔博亚港和克里斯托瓦尔港特许经营合同，适用国际商会仲裁规则。它主要处理合同权利、特许经营权和接管造成的损失。\n\n第二条由长江和记提起，依据的是投资保护条约，针对的是巴拿马国家行为及其国际法责任，索赔超过15亿美元。\n\n今年3月，巴拿马港口公司曾宣布把合同仲裁索赔扩大至超过20亿美元；如今长和又提出超过15亿美元的条约索赔。两组数字对应不同主体、不同法律依据和不同程序，不能简单相加成“索赔35亿美元”，更不能把公司主张写成最终裁决。仲裁庭还需要分别处理管辖权、责任、损失计算及是否存在重复赔偿等问题。\n\n一桩港口交易，为什么变成了国家风险样本\n\n巴尔博亚港和克里斯托瓦尔港分处巴拿马运河两端。2025年3月，长和曾与贝莱德—TiL财团达成原则性协议，拟出售包括巴拿马港口在内的海外港口资产，相关资产的总企业价值约228亿美元。\n\n此后，商业交易被卷入司法审查、地缘政治和港口控制权争议。对跨国企业而言，最难估算的不再只是港口的吞吐量、利润和出售价格，而是东道国政策、法院裁决、行政接管和投资条约能否提供有效保护。\n\n港口争端最值得警惕的变化，是企业原本可以计算的经营风险，正在变成难以定价的国家风险。\n\n这场仲裁大概率不会很快结束。接下来应关注仲裁庭如何组成、巴拿马是否提出管辖权异议、两条仲裁程序如何协调，以及双方是否在裁决前重新谈判。真正决定这起争端走向的，不是索赔标题有多大，而是长和能否证明具体条约义务被违反、损失如何形成，以及最终裁决能否得到承认和执行。",
+   "impact": "",
+   "publish_time": "2026-08-20T14:55:00",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787208790780-%E9%95%BF%E5%92%8C%E5%90%91%E5%B7%B4%E6%8B%BF%E9%A9%AC%E7%B4%A2%E8%B5%94%E9%80%BE15%E4%BA%BF%E7%BE%8E%E5%85%83.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21650,
+   "title": "中国相机在东京浅草开旗舰店：20年前写进重生小说的情节成真了",
+   "summary": "【一句话判断】日本曾用相机、随身听和半导体定义全球消费电子。二十多年前，中国市场还在进行VCD广告大战；如今，中国影像品牌影石把直营旗舰店开到浅草寺旁，并在BCN覆盖的日本零售渠道拿下全景相机六成以上销量份额。产业逆袭最痛快的部分，是中国开始自己命题。",
+   "heat": 88.0,
+   "category": "科技",
+   "story": "如果二十多年前有人写一部重生小说，主人公回到VCD广告满天飞的年代，宣布自己将来要做一家中国相机公司，去日本抢走六成以上的细分市场，再把旗舰店开到东京浅草寺旁，读者大概会嫌作者的“金手指”开得太大。\n\n现在，这段爽文已经变成新闻。\n\n8月8日，来自深圳的影石Insta360把日本第一家直营旗舰店开到了东京浅草。门店紧挨浅草寺，开业时请来日本国民级IP凯蒂猫担任“一日店长”。\n\n这家店的出现并不突然。日本零售市场统计机构BCN的数据显示，2025年8月至10月，在其覆盖的量贩店及电商渠道中，Insta360在360度全景相机品类的销量份额达到61.8%。中国品牌已经从挤进日本货架，走到在一个新影像品类里占据多数销量。\n\n二十多年前，日本负责告诉全世界电子产品应该长什么样；中国消费者负责记住索尼、松下、东芝、夏普、佳能和尼康的名字。如今，一家中国相机企业在日本的文化门面前竖起了自己的招牌。\n\n爽文最痛快的情节，往往不是主人公终于挤进豪门，而是多年以后，豪门开始研究主人公刚刚发明的新玩法。\n\n日本电子产品曾经负责定义世界\n\n上世纪八九十年代，日本电子工业的强大不是滤镜。\n\n随身听改变了人类听音乐的方式，录像机进入全球家庭，佳能、尼康和美能达占据摄影师的相机包，索尼把电视、游戏机和个人影音设备卖遍世界。\n\n日本经济产业省的数据更能说明分量：日本企业在全球半导体市场的份额，从1975年的28%升至1988年的52%。当时全球最重要的芯片公司排行榜上，NEC、东芝、日立等日本企业占据前列。\n\n日本卖给世界的不只是产品，还有标准、审美和生活方式。\n\n同一时期，中国消费电子市场是什么样子？\n\n1993年，万燕VCD公开亮相并开始生产；1994年前后，中国VCD市场正式启动。到1997年，全国VCD产量超过1000万台。电视里广告大战铺天盖地，商场里价格一路下探，企业还在为SVCD、CVD等标准争得面红耳赤。\n\n这是一个热闹、粗粝又充满生命力的起点。中国企业已经能够迅速制造和销售，却还很少有能力定义全球产品。\n\n当日本消费者讨论镜头、感光元件和光学防抖时，中国家庭讨论得更多的是哪台影碟机能读盗版碟、售后网点离家近不近。\n\n时间只过去了二十多年。\n\n手机砸掉旧相机，中国公司捡起了新机会\n\n日本相机产业真正的对手，最初并不是中国，而是手机。\n\n日本相机映像机器工业会的历史数据显示，2010年，其会员企业生产的数码相机全球出货量达到约1.21亿台。到了2025年，这一数字只剩约944万台，其中也包含会员企业在海外生产的产品。\n\n十五年间，出货量缩小了九成以上。\n\n普通人不再需要专门买一台卡片机记录生日、旅行和孩子成长。手机把拍照、剪辑、上传和分享装进同一个口袋，传统相机失去了最大的一群用户。\n\n日本企业守住了高端微单、专业镜头、光学技术和图像传感器。索尼、佳能、尼康、富士依然是全球影像产业不可绕开的名字。把日本相机简单写成“全军覆没”，既不准确，也低估了这个行业的技术壁垒。\n\n但市场已经换了题目。\n\n新一代用户需要的，不只是画质更高的相机。他们需要骑车时能自动防抖、滑雪时可以挂在头盔上、旅行时拍完一整圈再选择角度、录完以后几分钟就能剪好发到社交平台。\n\n日本企业擅长把一台相机做得更专业，中国企业开始把相机变成一套能够拍摄、计算、剪辑和传播的系统。\n\n影石抓住的是全景影像，大疆抓住的是无人机和手持云台。它们的共同优势，是硬件、算法、手机软件、供应链和快速迭代一起上场。\n\n中国没有等到传统相机的王冠从日本头上掉下来，而是直接在旁边修了一座新赛场。\n\n从“进入日本”到“日本市场第一”\n\n中国品牌曾经只要进入日本家电卖场，就足以成为国内媒体报道的喜讯。\n\n因为日本市场以标准严、消费者挑剔、渠道封闭著称。能把产品摆上货架，已经被理解为质量获得认可。\n\n影石如今展示的是另一个阶段。\n\n它不只进入日本渠道，还在BCN覆盖的零售渠道拿下全景相机品类六成以上销量份额；不只通过经销商卖货，还开始建立直营门店、品牌体验和本地社群。\n\n公司的增长也不再依靠国内市场独自支撑。影石招股书显示，公司营业收入从2022年的20.41亿元增长到2024年的55.74亿元，2024年境外收入占比超过七成。日本和韩国也已形成持续的渠道布局，不再只是偶尔卖出几批产品的试验田。\n\n为什么不是秋叶原，而是浅草\n\n浅草不是日本电子工业的总部，也不是东京最著名的电器街。卖芯片、电脑零件和数码产品，人们首先想到的是秋叶原。\n\n浅草代表的是另一种位置。\n\n浅草寺是东京最古老的寺庙，每年吸引约3000万人到访。雷门、仲见世和浅草寺共同组成许多海外游客认识日本的第一张名片。游客来到这里，本来就要拍照、录像、制作旅行内容。\n\n影石把店开在这里，目的不只是方便日本发烧友买设备。它要让来自世界各地的游客把相机拿在手里，当场拍摄东京，再把内容传播到全球。\n\n这家门店因此不只是销售终端，也是品牌橱窗和产品实验场。\n\n它不是中国制造在日本完成了一次旅游打卡，而是一个中国品牌准备长期经营门店、服务用户，并根据当地反馈继续迭代产品。\n\n过去是中国企业研究日本人造出了什么；现在，日本用户也开始等待中国企业下一代产品会增加什么功能。\n\n这部“重生爽文”，其实已经连载了十多年\n\n影石的东京门店不是孤立的一次逆袭。过去十多年，中国电子企业已经在日本市场演完了好几轮身份互换。\n\n再往前看，竞争方向完全相反。上世纪90年代，日系相机企业是进入中国的重要力量之一，整个行业更准确的特征则是外资深度参与。1994年，中国相机行业95家规模以上企业中有40家合资企业；到1995年，合资企业生产相机4000万架，占全国总产量的91.5%。国产企业扩大了制造规模，却没有同步掌握品牌、专利和产品定义权。\n\n数码化到来后，海鸥、凤凰等国产相机企业又没能在感光元件、数字影像处理、品牌渠道和持续研发投入上形成完整体系，逐渐退出大众消费数码相机的中心。部分业务转向光学元件、影像模组、精密加工和代工制造。日本品牌拿走的并不只是销量，还有一整套技术和市场规则。\n\nDVD行业的教训更直接。2002年前后，中国DVD产量约占全球70%，却没有掌握足够多的底层专利。2000年前后，由东芝、松下、日立、三菱电机、JVC和时代华纳组成的6C联盟开始向中国制造商提出专利许可要求，公开费率为净售价的4%或每台4美元，两者取高；2002年，中方行业协会与6C形成框架协议。中国工厂负责把机器造出来，别人按照标准和专利从每台机器里先分钱。\n\n这段历史不能简单写成日本企业靠阴谋“消灭”中国品牌。当年的中国企业确实缺少研发投入、全球品牌经验、知识产权和制定标准的能力。但全球化从来不只比谁能把产品造出来，还比谁掌握专利、标准、渠道和资本。中国企业当时几乎每一科都要补课。\n\n2011年，联想与NEC成立合资公司，联想持股51%，双方组成当时日本最大的个人电脑集团。\n\n2012年，海尔接手三洋在日本及东南亚的冰箱、洗衣机等业务，AQUA由此进入海尔体系。\n\n2016年，美的收购东芝家电80.1%的股权，获得东芝白色家电品牌40年全球授权和5000多项知识产权。\n\n2018年，海信完成对东芝映像解决方案公司95%股权的收购，拿到东芝电视的研发、品牌和运营体系。\n\n这一阶段的中国优势，主要是资本、制造能力、供应链和经营效率。中国公司接手日本业务，很多产品仍然穿着东芝、NEC和AQUA的外衣。\n\n影石和大疆代表的是下一阶段：中国企业带着自己的品牌、产品定义和软件生态进入日本。\n\nBCN AWARD 2026显示，大疆已经连续第二年获得日本数码摄像机销量第一，并首次获得运动相机销量第一。在数码摄像机这个曾由索尼、松下和JVC轮流坐庄的市场，大疆2025年的销量份额达到64.7%。运动相机榜上，大疆第一，影石第二，两家中国企业站在GoPro前面。\n\n以前，中国工厂借助外来技术扩大制造，还要向日企参与的专利联盟交费；后来，中国资本开始接手部分日本品牌；现在，中国自有品牌开始在日本拿下新影像品类的第一名。\n\n这还不是对日本传统相机王冠的全面替代。佳能、索尼、尼康和富士仍然控制着专业相机、镜头和图像传感器的重要阵地。真正的变化是，中国企业绕开旧王冠，先在全景、运动影像、无人机和云台相机这些新赛场上建立自己的规则。\n\n当然，相机热卖不等于中国赢下了整个电子工业。日本仍然掌握大量关键材料、设备、精密零部件和光学技术，美国仍然控制许多基础软件、芯片架构和高端设备。\n\n变化在于，中国已经从别人产业规则里的追赶者，变成了能够创造新品类、输出自有品牌并影响全球供应链的竞争者。\n\n日本的昨天，也在提醒中国\n\n对日本电子业最廉价的总结，是“日本衰落了”。\n\n真正值得中国读懂的是：日本曾经在产品、技术和市场上同时领先，却在个人电脑、智能手机、互联网平台和新一代芯片竞争中接连错过产业换挡。\n\n把旧产品做到极致，可以守住高利润，却未必能够决定下一代产品长什么样。\n\n今天的中国企业正在享受工程师红利、完整供应链和超大市场带来的速度。它们也必须警惕同一件事：任何一代冠军，都没有资格要求下一代消费者继续参加原来的比赛。\n\n浅草寺旁的一家中国相机店，当然不能代表中日电子工业已经彻底交换位置。\n\n但它清楚记录了位置正在怎样变化。\n\n二十多年前，中国电视里满是VCD广告，日本企业在全球出售最先进的相机和芯片。二十多年后，中国品牌带着全景相机走进东京，日本消费者开始用它们记录自己的生活。\n\n爽文照进现实，最痛快的不是中国终于学会了日本怎样制造相机，而是下一条影像赛道出现时，世界开始等着中国企业出题。\n\n来源与口径说明\n\n• Insta360 Japan关于东京浅草直营店开业的公告，用于核对开业时间、地点和门店性质。\n• 日本BCN零售统计及Insta360 Japan发布材料，用于核对2025年8月至10月日本360度全景相机市场销量份额。该数据只对应特定统计渠道和特定产品门类，不代表日本全部相机市场。\n• 日本相机映像机器工业会CIPA年度统计，用于核对2010年及2025年日本厂商数码相机全球出货量。\n• 日本经济产业省《通商白皮书2018》，用于核对日本半导体企业1975年和1988年的全球市场份额。\n• 1998年《人民日报》及中国新闻网VCD产业回顾，用于核对中国VCD量产起点、1997年产量和早期市场竞争情况。\n• 中国文化办公设备制造行业协会资料，用于核对1994年中国相机行业合资企业数量及外商合作情况。\n• 科技日报等关于中国DVD专利谈判的历史资料，用于核对6C专利联盟成员和早期收费方案。\n• 影石创新公开招股及上市材料，用于核对营业收入、境外收入和区域市场数据。\n• 浅草寺官网及日本观光资料，用于核对浅草寺的历史地位与年到访规模。\n• 联想、NEC、海尔、三洋、美的、东芝、海信公开材料，用于核对相关合资、收购和品牌授权情况。\n• BCN AWARD 2026，用于核对大疆在日本数码摄像机和运动相机市场的年度销量排名。\n\n本文所称“中国相机”是便于公众理解的产品称谓，主要指影石的全景相机、运动相机及移动影像设备，不等于传统单反或微单相机。日本企业目前仍在专业相机、光学镜头、图像传感器和关键材料领域保持显著竞争力。",
+   "impact": "",
+   "publish_time": "2026-08-20T12:46:51",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787200898204-%E4%B8%AD%E5%9B%BD%E7%9B%B8%E6%9C%BA%E5%9C%A8%E4%B8%9C%E4%BA%AC%E5%BC%80%E6%97%97%E8%88%B0%E5%BA%97.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 21644,
+   "title": "受贿数额特别巨大，交行原副行长侯维栋被提起公诉",
+   "summary": "交通银行原党委委员、副行长侯维栋涉嫌受贿一案，经国家监委调查终结，近日由重庆市人民检察院第五分院向重庆市第五中级人民法院提起公诉。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "据公开通报，侯维栋涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。经最高人民检察院指定管辖，重庆市人民检察院依法以涉嫌受贿罪对侯维栋作出逮捕决定。近日，重庆市人民检察院第五分院已向重庆市第五中级人民法院提起公诉。\n\n检察机关在审查起诉阶段，依法告知了被告人侯维栋享有的诉讼权利，并讯问了被告人，听取了辩护人的意见。起诉指控显示，侯维栋利用担任交通银行首席信息官、信息技术管理部总经理、首席信息官、党委委员、首席信息官、党委委员、副行长、首席信息官、党委委员、副行长兼交银康联人寿保险有限公司董事长、党委委员、副行长等职务上的便利，为他人谋取利益，非法收受他人财物，数额特别巨大，依法应当以受贿罪追究其刑事责任。\n\n侯维栋2002年加入交通银行，长期任职首席信息官，2010年底出任副行长，2020年4月因年龄原因辞职。如今因涉嫌受贿被移送司法机关，意味着其退休后的平静生活被彻底打破，案件将进入审判阶段。\n\n金融领域是反腐的重要战场。银行高管手握信贷审批、机构合作、人事调整等多项关键权力，一旦被“围猎”，危害的不只是金融秩序，更是公众对金融体系的信心。无论职务多高、退休多久，触碰法律红线，终将付出应有代价。",
+   "impact": "本案是金融系统反腐的又一次具体实践，体现了对金融领域职务犯罪零容忍的坚决态度。案件进入审判阶段后，司法机关将依据查明的事实和证据，对被告人作出公正判决。对整个金融系统而言，这起案件再次提醒：权力越大，监督越要跟上，任何心存侥幸、试图以权谋私的行为，终将无处遁形。",
+   "publish_time": "2026-08-20T10:33:16",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787193172312-%E4%BA%A4%E8%A1%8C.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21677,
+   "title": "美军被曝霍尔木兹秘密护航，每日15到20艘油轮",
+   "summary": "美官员称，美军已在霍尔木兹海峡建立秘密航运通道，过去两周每日15到20艘油轮通行。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "据央视记者当地时间8月19日消息，美官员称，美军已悄悄建立一条进出霍尔木兹海峡的航运通道，确保每天有“数百万桶”石油运出。\n\n美官员称，过去两周，每天有15到20艘油轮经由阿曼沿海一条南部航道进出该海峡。行动不仅为载有石油的油轮提供护航，也协助空载油轮从阿拉伯海进入波斯湾。\n\n相关报道还称，美军中央司令部近期开展行动，削弱了伊朗雷达和海上监视系统，以减少航道风险。",
+   "impact": "霍尔木兹海峡是全球能源运输要道，美军秘密护航说明美国仍试图用军事方式维持油轮通行。\n\n但在美伊对峙背景下，护航行动也可能加剧军事误判，油价和航运保险成本仍会受局势牵动。",
+   "publish_time": "2026-08-20T13:53:25",
+   "cover": "https://gongxiaotianxia.oss-cn-beijing.aliyuncs.com/uploads/1787201581784-21.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 21610,
+   "title": "佛山通报教师招聘逆袭事件，多人被立案调查",
+   "summary": "佛山联合调查组8月19日通报“季华中学教师招聘笔试前13名被淘汰、后5名进体检”事件：面试存在违规，多人被立案调查，面试成绩无效，将重新组织面试。",
+   "heat": 86.0,
+   "category": "社会",
+   "story": "8月19日，佛山市联合调查组发布情况通报：近日“佛山市季华中学2026年面向社会公开招聘编制教师物理学科笔试成绩前13名全部落选、后5名全部进入体检名单”引发社会关注。经查，在本次招聘面试环节中，季华中学存在将考生毕业院校知名度作为重要筛选条件、提早划出预期录用范围、内部评议等违规行为；三水区教育局存在管理不到位、监督不尽责的问题。\n\n据此前报道，进入面试的18人中，笔试成绩排在前13名的考生均遭淘汰，反而排名后5名的考生全部“逆袭”进入体检名单；5人体检笔试成绩分别为76、76、77、75、78，被淘汰的13人笔试最高分99、最低分81，差距明显。\n\n通报指出，已对季华中学党委书记李某东、校长罗某南停职并立案审查调查，三水区教育局局长、分管副局长被立案调查；本次招聘面试成绩无效，将重新组织面试。纪检监察机关将继续依规依纪依法对相关人员追责问责。",
+   "impact": "从“面试成绩作废”到“书记校长停职、局长立案”，这份通报把事业单位招聘中的“内部评议”“院校滤镜”摆到了台面上。重新面试能否挽回公信力，要看新的评委组成与回避制度能否真正落地；这也提醒各地组织部门，招聘环节的合规审计不能等到舆论倒逼才启动。",
+   "publish_time": "2026-08-19T21:58:26",
+   "cover": "https://cdn-gongxiao.cjiot.cc/articles/2026/08/19/20260819_215106_577683_0c06b3.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 21683,
+   "title": "多地开始整顿外卖隐形打包费：小金额不能成为平台计费的盲区",
+   "summary": "【一句话判断】多地案例显示，外卖打包费的争议不在于商家能不能收费，而在于收费是否真实、透明，是否对应实际提供的包装服务。",
+   "heat": 84.0,
+   "category": "社会",
+   "story": "一份炒饭、一根烤肠、两个鸡腿，外卖页面一共收了5元打包费，送到消费者手里的却是一次统一打包。监管部门核查后认定，其中3元没有对应服务，涉事商家被警告并罚款1000元。\n\n这是安徽芜湖镜湖区市场监管部门今年公布的一起案件。江苏宜兴公布的消费维权案例中，也有烘焙店把“打包袋”“打包费”设成必选项，消费者不付钱就无法下单。检察机关发出公益诉讼诉前检察建议后，市场监管部门对涉案商家作出行政处罚。\n\n金额都不大，问题却很典型：消费者看到的是低价菜品，结算时才发现附加费用；系统按商品件数收费，商家实际却没有按件提供包装。\n\n打包费可以收，但不能收成一笔说不清、取消不了、也没有对应服务的“隐形菜价”。\n\n合理收费和“隐形收费”，界线在哪里\n\n外卖需要餐盒、封签、保温袋，有些汤水、生鲜和冷热分装食品还需要特殊包装。商家把真实发生的成本计入订单，本身并不违规。\n\n真正需要整治的，主要是三类做法：一是收费入口藏得深，直到结算页才出现；二是把打包费设为必选项，却不给消费者普通包装和升级包装之间的选择；三是按菜品数量反复计费，最终提供的包装数量、规格与收费对不上。\n\n市场监管总局施行的《明码标价和禁止价格欺诈规定》要求，网络经营者通过页面明码标价，价格信息应当真实准确、标识醒目；不标示或者显著弱化对消费者不利的价格条件，可能构成价格欺诈。平台发现商户存在违规标价行为，也负有采取处置措施、保存记录的责任。\n\n这意味着，“页面上写了打包费”并不自动等于收费合理。明码标价解决的是看不看得见，质价相符解决的是这笔钱该不该收。\n\n商家的成本压力真实存在，但不能让消费者在结算页兜底\n\n打包费乱象背后，也有外卖经营的现实压力。平台促销、配送费用、佣金和消费者对低价的敏感，共同压缩着小餐饮商家的利润。一些商家不敢直接提高菜价，便把部分成本转移到打包费上。\n\n但这条路会制造新的不公平：菜品价格负责吸引点击，附加费用负责补回利润，消费者很难在下单前比较不同商家的真实总价。守规矩、把成本直接写进菜价的商家，反而可能在搜索页面上吃亏。\n\n所以，整治不能只罚一家店。平台应当把包装费从商家随意填写的附加项，改造成可以核验的计费项目：明确按订单还是按件收费，展示包装名称、数量和单价；收到投诉后，能够把收费记录与实际包装对应起来；对反复出现“收三份、装一份”的商户限制收费权限。\n\n几元钱也值得留下证据\n\n消费者下单时，可以先截取商品页和结算页，收货后拍下实际包装。发现收费与包装不符，可先向商家和平台申请退费；协商无果，再通过全国12315平台或当地消费者组织投诉。\n\n不要因为只有两三元就觉得不值得较真。单笔金额很小，乘上高频订单就是一笔可观收入。消费公平最容易被侵蚀的地方，往往正是那些多数人嫌麻烦、不愿追问的小钱。",
+   "impact": "",
+   "publish_time": "2026-08-20T14:55:00",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787208874042-%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E5%A4%96%E5%8D%96%E9%9A%90%E5%BD%A2%E6%89%93%E5%8C%85%E8%B4%B9.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21608,
+   "title": "多地宣布调整最低工资标准，9月起陆续执行",
+   "summary": "广东、山西、新疆等地近日宣布调整最低工资标准：广东9月1日起、深圳月最低2700元；山西10月1日起执行；新疆10月1日起执行；四川拟于12月1日起调整。",
+   "heat": 82.0,
+   "category": "财经",
+   "story": "近日，广东、山西、新疆等多地政府相继印发通知，宣布调整最低工资标准。\n\n广东：9月1日起执行。广东省人民政府印发通知，调整后全省分为三类标准：广州、深圳执行一类标准，广州市月最低工资调整为2680元，深圳市调整为2700元，对应非全日制小时最低工资均为25.4元/小时；二类标准2300元/月，执行地区为珠海、佛山、东莞、中山，对应小时最低工资21.9元/小时；三类标准2040元/月，执行汕头、韶关、河源、梅州、惠州、汕尾、江门、阳江、湛江、茂名、肇庆、清远、潮州、揭阳、云浮等地，对应小时最低工资20.2元/小时。\n\n山西：10月1日起执行。山西省人民政府发布通知，全日制用工月最低工资标准调整为：一类2350元、二类2250元、三类2150元；全日制小时最低工资依次为13.5元、12.9元、12.4元；非全日制小时最低工资依次为25.3元、24.2元、23.3元。\n\n新疆：10月1日起执行。调整后全日制月最低工资三档分别为2270元、2080元、1930元；非全日制小时最低工资三档分别为22.7元、20.8元、19.3元。\n\n四川：拟于2026年12月1日起执行。5月已完成最低工资调整方案公开征求意见程序，拟将月最低工资标准第一档调整为2500元、第二档2360元；非全日制小时最低工资第一档调整为25元、第二档24元。",
+   "impact": "多地上调最低工资，直接影响工资“地板”，对低收入群体、加班费基数、社保缴费基数都有牵动。深圳此次月最低工资站上2700元，继续领跑全国；广东二三类档城市涨幅可观，对珠三角制造业用工成本是一次小幅压力测试。从节奏看，9月起广东先行、10月山西新疆接力、12月四川跟进，下半年“涨薪”窗口将逐月打开。",
+   "publish_time": "2026-08-19T21:56:41",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787147771299-%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 21634,
+   "title": "Token也能变出贷款？广东首个词元贷在海珠区落地",
+   "summary": "广东省首个词元经济专项金融产品Token贷在广州市海珠区发布，中国银行广州分行、中信银行、广州银行等同步推出。Token消耗量直接作为授信核心依据，无须传统不动产抵押。",
+   "heat": 78.0,
+   "category": "财经",
+   "story": "近日，广东省首个词元经济专项金融产品Token贷在广州市海珠区发布，中国银行广州分行、中信银行、广州银行等同步推出了相关同类产品。这一产品的核心创新逻辑，是把企业Token消耗量直接作为授信核心依据。\n\n对AI应用企业、算力服务商来说，日常的词元消耗订单、算力租赁合同都可以转化为信用背书，从而绕过传统不动产抵押的硬门槛。这背后，是银行风控逻辑从看重押品转向看重数据流的转向。\n\n瞄准AI轻资产困局\n\nAI创业公司、算力服务商普遍存在轻资产、缺抵押物的痛点，按传统信贷逻辑很难拿到充足授信；而词元消耗量、算力订单这类实时数据，反而更能反映企业的经营热度与成长性。Token贷的出现，本质上是把数据流当作新型的信用资产。\n\n与此同时，业内也提醒，词元消耗数据作为授信依据还面临真实性核验、模型稳定性、跨平台数据互通等问题，银行的风控模型与监管的数据合规要求都需同步跟进。",
+   "impact": "Token贷是金融业对AI产业的一次定向适配尝试，折射出信贷评估维度从实物资产向数据资产延伸的趋势。短期内，它的规模有限，但它把数据流的金融价值摆到了台面上，也为后续围绕AI产业链的金融服务打开了想象空间。",
+   "publish_time": "2026-08-20T08:27:10",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787185620820-token.jpg",
+   "source": "日知录"
+  }
+ ],
+ "xwlb_raw": [
+  {
+   "id": "xwlb-0",
+   "title": "习近平致电祝贺希奇莱马当选连任赞比亚总统",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-1",
+   "title": "【新思想引领新征程】优质医疗资源下沉惠民 绘就健康中国新图景",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-2",
+   "title": "中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-3",
+   "title": "赵乐际同萨尔瓦多立法大会主席举行会谈",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-4",
+   "title": "各地重大工程稳步推进",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-5",
+   "title": "我国工业经济新动能贡献持续增强",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-6",
+   "title": "丰收时节 特色农产品助农增收",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-7",
+   "title": "国内联播快讯",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-8",
+   "title": "全国总工会发布“十五五”规划 明确产业工人队伍建设改革目标",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-9",
+   "title": "“十五五”期间基本医保参保率保持在95%左右",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-10",
+   "title": "我国启动“人工智能+交通运输”典型应用场景创新行动",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-11",
+   "title": "最高法修改审理著作权案件的司法解释",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-12",
+   "title": "两部门部署发展服务类社会救助",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-13",
+   "title": "中国240小时过境免签“朋友圈”扩展至57国",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-14",
+   "title": "第七届中非媒体合作论坛开幕",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-15",
+   "title": "四川石渠记录到百余头白唇鹿渡过雅砻江",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-16",
+   "title": "日本民众抗议高市政权危险动向将国家引向战争边缘",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-17",
+   "title": "美总统称对伊朗实施毁灭性经济行动 伊朗称严禁敌对船只进入霍尔木兹海峡",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-18",
+   "title": "美国联邦政府债务首次超40万亿美元 美媒称美结构性危机加剧",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-19",
+   "title": "国际联播快讯",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-20",
+   "title": "俄太平洋舰队在俄日争议岛屿附近演习",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-21",
+   "title": "德国称“北溪”爆炸案又一嫌疑人被捕",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-22",
+   "title": "伊拉克领导人会见伊朗议长 拟深化合作",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-23",
+   "title": "以称不容土军在叙立足 土呼吁制止侵略",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "xwlb-24",
+   "title": "因技术问题 美取消救援卫星天文台任务",
+   "source": "新闻联播",
+   "date": "2026-08-20"
+  }
+ ]
 }

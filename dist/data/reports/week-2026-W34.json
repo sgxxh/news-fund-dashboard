@@ -3,15 +3,16 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-08-17",
- "date_to": "2026-08-20",
- "days": 4,
+ "date_to": "2026-08-21",
+ "days": 5,
  "dates": [
   "2026-08-17",
   "2026-08-18",
   "2026-08-19",
-  "2026-08-20"
+  "2026-08-20",
+  "2026-08-21"
  ],
- "avg_mood": -1.8,
+ "avg_mood": -0.9,
  "mood_series": [
   {
    "date": "2026-08-17",
@@ -27,259 +28,263 @@
   },
   {
    "date": "2026-08-20",
+   "mood": 2.3
+  },
+  {
+   "date": "2026-08-21",
    "mood": 0
   }
  ],
  "keywords": [
   {
    "word": "美国",
-   "count": 74,
+   "count": 118,
    "weight": 1.0
   },
   {
+   "word": "平台",
+   "count": 91,
+   "weight": 0.771
+  },
+  {
    "word": "国家",
-   "count": 64,
-   "weight": 0.865
+   "count": 84,
+   "weight": 0.712
   },
   {
    "word": "能力",
+   "count": 74,
+   "weight": 0.627
+  },
+  {
+   "word": "订单",
+   "count": 74,
+   "weight": 0.627
+  },
+  {
+   "word": "日本",
+   "count": 64,
+   "weight": 0.542
+  },
+  {
+   "word": "成本",
+   "count": 64,
+   "weight": 0.542
+  },
+  {
+   "word": "城市",
    "count": 55,
-   "weight": 0.743
+   "weight": 0.466
   },
   {
    "word": "服务",
    "count": 52,
-   "weight": 0.703
+   "weight": 0.441
   },
   {
-   "word": "平台",
-   "count": 50,
-   "weight": 0.676
+   "word": "政策",
+   "count": 48,
+   "weight": 0.407
+  },
+  {
+   "word": "出口",
+   "count": 47,
+   "weight": 0.398
+  },
+  {
+   "word": "风险",
+   "count": 46,
+   "weight": 0.39
   },
   {
    "word": "安全",
    "count": 45,
-   "weight": 0.608
+   "weight": 0.381
   },
   {
    "word": "部门",
    "count": 45,
-   "weight": 0.608
+   "weight": 0.381
   },
   {
-   "word": "城市",
-   "count": 43,
-   "weight": 0.581
+   "word": "上海",
+   "count": 45,
+   "weight": 0.381
+  },
+  {
+   "word": "全球",
+   "count": 45,
+   "weight": 0.381
+  },
+  {
+   "word": "数字",
+   "count": 41,
+   "weight": 0.347
   },
   {
    "word": "制度",
    "count": 41,
-   "weight": 0.554
+   "weight": 0.347
   },
   {
-   "word": "成本",
+   "word": "信息",
+   "count": 40,
+   "weight": 0.339
+  },
+  {
+   "word": "全部",
+   "count": 40,
+   "weight": 0.339
+  },
+  {
+   "word": "价格",
    "count": 39,
-   "weight": 0.527
+   "weight": 0.331
+  },
+  {
+   "word": "投资",
+   "count": 39,
+   "weight": 0.331
+  },
+  {
+   "word": "小时",
+   "count": 38,
+   "weight": 0.322
+  },
+  {
+   "word": "标准",
+   "count": 38,
+   "weight": 0.322
+  },
+  {
+   "word": "模型",
+   "count": 37,
+   "weight": 0.314
   },
   {
    "word": "苹果",
    "count": 36,
-   "weight": 0.486
+   "weight": 0.305
+  },
+  {
+   "word": "网络",
+   "count": 35,
+   "weight": 0.297
   },
   {
    "word": "孩子",
    "count": 34,
-   "weight": 0.459
-  },
-  {
-   "word": "政策",
-   "count": 34,
-   "weight": 0.459
+   "weight": 0.288
   },
   {
    "word": "韩国",
    "count": 34,
-   "weight": 0.459
+   "weight": 0.288
   },
   {
-   "word": "订单",
+   "word": "政府",
    "count": 33,
-   "weight": 0.446
+   "weight": 0.28
   },
   {
    "word": "单位",
    "count": 32,
-   "weight": 0.432
-  },
-  {
-   "word": "出口",
-   "count": 32,
-   "weight": 0.432
-  },
-  {
-   "word": "日本",
-   "count": 31,
-   "weight": 0.419
+   "weight": 0.271
   },
   {
    "word": "俄罗斯",
    "count": 31,
-   "weight": 0.419
+   "weight": 0.263
   },
   {
    "word": "人员",
    "count": 31,
-   "weight": 0.419
+   "weight": 0.263
   },
   {
    "word": "骑手",
    "count": 30,
-   "weight": 0.405
+   "weight": 0.254
   },
   {
    "word": "家庭",
    "count": 29,
-   "weight": 0.392
+   "weight": 0.246
   },
   {
    "word": "职业",
    "count": 28,
-   "weight": 0.378
+   "weight": 0.237
   },
   {
    "word": "大疆",
    "count": 28,
-   "weight": 0.378
+   "weight": 0.237
   },
   {
-   "word": "价格",
-   "count": 27,
-   "weight": 0.365
+   "word": "变化",
+   "count": 28,
+   "weight": 0.237
+  },
+  {
+   "word": "司机",
+   "count": 28,
+   "weight": 0.237
+  },
+  {
+   "word": "机器人",
+   "count": 28,
+   "weight": 0.237
   },
   {
    "word": "证明",
    "count": 26,
-   "weight": 0.351
+   "weight": 0.22
   },
   {
    "word": "住房",
    "count": 26,
-   "weight": 0.351
-  },
-  {
-   "word": "投资",
-   "count": 26,
-   "weight": 0.351
+   "weight": 0.22
   },
   {
    "word": "土地",
    "count": 25,
-   "weight": 0.338
+   "weight": 0.212
   },
   {
    "word": "紫光",
    "count": 25,
-   "weight": 0.338
+   "weight": 0.212
   },
   {
    "word": "调查",
    "count": 25,
-   "weight": 0.338
+   "weight": 0.212
+  },
+  {
+   "word": "记录",
+   "count": 25,
+   "weight": 0.212
   },
   {
    "word": "以色列",
    "count": 25,
-   "weight": 0.338
+   "weight": 0.212
   },
   {
    "word": "公积金",
    "count": 25,
-   "weight": 0.338
+   "weight": 0.212
   },
   {
    "word": "枪支",
    "count": 25,
-   "weight": 0.338
-  },
-  {
-   "word": "小时",
-   "count": 24,
-   "weight": 0.324
+   "weight": 0.212
   },
   {
    "word": "购物",
    "count": 24,
-   "weight": 0.324
-  },
-  {
-   "word": "数字",
-   "count": 23,
-   "weight": 0.311
-  },
-  {
-   "word": "同比",
-   "count": 23,
-   "weight": 0.311
-  },
-  {
-   "word": "信息",
-   "count": 22,
-   "weight": 0.297
-  },
-  {
-   "word": "风险",
-   "count": 22,
-   "weight": 0.297
-  },
-  {
-   "word": "全部",
-   "count": 22,
-   "weight": 0.297
-  },
-  {
-   "word": "上海",
-   "count": 22,
-   "weight": 0.297
-  },
-  {
-   "word": "政府",
-   "count": 22,
-   "weight": 0.297
-  },
-  {
-   "word": "火箭",
-   "count": 22,
-   "weight": 0.297
-  },
-  {
-   "word": "标准",
-   "count": 21,
-   "weight": 0.284
-  },
-  {
-   "word": "网络",
-   "count": 21,
-   "weight": 0.284
-  },
-  {
-   "word": "消费",
-   "count": 21,
-   "weight": 0.284
-  },
-  {
-   "word": "谷爱凌",
-   "count": 20,
-   "weight": 0.27
-  },
-  {
-   "word": "法院",
-   "count": 20,
-   "weight": 0.27
-  },
-  {
-   "word": "集团",
-   "count": 19,
-   "weight": 0.257
+   "weight": 0.203
   }
  ],
  "sectors": [
@@ -299,6 +304,13 @@
   },
   {
    "sector": "中证红利低波",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "半导体材料",
    "avg_score": 0.0,
    "max_score": 0.0,
    "min_score": 0.0,
@@ -335,10 +347,10 @@
  ],
  "nav_series": [
   {
-   "date": "2026-08-20",
-   "total": 4395.44,
-   "earn": -25.17,
-   "today_income": -126.89
+   "date": "2026-08-21",
+   "total": 5701.16,
+   "earn": -8.64,
+   "today_income": -0.98
   }
  ],
  "holding_change": [
@@ -346,9 +358,9 @@
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
-   "money": 1300.38,
-   "weight": 29.58,
-   "earn_pct": 0.03,
+   "money": 1346.7,
+   "weight": 23.62,
+   "earn_pct": -0.24,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -356,9 +368,9 @@
    "code": "022459",
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
-   "money": 1286.88,
-   "weight": 29.28,
-   "earn_pct": 0.29,
+   "money": 1289.54,
+   "weight": 22.62,
+   "earn_pct": 0.5,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -366,39 +378,9 @@
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 963.91,
-   "weight": 21.93,
-   "earn_pct": -2.23,
-   "money_delta": 0.0,
-   "earn_pct_delta": 0.0
-  },
-  {
-   "code": "019671",
-   "name": "广发港股创新药ETF联接(QDII)C",
-   "sector": "港股创新药",
-   "money": 298.89,
-   "weight": 6.8,
-   "earn_pct": -0.37,
-   "money_delta": 0.0,
-   "earn_pct_delta": 0.0
-  },
-  {
-   "code": "007466",
-   "name": "华泰柏瑞中证红利低波动ETF联接A",
-   "sector": "中证红利低波",
-   "money": 243.71,
-   "weight": 5.54,
-   "earn_pct": -2.22,
-   "money_delta": 0.0,
-   "earn_pct_delta": 0.0
-  },
-  {
-   "code": "000143",
-   "name": "鹏华双债加利债券A",
-   "sector": "混债",
-   "money": 240.84,
-   "weight": 5.48,
-   "earn_pct": -0.29,
+   "money": 965.04,
+   "weight": 16.93,
+   "earn_pct": -2.12,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -406,16 +388,56 @@
    "code": "017811",
    "name": "东方人工智能主题混合C",
    "sector": "半导体材料设备",
-   "money": 60.83,
-   "weight": 1.38,
-   "earn_pct": 0.0,
+   "money": 804.94,
+   "weight": 14.12,
+   "earn_pct": 0.62,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "020640",
+   "name": "广发半导体材料设备主题ETF联接C",
+   "sector": "半导体材料",
+   "money": 497.07,
+   "weight": 8.72,
+   "earn_pct": -0.59,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "019671",
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "sector": "港股创新药",
+   "money": 311.57,
+   "weight": 5.47,
+   "earn_pct": 3.86,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "007466",
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "sector": "中证红利低波",
+   "money": 245.09,
+   "weight": 4.3,
+   "earn_pct": -1.67,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "000143",
+   "name": "鹏华双债加利债券A",
+   "sector": "混债",
+   "money": 241.21,
+   "weight": 4.23,
+   "earn_pct": -0.14,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   }
  ],
  "advice_consistency": [
   {
-   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "name": "广发港股创新药ETF联接(QDII)C",
    "dominant": "持有偏乐观",
    "days": 1,
    "total_days": 1,
@@ -425,7 +447,17 @@
    }
   },
   {
-   "name": "广发港股创新药ETF联接(QDII)C",
+   "name": "广发半导体材料设备主题ETF联接C",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "东方人工智能主题混合C",
    "dominant": "持有偏乐观",
    "days": 1,
    "total_days": 1,
@@ -445,23 +477,23 @@
    }
   },
   {
-   "name": "东方人工智能主题混合C",
-   "dominant": "零头持仓·可并入同类",
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "dominant": "持有偏乐观",
    "days": 1,
    "total_days": 1,
    "ratio": 100,
    "detail": {
-    "零头持仓·可并入同类": 1
+    "持有偏乐观": 1
    }
   },
   {
    "name": "财通价值动量混合A",
-   "dominant": "维持观望",
+   "dominant": "持有偏乐观",
    "days": 1,
    "total_days": 1,
    "ratio": 100,
    "detail": {
-    "维持观望": 1
+    "持有偏乐观": 1
    }
   },
   {
@@ -492,6 +524,20 @@
    "heat": 91.0,
    "sentiment": -11,
    "category": "科技"
+  },
+  {
+   "date": "2026-08-20",
+   "title": "北向资金持A股市值大涨至3.13万亿：外资同时购买两种中国能力",
+   "heat": 92.0,
+   "sentiment": 10,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-20",
+   "title": "许家印无期，恒大被罚158.2亿：前首富还剩多少钱，先赔给谁？",
+   "heat": 96.0,
+   "sentiment": -5,
+   "category": "财经"
   },
   {
    "date": "2026-08-18",
@@ -569,12 +615,26 @@
    "heat": 97.0,
    "sentiment": 2,
    "category": "财经"
+  },
+  {
+   "date": "2026-08-20",
+   "title": "半年多出3700名司机，单车日营收降至354元：跑网约车能养家吗？",
+   "heat": 92.0,
+   "sentiment": 3,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-20",
+   "title": "美国逼AI伙伴在中美之间选边：芯片、矿产和数据中心成联盟筹码",
+   "heat": 97.0,
+   "sentiment": 1,
+   "category": "时政"
   }
  ],
  "stats": {
-  "news_total": 62,
-  "xwlb_total": 71
+  "news_total": 83,
+  "xwlb_total": 96
  },
- "generated_at": "2026-08-20T01:06:40",
+ "generated_at": "2026-08-21T01:10:37",
  "type_label": "周报"
 }

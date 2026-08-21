@@ -1,0 +1,452 @@
+{
+ "key": "2026-W30",
+ "label": "周报",
+ "type": "week",
+ "date_from": "2026-07-20",
+ "date_to": "2026-07-26",
+ "days": 7,
+ "dates": [
+  "2026-07-20",
+  "2026-07-21",
+  "2026-07-22",
+  "2026-07-23",
+  "2026-07-24",
+  "2026-07-25",
+  "2026-07-26"
+ ],
+ "avg_mood": 5.0,
+ "mood_series": [
+  {
+   "date": "2026-07-20",
+   "mood": 16.4
+  },
+  {
+   "date": "2026-07-21",
+   "mood": 12.9
+  },
+  {
+   "date": "2026-07-22",
+   "mood": -7.0
+  },
+  {
+   "date": "2026-07-23",
+   "mood": -0.5
+  },
+  {
+   "date": "2026-07-24",
+   "mood": 1.4
+  },
+  {
+   "date": "2026-07-25",
+   "mood": 0.5
+  },
+  {
+   "date": "2026-07-26",
+   "mood": 11.1
+  }
+ ],
+ "keywords": [
+  {
+   "word": "平台",
+   "count": 180,
+   "weight": 1.0
+  },
+  {
+   "word": "风险",
+   "count": 133,
+   "weight": 0.739
+  },
+  {
+   "word": "国家",
+   "count": 120,
+   "weight": 0.667
+  },
+  {
+   "word": "服务",
+   "count": 106,
+   "weight": 0.589
+  },
+  {
+   "word": "成本",
+   "count": 91,
+   "weight": 0.506
+  },
+  {
+   "word": "孩子",
+   "count": 90,
+   "weight": 0.5
+  },
+  {
+   "word": "能力",
+   "count": 89,
+   "weight": 0.494
+  },
+  {
+   "word": "系统",
+   "count": 85,
+   "weight": 0.472
+  },
+  {
+   "word": "信息",
+   "count": 83,
+   "weight": 0.461
+  },
+  {
+   "word": "安全",
+   "count": 78,
+   "weight": 0.433
+  },
+  {
+   "word": "价格",
+   "count": 74,
+   "weight": 0.411
+  },
+  {
+   "word": "全球",
+   "count": 72,
+   "weight": 0.4
+  },
+  {
+   "word": "资金",
+   "count": 70,
+   "weight": 0.389
+  },
+  {
+   "word": "机构",
+   "count": 70,
+   "weight": 0.389
+  },
+  {
+   "word": "证明",
+   "count": 66,
+   "weight": 0.367
+  },
+  {
+   "word": "卫星",
+   "count": 64,
+   "weight": 0.356
+  },
+  {
+   "word": "政策",
+   "count": 63,
+   "weight": 0.35
+  },
+  {
+   "word": "出口",
+   "count": 63,
+   "weight": 0.35
+  },
+  {
+   "word": "规则",
+   "count": 60,
+   "weight": 0.333
+  },
+  {
+   "word": "美国",
+   "count": 60,
+   "weight": 0.333
+  },
+  {
+   "word": "基金",
+   "count": 56,
+   "weight": 0.311
+  },
+  {
+   "word": "沙特",
+   "count": 56,
+   "weight": 0.311
+  },
+  {
+   "word": "生产",
+   "count": 55,
+   "weight": 0.306
+  },
+  {
+   "word": "调查",
+   "count": 55,
+   "weight": 0.306
+  },
+  {
+   "word": "管理",
+   "count": 55,
+   "weight": 0.306
+  },
+  {
+   "word": "产品",
+   "count": 54,
+   "weight": 0.3
+  },
+  {
+   "word": "劳动",
+   "count": 54,
+   "weight": 0.3
+  },
+  {
+   "word": "家庭",
+   "count": 53,
+   "weight": 0.294
+  },
+  {
+   "word": "投资",
+   "count": 49,
+   "weight": 0.272
+  },
+  {
+   "word": "学校",
+   "count": 49,
+   "weight": 0.272
+  },
+  {
+   "word": "芯片",
+   "count": 48,
+   "weight": 0.267
+  },
+  {
+   "word": "数字",
+   "count": 48,
+   "weight": 0.267
+  },
+  {
+   "word": "关系",
+   "count": 47,
+   "weight": 0.261
+  },
+  {
+   "word": "技术",
+   "count": 47,
+   "weight": 0.261
+  },
+  {
+   "word": "日本",
+   "count": 45,
+   "weight": 0.25
+  },
+  {
+   "word": "研究",
+   "count": 45,
+   "weight": 0.25
+  },
+  {
+   "word": "算力",
+   "count": 43,
+   "weight": 0.239
+  },
+  {
+   "word": "材料",
+   "count": 43,
+   "weight": 0.239
+  },
+  {
+   "word": "贷款",
+   "count": 41,
+   "weight": 0.228
+  },
+  {
+   "word": "模型",
+   "count": 41,
+   "weight": 0.228
+  },
+  {
+   "word": "人员",
+   "count": 40,
+   "weight": 0.222
+  },
+  {
+   "word": "设备",
+   "count": 39,
+   "weight": 0.217
+  },
+  {
+   "word": "信托",
+   "count": 38,
+   "weight": 0.211
+  },
+  {
+   "word": "交易",
+   "count": 38,
+   "weight": 0.211
+  },
+  {
+   "word": "韩国",
+   "count": 38,
+   "weight": 0.211
+  },
+  {
+   "word": "记录",
+   "count": 38,
+   "weight": 0.211
+  },
+  {
+   "word": "销售",
+   "count": 37,
+   "weight": 0.206
+  },
+  {
+   "word": "能源",
+   "count": 37,
+   "weight": 0.206
+  },
+  {
+   "word": "酒店",
+   "count": 37,
+   "weight": 0.206
+  },
+  {
+   "word": "印度",
+   "count": 36,
+   "weight": 0.2
+  }
+ ],
+ "sectors": [],
+ "nav_series": [],
+ "holding_change": [],
+ "advice_consistency": [],
+ "top_events": [
+  {
+   "date": "2026-07-20",
+   "title": "中国国新超500亿元已入市：国资运营平台稳市资金进入执行",
+   "heat": 98.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-20",
+   "title": "装备工业出口贡献稳定，工信部再推首台套、汽车下乡和车路云",
+   "heat": 95.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-21",
+   "title": "“国家队”600亿增持中国股票，涌入三大方向",
+   "heat": 90.0,
+   "sentiment": 10,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-21",
+   "title": "吴清与8名投资者座谈之后：央企增持回购，形成第二层承接",
+   "heat": 98.0,
+   "sentiment": 7,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-22",
+   "title": "民事诉讼经历成了就业污点：依法打官司凭啥影响我找工作？",
+   "heat": 98.0,
+   "sentiment": -7,
+   "category": "社会"
+  },
+  {
+   "date": "2026-07-25",
+   "title": "14VS14，针锋相对！解读中国对欧盟实体的出口管制管控名单",
+   "heat": 94.0,
+   "sentiment": -8,
+   "category": "时政"
+  },
+  {
+   "date": "2026-07-23",
+   "title": "7月23日纪事｜它只是想完成任务却闯进别人的系统，又能有什么坏心思呢？",
+   "heat": 96.0,
+   "sentiment": -7,
+   "category": "纪事"
+  },
+  {
+   "date": "2026-07-26",
+   "title": "400万桶沙特原油驶向中国：7月31日国内油价为何仍将大幅上调",
+   "heat": 90.0,
+   "sentiment": -9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-26",
+   "title": "三星SK抛出9500亿美元AI框架，韩国在中美夹缝中赌上全部身家",
+   "heat": 98.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-24",
+   "title": "美国对华未豁免商品加征12.5%新关税：供应链审查向海外延伸",
+   "heat": 96.0,
+   "sentiment": -6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-25",
+   "title": "宁德时代拟斥资200亿-400亿回购A股：扩产期同时缩减股本",
+   "heat": 96.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-20",
+   "title": "人形和四足机器人超过全球半壁江山：会成下一张中国名片吗？",
+   "heat": 92.0,
+   "sentiment": 7,
+   "category": "科技"
+  },
+  {
+   "date": "2026-07-23",
+   "title": "7月23日话题｜花50万买下汽车，厂家还能远程收回多少功能？",
+   "heat": 96.0,
+   "sentiment": -5,
+   "category": "话题"
+  },
+  {
+   "date": "2026-07-22",
+   "title": "9999元保研套餐只有两次半小时讲解：公开推免如何卖出天价",
+   "heat": 95.0,
+   "sentiment": -5,
+   "category": "社会"
+  },
+  {
+   "date": "2026-07-20",
+   "title": "情报预测：LPR连续14个月不变，三季度末或下调10个基点",
+   "heat": 85.0,
+   "sentiment": 8,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-21",
+   "title": "发改委召开重磅座谈会，释放多重稳增长信号",
+   "heat": 88.0,
+   "sentiment": 7,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-22",
+   "title": "30元“AI足迹”引发争议：同意购买，不等于同意此前所有拍摄",
+   "heat": 97.0,
+   "sentiment": -4,
+   "category": "社会"
+  },
+  {
+   "date": "2026-07-24",
+   "title": "欧盟再对谷歌罚款10亿美元，美欧科技监管摩擦升级",
+   "heat": 82.0,
+   "sentiment": -9,
+   "category": "科技"
+  },
+  {
+   "date": "2026-07-21",
+   "title": "全国智算规模2185 EFLOPS：AI竞争进入国家调度和资产运营期",
+   "heat": 90.0,
+   "sentiment": 6,
+   "category": "科技"
+  },
+  {
+   "date": "2026-07-25",
+   "title": "中国送“AI妈祖”到30国能得到什么？原来背后有一整盘大棋",
+   "heat": 95.0,
+   "sentiment": 4,
+   "category": "科技"
+  }
+ ],
+ "stats": {
+  "news_total": 140,
+  "xwlb_total": 164
+ },
+ "generated_at": "2026-08-21T01:10:37",
+ "type_label": "周报"
+}

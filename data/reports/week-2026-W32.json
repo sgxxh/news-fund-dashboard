@@ -1,0 +1,452 @@
+{
+ "key": "2026-W32",
+ "label": "周报",
+ "type": "week",
+ "date_from": "2026-08-03",
+ "date_to": "2026-08-09",
+ "days": 7,
+ "dates": [
+  "2026-08-03",
+  "2026-08-04",
+  "2026-08-05",
+  "2026-08-06",
+  "2026-08-07",
+  "2026-08-08",
+  "2026-08-09"
+ ],
+ "avg_mood": 4.8,
+ "mood_series": [
+  {
+   "date": "2026-08-03",
+   "mood": 10.4
+  },
+  {
+   "date": "2026-08-04",
+   "mood": 17.2
+  },
+  {
+   "date": "2026-08-05",
+   "mood": -7.1
+  },
+  {
+   "date": "2026-08-06",
+   "mood": 0.1
+  },
+  {
+   "date": "2026-08-07",
+   "mood": -1.8
+  },
+  {
+   "date": "2026-08-08",
+   "mood": 7.9
+  },
+  {
+   "date": "2026-08-09",
+   "mood": 6.8
+  }
+ ],
+ "keywords": [
+  {
+   "word": "美国",
+   "count": 194,
+   "weight": 1.0
+  },
+  {
+   "word": "平台",
+   "count": 171,
+   "weight": 0.881
+  },
+  {
+   "word": "产品",
+   "count": 153,
+   "weight": 0.789
+  },
+  {
+   "word": "风险",
+   "count": 135,
+   "weight": 0.696
+  },
+  {
+   "word": "安全",
+   "count": 133,
+   "weight": 0.686
+  },
+  {
+   "word": "服务",
+   "count": 116,
+   "weight": 0.598
+  },
+  {
+   "word": "设备",
+   "count": 113,
+   "weight": 0.582
+  },
+  {
+   "word": "成本",
+   "count": 112,
+   "weight": 0.577
+  },
+  {
+   "word": "能力",
+   "count": 109,
+   "weight": 0.562
+  },
+  {
+   "word": "价格",
+   "count": 100,
+   "weight": 0.515
+  },
+  {
+   "word": "同比",
+   "count": 98,
+   "weight": 0.505
+  },
+  {
+   "word": "消费者",
+   "count": 92,
+   "weight": 0.474
+  },
+  {
+   "word": "全球",
+   "count": 89,
+   "weight": 0.459
+  },
+  {
+   "word": "系统",
+   "count": 87,
+   "weight": 0.448
+  },
+  {
+   "word": "国家",
+   "count": 69,
+   "weight": 0.356
+  },
+  {
+   "word": "信息",
+   "count": 66,
+   "weight": 0.34
+  },
+  {
+   "word": "出口",
+   "count": 63,
+   "weight": 0.325
+  },
+  {
+   "word": "用户",
+   "count": 61,
+   "weight": 0.314
+  },
+  {
+   "word": "孩子",
+   "count": 61,
+   "weight": 0.314
+  },
+  {
+   "word": "证明",
+   "count": 56,
+   "weight": 0.289
+  },
+  {
+   "word": "调查",
+   "count": 56,
+   "weight": 0.289
+  },
+  {
+   "word": "数字",
+   "count": 54,
+   "weight": 0.278
+  },
+  {
+   "word": "影响",
+   "count": 51,
+   "weight": 0.263
+  },
+  {
+   "word": "机器人",
+   "count": 51,
+   "weight": 0.263
+  },
+  {
+   "word": "伊朗",
+   "count": 49,
+   "weight": 0.253
+  },
+  {
+   "word": "进口",
+   "count": 48,
+   "weight": 0.247
+  },
+  {
+   "word": "客户",
+   "count": 46,
+   "weight": 0.237
+  },
+  {
+   "word": "消费",
+   "count": 45,
+   "weight": 0.232
+  },
+  {
+   "word": "机构",
+   "count": 45,
+   "weight": 0.232
+  },
+  {
+   "word": "研究",
+   "count": 42,
+   "weight": 0.216
+  },
+  {
+   "word": "制度",
+   "count": 40,
+   "weight": 0.206
+  },
+  {
+   "word": "商业",
+   "count": 40,
+   "weight": 0.206
+  },
+  {
+   "word": "拉面",
+   "count": 40,
+   "weight": 0.206
+  },
+  {
+   "word": "城市",
+   "count": 39,
+   "weight": 0.201
+  },
+  {
+   "word": "门店",
+   "count": 38,
+   "weight": 0.196
+  },
+  {
+   "word": "管理",
+   "count": 38,
+   "weight": 0.196
+  },
+  {
+   "word": "订单",
+   "count": 38,
+   "weight": 0.196
+  },
+  {
+   "word": "技术",
+   "count": 38,
+   "weight": 0.196
+  },
+  {
+   "word": "工业",
+   "count": 38,
+   "weight": 0.196
+  },
+  {
+   "word": "能源",
+   "count": 38,
+   "weight": 0.196
+  },
+  {
+   "word": "日本",
+   "count": 37,
+   "weight": 0.191
+  },
+  {
+   "word": "生产",
+   "count": 36,
+   "weight": 0.186
+  },
+  {
+   "word": "账号",
+   "count": 36,
+   "weight": 0.186
+  },
+  {
+   "word": "专业",
+   "count": 36,
+   "weight": 0.186
+  },
+  {
+   "word": "银行",
+   "count": 36,
+   "weight": 0.186
+  },
+  {
+   "word": "法律",
+   "count": 35,
+   "weight": 0.18
+  },
+  {
+   "word": "机器",
+   "count": 34,
+   "weight": 0.175
+  },
+  {
+   "word": "规则",
+   "count": 34,
+   "weight": 0.175
+  },
+  {
+   "word": "产业",
+   "count": 34,
+   "weight": 0.175
+  },
+  {
+   "word": "网络",
+   "count": 34,
+   "weight": 0.175
+  }
+ ],
+ "sectors": [],
+ "nav_series": [],
+ "holding_change": [],
+ "advice_consistency": [],
+ "top_events": [
+  {
+   "date": "2026-08-04",
+   "title": "央行下半年工作会议：宽松之后要看钱流向哪里",
+   "heat": 86.0,
+   "sentiment": 19,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-05",
+   "title": "霍尔木兹谈判未定油价先暴跌5%：最大买家中国等来了三笔回报",
+   "heat": 98.0,
+   "sentiment": -15,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-08",
+   "title": "美国出招逼中国做选择：制裁俄罗斯，却把100%关税账单递给中国",
+   "heat": 99.0,
+   "sentiment": -9,
+   "category": "时政"
+  },
+  {
+   "date": "2026-08-07",
+   "title": "全球药企排队来华买创新药药方：中国让出收益换时间和成功率",
+   "heat": 98.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-07",
+   "title": "刚果(金)禁止铜钴精矿出口：中国矿业的非洲模式迎来压力测试",
+   "heat": 95.0,
+   "sentiment": -9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-08",
+   "title": "北京再发楼市新政主动邀人进场：五环内购房社保门槛降至1年",
+   "heat": 98.0,
+   "sentiment": 7,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-09",
+   "title": "解读中国进口增长22%、出口增长14%：汽车靠多卖，芯片靠变贵",
+   "heat": 91.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-04",
+   "title": "8月4日纪事｜“不用药就绝收”：从一只牛蛙留下的供词反思整个产业",
+   "heat": 93.0,
+   "sentiment": -8,
+   "category": "纪事"
+  },
+  {
+   "date": "2026-08-08",
+   "title": "中国芯片7月出口暴增117%：曾经被卡脖子，如今撑起外贸增长",
+   "heat": 99.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-04",
+   "title": "日本花了15年摆脱中国稀土，如今105家公司罕见陷入集体焦虑",
+   "heat": 98.0,
+   "sentiment": -6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-04",
+   "title": "A股关闭机房局域网行情：少数机构抢先的2毫秒究竟值多少钱？",
+   "heat": 96.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-09",
+   "title": "美国少了2.3万个岗位，失业率反而下降：26.4万人不再找工作了",
+   "heat": 96.0,
+   "sentiment": -6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-06",
+   "title": "新昌调查如是书院：打着国学旗号的封闭管教，请别给国学抹黑！",
+   "heat": 96.0,
+   "sentiment": -5,
+   "category": "社会"
+  },
+  {
+   "date": "2026-08-08",
+   "title": "沙土巴签下共同防务协议：有钱、有兵、有核的三国为什么抱团",
+   "heat": 99.0,
+   "sentiment": 4,
+   "category": "时政"
+  },
+  {
+   "date": "2026-08-06",
+   "title": "三大运营商停止第三方网上办卡：别让消费者从此失去低价选择",
+   "heat": 95.0,
+   "sentiment": -5,
+   "category": "社会"
+  },
+  {
+   "date": "2026-08-09",
+   "title": "全球首个长时储能产业园在山东菏泽量产：太阳也可以值夜班了",
+   "heat": 98.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-09",
+   "title": "欧盟俩月罚中美3大巨头16.4亿欧：数字竞争开始争夺规则主导权",
+   "heat": 95.0,
+   "sentiment": -5,
+   "category": "时政"
+  },
+  {
+   "date": "2026-08-07",
+   "title": "长三角41城半年报，GDP占全国近四分之一",
+   "heat": 82.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-05",
+   "title": "大宗原料同比贵15.5%，工厂不敢全面提价：消费者暂时不涨价",
+   "heat": 88.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-06",
+   "title": "中国首次启动外贸国家安全调查：第一案盯上办公室里的打印机",
+   "heat": 97.0,
+   "sentiment": -3,
+   "category": "财经"
+  }
+ ],
+ "stats": {
+  "news_total": 151,
+  "xwlb_total": 152
+ },
+ "generated_at": "2026-08-21T01:10:37",
+ "type_label": "周报"
+}

@@ -1,0 +1,310 @@
+{
+ "key": "2026-W29",
+ "label": "周报",
+ "type": "week",
+ "date_from": "2026-07-19",
+ "date_to": "2026-07-19",
+ "days": 1,
+ "dates": [
+  "2026-07-19"
+ ],
+ "avg_mood": 6.0,
+ "mood_series": [
+  {
+   "date": "2026-07-19",
+   "mood": 6.0
+  }
+ ],
+ "keywords": [
+  {
+   "word": "客户",
+   "count": 39,
+   "weight": 1.0
+  },
+  {
+   "word": "模型",
+   "count": 35,
+   "weight": 0.897
+  },
+  {
+   "word": "记录",
+   "count": 33,
+   "weight": 0.846
+  },
+  {
+   "word": "风险",
+   "count": 30,
+   "weight": 0.769
+  },
+  {
+   "word": "证明",
+   "count": 30,
+   "weight": 0.769
+  },
+  {
+   "word": "产品",
+   "count": 26,
+   "weight": 0.667
+  },
+  {
+   "word": "信息",
+   "count": 25,
+   "weight": 0.641
+  },
+  {
+   "word": "优惠",
+   "count": 23,
+   "weight": 0.59
+  },
+  {
+   "word": "电池",
+   "count": 22,
+   "weight": 0.564
+  },
+  {
+   "word": "机器人",
+   "count": 22,
+   "weight": 0.564
+  },
+  {
+   "word": "成本",
+   "count": 21,
+   "weight": 0.538
+  },
+  {
+   "word": "K3",
+   "count": 21,
+   "weight": 0.538
+  },
+  {
+   "word": "机构",
+   "count": 20,
+   "weight": 0.513
+  },
+  {
+   "word": "错误",
+   "count": 20,
+   "weight": 0.513
+  },
+  {
+   "word": "材料",
+   "count": 20,
+   "weight": 0.513
+  },
+  {
+   "word": "服务",
+   "count": 20,
+   "weight": 0.513
+  },
+  {
+   "word": "身份",
+   "count": 20,
+   "weight": 0.513
+  },
+  {
+   "word": "购物",
+   "count": 20,
+   "weight": 0.513
+  },
+  {
+   "word": "老人",
+   "count": 20,
+   "weight": 0.513
+  },
+  {
+   "word": "电子",
+   "count": 20,
+   "weight": 0.513
+  },
+  {
+   "word": "系统",
+   "count": 20,
+   "weight": 0.513
+  },
+  {
+   "word": "氟化",
+   "count": 20,
+   "weight": 0.513
+  },
+  {
+   "word": "管理",
+   "count": 18,
+   "weight": 0.462
+  },
+  {
+   "word": "能力",
+   "count": 18,
+   "weight": 0.462
+  },
+  {
+   "word": "旅客",
+   "count": 18,
+   "weight": 0.462
+  },
+  {
+   "word": "国家",
+   "count": 17,
+   "weight": 0.436
+  },
+  {
+   "word": "出口",
+   "count": 17,
+   "weight": 0.436
+  },
+  {
+   "word": "海关",
+   "count": 17,
+   "weight": 0.436
+  },
+  {
+   "word": "官方",
+   "count": 16,
+   "weight": 0.41
+  },
+  {
+   "word": "生产",
+   "count": 16,
+   "weight": 0.41
+  },
+  {
+   "word": "医院",
+   "count": 16,
+   "weight": 0.41
+  },
+  {
+   "word": "全球",
+   "count": 16,
+   "weight": 0.41
+  },
+  {
+   "word": "部门",
+   "count": 15,
+   "weight": 0.385
+  },
+  {
+   "word": "销号",
+   "count": 15,
+   "weight": 0.385
+  },
+  {
+   "word": "隐患",
+   "count": 15,
+   "weight": 0.385
+  },
+  {
+   "word": "政策",
+   "count": 15,
+   "weight": 0.385
+  },
+  {
+   "word": "数量",
+   "count": 15,
+   "weight": 0.385
+  },
+  {
+   "word": "违法",
+   "count": 15,
+   "weight": 0.385
+  },
+  {
+   "word": "消费",
+   "count": 15,
+   "weight": 0.385
+  },
+  {
+   "word": "流程",
+   "count": 15,
+   "weight": 0.385
+  },
+  {
+   "word": "核验",
+   "count": 15,
+   "weight": 0.385
+  },
+  {
+   "word": "设备",
+   "count": 14,
+   "weight": 0.359
+  },
+  {
+   "word": "办理",
+   "count": 14,
+   "weight": 0.359
+  },
+  {
+   "word": "特气",
+   "count": 14,
+   "weight": 0.359
+  },
+  {
+   "word": "茅台",
+   "count": 14,
+   "weight": 0.359
+  },
+  {
+   "word": "权重",
+   "count": 14,
+   "weight": 0.359
+  },
+  {
+   "word": "单位",
+   "count": 13,
+   "weight": 0.333
+  },
+  {
+   "word": "旅游",
+   "count": 13,
+   "weight": 0.333
+  },
+  {
+   "word": "旅行社",
+   "count": 13,
+   "weight": 0.333
+  },
+  {
+   "word": "游客",
+   "count": 13,
+   "weight": 0.333
+  }
+ ],
+ "sectors": [],
+ "nav_series": [],
+ "holding_change": [],
+ "advice_consistency": [],
+ "top_events": [
+  {
+   "date": "2026-07-19",
+   "title": "成熟电池恢复征税：锂电9月先征2%，低价竞争要多算一笔税",
+   "heat": 98.0,
+   "sentiment": 4,
+   "category": "时政"
+  },
+  {
+   "date": "2026-07-19",
+   "title": "中船特气六氟化钨收入同比增近3倍：芯片竞争深入沉积材料",
+   "heat": 90.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-07-19",
+   "title": "保险“答谢游”围猎老年团：监管不能只提醒“消费者提高警惕”",
+   "heat": 98.0,
+   "sentiment": -3,
+   "category": "社会"
+  },
+  {
+   "date": "2026-07-19",
+   "title": "解读“全国高质量数据集增至12万个”：3种虚假繁荣被政策点名",
+   "heat": 88.0,
+   "sentiment": 6,
+   "category": "时政"
+  }
+ ],
+ "stats": {
+  "news_total": 21,
+  "xwlb_total": 22
+ },
+ "generated_at": "2026-08-21T01:10:37",
+ "type_label": "周报"
+}

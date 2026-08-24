@@ -9,8 +9,8 @@
    "xwlb_total": 0,
    "total_money": 5773.69,
    "total_earn": -0.21,
-   "today_income": 28.71,
-   "today_income_rate": 0.5,
+   "today_income": -75.64,
+   "today_income_rate": -1.31,
    "generated_at": "2026-08-24T01:09:24"
   },
   {
@@ -457,5 +457,5 @@
   }
  ],
  "latest": "2026-08-24",
- "updated_at": "2026-08-24T01:09:24"
+ "updated_at": "2026-08-24T02:54:14"
 }

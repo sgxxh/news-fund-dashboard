@@ -1,6 +1,32 @@
 {
  "dates": [
   {
+   "date": "2026-08-24",
+   "title": "",
+   "mood": 0,
+   "mood_level": "中性",
+   "news_total": 0,
+   "xwlb_total": 0,
+   "total_money": 5773.69,
+   "total_earn": -0.21,
+   "today_income": 28.71,
+   "today_income_rate": 0.5,
+   "generated_at": "2026-08-24T01:09:24"
+  },
+  {
+   "date": "2026-08-23",
+   "title": "8月23日日知录-国家开始替居民付消费贷利息：就是要把消费拉起来",
+   "mood": 7.2,
+   "mood_level": "中性",
+   "news_total": 22,
+   "xwlb_total": 22,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-08-24T01:09:05"
+  },
+  {
    "date": "2026-08-21",
    "title": "",
    "mood": 0,
@@ -430,6 +456,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-08-21",
- "updated_at": "2026-08-21T07:57:59"
+ "latest": "2026-08-24",
+ "updated_at": "2026-08-24T01:09:24"
 }

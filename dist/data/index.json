@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-08-24",
+   "date": "2026-08-25",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 5773.69,
-   "total_earn": -0.21,
-   "today_income": -76.89,
-   "today_income_rate": -1.33,
-   "generated_at": "2026-08-24T01:09:24"
+   "total_money": 5746.59,
+   "total_earn": -77.3,
+   "today_income": -86.15,
+   "today_income_rate": -1.5,
+   "generated_at": "2026-08-25T01:08:18"
+  },
+  {
+   "date": "2026-08-24",
+   "title": "8月24日日知录-12306回应“无座票同价”：与二等座同一等级",
+   "mood": -1.1,
+   "mood_level": "中性",
+   "news_total": 20,
+   "xwlb_total": 20,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-08-25T01:07:58"
   },
   {
    "date": "2026-08-23",
@@ -456,6 +469,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-08-24",
- "updated_at": "2026-08-24T08:09:52"
+ "latest": "2026-08-25",
+ "updated_at": "2026-08-25T01:08:18"
 }

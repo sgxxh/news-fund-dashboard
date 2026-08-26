@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-08-25",
+   "date": "2026-08-26",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 5746.59,
-   "total_earn": -77.3,
-   "today_income": -34.48,
-   "today_income_rate": -0.6,
-   "generated_at": "2026-08-25T01:08:18"
+   "total_money": 5762.93,
+   "total_earn": -110.93,
+   "today_income": -17.2,
+   "today_income_rate": -0.3,
+   "generated_at": "2026-08-26T01:11:00"
+  },
+  {
+   "date": "2026-08-25",
+   "title": "8月25日日知录-中国反腐准备跨越国境线：人逃到海外，钱要追回来",
+   "mood": 4.0,
+   "mood_level": "中性",
+   "news_total": 24,
+   "xwlb_total": 29,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-08-26T01:10:42"
   },
   {
    "date": "2026-08-24",
@@ -469,6 +482,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-08-25",
- "updated_at": "2026-08-25T08:04:58"
+ "latest": "2026-08-26",
+ "updated_at": "2026-08-26T01:11:00"
 }

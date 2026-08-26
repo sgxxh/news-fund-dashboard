@@ -1,494 +1,2267 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T01:08:18",
+ "generated_at": "2026-08-26T01:10:42",
  "session": "auto",
- "digest_title": "",
+ "digest_title": "8月25日日知录-中国反腐准备跨越国境线：人逃到海外，钱要追回来",
  "funds": {
-  "ok": true,
-  "reason": "",
-  "summary": {
-   "hold_cost": 5823.9,
-   "today_income": -34.48,
-   "today_income_rate": -0.6,
-   "total_money": 5746.59,
-   "total_earn": -77.3,
-   "count": 8,
-   "total_earn_pct": -1.33
-  },
-  "holdings": [
-   {
-    "account": "默认",
-    "fund_id": "23918",
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 1441.32,
-    "earn": -8.67,
-    "earn_pct": -0.6,
-    "share": 633.02,
-    "cost": 2.2906,
-    "category": 3,
-    "nav": 2.2769,
-    "day_pct": 0.33,
-    "nav_date": "2026-08-21",
-    "est_pct": -0.97,
-    "est_date": "2026-08-24",
-    "year_pct": 11.13,
-    "sector": "纳斯达克100",
-    "sector_pct": -0.97,
-    "market_type": "us",
-    "weight": 25.08
-   },
-   {
-    "account": "默认",
-    "fund_id": "25645",
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "money": 1277.68,
-    "earn": -5.42,
-    "earn_pct": -0.42,
-    "share": 1022.47,
-    "cost": 1.2549,
-    "category": 3,
-    "nav": 1.2496,
-    "day_pct": -1.47,
-    "nav_date": "2026-08-24",
-    "est_pct": -0.13,
-    "est_date": "2026-08-25",
-    "year_pct": 1.51,
-    "sector": "中证A500",
-    "sector_pct": -0.13,
-    "market_type": "ch",
-    "weight": 22.23
-   },
-   {
-    "account": "默认",
-    "fund_id": "138",
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "money": 951.95,
-    "earn": -48.05,
-    "earn_pct": -4.8,
-    "share": 67.49,
-    "cost": 14.817,
-    "category": 1,
-    "nav": 14.105,
-    "day_pct": -4.28,
-    "nav_date": "2026-08-24",
-    "est_pct": 0.01,
-    "est_date": "2026-08-25",
-    "year_pct": 71.47,
-    "sector": "PCB",
-    "sector_pct": -0.01,
-    "market_type": "ch",
-    "weight": 16.57
-   },
-   {
-    "account": "默认",
-    "fund_id": "20638",
-    "code": "017811",
-    "name": "东方人工智能主题混合C",
-    "money": 794.78,
-    "earn": -5.22,
-    "earn_pct": -0.65,
-    "share": 236.88,
-    "cost": 3.37723742,
-    "category": 1,
-    "nav": 3.3552,
-    "day_pct": -1.08,
-    "nav_date": "2026-08-24",
-    "est_pct": -1.97,
-    "est_date": "2026-08-25",
-    "year_pct": 108.89,
-    "sector": "半导体材料设备",
-    "sector_pct": -2.08,
-    "market_type": "ch",
-    "weight": 13.83
-   },
-   {
-    "account": "默认",
-    "fund_id": "23655",
-    "code": "020640",
-    "name": "广发半导体材料设备ETF联接C",
-    "money": 491.41,
-    "earn": -8.59,
-    "earn_pct": -1.72,
-    "share": 148.78,
-    "cost": 3.36066676,
-    "category": 3,
-    "nav": 3.3029,
-    "day_pct": -0.76,
-    "nav_date": "2026-08-24",
-    "est_pct": -2.4,
-    "est_date": "2026-08-25",
-    "year_pct": 81.54,
-    "sector": "半导体材料",
-    "sector_pct": -2.4,
-    "market_type": "ch",
-    "weight": 8.55
-   },
-   {
-    "account": "默认",
-    "fund_id": "22504",
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "money": 302.99,
-    "earn": 2.99,
-    "earn_pct": 1.0,
-    "share": 222.85,
-    "cost": 1.34619699,
-    "category": 6,
-    "nav": 1.3596,
-    "day_pct": -2.72,
-    "nav_date": "2026-08-24",
-    "est_pct": 2.94,
-    "est_date": "2026-08-25",
-    "year_pct": 8.37,
-    "sector": "港股创新药",
-    "sector_pct": 2.94,
-    "market_type": "hk",
-    "weight": 5.27
-   },
-   {
-    "account": "默认",
-    "fund_id": "5773",
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波ETF联接A",
-    "money": 246.27,
-    "earn": -2.98,
-    "earn_pct": -1.2,
-    "share": 150.67,
-    "cost": 1.6542938,
-    "category": 3,
-    "nav": 1.6345,
-    "day_pct": 1.01,
-    "nav_date": "2026-08-24",
-    "est_pct": -0.12,
-    "est_date": "2026-08-25",
-    "year_pct": 1.09,
-    "sector": "中证红利低波",
-    "sector_pct": -0.12,
-    "market_type": "ch",
-    "weight": 4.29
-   },
-   {
-    "account": "默认",
-    "fund_id": "11353",
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "money": 240.19,
-    "earn": -1.36,
-    "earn_pct": -0.56,
-    "share": 109.78,
-    "cost": 2.20030971,
-    "category": 2,
-    "nav": 2.1879,
-    "day_pct": -0.68,
-    "nav_date": "2026-08-24",
-    "est_pct": -0.04,
-    "est_date": "2026-08-25",
-    "year_pct": 5.64,
-    "sector": "混债",
-    "sector_pct": -0.06,
-    "market_type": "ch",
-    "weight": 4.18
-   }
-  ],
+  "ok": false,
+  "reason": "HISTORICAL_NO_SNAPSHOT",
+  "summary": {},
+  "holdings": [],
   "index": []
  },
  "analysis": {
-  "keywords": [],
-  "market_mood": 0,
+  "keywords": [
+   {
+    "word": "系统",
+    "count": 40,
+    "weight": 1.0
+   },
+   {
+    "word": "美国",
+    "count": 32,
+    "weight": 0.8
+   },
+   {
+    "word": "能力",
+    "count": 31,
+    "weight": 0.775
+   },
+   {
+    "word": "国家",
+    "count": 27,
+    "weight": 0.675
+   },
+   {
+    "word": "启动",
+    "count": 25,
+    "weight": 0.625
+   },
+   {
+    "word": "服务",
+    "count": 24,
+    "weight": 0.6
+   },
+   {
+    "word": "患者",
+    "count": 24,
+    "weight": 0.6
+   },
+   {
+    "word": "北斗",
+    "count": 24,
+    "weight": 0.6
+   },
+   {
+    "word": "平台",
+    "count": 23,
+    "weight": 0.575
+   },
+   {
+    "word": "浙江",
+    "count": 22,
+    "weight": 0.55
+   },
+   {
+    "word": "餐厅",
+    "count": 21,
+    "weight": 0.525
+   },
+   {
+    "word": "自动",
+    "count": 20,
+    "weight": 0.5
+   },
+   {
+    "word": "专业",
+    "count": 20,
+    "weight": 0.5
+   },
+   {
+    "word": "手机",
+    "count": 20,
+    "weight": 0.5
+   },
+   {
+    "word": "汽车",
+    "count": 20,
+    "weight": 0.5
+   },
+   {
+    "word": "信息",
+    "count": 19,
+    "weight": 0.475
+   },
+   {
+    "word": "制裁",
+    "count": 19,
+    "weight": 0.475
+   },
+   {
+    "word": "基因",
+    "count": 19,
+    "weight": 0.475
+   },
+   {
+    "word": "草案",
+    "count": 18,
+    "weight": 0.45
+   },
+   {
+    "word": "技术",
+    "count": 18,
+    "weight": 0.45
+   },
+   {
+    "word": "数字",
+    "count": 18,
+    "weight": 0.45
+   },
+   {
+    "word": "住房",
+    "count": 18,
+    "weight": 0.45
+   },
+   {
+    "word": "卫星",
+    "count": 18,
+    "weight": 0.45
+   },
+   {
+    "word": "伊朗",
+    "count": 18,
+    "weight": 0.45
+   },
+   {
+    "word": "基金",
+    "count": 18,
+    "weight": 0.45
+   },
+   {
+    "word": "人员",
+    "count": 17,
+    "weight": 0.425
+   },
+   {
+    "word": "风险",
+    "count": 17,
+    "weight": 0.425
+   },
+   {
+    "word": "消杀",
+    "count": 17,
+    "weight": 0.425
+   },
+   {
+    "word": "规则",
+    "count": 16,
+    "weight": 0.4
+   },
+   {
+    "word": "任务",
+    "count": 16,
+    "weight": 0.4
+   },
+   {
+    "word": "交易",
+    "count": 15,
+    "weight": 0.375
+   },
+   {
+    "word": "救护车",
+    "count": 15,
+    "weight": 0.375
+   },
+   {
+    "word": "研究",
+    "count": 15,
+    "weight": 0.375
+   },
+   {
+    "word": "用户",
+    "count": 15,
+    "weight": 0.375
+   },
+   {
+    "word": "跨境",
+    "count": 14,
+    "weight": 0.35
+   },
+   {
+    "word": "管理",
+    "count": 14,
+    "weight": 0.35
+   },
+   {
+    "word": "影响",
+    "count": 14,
+    "weight": 0.35
+   },
+   {
+    "word": "门店",
+    "count": 14,
+    "weight": 0.35
+   },
+   {
+    "word": "志愿者",
+    "count": 14,
+    "weight": 0.35
+   },
+   {
+    "word": "序列",
+    "count": 14,
+    "weight": 0.35
+   },
+   {
+    "word": "法律",
+    "count": 13,
+    "weight": 0.325
+   },
+   {
+    "word": "规模",
+    "count": 13,
+    "weight": 0.325
+   },
+   {
+    "word": "案例",
+    "count": 13,
+    "weight": 0.325
+   },
+   {
+    "word": "GPS",
+    "count": 13,
+    "weight": 0.325
+   },
+   {
+    "word": "机器",
+    "count": 13,
+    "weight": 0.325
+   },
+   {
+    "word": "安全",
+    "count": 13,
+    "weight": 0.325
+   },
+   {
+    "word": "智能",
+    "count": 13,
+    "weight": 0.325
+   },
+   {
+    "word": "违法",
+    "count": 12,
+    "weight": 0.3
+   },
+   {
+    "word": "记录",
+    "count": 12,
+    "weight": 0.3
+   },
+   {
+    "word": "产品",
+    "count": 12,
+    "weight": 0.3
+   },
+   {
+    "word": "医生",
+    "count": 12,
+    "weight": 0.3
+   },
+   {
+    "word": "全球",
+    "count": 11,
+    "weight": 0.275
+   },
+   {
+    "word": "腐败",
+    "count": 11,
+    "weight": 0.275
+   },
+   {
+    "word": "合作",
+    "count": 11,
+    "weight": 0.275
+   },
+   {
+    "word": "合规",
+    "count": 11,
+    "weight": 0.275
+   },
+   {
+    "word": "调查",
+    "count": 11,
+    "weight": 0.275
+   },
+   {
+    "word": "无法",
+    "count": 11,
+    "weight": 0.275
+   },
+   {
+    "word": "老人",
+    "count": 11,
+    "weight": 0.275
+   },
+   {
+    "word": "力量",
+    "count": 11,
+    "weight": 0.275
+   },
+   {
+    "word": "设备",
+    "count": 11,
+    "weight": 0.275
+   }
+  ],
+  "market_mood": 4.0,
   "market_mood_level": "中性",
-  "sector_impacts": {
-   "PCB": {
-    "sector": "PCB",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "中证A500": {
-    "sector": "中证A500",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "中证红利低波": {
-    "sector": "中证红利低波",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "半导体材料": {
-    "sector": "半导体材料",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "半导体材料设备": {
-    "sector": "半导体材料设备",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "混债": {
-    "sector": "混债",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "港股创新药": {
-    "sector": "港股创新药",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "纳斯达克100": {
-    "sector": "纳斯达克100",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   }
+  "sector_impacts": {},
+  "advices": [],
+  "forecast": [],
+  "category_dist": {
+   "时政": 6,
+   "话题": 1,
+   "社会": 6,
+   "纪事": 1,
+   "财经": 6,
+   "科技": 4,
+   "新闻联播": 29
   },
-  "advices": [
+  "top_news": [
    {
-    "code": "020640",
-    "name": "广发半导体材料设备ETF联接C",
-    "sector": "半导体材料",
-    "weight": 8.55,
-    "tiny": false,
-    "earn_pct": -1.72,
-    "day_pct": -0.76,
-    "year_pct": 81.54,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 62.0,
-    "deviation": 31.6,
-    "total_score": 24.9,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
+    "id": 22146,
+    "title": "美国制裁60个伊朗关联对象：真正压力落在中国采购与结算链",
+    "summary": "【一句话判断】美国首轮行动尚未处罚中国大型金融机构，真正决定冲击强度的，是制裁会不会从外围采购和航运网络推进到中国炼厂付款、银行结算与保险服务。",
+    "category": "时政",
+    "heat": 92.0,
+    "sentiment": -9,
+    "sent_hits": [
+     "扩大",
+     "下跌",
+     "风险",
+     "制裁",
+     "收紧",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "保险"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济",
+       "财政"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T12:36:10",
+    "source": "日知录",
+    "story_len": 3780
    },
    {
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波ETF联接A",
-    "sector": "中证红利低波",
-    "weight": 4.29,
-    "tiny": false,
-    "earn_pct": -1.2,
-    "day_pct": 1.01,
-    "year_pct": 1.09,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 12.3,
-    "deviation": 65.7,
-    "total_score": 16.8,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 4.3% 偏低"
+    "id": 22166,
+    "title": "今日话题｜既然确认无过错，为什么还要让好人赔偿1.9万？",
+    "summary": "【话题金句】慰问金可以补回1.9万元，却补不回一条被弄模糊的规矩。真正保护善意，不是事后奖励好人，而是让守规矩的人不必花钱买平安。",
+    "category": "话题",
+    "heat": 96.0,
+    "sentiment": -4,
+    "sent_hits": [
+     "支持",
+     "风险",
+     "冲突",
+     "调查",
+     "紧张"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-25T15:46:21",
+    "source": "日知录",
+    "story_len": 1840
    },
    {
-    "code": "017811",
-    "name": "东方人工智能主题混合C",
-    "sector": "半导体材料设备",
-    "weight": 13.83,
-    "tiny": false,
-    "earn_pct": -0.65,
-    "day_pct": -1.08,
-    "year_pct": 108.89,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 59.5,
-    "deviation": -10.6,
-    "total_score": 15.7,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
+    "id": 22147,
+    "title": "浙江17万名“急救侠”覆盖九成村社：救护车到达前，先派最近的人",
+    "summary": "浙江已有17万名注册“急救侠”，覆盖超过九成村庄和社区。院前急救由此有了新的起跑方式：120接警后，专业急救人员赶往现场，附近经过培训的志愿者也能同步出发，抢回最容易被交通和距离吃掉的几分钟。",
+    "category": "社会",
+    "heat": 93.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "复苏",
+     "新高"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-25T12:36:10",
+    "source": "日知录",
+    "story_len": 3166
    },
    {
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "sector": "混债",
-    "weight": 4.18,
-    "tiny": false,
-    "earn_pct": -0.56,
-    "day_pct": -0.68,
-    "year_pct": 5.64,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 6.3,
-    "deviation": 66.6,
-    "total_score": 15.2,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 4.2% 偏低"
+    "id": 22162,
+    "title": "道路交通安全法修订草案为自动驾驶设专章：系统违法车企交罚款",
+    "summary": "【一句话判断】自动驾驶系统接管驾驶任务后，交通违法不能继续只找驾驶人；把系统投放到道路上并掌握数据和纠错能力的企业，也必须进入处理程序。",
+    "category": "社会",
+    "heat": 92.0,
+    "sentiment": -5,
+    "sent_hits": [
+     "事故",
+     "罚款",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "保险"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T13:07:49",
+    "source": "日知录",
+    "story_len": 1375
    },
    {
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "sector": "港股创新药",
-    "weight": 5.27,
-    "tiny": false,
-    "earn_pct": 1.0,
-    "day_pct": -2.72,
-    "year_pct": 8.37,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": -2.5,
-    "deviation": 57.8,
-    "total_score": 10.8,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 5.3% 偏低"
+    "id": 22099,
+    "title": "给餐厅消杀的人说自己“打死也不吃”：敌敌畏被曝进入连锁后厨",
+    "summary": "厦门一家消杀公司被曝长期使用敌敌畏为数十家餐饮门店灭虫，员工将药剂装进矿泉水瓶、撕掉标签，服务单据却填写其他产品。监管调查结果尚未公布，但责任逻辑已经清楚：消杀公司不能拿客户授权掩护违规用药，餐厅也不能用“我们受骗了”结束追责。消杀可以外包，食品安全责任不能一起外包。",
+    "category": "社会",
+    "heat": 96.0,
+    "sentiment": -3,
+    "sent_hits": [
+     "合作",
+     "风险",
+     "事故",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "药品"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T01:38:01",
+    "source": "日知录",
+    "story_len": 2894
    },
    {
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "sector": "PCB",
-    "weight": 16.57,
-    "tiny": false,
-    "earn_pct": -4.8,
-    "day_pct": -4.28,
-    "year_pct": 71.47,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 42.1,
-    "deviation": -32.6,
-    "total_score": 6.1,
-    "action": "维持观望",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
+    "id": 22155,
+    "title": "私募基金达到25.73万亿元：创新高的是哪部分钱",
+    "summary": "截至2026年7月底，存续私募基金144727只，规模25.73万亿元，首次站上25万亿元；私募股权基金规模11.93万亿元，证券私募9.10万亿元，创业投资基金4.45万亿元。",
+    "category": "财经",
+    "heat": 87.0,
+    "sentiment": 6,
+    "sent_hits": [
+     "上涨",
+     "新高",
+     "创新",
+     "上市",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "资本市场"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T14:14:40",
+    "source": "日知录",
+    "story_len": 545
    },
    {
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "sector": "纳斯达克100",
-    "weight": 25.08,
-    "tiny": false,
-    "earn_pct": -0.6,
-    "day_pct": 0.33,
-    "year_pct": 11.13,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 28.1,
-    "deviation": -100,
-    "total_score": -11.6,
-    "action": "持有偏谨慎",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上；仓位占比 25.1% 偏集中"
+    "id": 22165,
+    "title": "今日纪事｜17万人连成一张急救地图：浙江把陌生人的善意接了起来",
+    "summary": "【纪事金句】人性让一个人愿意奔向陌生人，制度让17万人能够被看见、被训练、被调度；浙江的创举，是把这两种力量接在一起。",
+    "category": "纪事",
+    "heat": 95.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "复苏",
+     "优化"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "保险"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T15:46:23",
+    "source": "日知录",
+    "story_len": 3710
    },
    {
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "sector": "中证A500",
-    "weight": 22.23,
-    "tiny": false,
-    "earn_pct": -0.42,
-    "day_pct": -1.47,
-    "year_pct": 1.51,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": -10.1,
-    "deviation": -77.8,
-    "total_score": -18.6,
-    "action": "持有偏谨慎",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 22.2% 偏集中"
+    "id": 22156,
+    "title": "2183家公司交出半年报：哪些赛道真正挣到了钱",
+    "summary": "截至8月24日收盘，A股已有2183家公司披露2026年半年报，其中1308家公司净利润同比增长，占59.92%；401家公司提出中期分红方案，利润增长主要集中于AI算力硬件、有色金属、基础化工、电力设备和创新药。",
+    "category": "财经",
+    "heat": 86.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "增长",
+     "创新",
+     "繁荣",
+     "景气",
+     "承压"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "算力",
+       "半导体",
+       "AI",
+       "存储"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "A股",
+       "内需",
+       "消费",
+       "制造业"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "分红",
+       "电力"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "创新药",
+       "新药"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-25T14:14:40",
+    "source": "日知录",
+    "story_len": 540
+   },
+   {
+    "id": 22106,
+    "title": "全国充电设施达到2368.3万：下一道题从“有没有”变“好不好用”",
+    "summary": "国家能源局数据显示，截至2026年7月底，全国电动汽车充电基础设施达到2368.3万个，同比增长41.9%；其中公共充电设施509.9万个、私人充电设施1858.4万个，私人设施增速明显更快。",
+    "category": "财经",
+    "heat": 93.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "增长"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T02:09:07",
+    "source": "日知录",
+    "story_len": 611
+   },
+   {
+    "id": 22148,
+    "title": "1.33亿部新手机98%支持北斗：中国完成一次无声的国民级替代",
+    "summary": "1991年海湾战争让世界看见GPS怎样改变现代战争，三年后中国启动北斗工程。2026年上半年，国内约1.33亿部新手机中超过98%支持北斗。北斗与GPS兼容工作，中国由此结束了关键时空能力只能依赖境外系统的历史。",
+    "category": "科技",
+    "heat": 92.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "支持",
+     "开放"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T13:07:49",
+    "source": "日知录",
+    "story_len": 2839
+   },
+   {
+    "id": 22149,
+    "title": "中国反腐败准备跨越国境线：人逃到海外，钱要沿着全球账户追回",
+    "summary": "反跨境腐败法草案首次提请全国人大常委会审议。它要解决的已经不只是把外逃人员追回来，而是把境外取证、追逃追赃、国际合作和企业廉洁合规接成一条完整责任链。边境不再是腐败调查的终点，而要成为追责的下一站。",
+    "category": "时政",
+    "heat": 96.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "合作",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "财政",
+       "外资"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T13:07:49",
+    "source": "日知录",
+    "story_len": 3210
+   },
+   {
+    "id": 22098,
+    "title": "AI开始自己付款：一句“帮我订旅行”，到底授权它花多少钱？",
+    "summary": "中国支付清算协会发布智能体支付应用自律公约，把AI支付分为辅助支付、预设条件下自主支付和广义条件下自主支付三个阶段。过去每笔网购最终都要等人点击确认，未来AI可能自己选商品、下单并付款。规则既要防止平台用“用户已经授权”推卸越权责任，也要防止用户在交易完成后用“都是AI买的”逃避有效授权产生的账单。",
+    "category": "科技",
+    "heat": 92.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "水电"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T01:38:01",
+    "source": "日知录",
+    "story_len": 2905
    }
   ],
-  "forecast": [
+  "scored_news": [
    {
-    "sector": "半导体材料设备",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.9,
-    "note": "消息面 +0 / 中期动量 +100"
+    "id": 22149,
+    "title": "中国反腐败准备跨越国境线：人逃到海外，钱要沿着全球账户追回",
+    "summary": "反跨境腐败法草案首次提请全国人大常委会审议。它要解决的已经不只是把外逃人员追回来，而是把境外取证、追逃追赃、国际合作和企业廉洁合规接成一条完整责任链。边境不再是腐败调查的终点，而要成为追责的下一站。",
+    "category": "时政",
+    "heat": 96.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "合作",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "财政",
+       "外资"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T13:07:49",
+    "source": "日知录",
+    "story_len": 3210
    },
    {
-    "sector": "半导体材料",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.7,
-    "note": "消息面 +0 / 中期动量 +99"
+    "id": 22166,
+    "title": "今日话题｜既然确认无过错，为什么还要让好人赔偿1.9万？",
+    "summary": "【话题金句】慰问金可以补回1.9万元，却补不回一条被弄模糊的规矩。真正保护善意，不是事后奖励好人，而是让守规矩的人不必花钱买平安。",
+    "category": "话题",
+    "heat": 96.0,
+    "sentiment": -4,
+    "sent_hits": [
+     "支持",
+     "风险",
+     "冲突",
+     "调查",
+     "紧张"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-25T15:46:21",
+    "source": "日知录",
+    "story_len": 1840
    },
    {
-    "sector": "PCB",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.3,
-    "note": "消息面 +0 / 中期动量 +98"
+    "id": 22099,
+    "title": "给餐厅消杀的人说自己“打死也不吃”：敌敌畏被曝进入连锁后厨",
+    "summary": "厦门一家消杀公司被曝长期使用敌敌畏为数十家餐饮门店灭虫，员工将药剂装进矿泉水瓶、撕掉标签，服务单据却填写其他产品。监管调查结果尚未公布，但责任逻辑已经清楚：消杀公司不能拿客户授权掩护违规用药，餐厅也不能用“我们受骗了”结束追责。消杀可以外包，食品安全责任不能一起外包。",
+    "category": "社会",
+    "heat": 96.0,
+    "sentiment": -3,
+    "sent_hits": [
+     "合作",
+     "风险",
+     "事故",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "药品"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T01:38:01",
+    "source": "日知录",
+    "story_len": 2894
    },
    {
-    "sector": "纳斯达克100",
-    "bias": "偏多震荡",
-    "prob": 54,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 14.2,
-    "note": "消息面 +0 / 中期动量 +35"
+    "id": 22165,
+    "title": "今日纪事｜17万人连成一张急救地图：浙江把陌生人的善意接了起来",
+    "summary": "【纪事金句】人性让一个人愿意奔向陌生人，制度让17万人能够被看见、被训练、被调度；浙江的创举，是把这两种力量接在一起。",
+    "category": "纪事",
+    "heat": 95.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "复苏",
+     "优化"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "保险"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T15:46:23",
+    "source": "日知录",
+    "story_len": 3710
    },
    {
-    "sector": "港股创新药",
-    "bias": "偏多震荡",
-    "prob": 53,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 10.9,
-    "note": "消息面 +0 / 中期动量 +27"
+    "id": 22105,
+    "title": "上海拟5年新增25万-27万套保租房：城市更新给“存量生活”做手术",
+    "summary": "上海发布城市更新和住房发展“十五五”规划，提出到2030年新增供应保障性租赁住房25万至27万套（间）、新增建设者管理者之家床位12万张，并推进城中村、旧住房和老旧小区改造。",
+    "category": "时政",
+    "heat": 94.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "2026-08-25T02:09:07",
+    "source": "日知录",
+    "story_len": 706
    },
    {
-    "sector": "混债",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 7.4,
-    "note": "消息面 +0 / 中期动量 +19"
+    "id": 22147,
+    "title": "浙江17万名“急救侠”覆盖九成村社：救护车到达前，先派最近的人",
+    "summary": "浙江已有17万名注册“急救侠”，覆盖超过九成村庄和社区。院前急救由此有了新的起跑方式：120接警后，专业急救人员赶往现场，附近经过培训的志愿者也能同步出发，抢回最容易被交通和距离吃掉的几分钟。",
+    "category": "社会",
+    "heat": 93.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "复苏",
+     "新高"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-25T12:36:10",
+    "source": "日知录",
+    "story_len": 3166
    },
    {
-    "sector": "中证A500",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 2.0,
-    "note": "消息面 +0 / 中期动量 +5"
+    "id": 22106,
+    "title": "全国充电设施达到2368.3万：下一道题从“有没有”变“好不好用”",
+    "summary": "国家能源局数据显示，截至2026年7月底，全国电动汽车充电基础设施达到2368.3万个，同比增长41.9%；其中公共充电设施509.9万个、私人充电设施1858.4万个，私人设施增速明显更快。",
+    "category": "财经",
+    "heat": 93.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "增长"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T02:09:07",
+    "source": "日知录",
+    "story_len": 611
    },
    {
-    "sector": "中证红利低波",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 1.5,
-    "note": "消息面 +0 / 中期动量 +4"
+    "id": 22148,
+    "title": "1.33亿部新手机98%支持北斗：中国完成一次无声的国民级替代",
+    "summary": "1991年海湾战争让世界看见GPS怎样改变现代战争，三年后中国启动北斗工程。2026年上半年，国内约1.33亿部新手机中超过98%支持北斗。北斗与GPS兼容工作，中国由此结束了关键时空能力只能依赖境外系统的历史。",
+    "category": "科技",
+    "heat": 92.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "支持",
+     "开放"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T13:07:49",
+    "source": "日知录",
+    "story_len": 2839
+   },
+   {
+    "id": 22146,
+    "title": "美国制裁60个伊朗关联对象：真正压力落在中国采购与结算链",
+    "summary": "【一句话判断】美国首轮行动尚未处罚中国大型金融机构，真正决定冲击强度的，是制裁会不会从外围采购和航运网络推进到中国炼厂付款、银行结算与保险服务。",
+    "category": "时政",
+    "heat": 92.0,
+    "sentiment": -9,
+    "sent_hits": [
+     "扩大",
+     "下跌",
+     "风险",
+     "制裁",
+     "收紧",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "保险"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济",
+       "财政"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T12:36:10",
+    "source": "日知录",
+    "story_len": 3780
+   },
+   {
+    "id": 22162,
+    "title": "道路交通安全法修订草案为自动驾驶设专章：系统违法车企交罚款",
+    "summary": "【一句话判断】自动驾驶系统接管驾驶任务后，交通违法不能继续只找驾驶人；把系统投放到道路上并掌握数据和纠错能力的企业，也必须进入处理程序。",
+    "category": "社会",
+    "heat": 92.0,
+    "sentiment": -5,
+    "sent_hits": [
+     "事故",
+     "罚款",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "保险"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T13:07:49",
+    "source": "日知录",
+    "story_len": 1375
+   },
+   {
+    "id": 22098,
+    "title": "AI开始自己付款：一句“帮我订旅行”，到底授权它花多少钱？",
+    "summary": "中国支付清算协会发布智能体支付应用自律公约，把AI支付分为辅助支付、预设条件下自主支付和广义条件下自主支付三个阶段。过去每笔网购最终都要等人点击确认，未来AI可能自己选商品、下单并付款。规则既要防止平台用“用户已经授权”推卸越权责任，也要防止用户在交易完成后用“都是AI买的”逃避有效授权产生的账单。",
+    "category": "科技",
+    "heat": 92.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "水电"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T01:38:01",
+    "source": "日知录",
+    "story_len": 2905
+   },
+   {
+    "id": 22109,
+    "title": "废旧服务器成了境外窃密跳板：删除文件不等于数据消失",
+    "summary": "国家安全机关和保密部门披露多起废旧涉密设备处置不当导致泄密的案例：数据从硬盘等设备中被恢复，未报废服务器还被境外间谍情报机关入侵并用于窃密，暴露设备退出环节的管理漏洞。",
+    "category": "时政",
+    "heat": 90.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "服务器",
+       "存储"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-25T02:07:22",
+    "source": "日知录",
+    "story_len": 547
+   },
+   {
+    "id": 22154,
+    "title": "再增50个场景：公共数据怎样真正“跑起来”",
+    "summary": "国家数据局发布新一批50个公共数据“跑起来”示范场景；加上此前四批公布的100个场景，公共数据开发正进入医疗互认、商户资质核验、交通物流和基层减负等具体应用。",
+    "category": "时政",
+    "heat": 88.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-25T14:14:40",
+    "source": "日知录",
+    "story_len": 520
+   },
+   {
+    "id": 22111,
+    "title": "半年上市超600款新车：汽车“快消化”正在逼质量体系踩刹车",
+    "summary": "2026年上半年，国内上市新车按不同平台全口径统计约576款至600余款，平均每天超过3款；新能源汽车研发周期普遍压缩至18至24个月。工信部要求车企抵制非理性竞争，加强可靠性、耐久性和新技术测试验证。",
+    "category": "财经",
+    "heat": 88.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "量产",
+     "上市",
+     "提升",
+     "风险",
+     "停产"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "电子"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T02:07:22",
+    "source": "日知录",
+    "story_len": 681
+   },
+   {
+    "id": 22155,
+    "title": "私募基金达到25.73万亿元：创新高的是哪部分钱",
+    "summary": "截至2026年7月底，存续私募基金144727只，规模25.73万亿元，首次站上25万亿元；私募股权基金规模11.93万亿元，证券私募9.10万亿元，创业投资基金4.45万亿元。",
+    "category": "财经",
+    "heat": 87.0,
+    "sentiment": 6,
+    "sent_hits": [
+     "上涨",
+     "新高",
+     "创新",
+     "上市",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "资本市场"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T14:14:40",
+    "source": "日知录",
+    "story_len": 545
+   },
+   {
+    "id": 22086,
+    "title": "国管公积金新政落地，首套房最高可贷340万",
+    "summary": "国管公积金发布新政，双缴存职工家庭叠加上浮政策后，首套房公积金最高贷款额度可达340万元。",
+    "category": "财经",
+    "heat": 86.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "优化"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-24T22:37:45",
+    "source": "日知录",
+    "story_len": 254
+   },
+   {
+    "id": 22156,
+    "title": "2183家公司交出半年报：哪些赛道真正挣到了钱",
+    "summary": "截至8月24日收盘，A股已有2183家公司披露2026年半年报，其中1308家公司净利润同比增长，占59.92%；401家公司提出中期分红方案，利润增长主要集中于AI算力硬件、有色金属、基础化工、电力设备和创新药。",
+    "category": "财经",
+    "heat": 86.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "增长",
+     "创新",
+     "繁荣",
+     "景气",
+     "承压"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "算力",
+       "半导体",
+       "AI",
+       "存储"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "A股",
+       "内需",
+       "消费",
+       "制造业"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "分红",
+       "电力"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "创新药",
+       "新药"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-25T14:14:40",
+    "source": "日知录",
+    "story_len": 540
+   },
+   {
+    "id": 22113,
+    "title": "AI说“做雾化就行”导致3岁孩子住院：最怕用户把AI建议当诊断",
+    "summary": "杭州媒体报道，一名3岁男童咳喘后，家长依据AI判断拒绝医生建议的检查，回家雾化两天后因病情加重住院，确诊偏肺病毒肺炎并合并细菌感染。医生提醒，AI无法替代查体、检验和急诊判断。",
+    "category": "社会",
+    "heat": 86.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "大模型"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-25T02:07:22",
+    "source": "日知录",
+    "story_len": 579
+   },
+   {
+    "id": 22150,
+    "title": "人类研究基因“启动按钮”46年，AI从50万个DNA版本里读懂密码",
+    "summary": "科学家早在1980年就观察到控制基因转录起点的“起始子”，却长期无法完整描述它的序列规律。加州大学圣迭戈分校团队测试约50万个DNA序列版本，再用机器学习建立预测模型。实验室生产真实数据，AI把人类难以逐项比较的结果读成了一套基因启动规则。",
+    "category": "科技",
+    "heat": 85.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "支持"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T13:07:49",
+    "source": "日知录",
+    "story_len": 3059
+   },
+   {
+    "id": 22157,
+    "title": "光学芯片重大突破！一块芯片可以同时完成加法、减法和比较",
+    "summary": "兰州大学田永辉教授团队研制出可重构光学算术逻辑单元芯片，可在同一硬件平台完成逻辑运算、2位加法、减法和数字比较；实验速度达到20Gb/s，能效为12.36飞焦/比特。",
+    "category": "科技",
+    "heat": 85.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "突破"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片",
+       "AI",
+       "电子",
+       "存储"
+      ],
+      "n": 4
+     }
+    ],
+    "publish_time": "2026-08-25T14:14:40",
+    "source": "日知录",
+    "story_len": 426
+   },
+   {
+    "id": 22114,
+    "title": "24家文学刊物联合拒收AI稿：真正难题是怎样证明一篇文章属于谁",
+    "summary": "来自江苏、江西、甘肃、湖北等地的24家文学刊物联合声明，拒收AI生成、洗稿或实质性辅助创作的作品，并称查实后可能联合封禁作者。声明引出AI检测误判、使用边界和申诉机制问题。",
+    "category": "社会",
+    "heat": 85.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T02:07:22",
+    "source": "日知录",
+    "story_len": 596
+   },
+   {
+    "id": 22116,
+    "title": "全国收购小麦超过9000万吨：最低收购价托住的是农民卖粮底线",
+    "summary": "国家粮食和物资储备局8月24日公布，全国各类粮食经营主体累计收购小麦超过9000万吨；江西、湖南已启动早籼稻最低收购价执行预案，河南启动小麦最低收购价执行预案。",
+    "category": "时政",
+    "heat": 83.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "开放",
+     "上市",
+     "丰收"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T02:07:22",
+    "source": "日知录",
+    "story_len": 512
+   },
+   {
+    "id": 22118,
+    "title": "今年新兴产业国家标准已发布超1400项：抢先机也抢规则定义权",
+    "summary": "市场监管总局披露，2026年以来已发布国家标准2800余项，其中新兴产业国家标准超过1400项，占比过半，覆盖信息技术、新材料、高端装备、新能源和节能环保等领域。",
+    "category": "财经",
+    "heat": 81.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "领先"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "人工智能"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T02:07:22",
+    "source": "日知录",
+    "story_len": 561
+   },
+   {
+    "id": 22125,
+    "title": "扶老人遭索赔1.9万元，店主获2万元慰问金",
+    "summary": "湖南祁东店主帮扶晕倒老人送医后离世，家属索赔10万元经协商降至1.9万元。有关部门确认店主无过错、不担责，当地企业送上2万元慰问金鼓励善举。",
+    "category": "社会",
+    "heat": 80.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "调查"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-25T08:26:10",
+    "source": "日知录",
+    "story_len": 517
+   },
+   {
+    "id": "xwlb-0",
+    "title": "【新思想引领新征程】为人民出政绩 以实干出政绩",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-1",
+    "title": "央视快评：努力创造经得起实践人民历史检验的实绩",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-2",
+    "title": "十四届全国人大常委会第二十四次会议在京举行 赵乐际主持",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-3",
+    "title": "全国政协十四届常委会第十八次会议开幕 王沪宁出席",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-4",
+    "title": "韩正会见印度国家安全顾问、中印边界问题印方特别代表多瓦尔",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-5",
+    "title": "全国夏粮收购进入高峰 累计收购总量超9000万吨",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-6",
+    "title": "前7个月我国交通运输主要指标保持增长",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 2,
+    "sent_hits": [
+     "增长"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-7",
+    "title": "我国加快推进公共数据开放共享 赋能千行百业",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 2,
+    "sent_hits": [
+     "加快",
+     "开放"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-8",
+    "title": "第二十六届投洽会将于9月8日至11日在厦门举行",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-9",
+    "title": "首批国家公园生态系统质量和旗舰物种数量实现双提升",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "提升"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-10",
+    "title": "国内联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-11",
+    "title": "上半年全国新开工建设口袋公园超2800个",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-12",
+    "title": "截至7月底我国电动汽车充电基础设施总数超2360万个",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-13",
+    "title": "“十五五”期间我国将为参保人建立个人医保云",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医保"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-14",
+    "title": "各地组织开展残疾预防科普活动",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-15",
+    "title": "第十一届APEC粮食安全部长级会议达成多项重要成果",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-16",
+    "title": "驻香港部队组织第29次建制单位轮换",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-17",
+    "title": "第三批“青年律师西部锻炼计划”启动",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-18",
+    "title": "北京口岸今年出入境人员总量突破1500万人次",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 2,
+    "sent_hits": [
+     "突破"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-19",
+    "title": "济南黄岗路黄河隧道今天通车",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-20",
+    "title": "受台风影响 未来三天南方部分地区有大到暴雨",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-21",
+    "title": "美宣布对伊朗实施新一轮制裁措施 伊朗称美国将再遭失败",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": -3,
+    "sent_hits": [
+     "制裁"
+    ],
+    "sectors": [
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-22",
+    "title": "美威胁进一步提高对加关税 加称不接受不平等双边关系",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": -2,
+    "sent_hits": [
+     "关税"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-23",
+    "title": "英首相称已批准与乌分享导弹制造技术 俄称将摧毁相关目标",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-24",
+    "title": "国际联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-25",
+    "title": "古特雷斯敦促各方合作尽快解决航运阻断",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-26",
+    "title": "也门胡塞武装称袭击沙特油轮及军事目标",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-27",
+    "title": "欧盟气候机构称全球日均海表温度创新高",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 4,
+    "sent_hits": [
+     "新高",
+     "创新"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-28",
+    "title": "法国南部遭龙卷风袭击",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
    }
   ],
-  "category_dist": {},
-  "top_news": [],
-  "scored_news": [],
   "stats": {
-   "news_total": 0,
-   "xwlb_total": 0,
-   "scored_total": 0,
-   "pos": 0,
-   "neg": 0,
-   "neutral": 0
+   "news_total": 24,
+   "xwlb_total": 29,
+   "scored_total": 53,
+   "pos": 18,
+   "neg": 11,
+   "neutral": 24
   }
  },
- "news_raw": [],
- "xwlb_raw": []
+ "news_raw": [
+  {
+   "id": 22149,
+   "title": "中国反腐败准备跨越国境线：人逃到海外，钱要沿着全球账户追回",
+   "summary": "反跨境腐败法草案首次提请全国人大常委会审议。它要解决的已经不只是把外逃人员追回来，而是把境外取证、追逃追赃、国际合作和企业廉洁合规接成一条完整责任链。边境不再是腐败调查的终点，而要成为追责的下一站。",
+   "heat": 96.0,
+   "category": "时政",
+   "story": "2011年，江西鄱阳县财政局一个股长卷走公款，举家飞往新加坡。\n\n他为这次出逃做过周密准备：提前办理投资移民，通过地下钱庄把数千万元转到境外，还专门选择了一个当时没有与中国签订引渡条约的国家。\n\n在他的设想里，只要人跨过国境，法律就会留在身后。\n\n结果，他在新加坡只安稳了一个多月。中方提交的资金转移和移民申请材料很快成为当地办案依据，新加坡警方冻结资产并将他逮捕。双方没有引渡条约，仍然通过异地追诉、司法协助和移民法遣返，把他送回中国。\n\n这个人叫李华波。他涉嫌伙同他人骗取9400万元财政资金。为了办成这起案子，国内多部门开了四十多次协调会，中方工作组先后八次前往新加坡磋商。\n\n追一个人，已经如此费力。追一笔被拆散、转账、代持，再藏进房产、公司和信托里的钱，只会更难。\n\n8月25日，反跨境腐败法草案首次提请全国人大常委会审议。草案共六章四十七条，公开披露的内容包括工作范围与机制、案件办理、国际合作、企业廉洁合规义务和法律责任。\n\n这部法律准备解决的核心问题很直接：人、钱和证据都能跨境，追责也必须跟着跨境。\n\n一个人逃走，留下四道跨国难题\n\n传统腐败案件通常发生在一国之内：人能找到，账户能查询，证人可以传唤，法院的裁判也能直接执行。\n\n一旦跨境，案件会被迅速拆成几块。\n\n人住在甲国，赃款经过乙国银行，房产登记在丙国，代持公司设在离岸司法管辖区，关键证人又在另一个国家。中国办案机关掌握的材料，要符合外国法院的证据规则；境内作出的冻结、没收决定，也要经过当地法律程序才能落到境外资产上。\n\n中国银行开平支行案就是一个极端样本。许超凡等人涉嫌贪污、挪用4.85亿美元，经中国香港、加拿大逃往美国。许超凡外逃17年后才被遣返回国，办案单位和中国银行从境内外追回的涉案赃款超过20亿元。\n\n这17年并非简单地“等人回来”。执法、司法、外交、反洗钱部门要共同寻找资金、交换证据、推动外国执法机关行动，还要处理两国法律对罪名、证据和程序的不同要求。\n\n所以，跨境反腐最难的从来不只是“知道他躲在哪里”。真正的难题是四个：发现线索、取得证据、把人带回、把钱追回。\n\n新华社对草案的概括也直接点出了这四个堵点：发现难、取证难、追赃难、定罪难。\n\n新法要把分散的工具装进一条责任链\n\n中国此前并非没有跨境追逃追赃工具。\n\n《引渡法》解决符合条件时怎样把人引渡回国；《国际刑事司法协助法》规定了调查取证、冻结财产、没收和返还违法所得等合作程序；刑事诉讼中的违法所得没收程序，可以在犯罪嫌疑人、被告人逃匿等情况下依法处理涉案财产；《联合国反腐败公约》以及双边条约，又为国家之间的合作提供依据。\n\n这些制度已经办成了不少硬案。2025年1月至11月，国家监委开展职务犯罪境外追赃挽损专项行动，共追回赃款236.57亿元。\n\n但现有工具分散在不同法律、部门和合作机制里。一个案件可能同时要动用监察调查、刑事司法协助、反洗钱、出入境管理、外交磋商以及外国当地诉讼。任何一环衔接不畅，人可能跑掉，钱也可能在等待中再次转移。\n\n反跨境腐败法的价值，就在于把这些环节放进一部专门法律：谁发现线索，谁负责协调，案件怎样办理，怎样提出国际合作请求，境外资产如何追缴，各部门之间如何交换信息。\n\n目前草案全文尚未公布，具体权限、程序和救济机制仍要等待后续审议。可以确定的是，立法方向已经从“追一个逃犯”走向“治理一条跨境腐败链”。\n\n腐败不一定带着人出逃，钱和交易也会自己出境\n\n“跨境腐败”很容易让人想到外逃贪官。草案专门写入企业廉洁合规义务，说明它面对的范围更大。\n\n一家企业到海外承接工程、获取矿权、申请许可或者参与政府采购，可能要经过顾问、代理商、经销商和当地合作伙伴。账面上，一笔钱可以叫咨询费、市场开拓费或者服务佣金；实际流向却可能是掌握审批权的人，或者他的亲属和关联公司。\n\n在这种交易里，签合同的人、付款的人和真正获利的人往往互不相同。“不了解中间人怎样办事”，也可能只是企业主动留下的一块合规盲区。\n\n美国1977年制定《反海外腐败法》，英国2010年出台《反贿赂法》。几十年来，跨国公司已经非常熟悉这套规则：一顿宴请、一趟旅行、一名代理人的异常佣金，都可能进入合规审查。反海外行贿也早已成为国家参与国际经济竞争、塑造商业规则的重要工具。\n\n中国企业越多地走向海外，面对的腐败风险就越复杂。一方面，它们可能遭遇当地权力寻租；另一方面，也可能为了拿项目、抢牌照而把“入乡随俗”当成行贿借口。\n\n反跨境腐败法把企业廉洁合规写进草案，释放的信号十分清楚：海外经营的竞争力，不只包括价格、技术和交付，也包括能否解释清楚每一笔佣金最终进了谁的口袋。\n\n这会影响企业怎样选择代理商、怎样审核合作伙伴、怎样管理礼品宴请和政府关系，也会把董事会、财务部门、审计机构和境外子公司的责任重新摆上桌面。\n\n一部中国法律，无法直接打开所有外国保险柜\n\n反跨境腐败法能够补齐国内规则，却不会自动消除国境线。\n\n外国银行是否冻结账户，外国法院是否承认一份证据，外国政府是否愿意遣返人员，仍然受到当地法律、双边关系、条约安排和个案互信影响。\n\n李华波案恰好说明，引渡条约并不是唯一通道。中国与新加坡依据《联合国反腐败公约》开展司法协助，新加坡按照本国法律追究其转移赃款等行为，再通过移民法实施遣返。引渡之外，还有遣返、异地追诉、劝返和资产追缴等路径。\n\n《联合国反腐败公约》目前有192个缔约方，并把资产返还确立为一项基本原则。这提供了一张覆盖面很大的合作网络，却不意味着每项请求都会自动获准。跨国追赃最终仍要靠证据说话：钱从哪里来，经过哪些账户，谁是真正受益人，中国作出的处理是否符合正当程序，都要能够经受另一套法律体系的审查。\n\n这也决定了新法的成色，最后要由真实案件检验。\n\n下一步最值得观察四件事：草案怎样界定跨境腐败；企业合规义务会具体落到哪些主体；境外证据和资产处置如何衔接；中国能否通过更多条约、执法合作和典型案件，提高追回人和钱的实际效率。\n\n反腐败的地图，准备越过国境线\n\n过去十多年，中国的追逃追赃已经完成了许多看似不可能的个案。李华波以为没有引渡条约就安全，许超凡在美国滞留17年，最终都回到中国接受审判。\n\n但个案依靠长期协调和特别攻坚，成本高、时间长，也很难覆盖越来越复杂的跨境交易。今天的腐败者会使用离岸公司、地下钱庄、虚假贸易、数字资产和多层代持；中国企业的经营版图也已经延伸到全球。\n\n这就是反跨境腐败法出现的时代背景。\n\n它既要让外逃者明白，换一本护照、换一个居住地，并不会让旧账消失；也要让出海企业明白，走到海外，国内的廉洁责任依然跟着合同一起出境。\n\n过去，边境常被腐败者当作法律的终点。\n\n这部草案要做的，是把边境改成调查的下一站，把藏在全球账户里的公共财产，一笔一笔追回来。\n\n来源与口径说明\n\n• 新华社8月25日报道：反跨境腐败法草案首次提请全国人大常委会审议，草案共六章四十七条。草案全文尚未公开，本文没有推定尚未披露的具体管辖范围、处罚标准和企业责任形式。\n• 中央纪委国家监委公开资料：李华波涉嫌贪污9400万元，2011年潜逃新加坡，2015年被遣返回国；中方工作组曾八次赴新加坡磋商。\n• 中央纪委国家监委公开资料：许超凡涉嫌贪污、挪用中国银行资金4.85亿美元，外逃美国17年；截至其2018年被遣返时，境内外已追回涉案赃款20多亿元。\n• 中央纪委国家监委2026年1月披露：2025年1月至11月，职务犯罪境外追赃挽损专项行动追回赃款236.57亿元。\n• 中国人大网：《中华人民共和国国际刑事司法协助法》：该法覆盖调查取证、查封冻结、没收和返还违法所得等国际刑事司法协助事项。\n• 联合国条约资料：截至2026年5月，《联合国反腐败公约》共有192个缔约方；公约第五章将资产返还确立为基本原则。",
+   "impact": "",
+   "publish_time": "2026-08-25T13:07:49",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787633605440-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E8%B4%A5%E5%87%86%E5%A4%87%E8%B7%A8%E8%B6%8A%E5%9B%BD%E5%A2%83%E7%BA%BF.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22166,
+   "title": "今日话题｜既然确认无过错，为什么还要让好人赔偿1.9万？",
+   "summary": "【话题金句】慰问金可以补回1.9万元，却补不回一条被弄模糊的规矩。真正保护善意，不是事后奖励好人，而是让守规矩的人不必花钱买平安。",
+   "heat": 96.0,
+   "category": "话题",
+   "story": "#扶老人反被索赔 #基层调解 #按闹分配 #善意保护 #公共文明\n\n8月17日，湖南祁东一名老人身体不适，走进一家店铺休息，很快晕倒。监控显示，女店主上前帮扶，旁人拨打120，老人随后被送医，最终不幸离世。\n\n接下来的事情却拐向了一个荒唐的方向：老人家属向店家索赔10万元。双方在派出所协商两次，最后以店家支付1.9万元“人道主义补偿”结束纠纷。\n\n公开报道说得很清楚：有关方面确认店主没有过错，不承担法律责任。《民法典》第一百八十四条也明确规定，因自愿实施紧急救助造成受助人损害的，救助人不承担民事责任。\n\n那么问题来了：既然没有过错，为什么最后还是好人掏了钱？\n\n“不是赔偿”，改变不了钱从无责者手里出去了\n\n有人解释，这1.9万元不是法律意义上的赔偿，而是店家自愿给付的“人道主义补偿”。\n\n这个说法在字面上区分了责任，却没有回答最重要的问题：店家为什么要给？\n\n自愿帮助死者家属当然值得尊重。但据店主家属讲述，纠纷已经影响家人的身心状态，他们只想尽快结束。协议写的是“自愿”，现实却是小店要开门、家人要生活，他们耗不起不断交涉。\n\n真正的自愿，不只是最后签了字，还要看一个人有没有不签字也能正常生活的选择。\n\n把“赔偿”换成“人道主义补偿”，并不会自动消除这种压力。法律上无责，现实中花钱买平安，这道裂缝正是公众不安的来源。\n\n调解的成功，不能只看双方有没有签字\n\n辖区派出所向媒体表示，双方已经协商成功，款项也已支付，如有异议可以提起民事诉讼。目前尚无充分公开材料证明，具体由谁主持协商、现场如何释法、有没有不当施压；这些都应等待司法部门的调查，不能先把责任扣在某一名民警头上。\n\n但结果本身必须接受追问。\n\n《人民调解法》要求调解自愿、平等、不违背法律法规，调解者还应“坚持原则，明法析理，主持公道”。本案协商是否属于严格法律意义上的人民调解，仍需当地说明；但这些原则提供了一把衡量解纷质量的尺子。\n\n调解不是把10万元砍到1.9万元就算成功，更不是默认谁比较讲理，谁就应该多退一步。\n\n责任边界已经清楚时，调解首先应告诉双方什么可以主张、什么没有依据。可能发生的堵门、纠缠和扰乱经营，应与民事索赔分开处理。不能一边确认好人无责，一边默认由好人出钱消除风险。\n\n这样的“平事”也许解决了一晚上的警情，却可能制造一个长期示范：只要把压力施加到足够大，无理要求也能换来一点收益。\n\n基层治理不能总靠最老实的人让步\n\n基层派出所承接大量警情和非警务纠纷。一线人员既要防止冲突升级，又要处理治安、刑事和服务群众等事务。人手、时间、法律训练和专业调解资源，都可能影响纠纷怎样结束。\n\n但没有当地警力配置和完整记录，不能断言本案就是“警力不足”或“民警能力不行”。应该追问的是：有没有专职调解员、律师和司法所参与？民事纠纷与可能的扰序行为有没有分开处置？考核调解，看的是签字率，还是合法、公平与真正服众？\n\n基层缺资源值得理解，但资源紧张不能成为模糊是非的理由；恰恰因为一线压力大，更需要把专业力量和清晰规则送到派出所。\n\n派出所也不该独自承担所有民间纠纷。公安负责秩序与违法行为，司法所、人民调解组织和基层律师提供专业支持。边界越清楚，一线民警越不必在“立刻平事”和“依法办事”之间孤军选择。\n\n慰问金表达了人心，却没有完成纠偏\n\n事件引发关注后，有关方面据报道提出全额返还1.9万元；当地一家企业又送去2万元慰问金。店主一家说，以后遇到需要帮助的人，“还是会站出来”。\n\n这份善意令人敬重，社会的声援也不是没有价值。但事情不能停在“好人没吃亏”四个字上。\n\n原来的1.9万元是否已经返还？由谁返还？是撤销或纠正原协议、向收款方追回，还是另由公共资金或者社会力量填补？调解过程有没有复盘？如果确有以堵门等方式施压的行为，是否依法调查？这些问题不说清楚，慰问金就只是给错误结果换了一个付款人。\n\n制度纠偏不是把好人的损失补上，而是让不合理的获益不能成立，让下一名普通人不用等上热搜才得到保护。\n\n一个社会的文明水平，不只体现在危急时刻有没有人愿意伸手。它还体现在伸手的人遭到无理追责时，基层治理能不能替事实说话、替法律站稳、替守规矩的人挡住压力。\n\n这1.9万元不只是一个数字。它在追问：我们究竟是在化解纠纷，还是在奖励更会制造纠纷的人？\n\n如果“谁更能闹，谁就多拿一点；谁更讲理，谁就多退一步”成为默认规则，那么最后被调解掉的，不是矛盾，而是规矩、人心和整个社会互相信任的勇气。",
+   "impact": "",
+   "publish_time": "2026-08-25T15:46:21",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787644214067-%E6%B9%96%E5%8D%97%E7%A5%81%E4%B8%9C%E4%B8%80%E5%90%8D%E8%80%81%E4%BA%BA%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%EF%BC%8C%E8%B5%B0%E8%BF%9B%E4%B8%80%E5%AE%B6%E5%BA%97%E9%93%BA%E4%BC%91%E6%81%AF%EF%BC%8C%E5%BE%88%E5%BF%AB%E6%99%95%E5%80%92.png",
+   "source": "日知录"
+  },
+  {
+   "id": 22099,
+   "title": "给餐厅消杀的人说自己“打死也不吃”：敌敌畏被曝进入连锁后厨",
+   "summary": "厦门一家消杀公司被曝长期使用敌敌畏为数十家餐饮门店灭虫，员工将药剂装进矿泉水瓶、撕掉标签，服务单据却填写其他产品。监管调查结果尚未公布，但责任逻辑已经清楚：消杀公司不能拿客户授权掩护违规用药，餐厅也不能用“我们受骗了”结束追责。消杀可以外包，食品安全责任不能一起外包。",
+   "heat": 96.0,
+   "category": "社会",
+   "story": "“我们消杀过的餐厅，我个人是不会去吃的，打死也不会去吃的。”\n\n说这句话的人不是担心食品安全的顾客，而是媒体调查中一名亲手给餐厅灭虫的工作人员。\n\n8月24日，厦门市湖里区联合调查组通报，一家场地消杀服务企业涉嫌违规开展消杀业务。调查人员已抽检取证、查扣剩余药品，涉事企业在湖里区的经营场所已经关闭。当地还将排查辖区消杀企业。\n\n在监管部门给出最终检测和处理结论以前，哪些门店使用过什么药剂、是否存在残留、责任如何划分，仍需逐项核实。\n\n但媒体暗访揭开的操作链条已经足够离奇：消杀公司被曝使用有机磷农药敌敌畏给数十家餐饮门店灭虫；原液被灌进矿泉水瓶，标签被撕掉；交给餐厅的服务单据上，写的却是另外几种正规药品。\n\n一边是餐厅花钱购买“专业消杀”，一边是施工人员自己不敢去吃。\n\n这不是一次普通的后厨卫生事故。食品安全风险借着专业外包的名义，穿过了连锁餐厅的管理系统。\n\n夜里11点以后，后厨交给了外包公司\n\n餐厅需要灭蟑、灭鼠、灭蝇，这本身是食品安全管理的一部分。规模越大的连锁品牌，越不可能只靠店员拿着喷壶临时处理，委托专业公司并没有错。\n\n漏洞出在外包以后谁还盯着现场。\n\n媒体调查称，消杀作业往往在餐厅闭店后的夜间进行，许多门店员工已经离开。消杀人员进入后厨、用什么药、配多大浓度、喷到哪些区域，餐厅主要依赖服务商自己操作和填单。\n\n一张服务单因此成了关键道具。\n\n如果单据写着合规产品，原装药瓶又被替换成没有标签的矿泉水瓶，门店第二天看到的只是“消杀已经完成”。厨房重新开火，餐具重新摆上桌，顾客更无从知道前一晚发生过什么。\n\n媒体还报道，记者在部分门店采集地面残留液体并使用快速检测，出现敌敌畏阳性结果。它构成重要调查线索，但不能替代监管机构的实验室检测。现在需要等待的，正是官方样品检验、涉及门店范围和残留风险评估。\n\n问题已经不只是一名员工违规喷药，而是一套能够把真实药剂藏在假包装和假记录后面的流程。\n\n几元一瓶，买穿了连锁餐厅的管理防线\n\n为什么有人冒险使用敌敌畏？公开报道给出的答案非常直接：便宜。\n\n涉事员工称，敌敌畏每瓶只需几元，合规使用的部分卫生杀虫产品价格更高。公司给约100平方米场所做一次消杀，市场报价可能只有约200元。人工、交通、设备和药品都要从这笔钱里支出，压低成本最简单的办法，就是在客户看不到的药剂上动手。\n\n更荒唐的细节还包括：部分人员被指缺少相应技能证书，配药不使用量具，只凭手指比划；公司还被曝存放来源不明的杀鼠剂。\n\n这说明低价并非单独作恶。它需要一整条管理链同时失效：采购只比较报价，合同只写“做过消杀”，门店不核药品，施工时无人监督，完工后不查记录、不做必要清洁，也没有随机复核。\n\n最后，连锁品牌买到了一份漂亮的服务单，顾客承担了低价外包留下的未知风险。\n\n此前的甲醛白菜发生在蔬菜收购和运输环节，这一次敌敌畏被曝从专业服务商手里进入后厨。食品安全风险正在提醒所有人：门店检查得再干净，只要外包链条仍是一片盲区，危险照样能够穿着工作服、拎着工具箱走进来。\n\n餐厅可能受骗，主体责任仍在餐厅\n\n多家涉事门店回应称，此前并不知情，部分门店已经停业清洁或停止合作。\n\n如果消杀公司隐瞒药剂、伪造单据，餐厅当然也是受骗者。可是面向消费者，餐厅不能只停在受骗者身份上。\n\n这里存在一种很常见的责任转移。\n\n消杀公司可能说，餐厅授权我们进入后厨灭虫；餐厅又可能说，我们已经把工作交给专业公司，对方违规与自己无关。两份说法拼在一起，最后就会变成：药是有人喷的，门店是有人开的，食品是有人卖的，责任却找不到主人。\n\n客户授权消杀，只授权依法、按合同操作，从来不包括偷换药剂、隐瞒风险和伪造记录。服务商不能拿“受委托”给违规行为披上合法外衣。\n\n餐厅遭到欺骗，也不等于当然尽到了管理责任。是否认真审查供应商、是否长期无人监督、是否核验药品和记录、发现异常后是否及时停业清洁，决定了它是经过审慎管理仍遭欺骗，还是主动把风险留在视线之外。\n\n受骗身份和主体责任可以同时成立。餐厅可以向造假的服务商追偿，消费者也有权追问餐厅为什么让造假持续进入自己的后厨。\n\n国家食品安全标准《餐饮服务通用卫生规范》要求餐饮场所防止有害生物侵入和孳生，采取化学防治时避免污染食品、食品接触面和加工环境。相关病媒生物防制规范还要求选用证照、标签齐全且在有效期内的卫生杀虫剂和杀鼠剂，并由经过专业培训的人员规范操作。\n\n这些要求不能靠外包合同自动完成。\n\n连锁餐厅至少应当回答六个问题：谁审查了服务商资质，谁核验每次带入门店的药品，谁在现场监督，哪些食品和餐具被遮蔽或移走，作业后怎样清洁通风，服务记录能否追溯到具体人员、药剂和用量。\n\n总部也不能把责任全部压给单店。连锁经营最大的优势是统一采购和统一标准；一旦同一家服务商进入多家门店，同一个漏洞也会被统一复制。\n\n外包可以提高效率，也会放大错误。总部替几十家店选择一个供应商，就必须承担比一家小店更严格的审查和抽检责任。“已经交给专业公司”是一种管理安排，不是一张免责证明。\n\n监管要查清的，不只是一瓶敌敌畏\n\n这次调查至少应给公众交代四本账。\n\n第一本是药品账。查明企业购买、储存和使用过哪些药剂，敌敌畏来自哪里，使用了多久、多少量。\n\n第二本是门店账。公布涉及哪些餐饮门店、每家作业时间和频次，不能让所有同名品牌门店长期笼罩在猜测里。\n\n第三本是检测账。对药品、环境、食品接触面和必要样品进行规范检测，说明快速检测线索与实验室结果是否一致，以及门店采取了哪些清洁和复检措施。\n\n第四本是责任账。消杀企业涉嫌隐瞒和违规用药承担什么责任，餐饮企业在供应商审核和现场管理上是否尽责，监管部门接到线索后的检查为何有没有及时阻断后续作业。\n\n当地已经宣布全面排查辖区消杀企业。接下来最有价值的动作，是把检查从“有没有资质”推进到“实际用了什么”：核药品采购票据、库存变化、作业车辆、员工记录、客户台账和门店现场残留，让假单据无法单独证明合规。\n\n餐饮业每天都要面对虫害，专业消杀不会因此消失。真正需要打破的，是一种省事的责任逻辑：把工作包出去，再把事故推给外包公司；接受客户委托，再把违规解释成客户授权。双方都想把合同当盾牌，最终被挡在责任之外的却是消费者。\n\n那个说“打死也不吃”的工作人员，已经把行业里最刺眼的信息差说透了。\n\n给餐厅服务的人知道真相，餐厅只收到一张单据，顾客最后才从新闻里得知风险。食品安全治理要做的，就是把这条倒置的信息链翻过来。\n\n来源与口径说明\n\n截至成稿时，联合调查仍在进行。文中“长期使用”“涉及数十家门店”、药剂换装和单据记录等细节来自媒体暗访，不是监管部门已经完成的最终认定。媒体快速检测结果属于调查线索，不能替代监管部门的实验室检测和风险结论。标题中的引语来自媒体报道中的涉事企业工作人员，不代表监管部门表述。\n\n主要来源\n\n厦门官方通报消杀企业涉嫌违规开展业务消杀药剂、低价服务与资质问题调查多家餐饮门店停业清洁及回应《食品安全国家标准 餐饮服务通用卫生规范》《中华人民共和国食品安全法》",
+   "impact": "",
+   "publish_time": "2026-08-25T01:38:01",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787592994604-%E7%BB%99%E9%A4%90%E5%8E%85%E6%B6%88%E6%9D%80%E7%9A%84%E4%BA%BA%E8%AF%B4%E8%87%AA%E5%B7%B1%E2%80%9C%E6%89%93%E6%AD%BB%E4%B9%9F%E4%B8%8D%E5%90%83%E2%80%9D.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22165,
+   "title": "今日纪事｜17万人连成一张急救地图：浙江把陌生人的善意接了起来",
+   "summary": "【纪事金句】人性让一个人愿意奔向陌生人，制度让17万人能够被看见、被训练、被调度；浙江的创举，是把这两种力量接在一起。",
+   "heat": 95.0,
+   "category": "纪事",
+   "story": "4月12日晚上7点58分，浙江松阳，刘宇皓的手机响了。\n\n电话来自120急救中心。一名年轻女性突然出现意识障碍，需要附近的急救力量支援。他打开“救在身边”应用，确认位置，两分钟后赶到现场。\n\n患者脸色发青，反应迟钝。家属说，她长期节食，当晚几乎没有进食。刘宇皓初步怀疑严重低血糖。患者再次失去意识后，他立即让她平躺，确认仍有呼吸，也没有强行喂糖水——意识丧失时喂食，液体可能进入气管。\n\n晚上8点15分，救护车到达。刘宇皓把患者的病史、现场表现和已经采取的措施交给医护人员。后来，这名女性康复出院。\n\n从手机响起到专业人员接手，17分钟。刘宇皓没有代替医生诊断和用药。他只是比救护车更近，受过训练，知道该做什么，也知道什么不能做。\n\n8月25日，人民日报报道，截至目前，浙江注册“急救侠”志愿者已有17万人，覆盖全省九成以上村庄和社区。\n\n这个数字值得写进今天的纪事，不只是因为它大。\n\n过去，患者身边恰好有一个会急救、敢伸手的人，是运气。浙江正在做的，是把这种运气变成一项有组织的公共能力。\n\n创举不在手机，而在手机为什么会响\n\n用手机寻找附近志愿者，并不是一项复杂到难以模仿的技术。真正困难的是，系统里为什么会有17万人；他们为什么接受过训练；120为什么能够找到他们；志愿者到达后如何与医护人员交接；出了问题，谁来复训、保障和复盘。\n\n一项分析233376名中国院外心脏骤停患者的系统综述显示，纳入研究中4.8%的患者接受了旁观者复苏，急救医疗服务的中位响应时间为9至15分钟。最初几分钟，正是急救链条容易断开的地方。\n\n城市可以增设急救站、增加车辆、优化红绿灯，但无法消灭晚高峰、山区和海岛的距离。心脏骤停、气道梗阻、溺水和大出血，却不会因为救护车正在赶来而暂停。\n\n专业力量与患者之间，始终会有一段路。浙江没有假装这段路不存在，而是换了一个问题：在救护车赶来的同时，能不能让离患者最近、受过训练的人先出发？\n\n救护车有速度上限，社会的组织能力可以重新定义“最近的人”是谁。\n\n不是只有中国想到了，而是中国能办成另一种尺度\n\n如果说只有中国想到用手机调度普通人急救，并不准确。\n\n十多年前，瑞典就曾用手机定位系统寻找心脏骤停患者附近的受训志愿者。瑞典、丹麦等地后来又发展出应用程序派遣公民响应者取AED、做心肺复苏的制度。欧洲复苏委员会2025年指南也建议建立类似项目。\n\n善意不是中国人的专利，技术也不是浙江独有。真正值得讨论的中国优势，是另一件事：能不能把一种局部试验迅速接入全省的基层组织、公共平台和制度保障，让它从少数热心人的项目，变成覆盖城乡的公共服务。\n\n2025年7月，浙江开始试点“急救侠”模式。到当年11月，全省已有518万名持证救护员，约占户籍人口的10%；37个试点县市区开始招募“急救侠”。2026年1月，公开目标还是年底招募10万人、基本实现村社覆盖。到了8月，公开报道中的注册人数已经达到17万，覆盖九成以上村社。\n\n518万名持证救护员提供人员，村社组织负责招募，120和数字平台完成调度，地方立法、保险与激励机制补上保障。这几层同时存在，17万人才有可能成为一张在紧急时刻亮起来的地图。\n\n中国式优势不在于发明了“附近的人”，而在于有能力把附近的人组织成一项省域公共能力。\n\n为什么是浙江\n\n浙江率先走到这一步，并非偶然。\n\n第一，它有足够厚的培训基础。到2025年11月，浙江累计普及应急救护知识3800万人次，培训持证救护员518万人。没有这座蓄水池，派单应用也找不到能接任务的人。\n\n第二，它把急救网络嵌入基层网络。队伍既包括党员、村干部、社区工作者、网格员，也包括快递员、外卖骑手和网约车司机：一类熟悉社区、相对稳定，一类穿行城市、不断移动。\n\n第三，它擅长先跑通流程，再向全省复制。临安把“急救侠”、120、110、119和122接入同一平台。改革运行两年后，官方资料称，志愿者到场处置416次，“成功施救”339人；77%的案例在救护车到达前先期处置，51%在6分钟内到场，86%在10分钟内到场。当地平均急救反应时间从15分56秒缩短到8分49秒。\n\n临安证明“人比车先到”可以进入真实流程，浙江再把经验拆成招募、培训、管理、派单、设备和保障，推向不同县市区。这里既有数字平台能力，也有基层组织进村入社、大规模动员的能力。\n\n第四，它用法规把志愿力量接进专业体系。2025年12月施行的《浙江省院前医疗急救条例》明确，救护车到达前，急救中心、急救站可以通知周边医疗急救志愿者自愿开展现场急救；同时要求建设全省统一的信息系统，推动急救、公安、交通、消防和红十字会等协同。\n\n这不是把志愿者放到专业医疗的对面，而是把他们接到专业医疗的前面。\n\n浙江的“先行”不是一句性格赞美，而是一条可以拆开的能力链：有人可找、有网可联、有事可派、有法可依、有经验可复制。\n\n制度优势，最终要让人愿意第二次出发\n\n制度能够发出指令，却不能制造善良。\n\n刘宇皓接到电话后可以不去。一个外卖员也可以选择继续送单，一个社区工作者可以因为照顾孩子而无法响应。“急救侠”成立的前提，始终是有人愿意为了素不相识的人改变自己的路线。\n\n这就是人性优势：陌生人之间不只有防备，也有人愿意靠近、愿意承担。制度不取代这种本能，而是让善意获得训练，让一个人的热血被专业系统接住。\n\n但组织规模越大，边界越不能含糊。\n\n17万是注册人数，不等于17万人实时在线；“覆盖九成以上村社”也不等于每个地方全天有人值守。临安所称“成功施救”，可能指完成有效现场处置或顺利交接，并不当然等于患者最终存活出院。平均反应时间的改善，还来自急救站点、车辆护航和信息联通，不能全部记在志愿者名下。\n\n快速扩张之后，更应该公开派单数、接单率、到场时间、复训率、AED可及性和患者后续结局。系统还要回答：志愿者赶赴现场途中受伤怎么办，患者隐私如何保护，经历死亡现场后谁提供心理支持，长期不复训者是否退出，一键调度如何坚持自愿而不变成基层任务摊派。\n\n行政动员可以让队伍迅速变大；要让地图长期有效，还得依靠透明评估、自愿原则和稳定保障。\n\n《民法典》第一百八十四条已经为自愿紧急救助者提供民事责任保护，浙江一些地方还配置意外保险和法律援助。但真正成熟的保障，不只是出事以后免责，也包括出发以前的训练、现场中的清晰边界和任务结束后的支持。\n\n一个人第一次出手也许凭热血，愿意第二次、第三次出发，靠的是制度没有辜负他的热血。\n\n把人心变成抵达能力\n\n17万人不是17万辆小型救护车，也不是一支隐藏在社区里的民间医疗队。他们无法替代急救医生，不能保证每一次呼救都有回应，更无法许诺每一个生命都被留下。\n\n他们能做的，是在专业力量赶来的路上，把原本只能等待的几分钟接住。\n\n这项创举动人的地方，不是制度创造了英雄，而是它承认救护车和普通人都有边界，然后把有限的力量接了起来。\n\n过去，一座城市谈急救能力，首先想到医院有多强、救护车有多少。今天，衡量它还可以多问一句：当一个人突然倒下，他身边有没有另一个人收到消息，知道怎样让他撑到医生到来？\n\n人心原本散落在陌生人之间。好的制度不占有它，只负责让它在需要的时候能够抵达。\n\n8月25日，浙江17万名“急救侠”进入新闻。从临安的一项改革，到九成以上村社的一张网络，基层治理、数字平台、专业急救与普通人的善意，在这里完成了一次少见的连接。\n\n这不是一张已经没有漏洞的地图，却是一条值得记录的新路：让“附近有人会救”不再完全听凭运气，让一个陌生人倒下时，另一个陌生人能够被找到、被信任，也有能力先出发。\n\n这便是8月25日纪事。\n\n参考资料\n\n• 人民日报：《17万名“急救侠”志愿者守护群众生命安全》，2026年8月25日。\n• 中国红十字会：《浙江加快推行急救侠模式》，2026年1月2日。\n• 中国红十字会：《浙江红会与省委社会工作部联合打造“急救侠”队伍》，2026年3月27日。\n• 浙江省红十字会：《红十字“急救侠”刘宇皓：闻令而动，救在身边》，2026年4月15日。\n• 浙江省红十字会：《省委副书记、省长刘捷充分肯定临安区院前急救工作》，2025年10月2日。\n• 《浙江省院前医疗急救条例》，2025年12月1日起施行。\n• Hou L, et al. *Resuscitation of out-of-hospital cardiac arrest in China*. Resuscitation, 2023.\n• Ringh M, et al. *Mobile-phone dispatch of laypersons for CPR in out-of-hospital cardiac arrest*. New England Journal of Medicine, 2015.\n• European Resuscitation Council Guidelines 2025: Systems Saving Lives.\n• 《中华人民共和国民法典》第一百八十四条。",
+   "impact": "",
+   "publish_time": "2026-08-25T15:46:23",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787644021261-%E6%B5%99%E6%B1%9F17%E4%B8%87%E5%90%8D%E2%80%9C%E6%80%A5%E6%95%91%E4%BE%A0%E2%80%9D%E8%A6%86%E7%9B%96%E4%B9%9D%E6%88%90%E6%9D%91%E7%A4%BE.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22105,
+   "title": "上海拟5年新增25万-27万套保租房：城市更新给“存量生活”做手术",
+   "summary": "上海发布城市更新和住房发展“十五五”规划，提出到2030年新增供应保障性租赁住房25万至27万套（间）、新增建设者管理者之家床位12万张，并推进城中村、旧住房和老旧小区改造。",
+   "heat": 94.0,
+   "category": "时政",
+   "story": "上海公布《城市更新和住房发展“十五五”规划》。到2030年，上海计划新增供应保障性租赁住房25万至27万套（间），新增“新时代城市建设者管理者之家”床位12万张；同时推进城中村、旧住房成套化、老旧小区和低效商办空间更新。\n\n这份规划最值得注意的，不是又造多少新楼，而是上海已经把城市发展的重心进一步转向存量空间。\n\n一张表看懂主要任务\n\n领域“十五五”目标或方向保障性租赁住房新增25万至27万套（间）建设者管理者之家新增床位12万张旧住房成套改造约120万平方米老旧小区改造3000万至4000万平方米商品住房新增供应2500万至2800万平方米城中村整体改造推进整体改造和前期改造任务\n\n对普通人有什么影响\n\n对住在不成套旧住房里的家庭，关键不是“城市更新”四个字，而是项目何时进入本小区、采用拆除重建还是功能置换、安置方式如何确定。对新市民、青年人和一线劳动者，保租房数量增加只有在房源位置、租金和申请入口匹配时，才会变成真实便利。\n\n上海披露，2026年上半年已新增供应保租房3万套（间），累计供应43.4万套（间）；建设者管理者之家累计供应床位8.9万张。规划还提出将这类床位租金控制在劳动者月收入的一定比例，并增加中心城区供给。\n\n新闻背后的故事\n\n超大城市进入存量时代后，最难的不是画规划，而是协调产权、居民意愿、资金和公共服务。老房改造的每平方米，都可能对应公房承租权、加装电梯、临时安置和历史风貌保护等具体问题。\n\n规划公布只是起点。真正决定居民体验的，是各区项目清单、资金来源、征询程序和交付进度。\n\n信息来源：上海市人民政府《上海市城市更新和住房发展“十五五”规划》、上海市住建委。\n---",
+   "impact": "",
+   "publish_time": "2026-08-25T02:09:07",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787622945608-%E4%B8%8A%E6%B5%B7%E6%8B%9F5%E5%B9%B4%E6%96%B0%E5%A2%9E25%E4%B8%87-27%E4%B8%87%E5%A5%97%E4%BF%9D%E7%A7%9F%E6%88%BF.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22147,
+   "title": "浙江17万名“急救侠”覆盖九成村社：救护车到达前，先派最近的人",
+   "summary": "浙江已有17万名注册“急救侠”，覆盖超过九成村庄和社区。院前急救由此有了新的起跑方式：120接警后，专业急救人员赶往现场，附近经过培训的志愿者也能同步出发，抢回最容易被交通和距离吃掉的几分钟。",
+   "heat": 93.0,
+   "category": "社会",
+   "story": "晚上7点58分，浙江一名志愿者的手机响了。\n\n120调度系统发来任务：附近有人昏迷，需要帮助。他接单赶到现场，初步判断患者可能出现低血糖，随即协助处置并等待专业人员。晚上8点15分，患者被交给急救人员。\n\n这次救援中，志愿者的任务很明确：比专业急救队伍更早出现在患者身边，完成力所能及的初步处置。\n\n截至今年8月，浙江注册“急救侠”已达17万人，覆盖超过90%的村庄和社区。一个新的院前急救网络正在成形：120接警后，救护车出发，系统同时寻找患者附近经过培训、当时在线并愿意接单的人。\n\n救护车仍然负责专业救治和转运，“急救侠”负责抢回它到达前的时间。\n\n救护车再快，也绕不开距离和交通\n\n城市可以增加救护车、急救站和医护人员，却很难让每辆车瞬间穿过晚高峰。山区、海岛和偏远村庄面对的距离更长。\n\n心脏骤停、气道梗阻、溺水和大出血偏偏最不肯等人。患者倒地后的最初几分钟，身边人能否呼救、按压、止血和使用AED，往往决定患者能不能撑到医护人员抵达。\n\n一项纳入近28万人的研究显示，中国相关研究中的旁观者心肺复苏率中位数仅为2.8%；获得旁观者心肺复苏的患者，生存机会明显更高。浙江公布的另一组数据称，2025年全省院外心肺复苏抢救成功率为6.6%。两组数字的统计终点不同，不能直接比较，却共同说明了同一个现实：急救系统最薄弱的地方，常常就在救护车抵达之前。\n\n过去，这几分钟主要靠偶然。\n\n患者身边恰好有医生，是偶然；商场保安恰好学过心肺复苏，是偶然；路人敢不敢伸手、记不记得培训动作，也带着偶然。\n\n浙江现在试图把偶然变成组织能力。\n\n17万人要组成一张可以调度的急救地图\n\n“急救侠”最容易被写成见义勇为故事。真正值得关注的，却是它背后的系统设计。\n\n志愿者完成理论学习和实操训练后注册；120接到求助，平台按照位置和任务类型通知附近人员；有人接单后先行处置，再把患者交给专业急救队伍。部分地区还把AED位置、复训记录和志愿服务保障接入系统。\n\n这使17万这个数字有了两种完全不同的含义。\n\n如果他们只是领过证书，17万是一项培训成绩；如果系统知道谁在附近、谁具备相应技能、谁能立刻出发，17万才是一套可以调度的社会急救资源。\n\n目前公开数据说的是注册人数，并不意味着17万人全天在线，也不代表每个人都能处理所有急症。蛇伤、中暑、溺水、气道梗阻和心脏骤停，需要的判断和动作并不相同。浙江从2025年开始扩展培训内容，恰恰说明“学过一次心肺复苏”远远不够。\n\n真正决定这张网络成色的，将是接单率、平均到达时间、复训合格率、AED可及性和最终救治效果。\n\n临安两年到场416次，成功施救339人\n\n目前公开资料中，临安提供了最完整的一组执行数据。\n\n当地从2023年开始把“急救侠”接入120、110、119和122组成的综合指挥平台。运行两年后，“急救侠”累计到场处置416次，成功施救339人；77%的案例由志愿者抢在救护车之前处置，51%在6分钟内到场，86%在10分钟内到场。改革前后，当地平均急救反应时间从15分56秒缩短到8分49秒。\n\n浙江全省2025年还报告了531例成功施救案例，创下历史新高。不过，这个数字覆盖全省持证救护力量，公开资料没有把其中由“急救侠”平台派单完成的部分单独拆出。因此，531例可以说明社会急救力量正在发挥作用，暂时不能全部记到17万名“急救侠”账上。\n\n另一组数据揭示了全省推广必须补上的短板。\n\n浙江省人民医院今年1月披露，“救在身边—人人救”系统当时已有2万名培训合格的急救志愿者，120调度系统累计指派任务3800次，志愿者实际接单参与急救155次。两项数据的截止日期和任务适配条件没有进一步公开，也不能把两者简单相除得出全省实时接单率；但派单与接单之间的巨大落差已经提出了一个硬问题：注册人数快速增加以后，平台能在多少次真正紧急的呼救中找到愿意接单、能够及时到场的人？\n\n这比17万这个总数更值得持续公布。\n\n有救回来的患者，也有没能等到奇迹的人\n\n急救报道习惯讲成功案例，现实却不会每次配合。\n\n人民日报报道，全国“最美救护员”沈俊曾在2019年为一名失去意识和呼吸的71岁老人持续进行六七分钟心肺复苏。医生抵达后继续抢救，最终仍未能把老人救回来。这起事件早于本轮全省“急救侠”推广，不能作为平台失败案例，却真实说明了社会急救的能力边界：到场更快可以提高机会，无法保证结局。\n\n临安公布的416次到场处置中，339人被计为“成功施救”，其余案例的伤病类型、处置过程和最终结局尚未公开。“成功施救”究竟指现场情况缓解、生命体征恢复、顺利交给120，还是患者最终存活出院，公开材料也没有给出统一定义。\n\n下一步的数据公开，应当从“有多少人加入”推进到“派了多少单、接了多少单、多久到场、做了什么、患者后来怎样”。失败案例尤其值得分析：究竟是通知无人响应、距离过远、AED没有及时取到，还是患者病情已经无法逆转？\n\n把失败说清楚，并不会否定17万人的价值。它能够帮助系统调整派单半径、培训内容、AED布点和复训频率，让下一名患者获得更好的机会。\n\n好心之外，还要把责任安排清楚\n\n很多人面对倒地患者时迟疑，往往源自动作做错、家属追责和卷入纠纷等现实顾虑。\n\n《民法典》第一百八十四条已经明确：因自愿实施紧急救助行为造成受助人损害的，救助人不承担民事责任。浙江部分地区还在探索意外保险、法律援助等保障。\n\n法律消除了最沉重的一层顾虑，制度还要继续回答更具体的问题：调度任务的边界是什么，志愿者受伤由谁保障，患者隐私怎样保护，经历死亡现场后谁提供心理支持，技能过期后如何复训。\n\n这些工作看起来没有救人瞬间那么激动人心，却决定一个志愿者接过第一次任务后，还愿不愿意接第二次。\n\n急救不能长期依靠朋友圈求助和临场感动。稳定的系统要让愿意救人的人接受可靠训练，让他们在正确的时间收到正确任务，也让专业人员知道现场已经发生了什么。\n\n更多城市要复制的，是组织方式\n\n浙江的做法并不要求每个社区都停着一辆救护车。它先承认一个现实：专业急救资源永远有限，居民和患者却散布在城市、乡村、景区、工厂和道路上。\n\n解决办法，是把急救能力分成两段。\n\n第一段由附近经过培训的人完成：确认环境安全、呼叫120、心肺复苏、使用AED、止血和基础处置。第二段交给专业队伍：诊断、用药、高级生命支持和转运。\n\n这套方法要在其他地方成立，至少需要四样东西同时存在：稳定的120联动平台、持续复训的人、足够密集且可用的AED，以及覆盖志愿者的法律和保险保障。只办培训班、发证书、拍合影，救命网络不会自动出现。\n\n过去，扩充急救能力主要意味着增购救护车、增设急救站。浙江17万名“急救侠”提供了另一种答案：专业力量赶在路上时，先把离患者最近、具备能力的人组织起来。\n\n救护车的速度有上限。一个社会把陌生人之间的距离组织起来，可能为患者再抢回几分钟。\n\n来源与口径说明\n\n人民日报：浙江17万名“急救侠”守护群众生命健康\n中国红十字会：浙江推进“急救侠”志愿服务队伍建设\n浙江省红十字会：“救在身边—人人救”联动救援案例\n杭州市红十字会：临安“急救侠”两年到场处置416次\n浙江省人民医院披露“人人救”平台派单与接单数据\n中国红十字会：浙江省“急救侠”志愿服务工作部署\n《中华人民共和国民法典》第一百八十四条\n中国院外心脏骤停旁观者心肺复苏研究\n\n文中17万人为注册“急救侠”人数，不等于同时在线或全部可被即时调度的人数。临安“成功施救339人”和全省“成功施救531例”的具体统计终点未见统一公开说明，不能直接理解为患者最终存活出院。“6.6%抢救成功率”与研究中的出院或30日生存率统计终点不同，本文不作数值横向比较。",
+   "impact": "",
+   "publish_time": "2026-08-25T12:36:10",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787630794213-%E6%B5%99%E6%B1%9F17%E4%B8%87%E5%90%8D%E2%80%9C%E6%80%A5%E6%95%91%E4%BE%A0%E2%80%9D%E8%A6%86%E7%9B%96%E4%B9%9D%E6%88%90%E6%9D%91%E7%A4%BE.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22106,
+   "title": "全国充电设施达到2368.3万：下一道题从“有没有”变“好不好用”",
+   "summary": "国家能源局数据显示，截至2026年7月底，全国电动汽车充电基础设施达到2368.3万个，同比增长41.9%；其中公共充电设施509.9万个、私人充电设施1858.4万个，私人设施增速明显更快。",
+   "heat": 93.0,
+   "category": "财经",
+   "story": "国家能源局公布的数据显示，截至2026年7月底，全国电动汽车充电基础设施总数达到2368.3万个，同比增长41.9%。其中公共充电设施509.9万个，同比增长21.3%；私人充电设施1858.4万个，同比增长48.8%。\n\n一个月前，6月底的总数还是2305.7万个。这意味着7月净增约62.6万个充电设施。\n\n类型7月底数量同比增速占总量比重公共充电设施509.9万个21.3%约21.5%私人充电设施1858.4万个48.8%约78.5%合计2368.3万个41.9%100%\n\n数量越多，为什么还有人觉得充电难\n\n因为“枪口数量”不是“站点数量”，更不是“随时可用数量”。私人充电桩通常服务固定车位，不能解决长途和异地补能；公共桩还要看功率、位置、故障率、停车费和节假日排队时间。\n\n目前公共充电设施额定总功率约2.55亿千瓦，平均每枪约50千瓦。平均值可以显示网络规模，却掩盖了慢充、快充、超充之间的巨大差别。\n\n这个变化说明什么\n\n中国新能源汽车基础设施已经跨过“从零铺网”的阶段，开始进入精细运营阶段。下一轮竞争不只是建更多桩，而是提高老旧桩可用率、让高速和县域布局更均衡、把充电与配电网和储能协调起来。\n\n对消费者来说，买车前应该问的也不再只是“小区能不能装桩”，还包括固定车位条件、峰谷电价、常跑路线上快充密度以及品牌之间的兼容性。\n\n信息来源：国家能源局2026年6月底及7月底充电基础设施数据。\n---",
+   "impact": "",
+   "publish_time": "2026-08-25T02:09:07",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787621818625-%E5%85%A8%E5%9B%BD%E5%85%85%E7%94%B5%E8%AE%BE%E6%96%BD%E8%BE%BE%E5%88%B02368.3%E4%B8%87.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22148,
+   "title": "1.33亿部新手机98%支持北斗：中国完成一次无声的国民级替代",
+   "summary": "1991年海湾战争让世界看见GPS怎样改变现代战争，三年后中国启动北斗工程。2026年上半年，国内约1.33亿部新手机中超过98%支持北斗。北斗与GPS兼容工作，中国由此结束了关键时空能力只能依赖境外系统的历史。",
+   "heat": 92.0,
+   "category": "科技",
+   "story": "1991年，海湾的沙漠里，一些GPS接收机甚至是用胶带绑在军车和直升机仪表盘上的。\n\n当时GPS星座尚未完全建成，美国仍紧急采购了8000多台商业接收机。它帮助联军在缺少道路和地标的沙漠中完成大规模机动，也进入精确轰炸、炮兵支援、搜索救援和特种作战。后来，美军官方把海湾战争称为GPS第一次真正接受实战检验。许多历史学者则把这场战争称为“第一次太空战争”。\n\n世界第一次如此直观地看见：现代战争中，知道自己在哪里、目标在哪里、武器应该在什么时间抵达，已经是一种决定性的力量。\n\n三年后的1994年，中国正式启动北斗一号工程。\n\n三十二年后，这个故事落到普通人的手机里。2026年上半年，国内市场手机出货量约1.33亿部，其中超过98%支持北斗定位。\n\n打开地图，屏幕上的蓝点很可能已经同时使用北斗和其他导航卫星。超过1400万辆共享两轮车拥有北斗独立定位能力；接近4000万台北斗终端进入交通、能源等重点行业；支持北斗的可穿戴设备超过1.6亿台，配备北斗车载定位设备的乘用车超过1亿辆。\n\n从沙漠战场上一套由别人掌握的坐标，到亿万部终端里独立可用的中国坐标，这才是98%背后的故事。\n\nGPS先改变战争，再统治全球导航\n\nGPS本来就是一项军事工程。美国国防部1973年启动系统建设，1978年发射首颗试验卫星。它在海湾战争中证明价值，1995年达到全面运行能力，随后又进入汽车导航、航空航海、金融授时、通信网络和智能手机，最终成为全球最重要的公共基础设施之一。\n\n美国向全球免费开放民用信号，也一直清楚区分军用能力与民用服务。\n\n上世纪90年代，GPS曾通过“选择性可用”机制主动降低民用信号精度，误差一度可达到约100米；精度更高的军用服务则由美国军方及获准盟友使用。美国2000年关闭了全球性降精度功能，后来又从新一代卫星上永久移除这项设计，但仍公开保留在局部战区阻止敌对力量使用GPS的能力。\n\nGPS在日常使用中依然可靠。更深层的问题是控制权：免费使用别人的系统，可以解决日常需要；掌握一套自己的系统，才能决定关键时刻有没有坐标。\n\n海湾战争之后，中国对这件事的理解不再停留在技术论文里。\n\n别人用二十多颗卫星组网，中国先从两颗开始\n\n1994年北斗一号立项时，美国GPS已经接近完成全球组网，俄罗斯也拥有自己的格洛纳斯系统。中国的经济实力、卫星数量和技术基础，都无法支持一步复制一套庞大的全球星座。\n\n中国选择先解决“有没有”。\n\n陈芳允等科学家此前提出“双星定位”设想，并在1989年利用两颗通信卫星完成定位试验。2000年，两颗北斗一号地球静止轨道卫星先后升空。它借助两颗卫星和地面中心实现有源定位，还带上了短报文通信能力，中国由此成为世界上第三个拥有自主卫星导航系统的国家。\n\n北斗一号的覆盖范围、终端容量和使用方式都与成熟GPS存在明显差距，却让中国第一次拥有了独立可用的卫星导航能力。它还在汶川地震等地面通信中断的场景中证明，定位和报平安可以由同一套系统完成。\n\n接下来的两步更快：2012年，北斗二号开始面向亚太地区提供服务；2020年，北斗三号完成全球组网，由24颗中圆地球轨道卫星、3颗地球静止轨道卫星和3颗倾斜地球同步轨道卫星组成完整星座。\n\n中国用了26年，把两颗卫星支撑的试验系统，扩展成覆盖全球的时空基础设施。\n\n98%的意义：手机可以兼容，国家必须独立\n\n卫星发射成功，只代表天上有了信号。北斗进入普通手机，还要补齐芯片、射频、天线、算法、测试认证、地图服务和整机适配。\n\n2016年，国内支持北斗的手机型号占比约21%；十年后，这个数字超过98%。消费者几乎感觉不到切换过程：手机照常打开地图，芯片已经在后台同时调用北斗、GPS、格洛纳斯和伽利略等卫星信号。可见卫星越多，复杂环境中的定位通常越快、越稳。\n\n这场“国民级替代”的核心十分明确：手机可以兼容多个系统，国家必须拥有一个独立运行的系统。中国替代掉的，是关键定位和授时能力只能依赖境外基础设施的旧局面。\n\n北斗定位和北斗卫星消息的关系很简单：前者让手机接收卫星信号、判断自己在哪里，已经成为普遍能力；后者让特定机型在地面网络中断时主动发出文字和位置，目前仍在扩展。一个服务日常导航，一个在极端情况下增加求救通道。\n\n98%的价值由此变得清楚：北斗已经从“国家拥有一套系统”，走到“亿万国民和关键行业随时可以调用这套系统”。\n\n下一代北斗，要成为机器世界的坐标系\n\n手机上的蓝点只是开始。\n\n未来的无人驾驶汽车要知道自己处于哪条车道，低空飞行器要避开建筑和彼此，机器人要在港口、矿山和农田里准确行动，电网、通信和金融系统要在极短时间内保持同步。这些设备需要的已经不只是“十米之内大概在哪”，而是厘米级位置、连续可靠的导航和纳秒级时间。\n\n北斗正在进入这个更大的市场。2025年，中国卫星导航与位置服务产业总体产值达到6290亿元，更宽口径的北斗时空产业规模超过1.3万亿元。相关产品和服务已经进入140多个国家和地区，从芯片、终端扩展到农业、交通、防灾、城市治理和工程建设方案。\n\n下一代竞争将沿着三条路线展开：地面上，把高精度定位变成无人车、机器人和低空经济的共同底座；全球市场上，把中国芯片、地图、算法、终端和运营服务组成可以落地的完整方案；空间里，把导航范围从地球表面继续延伸到近地轨道和地月空间。\n\n过去三十二年，中国追赶的是一套卫星导航系统。未来二十年，中国有机会参与定义机器怎样认识世界、城市怎样组织交通、全球设备怎样共享时间。\n\n1991年，GPS在沙漠战争中向世界展示了卫星导航的力量；1994年，中国决定追赶；2020年，中国完成全球组网；2026年，98%的新手机已经支持北斗。\n\n这条时间线不会停在手机上。\n\n中国已经把自己的坐标装进亿万部终端。下一步，要让汽车、飞机、机器人、城市和更远的航天器，都能沿着中国提供的时空坐标运行。从使用世界的坐标，到为世界提供坐标，这才是北斗更值得期待的未来。\n\n来源与口径说明新华社：北斗应用加速融入大众消费与重点行业工业和信息化部：2024年国内智能手机北斗支持率超过98%2026中国北斗产业发展指数白皮书相关数据北斗卫星导航系统：手机如何同时使用多个卫星导航系统新时代的中国北斗白皮书国家科技创新战略研究专题：北斗将中国时空信息掌握在自己手中国家航天局：海湾战争与北斗“三步走”建设美国太空军：GPS从海湾战争走向全球应用GPS.gov：选择性可用机制及其关闭GPS.gov：GPS现代化与民用信号精度变化中央网信办：北斗规模应用进入市场化、产业化、国际化关键阶段辽宁通信管理局：北斗卫星消息功能说明\n\n文中“超过98%”指2026年上半年国内市场出货手机中支持北斗定位的比例，不代表所有手机只使用北斗，也不等于98%的手机均可发送北斗卫星消息。手机通常采用多星座联合定位，卫星消息还取决于机型硬件、软件和运营商服务。",
+   "impact": "",
+   "publish_time": "2026-08-25T13:07:49",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787634279838-1.33%E4%BA%BF%E9%83%A8%E6%96%B0%E6%89%8B%E6%9C%BA98%25%E6%94%AF%E6%8C%81%E5%8C%97%E6%96%97.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22146,
+   "title": "美国制裁60个伊朗关联对象：真正压力落在中国采购与结算链",
+   "summary": "【一句话判断】美国首轮行动尚未处罚中国大型金融机构，真正决定冲击强度的，是制裁会不会从外围采购和航运网络推进到中国炼厂付款、银行结算与保险服务。",
+   "heat": 92.0,
+   "category": "时政",
+   "story": "美国把8月24日的新行动称为对伊朗的“经济决战日”，一次制裁近60名个人、实体和船舶，并把数字资产、黄金、技术、航空和航运纳入可能遭受二级制裁的范围。\n\n但两处市场反应，给这场声势浩大的行动踩了一脚刹车。\n\n第一，美国本轮名单虽然包括中国内地和香港的采购、物流及资金中转实体，却没有列入被怀疑参与伊朗石油结算的中国金融机构。第二，制裁公布前后，布伦特和WTI原油反而下跌逾2%；8月25日亚洲早盘，布伦特约为每桶92.16美元，WTI约为85.02美元。\n\n这不是说美国制裁没有威力，而是说明真正的重击还没有落下。\n\n对中国而言，下一阶段的风险不只是还能不能买到伊朗原油，而是这批油会不会越来越贵、越来越难付款、越来越难运输和投保。\n\n60个对象已经进清单，中国大型银行仍在清单之外\n\n先把已经发生的事实和美国发出的威胁分开。\n\n本轮已经落地的制裁覆盖伊朗核与导弹采购、网络攻击、石油贸易和“影子船队”。被点名的中国关联对象包括香港注册的Sweet Ocean Industrial Limited及其采购网络，以及为伊朗物流企业BRE Line提供服务的深圳华美联运和BRE Line香港分支等。按美国制裁规则，被列入特别指定国民清单的实体会被隔绝于美国金融体系之外，与其开展重大交易的外国金融机构也可能面临二级制裁风险。\n\n与此同时，美国财政部扩大了可适用二级制裁的商业范围，将数字资产、黄金、技术、航空和航运纳入其中。它可以继续追踪付款公司、货运代理、船舶燃料供应商、保险机构、数字资产平台和银行账户。\n\n但美国没有说明具体针对哪个国家、何时开始下一轮处罚，也没有把涉嫌为伊朗石油贸易提供结算服务的中国金融机构列入本轮名单。美国财长贝森特称，要给有关方面一个调整期，同时预告本周结束前可能公布针对一家金融机构的重大制裁。\n\n因此，眼下最准确的表述不是“中国采购和结算链已经被切断”，而是：美国已经把制裁工具架到这条链上，正在观察谁会主动退出，再决定下一步打谁。\n\n中国炼厂已经先失去一部分低价原油\n\n美国选择把中国采购链放到前台，有一个非常现实的原因：伊朗原油的主要外部买家就在中国。\n\n美国财政部外国资产控制办公室4月发布的风险提示称，中国当时购买了伊朗约90%的石油出口，其中大部分由山东等地的独立炼厂消化。第三方船运数据的具体比例会随月份变化，也很难与中国海关口径直接对应，但中国独立炼厂是伊朗折价原油主要买家这一结构没有争议。\n\n真正的变化其实早于8月24日已经出现。Kpler数据经路透报道显示，受美国海上封锁和货源收紧影响，中国8月进口伊朗原油估算降至每日约53.4万桶，而2025年平均约为每日140万桶；海上浮仓也从封锁恢复前约1.05亿桶降至约8000万桶。部分炼厂开始寻找巴西、伊拉克及其他中东来源，伊朗原油原有的折价优势随之收窄。\n\n这条传导链并不复杂：\n\n伊朗货源减少 → 折价收窄 → 独立炼厂改买合规原油 → 原料成本上升 → 炼油利润进一步受挤压\n\n对利润本来就薄的独立炼厂来说，低价原油不是锦上添花，而是利润来源之一。当折价消失，即使总供应没有中断，炼厂的采购结构和现金流也会先变差。\n\n结算机构才是美国手里更危险的闸门\n\n炼厂可以改买巴西、伊拉克或海湾国家原油，贸易商可以换公司，船舶可以换旗，但大型跨境结算体系没有那么容易替换。\n\n过去的美国制裁往往先打小型前台公司、影子船舶和独立炼厂，因为这些对象对中美金融关系的系统性冲击较小。若进一步对中国金融机构实施二级制裁，可能限制其在美国开立或维持代理账户，使美元清算、贸易融资和跨境客户关系受到影响，冲击就会从一笔伊朗石油交易扩散到更多业务。\n\n这也是美国本轮暂未点名中国大型银行的重要背景。美国既想掐紧伊朗石油收入，又不愿立即冲击全球金融体系和中美经贸安排。贝森特在记者会上反问，为什么要“炸毁全球金融体系”，恰恰说明华盛顿知道这张牌的代价。\n\n中国也并非没有制度回应。5月2日，商务部已针对美国以涉伊朗石油交易为由制裁恒力石化（大连）炼化等5家中国企业发布阻断禁令，要求中国境内主体不得承认、执行或遵守相关美国措施。这能为企业在中国境内维权和继续正常经营提供法律支撑，但无法自动恢复美国金融通道，也无法要求境外银行、船东和保险商继续提供服务。\n\n中国阻断令解决的是“国内能不能服从美国制裁”，美国二级制裁卡住的却是“境外交易对手还敢不敢继续合作”。两套规则撞在一起，企业承担的不是一道禁令，而是双重合规冲突。\n\n哪些对象先承压，哪些只是被油价带动\n\n对象当前事实状态主要影响下一步看什么不能过度解读什么恒力石化（600346）及其大连炼化子公司美国4月将大连炼化列入SDN清单；上市公司否认与伊朗交易，商务部随后发布阻断禁令采购来源、境外融资和合作方合规审查承压，是观察中美制裁冲突的公开案例是否从SDN名单移除、替代原油采购、库存和炼化利润不能把美方指控直接写成公司已经确认的伊朗交易事实山东等地独立炼厂美国官方风险提示把其列为伊朗原油主要买家群体折价原油减少、替代采购成本上升、加工利润变薄伊朗到港量、山东地炼开工率、巴西和伊拉克原油采购、成品油利润不能把所有独立炼厂视为已被制裁对象本轮被列名的中国及香港采购、物流实体已进入美国制裁名单美元交易、境外账户、客户和供应商关系受限OFAC名单更新、关联公司和船舶是否继续被追加其中部分涉及敏感技术采购，不能全部归为伊朗石油买家中国大型金融机构本轮没有被列名，属于高影响条件风险一旦遭二级制裁，影响可能超出伊朗石油本身美国本周预告的金融机构制裁、代理账户限制、银行合规公告不能提前写成中国银行体系已经遭到制裁中远海能（600026/01138）、招商轮船（601872）等油运观察样本没有公开证据表明本轮因伊朗业务受到制裁航线绕行、保险费率和油轮运价可能影响行业收入与成本VLCC运价、保险附加费、霍尔木兹通行量、公司公告运价上涨不等于相关公司直接参与伊朗运输中国石化（600028/00386）等大型炼化企业不是本轮制裁对象国际油价、替代原油价差和国内成品油调价带来二阶影响原油采购成本、炼油毛利、库存和成品油调价不能把地缘油价上涨直接等同于炼化利润改善\n\n油价下跌2%，说明市场还在等执行结果\n\n如果制裁已经让大量伊朗原油立刻退出市场，油价通常应快速计入供应缺口。现实却是，美国高调宣布行动后，国际油价先跌逾2%。这至少说明三件事。\n\n其一，市场认为本轮更多是扩大法律权限和发出退出警告，尚未形成新的大规模断供。其二，美国海上封锁已经压低伊朗对华供应，本轮制裁的新增冲击暂时有限。其三，仍有足够的原油通过霍尔木兹海峡或其他海湾通道流出，市场还没有把极端封锁作为基准情景。\n\n因此，油价真正的上行风险仍然来自两件更硬的事情：美国切断具体银行和结算通道，或者霍尔木兹海峡的实物流量再次明显下降。前者改变伊朗原油能不能收到钱，后者改变全球原油能不能运出来。\n\n在这两个信号出现之前，把“制裁近60个对象”直接理解为油价即将单边上涨，仍然过早。\n\n接下来7天看名单，30天看油轮和炼厂\n\n未来7天，先看美国预告的金融机构制裁最终落在谁身上。如果目标只是伊朗本国银行或小型中转机构，本轮冲击仍主要停留在外围网络；如果出现中国金融机构、重要贸易结算平台或大型境外分支，事件将升级为中美金融与经贸风险。\n\n未来30天，再看三组数据：\n\n• 中国自伊朗进口原油估算量是否继续低于每日50万桶，还是重新回升。\n• 伊朗原油对国际基准的折价是否继续消失，山东独立炼厂是否扩大购买巴西、伊拉克和海湾原油。\n• 霍尔木兹海峡通行量、油轮保险附加费和VLCC运价是否持续恶化。\n\n如果美国迟迟没有处罚关键金融机构，中国对伊朗原油采购逐步恢复，国际油价和运费也没有重新抬升，那么“制裁将切断中国采购与结算链”的判断就需要降级。\n\n反过来，如果银行代理账户受到限制、炼厂被追加到SDN名单、伊朗到港量继续下降，制裁的性质就会改变：它将不再只是外围实体名单，而会开始影响中国炼化成本、跨境结算安全和中美经贸关系。\n\n美国这轮行动最值得记住的，不是“60”这个数字，而是名单上还缺谁。当中国金融机构的名字开始出现时，真正的风险才算走到了结算链。\n\n信息来源与口径说明\n\n• 美国财政部“Operation Economic Outcast”行动说明（官方稿镜像）\n• 路透：美国发出二级制裁威胁，但暂未处罚中国金融机构\n• 美联社：近60个制裁对象及中国、香港关联实体\n• OFAC：与中国独立炼厂交易的制裁风险提示\n• OFAC：恒力石化（大连）炼化列入SDN清单\n• 商务部：关于美国对5家中国企业实施涉伊朗石油制裁措施的阻断禁令\n• 路透：美国封锁压低伊朗对华原油供应\n• 路透：制裁公布后国际油价走势\n• 路透：恒力石化回应美国制裁\n\n说明：美国关于伊朗石油流向中国的90%比例来自OFAC风险提示；8月进口量、海上浮仓和历史均值来自Kpler等第三方船运数据经路透报道，不是中国海关官方统计。本文区分美国政府指控、企业回应和公开市场数据，不把美方指控写成中方企业已经承认的事实。文中公司仅作为政策暴露和行业数据观察样本，不构成投资建议。",
+   "impact": "",
+   "publish_time": "2026-08-25T12:36:10",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787631013616-%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%8160%E4%B8%AA%E4%BC%8A%E6%9C%97%E5%85%B3%E8%81%94%E5%AF%B9%E8%B1%A1.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22162,
+   "title": "道路交通安全法修订草案为自动驾驶设专章：系统违法车企交罚款",
+   "summary": "【一句话判断】自动驾驶系统接管驾驶任务后，交通违法不能继续只找驾驶人；把系统投放到道路上并掌握数据和纠错能力的企业，也必须进入处理程序。",
+   "heat": 92.0,
+   "category": "社会",
+   "story": "8月25日，道路交通安全法修订草案首次提请全国人大常委会会议审议。草案为自动驾驶汽车增设专章，其中一项规定最受关注：自动驾驶功能激活时发生道路交通安全违法行为，由汽车生产企业、进口企业接受处理。\n\n很多人的第一反应是：车在路上违法，为什么不处理车里的人，反而处理车企？\n\n答案其实不复杂：当依法准入的自动驾驶系统接管驾驶任务，交通违法就不能继续只找驾驶人。谁把系统投放到道路上、掌握数据和纠错能力，谁就必须走到处理台前。\n\n先看清三种状态\n\n同一辆智能汽车，可能处于三种不同状态。\n\n• 人在驾驶：方向、速度和刹车由驾驶人控制，违法处理驾驶人。\n• 辅助驾驶：系统可以跟车、变道或保持车道，但驾驶人仍须观察道路、随时接管，责任仍在驾驶位。\n• 经准入的自动驾驶系统激活：系统执行驾驶任务，生产企业、进口企业进入违法处理程序。\n\n草案明确，仅具备辅助驾驶功能的汽车，或者自动驾驶功能没有激活的汽车，仍按普通汽车管理。市场上叫“智驾”“领航”还是“高阶”，不改变这条规则。\n\n需要注意的是，“接受处理”首先确定的是交管部门的处理入口，并没有提前写死全部责任。车企具体承担什么处罚，企业与使用人之间如何区分责任，车主违规启用、超出使用条件或拒绝接管时怎样处理，都还要等待由国务院公安部门牵头制定的具体办法。\n\n为什么是车企，而不是“算法”\n\n自动驾驶系统可以执行动作，却不能到交管部门说明情况，也不能自己整改。系统怎样识别限速牌、何时变道，受产品设计、软件版本和更新规则影响；消费者看不到这些内部过程，生产企业和进口企业则掌握技术、数据和纠错能力。因此，草案选择企业作为外部处理入口。\n\n如果同一车型反复出现相同误判，问题可能从单车违法升级为系统缺陷调查，进而触发软件整改；达到缺陷召回条件时，才可能进入召回程序。\n\n违法先找车企，事故赔偿另算一笔账\n\n草案说的是道路交通违法进入行政程序时先找谁，事故赔偿是另一套问题。草案已经提出，自动驾驶汽车也要实行机动车交通事故责任强制保险制度，具体办法由国务院制定。但保险赔付以后，车辆所有人、使用人、生产企业和系统供应商怎样分担损失，目前公开信息尚未给出完整答案。\n\n因此，“车企接受违法处理”不能被概括成“自动驾驶撞了人一概由车企赔”，更不能理解成车主从此免责。事故发生时系统是否激活、车辆是否在允许条件内使用、乘员是否收到并拒绝接管提示，都可能影响责任认定。\n\n今天绝大多数车主，责任仍在驾驶位\n\n这仍是首次审议的草案，尚未生效。更重要的是，目前市场宣传中的“智能驾驶”，不当然等于草案所说的、依法准入并能够承担完整驾驶任务的自动驾驶。\n\n因此，普通车主现在使用的大多数辅助驾驶功能，驾驶责任并没有转给车企。只要产品说明仍要求驾驶人持续观察、随时接管，就不能因为车辆能够自动跟车或变道而放弃注意义务。\n\n方向盘交给系统，责任入口也要随之移动。车企既然把自动驾驶系统送上公路，就必须对它怎样识别道路、怎样作出决定、怎样纠正错误负责。技术可以代替人开车，责任不能消失在算法里。\n\n主要事实来源\n\n1. 新华社：道路交通安全法修订草案新增自动驾驶汽车专章规定 \n2. 中新网：道路交通安全法修订草案拟建立自动驾驶汽车道路交通安全制度 \n3. 工业和信息化部等四部门：关于开展智能网联汽车准入和上路通行试点工作的通知",
+   "impact": "",
+   "publish_time": "2026-08-25T13:07:49",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787632864107-%E9%81%93%E8%B7%AF%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E6%B3%95%E4%BF%AE%E8%AE%A2%E8%8D%89%E6%A1%88%E4%B8%BA%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%AE%BE%E4%B8%93%E7%AB%A0.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22098,
+   "title": "AI开始自己付款：一句“帮我订旅行”，到底授权它花多少钱？",
+   "summary": "中国支付清算协会发布智能体支付应用自律公约，把AI支付分为辅助支付、预设条件下自主支付和广义条件下自主支付三个阶段。过去每笔网购最终都要等人点击确认，未来AI可能自己选商品、下单并付款。规则既要防止平台用“用户已经授权”推卸越权责任，也要防止用户在交易完成后用“都是AI买的”逃避有效授权产生的账单。",
+   "heat": 92.0,
+   "category": "科技",
+   "story": "想象一个已经不算遥远的场景。\n\n你对AI说：“下个月带家人去三亚玩几天，别太贵，帮我安排好。”\n\n几分钟后，机票、酒店、接送车和景点门票全部订完，钱也已经付了。AI没有把十几个页面推给你比较，没有等你逐笔输入密码，甚至没有再问一句“是否确认付款”。\n\n麻烦也可能在这时出现：航班需要凌晨出发，酒店不能取消，房型少了一张床，最后的总价比你心里的“别太贵”多了5000元。\n\n谁买错了？谁越权了？谁赔钱？\n\n8月24日，中国支付清算协会发布《智能体支付应用自律公约》。这份八章三十四条的行业公约，第一次把AI替人付款可能经历的三个阶段摆上桌面：AI辅助人完成支付、AI在预设条件内自主支付，以及未来在更广泛条件下自行决策和付款。\n\n新闻的分量就在这里。\n\n过去的电子支付再方便，最后仍要等人按下确认键。智能体支付准备跨过的那一步，是把确认键也交给机器。\n\nAI支付真正省掉的，是人的一次次决定\n\n今天的支付工具已经很快。扫码、刷脸、免密、指纹和碰一碰，解决的是怎样更快把钱付出去。\n\nAI智能体要解决的是更前面的问题：买什么、向谁买、什么时候买、买到什么价格，以及这笔钱是否应该现在付。\n\n例如，企业可以让AI在库存下降时自动采购办公用品；电动车可以在电价最低时自动充电并结算；家庭智能体可以在预算内续订水电燃气、购买车票或补充日用品。对高频、小额、规则明确的交易，人不必每天重复做同一套选择。\n\n国际支付机构已经开始抢这个入口。Visa正在建设面向AI智能体的支付体系，让用户预先设定金额、商户类别和需要再次确认的门槛；万事达推出的机器支付服务，甚至面向大量持续发生、金额可能只有几分钱的机器间交易。\n\n这不是给聊天机器人加一个购物车。\n\n当AI同时掌握需求、比价、推荐和付款，传统电商的搜索框、广告位、店铺首页乃至支付页面，都可能被压缩成机器后台的一次调用。谁能进入AI的候选名单，可能比谁把广告摆在消费者眼前更重要。\n\n消费者得到的是方便，平台争夺的是下一代商业入口。\n\n“帮我买便宜一点”，不是一份完整授权书\n\n把支付交给AI，最先撞上的问题不是技术速度，而是人话太模糊。\n\n“订一家好酒店”“给孩子买双舒服的鞋”“库存不够就补一点”，人类听得懂大概意思，却很难直接变成支付系统可以执行的边界。\n\n好酒店是多少钱？舒服由谁判断？补一点是十件还是一千件？允许换品牌吗？可以接受不可退款的低价吗？\n\n如果这些问题没有被拆成金额上限、商品范围、有效时间、商户名单和二次确认条件，所谓授权就可能只剩一句宽泛的口头委托。\n\n这也是公约反复强调授权边界、身份识别和交易意愿验证的原因。它还提出从“了解你的客户”延伸到“了解你的智能体”：金融机构不仅要知道钱是谁的，还要知道哪一个AI正在替谁办事、获得了什么权限、每一步留下了什么记录。\n\n这套记录决定了一旦出错，责任能否倒查。\n\nAI究竟理解错了用户，还是平台给了错误商品信息？商家是否用专门设计的页面诱导机器推荐？支付机构有没有识别超额和异常交易？用户的授权中途是否已经撤销？\n\n机器可以在几秒内完成购物，纠纷处理却不能只回复一句“模型自主决策”。\n\n这里还有一个容易被忽略的反方向风险：用户也可能把AI当成赖账工具。\n\n如果一个人明确设定“机票每人不超过3000元、酒店每晚不超过1000元”，AI严格照办，等到账单出现以后，用户再说“不是我点的，是AI买的”，交易秩序同样会被破坏。\n\n所以智能体支付不能只保护用户，也要识别有效授权。平台不能拿一句宽泛同意书覆盖所有越权消费；用户也不能在机器严格执行清晰指令以后，把AI当成随时可以翻供的替身。\n\n授权边界之外，平台承担越权责任；授权边界之内，用户承担交易后果。双方都不能把AI当成逃避责任的托词。\n\n商家以后可能先说服AI，再说服人\n\n今天的网络营销主要研究怎样吸引人的注意力。智能体购物普及以后，商家会开始研究另一套问题：怎样让AI认为自己的商品最便宜、最可靠、最符合用户要求。\n\n这会产生一场新的搜索排名竞赛，也会打开新的欺骗空间。\n\n此前已经出现骗子污染网络信息、让AI把山寨客服电话当成官方售后的案例。相同方法完全可能进入购物环节：伪造评价、批量生产对机器友好的测评、隐藏附加费用，甚至把退货条件藏在人类和模型都不容易发现的位置。\n\n更麻烦的是，过去消费者看到可疑页面还有机会停下来；未来AI可能连续完成搜索、比较、下单和支付，错误链条跑得比人发现问题更快。\n\n因此，公约提出不能用排他合作、强制捆绑和低价补贴限制用户选择。这条看似针对市场竞争，实际也在防止AI购物入口被少数平台锁住。一旦某个智能体只看得到合作商家的商品，它给出的“最佳选择”只是平台安排好的答案。\n\n钱花错以后，责任必须留在人类制度里\n\n公约给出了一条最关键的原则：谁提供支付服务，谁负责。\n\n这句话必须成为智能体支付的底座。\n\nAI可以参与选购和执行，支付的核心环节仍应由持牌机构完成；面向公众推出自主支付前，需要完成备案和业务、安全、伦理测试；机构还要提供人工服务、异常监测、应急处置、回滚机制以及方便用户使用的关闭和查询渠道。\n\n这些安排意味着，用户不能因为使用了AI，就自动承担机器犯错的全部代价；同样，用户已经作出清晰、可验证的授权，也不能因为结果不合心意就拒绝正常履约。银行、支付机构、智能体平台、商家和用户分别控制着一段流程，也必须分别证明自己做了什么。\n\n真正可靠的产品，至少要让普通人随时看见四样东西：AI被允许买什么，最多花多少钱，哪些交易必须再次确认，以及如何一键停用并追回异常付款。\n\n老人和未成年人还需要更窄的默认权限，而不是把复杂设置藏在几十页协议里。\n\n目前，这份文件是行业自律公约，不等于中国已经全面开放AI在任何场景自主花钱。尤其是最激进的广义条件自主支付，仍要等待技术、规则和实际应用继续验证。\n\n但方向已经清楚：支付正在从“人使用工具付款”，走向“人授权机器行动”。\n\n这会让一次旅行、一批采购和一整套家庭账单变得更省事，也会让一次模糊指令拥有直接调动真金白银的能力。\n\nAI可以替人点击付款，却不能替任何一方背锅。平台不能用“用户授权”掩盖越权，用户不能用“AI下单”逃避有效账单。机器负责提高效率，人类制度负责把责任钉在真实的人和机构身上。\n\n来源与口径说明\n\n中国支付清算协会《智能体支付应用自律公约》的条款与阶段划分，参考新华社、证券时报和澎湃新闻等对公约内容的报道。公约属于行业自律规范；本文讨论的广义条件自主支付是其列出的发展阶段，不代表该模式已经在国内全面投入公众使用。Visa Intelligent Commerce和Mastercard Agent Pay for Machines用于说明国际支付行业的技术方向，不代表所有功能均已在所有国家普遍上线。\n\n主要来源\n\n《智能体支付应用自律公约》发布：明确三个发展阶段智能体支付的授权、备案与责任要求Visa Intelligent Commerce官方说明Mastercard推出Agent Pay for Machines",
+   "impact": "",
+   "publish_time": "2026-08-25T01:38:01",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787593046512-AI%E5%BC%80%E5%A7%8B%E8%87%AA%E5%B7%B1%E4%BB%98%E6%AC%BE.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22109,
+   "title": "废旧服务器成了境外窃密跳板：删除文件不等于数据消失",
+   "summary": "国家安全机关和保密部门披露多起废旧涉密设备处置不当导致泄密的案例：数据从硬盘等设备中被恢复，未报废服务器还被境外间谍情报机关入侵并用于窃密，暴露设备退出环节的管理漏洞。",
+   "heat": 90.0,
+   "category": "时政",
+   "story": "国家安全机关和保密部门披露的案例显示，一些单位在淘汰硬盘、打印机、硒鼓和服务器时，没有完成专业的信息消除或物理销毁，导致数据被恢复；还有废弃服务器长期留在机房，后来遭境外间谍情报机关入侵，成为窃取内部信息的跳板。\n\n这类案件最反常识的地方是：设备已经“没人用了”，风险却没有退休。\n\n为什么格式化也不够\n\n普通删除通常只是把文件标记为可覆盖，数据本体可能仍留在存储介质上；简单格式化也不一定能防止专业恢复。打印机、复印机和多功能一体机同样可能带有硬盘或缓存，记录扫描、打印过的内容。\n\n更危险的是仍接在网络里的旧服务器。它可能不再承载业务，却还保留账号、配置、漏洞和历史文件，运维人员也不再及时更新补丁，反而成为最薄弱的入口。\n\n常识回归\n\n现行保密法明确禁止把未经安全技术处理的退出使用涉密信息设备赠送、出售、丢弃或改作他用。涉密设备报废不是普通资产处置，应经过审批、清点、登记、交接，并交由规定机构或具备资质的单位处理。\n\n对普通企业和家庭，这个案例同样有提醒意义：出售旧电脑和手机前，应退出账号、解除支付与云服务绑定，使用可信的安全擦除方法；涉及重要商业资料的存储介质，不应只恢复出厂设置就直接转卖。\n\n信息来源：国家安全机关相关披露、央视新闻、《中华人民共和国保守国家秘密法》。\n---",
+   "impact": "",
+   "publish_time": "2026-08-25T02:07:22",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787623155613-%E5%BA%9F%E6%97%A7%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%88%90%E4%BA%86%E5%A2%83%E5%A4%96%E7%AA%83%E5%AF%86%E8%B7%B3%E6%9D%BF.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22154,
+   "title": "再增50个场景：公共数据怎样真正“跑起来”",
+   "summary": "国家数据局发布新一批50个公共数据“跑起来”示范场景；加上此前四批公布的100个场景，公共数据开发正进入医疗互认、商户资质核验、交通物流和基层减负等具体应用。",
+   "heat": 88.0,
+   "category": "时政",
+   "story": "很多政府部门掌握着大量数据，但居民和企业仍可能遇到同一个证件反复提交、同一张表反复填写、不同医院检查结果无法共享等问题。公共数据“跑起来”，首先要解决的就是这些具体麻烦。\n\n应用场景数据怎样发挥作用医疗检查检验互认减少重复检查，降低时间和费用成本外卖商户入驻实时核验营业执照和食品经营许可证二手车交易核验卖方身份、车辆状态和登记信息跨境物流汇集海关、口岸、交通和气象数据基层报表一次采集、多方复用，减少重复填报智能网联汽车融合车辆、道路、充电和交通流量数据\n\n福建的示范场景中，市场监管部门向外卖平台提供权威证照核验数据，平台则把投诉、评分和风险线索反馈给监管部门。东莞建立统一报表系统，让部分基层数据实现“一次采集、多方复用”。\n\n“跑起来”不等于全部公开\n\n涉及身份、健康、车辆轨迹等敏感信息，仍应遵循最小必要、授权使用和安全审计原则。比较理想的方式是“数据可用不可见”：系统完成核验，只返回符合或不符合，使用方未必能看到原始个人数据。\n\n判断这些示范项目是否成功，可以看三个指标：居民是否少交了材料，企业是否降低了核验成本，政府是否提高了监管效率。\n\n公共数据真正的价值，不是数据库里有多少条，而是能否让普通人少跑一次腿、少填一张表。",
+   "impact": "",
+   "publish_time": "2026-08-25T14:14:40",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787638389361-%E5%86%8D%E5%A2%9E50%E4%B8%AA%E5%9C%BA%E6%99%AF%EF%BC%9A%E5%85%AC%E5%85%B1%E6%95%B0%E6%8D%AE%E6%80%8E%E6%A0%B7%E7%9C%9F%E6%AD%A3%E2%80%9C%E8%B7%91%E8%B5%B7%E6%9D%A5%E2%80%9D.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22111,
+   "title": "半年上市超600款新车：汽车“快消化”正在逼质量体系踩刹车",
+   "summary": "2026年上半年，国内上市新车按不同平台全口径统计约576款至600余款，平均每天超过3款；新能源汽车研发周期普遍压缩至18至24个月。工信部要求车企抵制非理性竞争，加强可靠性、耐久性和新技术测试验证。",
+   "heat": 88.0,
+   "category": "财经",
+   "story": "2026年上半年，中国乘用车市场出现了一个极具冲击力的数字：按不同平台的全口径统计，新上市车系约576款，若把年度改款、配置衍生车型等都计算在内，新车数量超过600款，平均每天至少3款。\n\n与此同时，新能源汽车研发周期已从传统燃油车的36至48个月，普遍压缩到18至24个月，部分企业甚至逼近12个月。奔驰、宝马近期用宣传短片讽刺“速成车”，工信部也在7月召集重点车企，要求抵制非理性竞争，加强可靠性、耐久性和新技术测试验证。\n\n快，不天然等于偷工减料\n\n中国汽车研发速度提升，有供应链集中、平台化开发、数字仿真和软硬件并行工程的支撑。大众中国的本地电子电气架构就曾用18个月完成从概念到量产，并强调没有降低验证标准。\n\n真正的问题不是周期数字本身，而是企业靠什么缩短周期：如果省掉的是重复沟通和串行等待，效率越高越好；如果压缩的是道路耐久、极端气候、碰撞安全和软件故障验证，风险就会在车辆交付后由消费者承担。\n\n600款新车也没有换来600个爆款\n\n懂车帝统计显示，上半年全口径新车超过600款，但月销过万辆的不足30款。大量车型上市后迅速边缘化，研发、模具、营销和渠道成本来不及在产品生命周期内摊销，车企只能更快改款、降价或停产，形成“越快越难回本，越难回本越要上新”的循环。\n\n对消费者而言，最值得看的不只是发布会配置，而是同平台车型的召回记录、软件更新稳定性、售后网点和上市半年后的保值率。汽车可以像手机一样升级功能，却不能像手机一样容忍安全验证靠用户公测。\n\n信息来源：工信部重点汽车生产企业座谈会、易车车型库、懂车帝、每日经济新闻、证券时报。\n---",
+   "impact": "",
+   "publish_time": "2026-08-25T02:07:22",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787621544947-%E5%8D%8A%E5%B9%B4%E4%B8%8A%E5%B8%82%E8%B6%85600%E6%AC%BE%E6%96%B0%E8%BD%A68.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22155,
+   "title": "私募基金达到25.73万亿元：创新高的是哪部分钱",
+   "summary": "截至2026年7月底，存续私募基金144727只，规模25.73万亿元，首次站上25万亿元；私募股权基金规模11.93万亿元，证券私募9.10万亿元，创业投资基金4.45万亿元。",
+   "heat": 87.0,
+   "category": "财经",
+   "story": "25.73万亿元听起来是一个巨大的数字，但这里的“私募基金”不是单指炒股票的证券私募。\n\n私募类型存续数量管理规模私募证券投资基金83992只9.10万亿元私募股权投资基金29662只11.93万亿元创业投资基金30423只4.45万亿元其他私募基金约650只约0.25万亿元合计144727只25.73万亿元\n\n截至7月底，登记存续的私募基金管理人有18512家。上海、北京、深圳、广东、江苏和浙江六地的管理规模合计占全国约75.94%，资金和管理机构仍高度集中。\n\n7月新备案私募基金2601只，新备案规模1221.75亿元。其中，证券私募新备案规模728.09亿元，股权投资基金188.48亿元，创业投资基金305.19亿元。\n\n规模增加，不只来自新资金\n\n证券私募规模会受到市场行情和基金净值变化影响；股权、创投基金则可能受新基金设立、国资基金投入及存量项目估值影响。总规模增加既可能来自新资金，也可能来自资产价格上涨。\n\n更不能把规模创新高读成收益创新高。私募基金中既有投资股票、债券和期货的产品，也有持有未上市企业多年的股权基金，不同产品的流动性、风险和退出周期完全不同。\n\n25.73万亿元说明私募已经成为资本市场的重要力量，却不能证明每一只私募都拥有与规模相匹配的赚钱能力。",
+   "impact": "",
+   "publish_time": "2026-08-25T14:14:40",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787638083437-%E7%A7%81%E5%8B%9F%E5%9F%BA%E9%87%91%E8%BE%BE%E5%88%B025.73%E4%B8%87%E4%BA%BF%E5%85%83.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22086,
+   "title": "国管公积金新政落地，首套房最高可贷340万",
+   "summary": "国管公积金发布新政，双缴存职工家庭叠加上浮政策后，首套房公积金最高贷款额度可达340万元。",
+   "heat": 86.0,
+   "category": "财经",
+   "story": "国管公积金新政引发购房者关注。根据最新政策，购房家庭中1人为住房公积金缴存人的，购买首套住房公积金贷款最高额度为120万元，二套住房最高额度为100万元。\n\n政策还明确，符合特定条件的，最高贷款额度可进一步上浮。例如城六区户籍居民家庭在城六区外购买首套住房的，最高可上浮20万元。\n\n照此计算，如果是双缴存职工家庭，并叠加各类上浮政策，首套房公积金最高可以贷款340万元。\n\n新政还优化住房套数认定标准。对在北京市无住房或仅有1套住房的北京市缴存人家庭，当前已结清公积金贷款的，再次购房时可申请执行相应政策。",
+   "impact": "提高公积金贷款额度有助于降低部分购房家庭商业贷款压力，尤其对首套和改善型需求更直接。\n\n但额度提高不等于所有人都能贷满，具体仍取决于缴存年限、账户余额、还款能力、房屋总价和当地审核规则。",
+   "publish_time": "2026-08-24T22:37:45",
+   "cover": "https://gongxiaotianxia.oss-cn-beijing.aliyuncs.com/uploads/1787581197199-15.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22156,
+   "title": "2183家公司交出半年报：哪些赛道真正挣到了钱",
+   "summary": "截至8月24日收盘，A股已有2183家公司披露2026年半年报，其中1308家公司净利润同比增长，占59.92%；401家公司提出中期分红方案，利润增长主要集中于AI算力硬件、有色金属、基础化工、电力设备和创新药。",
+   "heat": 86.0,
+   "category": "财经",
+   "story": "这组财报最值得看的不是“近六成公司利润增长”这一句，而是钱主要被哪些行业挣走了。\n\n指标数据已披露半年报公司2183家净利润同比增长公司1308家增长公司占比59.92%拟实施中期分红公司401家分红公司占已披露样本18.37%\n\n剔除金融股，中国移动、宁德时代、中国石化、中国电信、洛阳钼业、中际旭创、药明康德、万华化学等公司的净利润居前。行业层面，AI算力硬件、半导体存储、有色金属、能源化工、电力设备和创新药表现较强，地产链和部分内需消费行业继续承压。\n\n江波龙上半年营业收入240.88亿元，同比增长136.26%；归母净利润105.77亿元，同比增幅超过700倍。高增长不仅来自销量，还包括行业景气回升、存储产品涨价、低成本库存释放和上年同期低基数。\n\n401家公司分红，先看现金质量\n\n中国移动、中国石化和紫金矿业中期分红金额均超过100亿元。紫金矿业上半年归母净利润391.7亿元，并提出约111亿元中期分红方案。\n\n股民不能只看净利润增长和宣布分红，还要看扣非净利润、经营现金流、毛利率以及负债变化。一次性资产处置也能推高利润，但未必代表主营业务变强。\n\n这批半年报给出的信号很清楚：A股不是普遍繁荣，而是AI硬件、资源品和部分制造业龙头率先把产业景气变成了利润。",
+   "impact": "",
+   "publish_time": "2026-08-25T14:14:40",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787638178358-2183%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%BA%A4%E5%87%BA%E5%8D%8A%E5%B9%B4%E6%8A%A5.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22113,
+   "title": "AI说“做雾化就行”导致3岁孩子住院：最怕用户把AI建议当诊断",
+   "summary": "杭州媒体报道，一名3岁男童咳喘后，家长依据AI判断拒绝医生建议的检查，回家雾化两天后因病情加重住院，确诊偏肺病毒肺炎并合并细菌感染。医生提醒，AI无法替代查体、检验和急诊判断。",
+   "heat": 86.0,
+   "category": "社会",
+   "story": "杭州媒体报道，一名3岁男童出现咳嗽、咳喘后，家长依据AI给出的“哮喘急性发作”判断，拒绝医生建议的影像检查，带孩子回家做雾化。两天后，孩子出现发热和呼吸急促，检查发现双肺大面积炎症，诊断为偏肺病毒肺炎并合并细菌感染，需要住院治疗。\n\n另有急诊医生提到，一些患者拿着AI结论要求立即进行特定检查，医生需要额外解释为什么真实诊疗与AI建议不同。\n\nAI缺少的，不只是医学知识\n\n大模型可以整理症状、提示可能性，却看不到患者的呼吸频率、精神状态、血氧、皮疹和查体体征，也不能自行完成化验和影像。更关键的是，它无法知道用户有没有漏报信息、描述是否准确。\n\n医学诊断不是从症状关键词里选一个最像的答案，而是不断排除危险情况。咳喘既可能是哮喘，也可能来自肺炎、异物吸入或其他问题。对儿童、老人、孕妇和慢性病患者，同一个症状的风险阈值也不同。\n\n常识回归\n\nAI适合帮助整理病史、解释术语、准备就医问题，不适合替代急诊分诊和处方。出现呼吸困难、意识改变、持续高热、严重胸痛、抽搐、明显脱水等急症信号，应直接联系医疗机构，而不是继续追问模型。\n\n医生的判断也可能需要复核，但复核方式是检查、会诊和随访，不是让AI与医生“投票”。AI能提供第二种说法，却不能承担延误治疗的后果。\n\n信息来源：杭州网健康、都市快报对浙江省中医院和浙大二院医生的采访。本文不构成诊疗建议。\n---",
+   "impact": "",
+   "publish_time": "2026-08-25T02:07:22",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787622379620-AI%E8%AF%B4%E2%80%9C%E5%81%9A%E9%9B%BE%E5%8C%96%E5%B0%B1%E8%A1%8C%E2%80%9D123.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22150,
+   "title": "人类研究基因“启动按钮”46年，AI从50万个DNA版本里读懂密码",
+   "summary": "科学家早在1980年就观察到控制基因转录起点的“起始子”，却长期无法完整描述它的序列规律。加州大学圣迭戈分校团队测试约50万个DNA序列版本，再用机器学习建立预测模型。实验室生产真实数据，AI把人类难以逐项比较的结果读成了一套基因启动规则。",
+   "heat": 85.0,
+   "category": "科技",
+   "story": "1980年，法国科学家在研究基因转录时，注意到了一段特殊的DNA序列。\n\n它位于基因开始工作的地方。细胞准备读取一段遗传信息、制造蛋白质时，转录机器常常要从这里起步。\n\n后来，科学家给它起了一个很直白的名字：起始子，英文叫Initiator。\n\n名字有了，位置也找到了，它究竟由哪些碱基组成、不同排列能把基因开到多大、与旁边的调控元件怎样配合，却始终没有一张足够可靠的说明书。\n\n四十六年后，加州大学圣迭戈分校团队换了一种办法。\n\n他们制造并测试了大约50万个起始子序列版本，测量每个版本能够带来多强的基因转录，再把这些实验结果交给机器学习模型。AI由此识别出起始子的序列规律，并能预测一段DNA有没有起始子、它可能拥有多强的启动能力。\n\n科学家先做了50万道实验题，AI再从所有答案中找出人眼很难看全的规则。这才是它参与科学发现的方式。\n\n基因一直都在，细胞为何只打开其中一部分\n\n人体绝大多数细胞拥有基本相同的DNA，神经细胞、肝细胞和肌肉细胞却能执行完全不同的任务。\n\n真正造成差别的，是细胞“什么时候打开哪些基因”。\n\nDNA保存着制造蛋白质的指令，细胞首先要把需要使用的一段DNA转录成RNA，再根据RNA制造蛋白质。控制转录起点的核心启动子，就像机器开始读取指令时必须对准的入口。\n\n起始子位于这个入口附近。1980年，科学家第一次观察到相关序列特征；1989年，斯蒂芬·斯梅尔和诺贝尔奖得主戴维·巴尔的摩进一步阐明它作为核心启动元件的功能。上世纪90年代，多支团队尝试概括它的序列模式，却得出了彼此不同的答案。\n\n困难藏在四个字母里。\n\nDNA主要由A、T、C、G四种碱基构成。只看连续10个位置，就存在1048576种可能排列。改变其中一个字母，启动能力可能明显变化；同一段起始子与不同邻近元件配合，表现也可能不同。\n\n人类可以发现一个表现突出的序列，却很难靠传统实验穷尽百万种组合。\n\n2017年，詹姆斯·卡多纳加团队利用全基因组数据，已经改进了人类起始子的共识序列，并确认它广泛存在于基因转录起点。新研究继续追问：这个共识序列之外，几十万个稍有不同的版本，究竟怎样影响基因启动？\n\n科学家造出50万个版本，让AI参加一场大考\n\n研究团队把起始子附近10个或14个碱基位置随机改写，建立约50万个序列变体。\n\n第一步发生在实验室：研究人员把不同版本装进启动子结构，测量每个版本产生的转录活动，再用高通量测序记录结果。\n\n每一条训练数据因此包含两个部分：这段DNA具体怎样排列，以及它在真实生化反应或细胞中表现出多强的转录能力。\n\n有了这批数据，团队使用支持向量回归模型学习碱基排列与转录强度之间的关系。模型用20万个变体训练，再用没有参加训练的数千个序列接受测试。预测结果与实验观察高度相关。\n\n这一步很重要。模型需要从50万个答案中提炼规律，再面对全新的序列，推测它能否启动转录以及能力强弱。\n\n实验还发现，大多数随机版本的转录能力很低，真正高效的组合只占很小一部分。排名最靠前的0.1%序列，显现出清楚的共同特征。\n\n生命经过漫长演化留下的启动规则，由此从海量噪声中浮现出来。\n\n“启动按钮”旁边，还有不同的控制面板\n\n起始子需要与周围环境共同工作。它更像控制面板上的一个部件，而不是按下去就能独自开机的按钮。\n\n基因的核心启动区还有TATA盒、下游启动区等调控元件。它们更像同一块控制面板上的不同部件，有的紧密配合，有的能够相互替代，有的负责不同类型的基因。\n\n团队把几十万个起始子分别放进含有不同邻近元件的启动子结构中测试。模型发现，起始子与下游启动区存在严格的协同关系；TATA盒的工作方式更灵活，有时可以独立推动转录。研究还识别出一种与TATA盒配合的起始子新变体。\n\n这种差异可能对应不同的生物任务。论文分析显示，只带有TATA盒的一类启动子，更多出现在信号传递、免疫和应激反应相关基因中。细胞面对感染、损伤或环境变化时，需要迅速改变工作状态，这类启动结构可能正适合处理突然到来的命令。\n\n研究人员进一步估计，约60%的“聚焦型人类启动子”含有起始子。聚焦型启动子是指转录从相对集中的位置开始。学校新闻稿为了便于理解，将其概括为约60%的人类基因；论文的准确统计对象是特定类型的启动子，人类基因还存在其他启动方式。\n\n这项研究的真正突破，是开始看清不同基因控制面板的组合规则。\n\nAI从寻找DNA拼写错误，走向阅读调控语法\n\n过去的基因检测，特别擅长寻找蛋白质编码区里的变化：某个碱基错了，可能改变一种蛋白质的结构。\n\n人类基因组里还有大量不直接编码蛋白质的区域。它们负责决定一个基因何时启动、在哪里启动、启动到什么程度。这里发生的突变不会改写蛋白质本身，却可能让正确的基因在错误的时间工作，或者让应该工作的基因保持沉默。\n\n起始子模型提供了一种新工具：输入一个自然存在或发生突变的DNA序列，预测它的转录能力可能怎样变化。这有助于研究某些非编码突变与癌症等疾病之间的关系。\n\n另一条路线通向合成生物学。研究人员可以尝试设计具有特定强度、能与不同调控元件配合的人工启动子，让工程细胞按照需要生产药物、材料或其他分子。\n\n这些应用目前仍处于研究阶段，距离癌症诊断或治疗方案还有很长的验证链条。论文作者还指出，大约30%的人类启动子缺少已知的核心启动元件，生命留下的控制规则仍有大片空白。\n\n但这项研究已经展示了一条清楚的道路：实验室负责制造可信数据，AI负责寻找高维规律，科学家再用新实验验证模型提出的答案。\n\n这与“把论文喂给聊天机器人，请它猜一个结论”完全不同。AI进入实验科学，最珍贵的燃料依然是昂贵、缓慢而扎实的真实实验。\n\n50万个小实验，照亮六十亿个字母\n\n一个人体细胞内大约有60亿个DNA碱基。它们既保存蛋白质说明书，也隐藏着一套更复杂的调度系统：哪个基因在何时、何地，以多大强度工作。\n\n起始子只是这套系统的一小部分。\n\n可它提供了一个值得期待的样本。过去，科学家通常先提出少数候选规则，再用实验逐一验证；现在，高通量实验可以一次生产几十万份结果，机器学习再从中建立能够预测新序列的模型。生命科学由此获得了一种新的放大器。\n\n从1980年第一次看见起始子的影子，到今天让AI比较50万个版本，人类用了46年，终于把一枚模糊的“启动按钮”，展开成一组可以计算、预测和重新设计的规则。\n\nAI真正开始改变科学的标志，是它与实验室一起，从自然界尚未写出答案的问题里发现新规律。\n\n来源与口径说明\n\n• 加州大学圣迭戈分校2026年8月21日研究介绍：约50万个起始子版本、机器学习模型、约60%及潜在疾病研究和合成启动子应用等信息。\n• 论文：Machine learning analysis of the human initiator region reveals key features of different types of core promoters：实验设计、支持向量回归模型、不同核心启动元件关系及统计口径。论文正式发表于《基因与发育》；PMC页面还保留了此前预印本的版本信息。\n• 加州大学圣迭戈分校2017年研究回顾：起始子于1980年被观察、1989年被明确阐述，以及2017年对人类起始子共识序列的研究进展。\n• “约60%”在论文摘要中的准确对象是聚焦型人类启动子。校方新闻稿将其通俗表述为约60%的人类基因，本文在正文中保留了这一口径区别。",
+   "impact": "",
+   "publish_time": "2026-08-25T13:07:49",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787634370805-%E4%BA%BA%E7%B1%BB%E7%A0%94%E7%A9%B6%E5%9F%BA%E5%9B%A0%E2%80%9C%E5%90%AF%E5%8A%A8%E6%8C%89%E9%92%AE%E2%80%9D46%E5%B9%B4.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22157,
+   "title": "光学芯片重大突破！一块芯片可以同时完成加法、减法和比较",
+   "summary": "兰州大学田永辉教授团队研制出可重构光学算术逻辑单元芯片，可在同一硬件平台完成逻辑运算、2位加法、减法和数字比较；实验速度达到20Gb/s，能效为12.36飞焦/比特。",
+   "heat": 85.0,
+   "category": "科技",
+   "story": "传统芯片用电子完成计算，这项研究尝试让光参与算术和逻辑运算。\n\n研究团队采用硅基微环调制器，在同一套硬件上实现基本逻辑门、2位加法器、减法器和数字比较器。所谓“可重构”，就是不必为每一种运算重新制造一块芯片，而是通过调整工作方式改变它执行的任务。\n\n实验指标结果运算速度20Gb/s计算密度528Gb/s/mm²能效12.36飞焦/比特已验证功能逻辑运算、2位加减法、数字比较演示场景数据加密、图像处理\n\n为什么要让光参与计算\n\n电子芯片不断提高集成度后，会遇到功耗、发热和数据传输瓶颈。光在传输速度、并行处理和低延迟方面具有优势，适合高速通信、图像处理和部分AI计算。\n\n但这块芯片还不是一台“光学CPU”。它完成的是有限位数、特定结构下的算术逻辑功能，与处理操作系统、运行大型软件的通用处理器仍有很大距离。光电转换、存储、控制电路和大规模制造也都是后续难题。\n\n它证明的不是“光芯片已经取代电子芯片”，而是光计算开始学会把多个动作连成一项完整任务。",
+   "impact": "",
+   "publish_time": "2026-08-25T14:14:40",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787636231948-%E4%B8%80%E5%9D%97%E8%8A%AF%E7%89%87%E5%90%8C%E6%97%B6%E5%AE%8C%E6%88%90%E5%8A%A0%E6%B3%95.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22114,
+   "title": "24家文学刊物联合拒收AI稿：真正难题是怎样证明一篇文章属于谁",
+   "summary": "来自江苏、江西、甘肃、湖北等地的24家文学刊物联合声明，拒收AI生成、洗稿或实质性辅助创作的作品，并称查实后可能联合封禁作者。声明引出AI检测误判、使用边界和申诉机制问题。",
+   "heat": 85.0,
+   "category": "社会",
+   "story": "江苏、江西、甘肃、湖北等地24家文学刊物联合发布声明，拒收利用AI生成、洗稿、合成或实质性辅助创作的作品。声明称，来稿将经过人工复核和技术检测，一经查实，相关作者可能被列入联合黑名单，不再采用。\n\n这份声明击中了文学编辑部的真实焦虑：投稿成本几乎降到零后，机器可以在很短时间内生产大量“像文学”的文字，邮箱和审稿能力却没有同步扩容。\n\n“拒绝AI”说起来容易，执行起来很难\n\n生成式AI检测工具并不能像DNA鉴定一样给出确定答案。经过人工改写的AI文本可能逃过检测，人类作者的规范表达也可能被误判。若“永久封禁”主要依赖技术分数，申诉和证据规则就会成为新的争议。\n\n边界也并不清楚：用输入法纠错、查词典、请AI找病句，与让AI续写情节、重写段落、生成整篇作品，显然不是同一回事。刊物如果不说明“辅助工具”和“代替创作”的分界，作者很难知道规则落在哪里。\n\n文学为什么比一般内容更敏感\n\n文学作品的价值不仅是信息正确，还包括经验、语言选择和个人表达。一个人是否真正经历、观察和思考过，往往就是作品的一部分。AI可以模仿句式，却不能替作者拥有生活。\n\n因此，这场争议最终不会停在“用不用AI”，而会走向更细的披露制度：作者是否需要声明使用范围，刊物如何保存证据，误判后怎样申诉。原创不是从未借助工具，而是作者没有把最核心的表达责任外包出去。\n\n信息来源：24家文学刊物联合声明、澎湃新闻。\n---",
+   "impact": "",
+   "publish_time": "2026-08-25T02:07:22",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787623051943-24%E5%AE%B6%E6%96%87%E5%AD%A6%E5%88%8A%E7%89%A9%E8%81%94%E5%90%88%E6%8B%92%E6%94%B6AI%E7%A8%BF.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22116,
+   "title": "全国收购小麦超过9000万吨：最低收购价托住的是农民卖粮底线",
+   "summary": "国家粮食和物资储备局8月24日公布，全国各类粮食经营主体累计收购小麦超过9000万吨；江西、湖南已启动早籼稻最低收购价执行预案，河南启动小麦最低收购价执行预案。",
+   "heat": 83.0,
+   "category": "时政",
+   "story": "国家粮食和物资储备局8月24日公布，全国各类粮食经营主体累计收购小麦超过9000万吨。8月以来，江西、湖南启动早籼稻最低收购价执行预案，河南启动小麦最低收购价执行预案。\n\n9000万吨是收购量，不是今年小麦总产量，也不是全部由国家粮库买走。我国粮食收购以市场化收购为主，政策性收储负责在市场价格过低时托底。\n\n最低收购价怎样发挥作用\n\n当主产区市场价格在一定时间内低于国家公布的最低收购价，符合质量标准的粮食可以按预案进入指定收储库点。这相当于给市场建立一条价格底线，避免丰收后集中上市把粮价压得过低。\n\n但农民最终拿到多少钱，还取决于水分、杂质、等级、运输距离和排队时间。粮食不达质量标准，或者烘干、仓储能力不足，都可能让纸面上的保护价无法完整变成收入。\n\n为什么今年要关注收购而不只看产量\n\n粮食生产的最后一公里不是收割，而是卖得出、存得住、损耗低。遇到连续降雨，及时烘干和开放库点，可能比再讲一遍“丰收”更直接地影响农民收益。\n\n接下来应看主产区实际收购价格、最低收购价库点数量、排队时间和农户售粮进度。粮食安全既是仓里有多少粮，也是种粮的人能不能获得可持续回报。\n\n信息来源：国家粮食和物资储备局、人民网。\n\n---",
+   "impact": "",
+   "publish_time": "2026-08-25T02:07:22",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787620287377-%E5%85%A8%E5%9B%BD%E6%94%B6%E8%B4%AD%E5%B0%8F%E9%BA%A6%E8%B6%85%E8%BF%879000%E4%B8%87%E5%90%A8.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22118,
+   "title": "今年新兴产业国家标准已发布超1400项：抢先机也抢规则定义权",
+   "summary": "市场监管总局披露，2026年以来已发布国家标准2800余项，其中新兴产业国家标准超过1400项，占比过半，覆盖信息技术、新材料、高端装备、新能源和节能环保等领域。",
+   "heat": 81.0,
+   "category": "财经",
+   "story": "市场监管总局披露，2026年以来已发布国家标准2800余项，其中新兴产业国家标准超过1400项，占新发布国家标准的一半以上。\n\n新一代信息技术和新材料领域分别超过300项，高端装备制造超过200项，新能源和节能环保分别超过100项。涉及的具体标准包括脑机接口多模态数据格式、人工智能终端智能化分级、组合驾驶辅助系统安全要求、动力电池安全、无人机飞行管理信息交互等。\n\n标准为什么也是产业竞争\n\n新技术早期最常见的问题不是没人会做，而是大家的接口、数据、测试方法和安全口径不同。标准一旦统一，产品更容易互联，采购方可以比较，监管部门也有了验收和追责依据。\n\n对领先企业而言，参与标准制定可以把已有技术经验变成行业共同语言；对后来者而言，标准提高了进入市场的明确门槛。它既能降低交易成本，也可能淘汰只会讲概念、经不起测试的产品。\n\n1400项不能简单理解为1400个强制门槛\n\n国家标准分为强制性和推荐性，发布时间、生效时间和适用范围也不同。企业真正需要关心的是：哪些标准与自身产品直接相关，是否强制执行，检测认证能力是否跟得上，旧产品要不要重新设计。\n\n接下来值得观察的，是标准实施后的检测、招标和处罚案例。标准发布只是写下尺子，产业升级要看企业是否真的按这把尺子重新做产品。\n\n信息来源：市场监管总局、国家标准委。\n---",
+   "impact": "",
+   "publish_time": "2026-08-25T02:07:22",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787623325065-%E4%BB%8A%E5%B9%B4%E6%96%B0%E5%85%B4%E4%BA%A7%E4%B8%9A%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22125,
+   "title": "扶老人遭索赔1.9万元，店主获2万元慰问金",
+   "summary": "湖南祁东店主帮扶晕倒老人送医后离世，家属索赔10万元经协商降至1.9万元。有关部门确认店主无过错、不担责，当地企业送上2万元慰问金鼓励善举。",
+   "heat": 80.0,
+   "category": "社会",
+   "story": "8月17日中午，湖南祁东县一家牌馆内，店主肖爱华正在照看店面。一名老人因身体不适走进店里休息，仅过一分多钟便晕倒在地。\n\n肖爱华见状上前施救，店内其他人拨打了120。约五分钟后救护车抵达，医生现场测量时老人仍有生命体征，但神志不清。老人随后被送往医院，经抢救无效离世。\n\n事情本来到此为止，却因为家属一句“质疑救助不当”急转直下。老人家属向肖爱华索赔10万元。肖爱华的儿子李先生称，母亲因此事出现严重身体不适，失眠、头晕、吃不下饭。\n\n因为担心母亲身体，父亲同意赔付。双方在派出所协商两次，赔偿金额从10万元降到1.9万元后达成协议。肖爱华一家一次性转账1.9万元，家属承诺不再就该纠纷提出异议。\n\n8月24日，事情出现反转。当地有关部门经过调查确认，肖爱华没有过错，不承担法律责任。祁东县司法局也已介入调查。\n\n同日，湖南祁东金泰米业总经理龚胜利专程来到肖爱华家，为她送上2万元慰问金。他鼓励她：“做好事有可能引来不必要的纠纷，但面对应急情况，出手帮扶是人的良心良知。”\n\n肖爱华一家对这份关心表示感谢。他们表示，这两天有很多人对他们表示了慰问和鼓励，感觉很温暖。“以后再遇到需要帮助的事或人，还是会站出来，尽自己一份力去帮一把。”",
+   "impact": "事件再次引发公众对“救人反被讹”的担忧。《民法典》第一百八十四条早已为善意施救者提供法律保障，明确“因自愿实施紧急救助行为造成受助人损害的，救助人不承担民事责任”。\n\n多家媒体发声，呼吁司法要为行善者撑腰。“一味向无理索赔的家属妥协，看似快速化解纠纷，实则透支社会善意、伤害公序良俗。”当善举得到明确撑腰，下一次有人倒下时，路人才会毫不犹豫地伸出手。",
+   "publish_time": "2026-08-25T08:26:10",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787617466562-%E6%95%91%E4%BA%BA.png",
+   "source": "日知录"
+  }
+ ],
+ "xwlb_raw": [
+  {
+   "id": "xwlb-0",
+   "title": "【新思想引领新征程】为人民出政绩 以实干出政绩",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-1",
+   "title": "央视快评：努力创造经得起实践人民历史检验的实绩",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-2",
+   "title": "十四届全国人大常委会第二十四次会议在京举行 赵乐际主持",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-3",
+   "title": "全国政协十四届常委会第十八次会议开幕 王沪宁出席",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-4",
+   "title": "韩正会见印度国家安全顾问、中印边界问题印方特别代表多瓦尔",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-5",
+   "title": "全国夏粮收购进入高峰 累计收购总量超9000万吨",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-6",
+   "title": "前7个月我国交通运输主要指标保持增长",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-7",
+   "title": "我国加快推进公共数据开放共享 赋能千行百业",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-8",
+   "title": "第二十六届投洽会将于9月8日至11日在厦门举行",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-9",
+   "title": "首批国家公园生态系统质量和旗舰物种数量实现双提升",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-10",
+   "title": "国内联播快讯",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-11",
+   "title": "上半年全国新开工建设口袋公园超2800个",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-12",
+   "title": "截至7月底我国电动汽车充电基础设施总数超2360万个",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-13",
+   "title": "“十五五”期间我国将为参保人建立个人医保云",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-14",
+   "title": "各地组织开展残疾预防科普活动",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-15",
+   "title": "第十一届APEC粮食安全部长级会议达成多项重要成果",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-16",
+   "title": "驻香港部队组织第29次建制单位轮换",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-17",
+   "title": "第三批“青年律师西部锻炼计划”启动",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-18",
+   "title": "北京口岸今年出入境人员总量突破1500万人次",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-19",
+   "title": "济南黄岗路黄河隧道今天通车",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-20",
+   "title": "受台风影响 未来三天南方部分地区有大到暴雨",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-21",
+   "title": "美宣布对伊朗实施新一轮制裁措施 伊朗称美国将再遭失败",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-22",
+   "title": "美威胁进一步提高对加关税 加称不接受不平等双边关系",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-23",
+   "title": "英首相称已批准与乌分享导弹制造技术 俄称将摧毁相关目标",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-24",
+   "title": "国际联播快讯",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-25",
+   "title": "古特雷斯敦促各方合作尽快解决航运阻断",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-26",
+   "title": "也门胡塞武装称袭击沙特油轮及军事目标",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-27",
+   "title": "欧盟气候机构称全球日均海表温度创新高",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "xwlb-28",
+   "title": "法国南部遭龙卷风袭击",
+   "source": "新闻联播",
+   "date": "2026-08-25"
+  }
+ ]
 }

@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-08-26",
-   "title": "",
-   "mood": 0,
+   "date": "2026-08-27",
+   "title": "8月27日日知录-尼泊尔山洪已找到162具遗体，仍有数百游客失联",
+   "mood": -9.6,
    "mood_level": "中性",
-   "news_total": 0,
+   "news_total": 22,
    "xwlb_total": 0,
-   "total_money": 5762.93,
-   "total_earn": -110.93,
-   "today_income": 46.41,
-   "today_income_rate": 0.81,
-   "generated_at": "2026-08-26T01:11:00"
+   "total_money": 5856.44,
+   "total_earn": -67.44,
+   "today_income": 92.01,
+   "today_income_rate": 1.57,
+   "generated_at": "2026-08-27T07:20:28"
+  },
+  {
+   "date": "2026-08-26",
+   "title": "8月26日日知录-美国大概率追加7.5%对华关税，覆盖面可能超过新能源",
+   "mood": -1.2,
+   "mood_level": "中性",
+   "news_total": 20,
+   "xwlb_total": 24,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-08-27T07:19:57"
   },
   {
    "date": "2026-08-25",
@@ -482,6 +495,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-08-26",
- "updated_at": "2026-08-26T08:08:28"
+ "latest": "2026-08-27",
+ "updated_at": "2026-08-27T07:20:28"
 }

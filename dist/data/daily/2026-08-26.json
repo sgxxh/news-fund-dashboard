@@ -1,494 +1,2107 @@
 {
  "date": "2026-08-26",
- "generated_at": "2026-08-26T01:11:00",
+ "generated_at": "2026-08-27T07:19:57",
  "session": "auto",
- "digest_title": "",
+ "digest_title": "8月26日日知录-美国大概率追加7.5%对华关税，覆盖面可能超过新能源",
  "funds": {
-  "ok": true,
-  "reason": "",
-  "summary": {
-   "hold_cost": 5873.87,
-   "today_income": 46.41,
-   "today_income_rate": 0.81,
-   "total_money": 5762.93,
-   "total_earn": -110.93,
-   "count": 8,
-   "total_earn_pct": -1.89
-  },
-  "holdings": [
-   {
-    "account": "默认",
-    "fund_id": "23918",
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 1478.54,
-    "earn": -21.42,
-    "earn_pct": -1.43,
-    "share": 655.18,
-    "cost": 2.2894,
-    "category": 3,
-    "nav": 2.2567,
-    "day_pct": -0.89,
-    "nav_date": "2026-08-24",
-    "est_pct": 0.64,
-    "est_date": "2026-08-25",
-    "year_pct": 10.15,
-    "sector": "纳斯达克100",
-    "sector_pct": 0.64,
-    "market_type": "us",
-    "weight": 25.66
-   },
-   {
-    "account": "默认",
-    "fund_id": "25645",
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "money": 1276.35,
-    "earn": -6.75,
-    "earn_pct": -0.53,
-    "share": 1022.47,
-    "cost": 1.2549,
-    "category": 3,
-    "nav": 1.2483,
-    "day_pct": -0.1,
-    "nav_date": "2026-08-25",
-    "est_pct": 0.79,
-    "est_date": "2026-08-26",
-    "year_pct": 1.41,
-    "sector": "中证A500",
-    "sector_pct": 0.79,
-    "market_type": "ch",
-    "weight": 22.15
-   },
-   {
-    "account": "默认",
-    "fund_id": "138",
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "money": 949.72,
-    "earn": -50.28,
-    "earn_pct": -5.03,
-    "share": 67.49,
-    "cost": 14.817,
-    "category": 1,
-    "nav": 14.072,
-    "day_pct": -0.23,
-    "nav_date": "2026-08-25",
-    "est_pct": -0.45,
-    "est_date": "2026-08-26",
-    "year_pct": 71.07,
-    "sector": "PCB",
-    "sector_pct": 0.57,
-    "market_type": "ch",
-    "weight": 16.48
-   },
-   {
-    "account": "默认",
-    "fund_id": "20638",
-    "code": "017811",
-    "name": "东方人工智能主题混合C",
-    "money": 780.07,
-    "earn": -19.93,
-    "earn_pct": -2.49,
-    "share": 236.88,
-    "cost": 3.37723742,
-    "category": 1,
-    "nav": 3.2931,
-    "day_pct": -1.85,
-    "nav_date": "2026-08-25",
-    "est_pct": 2.48,
-    "est_date": "2026-08-26",
-    "year_pct": 105.02,
-    "sector": "半导体材料设备",
-    "sector_pct": 2.07,
-    "market_type": "ch",
-    "weight": 13.54
-   },
-   {
-    "account": "默认",
-    "fund_id": "23655",
-    "code": "020640",
-    "name": "广发半导体材料设备主题ETF联接C",
-    "money": 480.34,
-    "earn": -19.66,
-    "earn_pct": -3.93,
-    "share": 148.78,
-    "cost": 3.36066676,
-    "category": 3,
-    "nav": 3.2285,
-    "day_pct": -2.25,
-    "nav_date": "2026-08-25",
-    "est_pct": 1.53,
-    "est_date": "2026-08-26",
-    "year_pct": 77.45,
-    "sector": "半导体材料",
-    "sector_pct": 1.53,
-    "market_type": "ch",
-    "weight": 8.33
-   },
-   {
-    "account": "默认",
-    "fund_id": "22504",
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "money": 311.59,
-    "earn": 11.59,
-    "earn_pct": 3.86,
-    "share": 222.85,
-    "cost": 1.34619699,
-    "category": 6,
-    "nav": 1.3982,
-    "day_pct": 2.84,
-    "nav_date": "2026-08-25",
-    "est_pct": 1.0,
-    "est_date": "2026-08-26",
-    "year_pct": 11.45,
-    "sector": "港股创新药",
-    "sector_pct": 1.0,
-    "market_type": "hk",
-    "weight": 5.41
-   },
-   {
-    "account": "默认",
-    "fund_id": "5773",
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波动ETF联接A",
-    "money": 245.95,
-    "earn": -3.3,
-    "earn_pct": -1.32,
-    "share": 150.67,
-    "cost": 1.6542938,
-    "category": 3,
-    "nav": 1.6324,
-    "day_pct": -0.13,
-    "nav_date": "2026-08-25",
-    "est_pct": 0.36,
-    "est_date": "2026-08-26",
-    "year_pct": 0.96,
-    "sector": "中证红利低波",
-    "sector_pct": 0.36,
-    "market_type": "ch",
-    "weight": 4.27
-   },
-   {
-    "account": "默认",
-    "fund_id": "11353",
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "money": 240.37,
-    "earn": -1.18,
-    "earn_pct": -0.49,
-    "share": 109.78,
-    "cost": 2.20030971,
-    "category": 2,
-    "nav": 2.1896,
-    "day_pct": 0.08,
-    "nav_date": "2026-08-25",
-    "est_pct": 0.18,
-    "est_date": "2026-08-26",
-    "year_pct": 5.73,
-    "sector": "混债",
-    "sector_pct": 0.13,
-    "market_type": "ch",
-    "weight": 4.17
-   }
-  ],
+  "ok": false,
+  "reason": "HISTORICAL_NO_SNAPSHOT",
+  "summary": {},
+  "holdings": [],
   "index": []
  },
  "analysis": {
-  "keywords": [],
-  "market_mood": 0,
+  "keywords": [
+   {
+    "word": "美国",
+    "count": 51,
+    "weight": 1.0
+   },
+   {
+    "word": "服务",
+    "count": 46,
+    "weight": 0.902
+   },
+   {
+    "word": "机器人",
+    "count": 44,
+    "weight": 0.863
+   },
+   {
+    "word": "订单",
+    "count": 42,
+    "weight": 0.824
+   },
+   {
+    "word": "平台",
+    "count": 41,
+    "weight": 0.804
+   },
+   {
+    "word": "产品",
+    "count": 38,
+    "weight": 0.745
+   },
+   {
+    "word": "北京",
+    "count": 31,
+    "weight": 0.608
+   },
+   {
+    "word": "手术",
+    "count": 31,
+    "weight": 0.608
+   },
+   {
+    "word": "种子",
+    "count": 30,
+    "weight": 0.588
+   },
+   {
+    "word": "国家",
+    "count": 30,
+    "weight": 0.588
+   },
+   {
+    "word": "消费者",
+    "count": 28,
+    "weight": 0.549
+   },
+   {
+    "word": "设备",
+    "count": 28,
+    "weight": 0.549
+   },
+   {
+    "word": "信息",
+    "count": 27,
+    "weight": 0.529
+   },
+   {
+    "word": "商家",
+    "count": 27,
+    "weight": 0.529
+   },
+   {
+    "word": "能力",
+    "count": 25,
+    "weight": 0.49
+   },
+   {
+    "word": "护理",
+    "count": 23,
+    "weight": 0.451
+   },
+   {
+    "word": "商业",
+    "count": 22,
+    "weight": 0.431
+   },
+   {
+    "word": "地址",
+    "count": 22,
+    "weight": 0.431
+   },
+   {
+    "word": "成本",
+    "count": 21,
+    "weight": 0.412
+   },
+   {
+    "word": "机构",
+    "count": 21,
+    "weight": 0.412
+   },
+   {
+    "word": "评价",
+    "count": 20,
+    "weight": 0.392
+   },
+   {
+    "word": "技术",
+    "count": 19,
+    "weight": 0.373
+   },
+   {
+    "word": "汽车",
+    "count": 19,
+    "weight": 0.373
+   },
+   {
+    "word": "卫星",
+    "count": 19,
+    "weight": 0.373
+   },
+   {
+    "word": "人才",
+    "count": 17,
+    "weight": 0.333
+   },
+   {
+    "word": "系统",
+    "count": 17,
+    "weight": 0.333
+   },
+   {
+    "word": "家庭",
+    "count": 17,
+    "weight": 0.333
+   },
+   {
+    "word": "关税",
+    "count": 16,
+    "weight": 0.314
+   },
+   {
+    "word": "出口",
+    "count": 16,
+    "weight": 0.314
+   },
+   {
+    "word": "网络",
+    "count": 16,
+    "weight": 0.314
+   },
+   {
+    "word": "同比",
+    "count": 16,
+    "weight": 0.314
+   },
+   {
+    "word": "航天",
+    "count": 16,
+    "weight": 0.314
+   },
+   {
+    "word": "基金",
+    "count": 16,
+    "weight": 0.314
+   },
+   {
+    "word": "远程",
+    "count": 16,
+    "weight": 0.314
+   },
+   {
+    "word": "规则",
+    "count": 15,
+    "weight": 0.294
+   },
+   {
+    "word": "客户",
+    "count": 15,
+    "weight": 0.294
+   },
+   {
+    "word": "装机",
+    "count": 15,
+    "weight": 0.294
+   },
+   {
+    "word": "政策",
+    "count": 14,
+    "weight": 0.275
+   },
+   {
+    "word": "数字",
+    "count": 14,
+    "weight": 0.275
+   },
+   {
+    "word": "城市",
+    "count": 14,
+    "weight": 0.275
+   },
+   {
+    "word": "岗位",
+    "count": 13,
+    "weight": 0.255
+   },
+   {
+    "word": "商品",
+    "count": 13,
+    "weight": 0.255
+   },
+   {
+    "word": "燕郊",
+    "count": 13,
+    "weight": 0.255
+   },
+   {
+    "word": "长护险",
+    "count": 13,
+    "weight": 0.255
+   },
+   {
+    "word": "评估",
+    "count": 13,
+    "weight": 0.255
+   },
+   {
+    "word": "菲律宾",
+    "count": 13,
+    "weight": 0.255
+   },
+   {
+    "word": "人员",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "记录",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "普通",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "变化",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "方案",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "边界",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "小鹏",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "芯片",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "电路板",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "政府",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "安全",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "小时",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "孩子",
+    "count": 12,
+    "weight": 0.235
+   },
+   {
+    "word": "叙利亚",
+    "count": 12,
+    "weight": 0.235
+   }
+  ],
+  "market_mood": -1.2,
   "market_mood_level": "中性",
-  "sector_impacts": {
-   "PCB": {
-    "sector": "PCB",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "中证A500": {
-    "sector": "中证A500",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "中证红利低波": {
-    "sector": "中证红利低波",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "半导体材料": {
-    "sector": "半导体材料",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "半导体材料设备": {
-    "sector": "半导体材料设备",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "混债": {
-    "sector": "混债",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "港股创新药": {
-    "sector": "港股创新药",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "纳斯达克100": {
-    "sector": "纳斯达克100",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   }
+  "sector_impacts": {},
+  "advices": [],
+  "forecast": [],
+  "category_dist": {
+   "话题": 1,
+   "财经": 3,
+   "社会": 4,
+   "科技": 3,
+   "时政": 8,
+   "纪事": 1,
+   "新闻联播": 24
   },
-  "advices": [
+  "top_news": [
    {
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "sector": "港股创新药",
-    "weight": 5.41,
-    "tiny": false,
-    "earn_pct": 3.86,
-    "day_pct": 2.84,
-    "year_pct": 11.45,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 47.6,
-    "deviation": 56.7,
-    "total_score": 25.6,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上；仓位占比 5.4% 偏低"
+    "id": 22244,
+    "title": "情报预测：美国大概率追加7.5%对华关税，覆盖面可能超过新能源",
+    "summary": "【一句话判断】未来30天，美国有六成概率公布针对中国“结构性产能过剩”的301措施；7.5%最可能成为填满20%替代关税上限的税率，但实施时间和豁免清单仍可能进入峰会谈判。",
+    "category": "财经",
+    "heat": 95.0,
+    "sentiment": -9,
+    "sent_hits": [
+     "突破",
+     "风险",
+     "冲突",
+     "加征",
+     "关税",
+     "调查",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "内需",
+       "制造业",
+       "经济",
+       "政策"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "半导体",
+       "电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T15:10:20",
+    "source": "日知录",
+    "story_len": 2729
    },
    {
-    "code": "020640",
-    "name": "广发半导体材料设备主题ETF联接C",
-    "sector": "半导体材料",
-    "weight": 8.33,
-    "tiny": false,
-    "earn_pct": -3.93,
-    "day_pct": -2.25,
-    "year_pct": 77.45,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 50.1,
-    "deviation": 33.4,
-    "total_score": 21.7,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
+    "id": 22223,
+    "title": "数字产业半年收入20.71万亿：AI正从聊天框走进汽车、家电和工厂",
+    "summary": "【一句话判断】AI产业正在告别只靠模型制造热度的阶段：服务器网络、高阶电路板和端侧芯片已经出现真实收入，更深的变化是AI开始进入普通设备、制造订单和出口物流。",
+    "category": "科技",
+    "heat": 94.0,
+    "sentiment": 6,
+    "sent_hits": [
+     "增长",
+     "扩大",
+     "量产",
+     "订单"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片",
+       "服务器",
+       "数据中心",
+       "AI",
+       "大模型"
+      ],
+      "n": 5
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-26T09:58:35",
+    "source": "日知录",
+    "story_len": 3033
    },
    {
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "sector": "混债",
-    "weight": 4.17,
-    "tiny": false,
-    "earn_pct": -0.49,
-    "day_pct": 0.08,
-    "year_pct": 5.73,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 14.0,
-    "deviation": 66.6,
-    "total_score": 17.5,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 4.2% 偏低"
+    "id": 22228,
+    "title": "小鹏亏损13.4亿元，却给机器人融资超9亿美元：下一张牌是什么",
+    "summary": "小鹏汽车2026年第二季度实现营收197.4亿元，但仍净亏损13.4亿元；同期服务及其他收入同比增长93.9%。8月24日，小鹏宣布机器人业务融资超过9亿美元、投后估值超过63亿美元，计划推动IRON在2026年底量产、2027年正式交付。",
+    "category": "财经",
+    "heat": 95.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "增长",
+     "扩大",
+     "支持",
+     "量产",
+     "订单",
+     "亏损"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片",
+       "AI",
+       "电子"
+      ],
+      "n": 3
+     }
+    ],
+    "publish_time": "2026-08-26T12:48:13",
+    "source": "日知录",
+    "story_len": 710
    },
    {
-    "code": "017811",
-    "name": "东方人工智能主题混合C",
-    "sector": "半导体材料设备",
-    "weight": 13.54,
-    "tiny": false,
-    "earn_pct": -2.49,
-    "day_pct": -1.85,
-    "year_pct": 105.02,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 53.4,
-    "deviation": -8.3,
-    "total_score": 14.4,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
+    "id": 22271,
+    "title": "今日话题｜企业撤回107份合同，年轻人失去的却是一整个招聘季",
+    "summary": "【话题金句】校招offer最重要的价值，是让年轻人敢于停止继续寻找。企业一旦使用了这份信任，就不能把自己的预测失误，全部打包寄给刚走出校门的人。",
+    "category": "话题",
+    "heat": 96.0,
+    "sentiment": -2,
+    "sent_hits": [
+     "裁员"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "制造业",
+       "政策",
+       "就业"
+      ],
+      "n": 3
+     }
+    ],
+    "publish_time": "2026-08-26T16:04:52",
+    "source": "日知录",
+    "story_len": 1995
    },
    {
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "sector": "PCB",
-    "weight": 16.48,
-    "tiny": false,
-    "earn_pct": -5.03,
-    "day_pct": -0.23,
-    "year_pct": 71.07,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 66.5,
-    "deviation": -31.8,
-    "total_score": 13.6,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
+    "id": 22268,
+    "title": "菲律宾首例远程手术在上海操刀：国产手术机器人开始跨境临床",
+    "summary": "【一句话判断】菲律宾医生在上海为马尼拉患者完成该国首例远程手术，国产手术机器人出海由设备销售迈向准入、装机、临床和远程协作；真正的商业考题是装机能否持续转化为手术量、耗材与服务收入。",
+    "category": "科技",
+    "heat": 86.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "增长",
+     "扩大",
+     "盈利",
+     "上市",
+     "订单",
+     "亏损"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "电子",
+       "消费电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T15:10:20",
+    "source": "日知录",
+    "story_len": 3675
    },
    {
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波动ETF联接A",
-    "sector": "中证红利低波",
-    "weight": 4.27,
-    "tiny": false,
-    "earn_pct": -1.32,
-    "day_pct": -0.13,
-    "year_pct": 0.96,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 0.9,
-    "deviation": 65.8,
-    "total_score": 13.5,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 4.3% 偏低"
+    "id": 22241,
+    "title": "AI伪造车祸视频形成造谣流水线：9000多个账号背后是什么生意",
+    "summary": "小米8月25日通报多起利用AI技术制造涉企谣言案件：西安一案涉及3家MCN机构和14名人员，晋中一案则牵出9000多个关联账号、50多家MCN机构，3名嫌疑人非法获利超过50万元。AI造谣正在从个人博眼球升级为灰色产业链。",
+    "category": "社会",
+    "heat": 86.0,
+    "sentiment": -5,
+    "sent_hits": [
+     "冲突",
+     "事故",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T12:48:13",
+    "source": "日知录",
+    "story_len": 654
    },
    {
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "sector": "中证A500",
-    "weight": 22.15,
-    "tiny": false,
-    "earn_pct": -0.53,
-    "day_pct": -0.1,
-    "year_pct": 1.41,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 2.3,
-    "deviation": -77.2,
-    "total_score": -14.8,
-    "action": "持有偏谨慎",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 22.1% 偏集中"
+    "id": 22229,
+    "title": "霍尔木兹海峡拟开临时商船通道：这是中国油价背后的航道",
+    "summary": "伊朗和阿曼8月25日宣布，双方讨论了恢复霍尔木兹海峡安全通航的阶段性框架，包括建立临时联合航运通道、共同排雷，并继续谈判永久航道和未来管理机制。由于中国进口原油中超过四成被指需要经过霍尔木兹海峡，航道风险会通过油价、运费和保险成本传导至国内。",
+    "category": "财经",
+    "heat": 93.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "上涨",
+     "风险",
+     "冲突"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "保险"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T12:48:13",
+    "source": "日知录",
+    "story_len": 469
    },
    {
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "sector": "纳斯达克100",
-    "weight": 25.66,
-    "tiny": false,
-    "earn_pct": -1.43,
-    "day_pct": -0.89,
-    "year_pct": 10.15,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 14.2,
-    "deviation": -100,
-    "total_score": -15.7,
-    "action": "持有偏谨慎",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 25.7% 偏集中"
+    "id": 22211,
+    "title": "网购3元假种子毁掉一季庄稼：平台退款了，农民的农时谁来赔？",
+    "summary": "【一句话判断】记者在多个平台购买10款号称某上市种业公司培育的玉米种子，检测后没有一款能与正品完成基因比对。假种子最恶劣的地方，是骗局往往要等庄稼长出来才暴露：平台可以退回几元货款，已经错过的农时、化肥农药和一季收入却无法点击退款。",
+    "category": "社会",
+    "heat": 95.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "上市",
+     "订单",
+     "调查",
+     "减产"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T09:58:35",
+    "source": "日知录",
+    "story_len": 2258
+   },
+   {
+    "id": 22210,
+    "title": "美国拟收10.3万美元H-1B入场签证费：中国迎来高水平人才回流机会",
+    "summary": "【一句话判断】美国法院刚刚否决特朗普政府此前征收10万美元H-1B签证费的做法，国土安全部又通过正式规则制定程序提出103265美元的新收费。美国一边担心中国争夺科技人才，一边准备向外国工程师收取约70万元人民币的入场费。这笔费用将改变美国科技公司的招聘成本，也可能重新推动全球人才流向。",
+    "category": "时政",
+    "heat": 94.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "获批",
+     "领先",
+     "调查",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片",
+       "人工智能"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策",
+       "就业"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "国企"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "生物科技"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T09:58:35",
+    "source": "日知录",
+    "story_len": 2232
+   },
+   {
+    "id": 22270,
+    "title": "今日纪事｜一颗泰国卫星升空：中国商业航天开始面对世界客户",
+    "summary": "【纪事金句】过去，中国航天更擅长完成国家任务；今天，商业航天开始学习面对海外客户，为一整套产品和服务负责。",
+    "category": "纪事",
+    "heat": 91.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "突破",
+     "支持",
+     "合作",
+     "风险",
+     "冲突"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "财政"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T16:04:54",
+    "source": "日知录",
+    "story_len": 3443
+   },
+   {
+    "id": 22267,
+    "title": "一条差评换来地址被恶意曝光：商家开始用收货信息报复消费者",
+    "summary": "【一句话判断】消费者为了收货把地址交给商家，商家却被指把这些信息贴进评论区，用来回应中差评。正常差评应当受到保护，恶意差评需要证据和平台裁决，商家报复则必须被及时制止。平台既掌握订单，也控制评论区，必须同时保护消费者隐私、遏制商家恶意并处理虚假评价。",
+    "category": "社会",
+    "heat": 91.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "订单",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "电子"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T15:10:20",
+    "source": "日知录",
+    "story_len": 3421
+   },
+   {
+    "id": 22243,
+    "title": "13岁女孩不会编程，三四天卖出了90单：AI时代的创业起跑线变了",
+    "summary": "【一句话判断】13岁女孩借助AI编程工具，在三四天内做出虚拟陪读产品，并在一场以真实成交排名的比赛中获得近90份订单。AI让产品越来越容易做出来，发现需求、说清问题、找到客户和承担责任，正在成为创业者更重要的能力。",
+    "category": "社会",
+    "heat": 88.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "支持",
+     "订单"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "大模型"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-26T15:10:20",
+    "source": "日知录",
+    "story_len": 3155
    }
   ],
-  "forecast": [
+  "scored_news": [
    {
-    "sector": "半导体材料设备",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.9,
-    "note": "消息面 +0 / 中期动量 +100"
+    "id": 22271,
+    "title": "今日话题｜企业撤回107份合同，年轻人失去的却是一整个招聘季",
+    "summary": "【话题金句】校招offer最重要的价值，是让年轻人敢于停止继续寻找。企业一旦使用了这份信任，就不能把自己的预测失误，全部打包寄给刚走出校门的人。",
+    "category": "话题",
+    "heat": 96.0,
+    "sentiment": -2,
+    "sent_hits": [
+     "裁员"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "制造业",
+       "政策",
+       "就业"
+      ],
+      "n": 3
+     }
+    ],
+    "publish_time": "2026-08-26T16:04:52",
+    "source": "日知录",
+    "story_len": 1995
    },
    {
-    "sector": "半导体材料",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.5,
-    "note": "消息面 +0 / 中期动量 +99"
+    "id": 22244,
+    "title": "情报预测：美国大概率追加7.5%对华关税，覆盖面可能超过新能源",
+    "summary": "【一句话判断】未来30天，美国有六成概率公布针对中国“结构性产能过剩”的301措施；7.5%最可能成为填满20%替代关税上限的税率，但实施时间和豁免清单仍可能进入峰会谈判。",
+    "category": "财经",
+    "heat": 95.0,
+    "sentiment": -9,
+    "sent_hits": [
+     "突破",
+     "风险",
+     "冲突",
+     "加征",
+     "关税",
+     "调查",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "内需",
+       "制造业",
+       "经济",
+       "政策"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "半导体",
+       "电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T15:10:20",
+    "source": "日知录",
+    "story_len": 2729
    },
    {
-    "sector": "PCB",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.3,
-    "note": "消息面 +0 / 中期动量 +98"
+    "id": 22228,
+    "title": "小鹏亏损13.4亿元，却给机器人融资超9亿美元：下一张牌是什么",
+    "summary": "小鹏汽车2026年第二季度实现营收197.4亿元，但仍净亏损13.4亿元；同期服务及其他收入同比增长93.9%。8月24日，小鹏宣布机器人业务融资超过9亿美元、投后估值超过63亿美元，计划推动IRON在2026年底量产、2027年正式交付。",
+    "category": "财经",
+    "heat": 95.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "增长",
+     "扩大",
+     "支持",
+     "量产",
+     "订单",
+     "亏损"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片",
+       "AI",
+       "电子"
+      ],
+      "n": 3
+     }
+    ],
+    "publish_time": "2026-08-26T12:48:13",
+    "source": "日知录",
+    "story_len": 710
    },
    {
-    "sector": "港股创新药",
-    "bias": "偏多震荡",
-    "prob": 54,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 14.6,
-    "note": "消息面 +0 / 中期动量 +36"
+    "id": 22211,
+    "title": "网购3元假种子毁掉一季庄稼：平台退款了，农民的农时谁来赔？",
+    "summary": "【一句话判断】记者在多个平台购买10款号称某上市种业公司培育的玉米种子，检测后没有一款能与正品完成基因比对。假种子最恶劣的地方，是骗局往往要等庄稼长出来才暴露：平台可以退回几元货款，已经错过的农时、化肥农药和一季收入却无法点击退款。",
+    "category": "社会",
+    "heat": 95.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "上市",
+     "订单",
+     "调查",
+     "减产"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T09:58:35",
+    "source": "日知录",
+    "story_len": 2258
    },
    {
-    "sector": "纳斯达克100",
-    "bias": "偏多震荡",
-    "prob": 54,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 13.0,
-    "note": "消息面 +0 / 中期动量 +33"
+    "id": 22223,
+    "title": "数字产业半年收入20.71万亿：AI正从聊天框走进汽车、家电和工厂",
+    "summary": "【一句话判断】AI产业正在告别只靠模型制造热度的阶段：服务器网络、高阶电路板和端侧芯片已经出现真实收入，更深的变化是AI开始进入普通设备、制造订单和出口物流。",
+    "category": "科技",
+    "heat": 94.0,
+    "sentiment": 6,
+    "sent_hits": [
+     "增长",
+     "扩大",
+     "量产",
+     "订单"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片",
+       "服务器",
+       "数据中心",
+       "AI",
+       "大模型"
+      ],
+      "n": 5
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-26T09:58:35",
+    "source": "日知录",
+    "story_len": 3033
    },
    {
-    "sector": "混债",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 7.5,
-    "note": "消息面 +0 / 中期动量 +19"
+    "id": 22210,
+    "title": "美国拟收10.3万美元H-1B入场签证费：中国迎来高水平人才回流机会",
+    "summary": "【一句话判断】美国法院刚刚否决特朗普政府此前征收10万美元H-1B签证费的做法，国土安全部又通过正式规则制定程序提出103265美元的新收费。美国一边担心中国争夺科技人才，一边准备向外国工程师收取约70万元人民币的入场费。这笔费用将改变美国科技公司的招聘成本，也可能重新推动全球人才流向。",
+    "category": "时政",
+    "heat": 94.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "获批",
+     "领先",
+     "调查",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片",
+       "人工智能"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策",
+       "就业"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "国企"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "生物科技"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T09:58:35",
+    "source": "日知录",
+    "story_len": 2232
    },
    {
-    "sector": "中证A500",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 1.9,
-    "note": "消息面 +0 / 中期动量 +5"
+    "id": 22229,
+    "title": "霍尔木兹海峡拟开临时商船通道：这是中国油价背后的航道",
+    "summary": "伊朗和阿曼8月25日宣布，双方讨论了恢复霍尔木兹海峡安全通航的阶段性框架，包括建立临时联合航运通道、共同排雷，并继续谈判永久航道和未来管理机制。由于中国进口原油中超过四成被指需要经过霍尔木兹海峡，航道风险会通过油价、运费和保险成本传导至国内。",
+    "category": "财经",
+    "heat": 93.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "上涨",
+     "风险",
+     "冲突"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "保险"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T12:48:13",
+    "source": "日知录",
+    "story_len": 469
    },
    {
-    "sector": "中证红利低波",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 1.3,
-    "note": "消息面 +0 / 中期动量 +3"
+    "id": 22213,
+    "title": "北京首条跨省地铁跑出“高铁速度”：一条线改变北京向东发展的方式",
+    "summary": "【一句话判断】北京轨道交通22号线进入空载试运行，预计年底具备开通条件。全线79.1公里，最高时速160公里，燕郊到北京CBD最快约28分钟。它要解决的不只是一段通勤，而是数十万人长期存在的“住在河北、工作在北京”生活错位；地铁缩短了空间距离，公共服务和城市治理还要继续追赶。",
+    "category": "时政",
+    "heat": 92.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "上涨",
+     "事故"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "就业"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医保"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T09:58:35",
+    "source": "日知录",
+    "story_len": 1963
+   },
+   {
+    "id": 22230,
+    "title": "“叙利亚民主力量”宣布解散：控制叙东北十年的武装走向终点",
+    "summary": "库尔德武装主导的“叙利亚民主力量”8月25日宣布解散，并把军事和行政体系整合进叙利亚国家机构。这支2015年成立、长期获得美国支持的武装曾控制叙利亚北部和东部大片地区；人员整编、地方自治、油气资源和极端组织在押人员如何处理，仍可能引发新的博弈。",
+    "category": "时政",
+    "heat": 92.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "支持",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T12:48:13",
+    "source": "日知录",
+    "story_len": 538
+   },
+   {
+    "id": 22270,
+    "title": "今日纪事｜一颗泰国卫星升空：中国商业航天开始面对世界客户",
+    "summary": "【纪事金句】过去，中国航天更擅长完成国家任务；今天，商业航天开始学习面对海外客户，为一整套产品和服务负责。",
+    "category": "纪事",
+    "heat": 91.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "突破",
+     "支持",
+     "合作",
+     "风险",
+     "冲突"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "财政"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T16:04:54",
+    "source": "日知录",
+    "story_len": 3443
+   },
+   {
+    "id": 22267,
+    "title": "一条差评换来地址被恶意曝光：商家开始用收货信息报复消费者",
+    "summary": "【一句话判断】消费者为了收货把地址交给商家，商家却被指把这些信息贴进评论区，用来回应中差评。正常差评应当受到保护，恶意差评需要证据和平台裁决，商家报复则必须被及时制止。平台既掌握订单，也控制评论区，必须同时保护消费者隐私、遏制商家恶意并处理虚假评价。",
+    "category": "社会",
+    "heat": 91.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "订单",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "电子"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T15:10:20",
+    "source": "日知录",
+    "story_len": 3421
+   },
+   {
+    "id": 22266,
+    "title": "国家明确长护险居家、机构支付方式：3.2亿参保人保障加速落地",
+    "summary": "【一句话判断】国家医保局明确长护险居家按小时、机构按床日付费，年度最高支付限额原则上不超过当地人均可支配收入的50%；支付规则将影响3.2亿参保人的保障如何兑现。",
+    "category": "时政",
+    "heat": 90.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "加快",
+     "支持",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "保险"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医保"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T15:10:20",
+    "source": "日知录",
+    "story_len": 3439
+   },
+   {
+    "id": 22243,
+    "title": "13岁女孩不会编程，三四天卖出了90单：AI时代的创业起跑线变了",
+    "summary": "【一句话判断】13岁女孩借助AI编程工具，在三四天内做出虚拟陪读产品，并在一场以真实成交排名的比赛中获得近90份订单。AI让产品越来越容易做出来，发现需求、说清问题、找到客户和承担责任，正在成为创业者更重要的能力。",
+    "category": "社会",
+    "heat": 88.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "支持",
+     "订单"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "大模型"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-26T15:10:20",
+    "source": "日知录",
+    "story_len": 3155
+   },
+   {
+    "id": 22268,
+    "title": "菲律宾首例远程手术在上海操刀：国产手术机器人开始跨境临床",
+    "summary": "【一句话判断】菲律宾医生在上海为马尼拉患者完成该国首例远程手术，国产手术机器人出海由设备销售迈向准入、装机、临床和远程协作；真正的商业考题是装机能否持续转化为手术量、耗材与服务收入。",
+    "category": "科技",
+    "heat": 86.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "增长",
+     "扩大",
+     "盈利",
+     "上市",
+     "订单",
+     "亏损"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "电子",
+       "消费电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T15:10:20",
+    "source": "日知录",
+    "story_len": 3675
+   },
+   {
+    "id": 22176,
+    "title": "电动自行车新国标征意见，最高时速拟调至20公里",
+    "summary": "电动自行车新国标征求意见，拟将最高设计车速由25公里每小时调整为20公里每小时。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "增长",
+     "风险",
+     "事故"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-25T23:45:51",
+    "source": "日知录",
+    "story_len": 244
+   },
+   {
+    "id": 22241,
+    "title": "AI伪造车祸视频形成造谣流水线：9000多个账号背后是什么生意",
+    "summary": "小米8月25日通报多起利用AI技术制造涉企谣言案件：西安一案涉及3家MCN机构和14名人员，晋中一案则牵出9000多个关联账号、50多家MCN机构，3名嫌疑人非法获利超过50万元。AI造谣正在从个人博眼球升级为灰色产业链。",
+    "category": "社会",
+    "heat": 86.0,
+    "sentiment": -5,
+    "sent_hits": [
+     "冲突",
+     "事故",
+     "调查"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T12:48:13",
+    "source": "日知录",
+    "story_len": 654
+   },
+   {
+    "id": 22259,
+    "title": "台湾岛内绿媒节目称“北京没有冰箱”，国台办：荒诞说法会成笑柄",
+    "summary": "国台办回应岛内节目所谓“北京没有冰箱”说法，称脱离事实的言论只会沦为笑柄。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "2026-08-26T15:05:02",
+    "source": "日知录",
+    "story_len": 223
+   },
+   {
+    "id": 22185,
+    "title": "新加坡设重奖鼓励生育：每个孩子相关补贴最高约5.5万美元",
+    "summary": "新加坡加码鼓励生育政策，每个孩子相关补贴最高约5.5万美元。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "支持"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济",
+       "政策",
+       "就业"
+      ],
+      "n": 3
+     }
+    ],
+    "publish_time": "2026-08-25T23:45:51",
+    "source": "日知录",
+    "story_len": 222
+   },
+   {
+    "id": 22204,
+    "title": "天工机器人百米跑出8.86秒，再刷新运动会纪录",
+    "summary": "第二届世界人形机器人运动会大型组100米复赛中，天工机器人跑出8.86秒，再次刷新纪录。",
+    "category": "科技",
+    "heat": 86.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "创新",
+     "提升"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-25T23:33:58",
+    "source": "日知录",
+    "story_len": 235
+   },
+   {
+    "id": 22237,
+    "title": "AI和康复机器人进入社区：残疾人需要的是长期用得起",
+    "summary": "8月25日是第十个全国残疾预防日。成都部分社区卫生服务中心引入下肢康复机器人和数字互动系统，广东使用AI无障碍系统帮助听障人士开展语言训练。技术进入基层减少了部分患者长途就医负担，但设备覆盖、专业人员、收费标准和长期疗效仍决定项目能否真正普及。",
+    "category": "时政",
+    "heat": 85.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医保"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-26T12:48:13",
+    "source": "日知录",
+    "story_len": 473
+   },
+   {
+    "id": "xwlb-0",
+    "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示强调 千方百计搜救失联人员 加强各类风险隐患排查整治 确保人民群众生命财产安全 李强作出批示",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-1",
+    "title": "习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-2",
+    "title": "李强在黑龙江、吉林调研",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-3",
+    "title": "赵乐际同全国人大常委会会议列席代表座谈",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-4",
+    "title": "十四届全国人大常委会第二十四次会议举行联组会议",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-5",
+    "title": "赵乐际会见乌兹别克斯坦总统办公厅主任",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-6",
+    "title": "全国政协十四届常委会第十八次会议举行全体会议 围绕“加大保障和改善民生力度，扎实推进全体人民共同富裕”进行大会发言 王沪宁出席",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-7",
+    "title": "全国政协十四届常委会第十八次会议闭幕 王沪宁主持并讲话",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-8",
+    "title": "丁薛祥在安徽合肥出席财政科学管理试点座谈会",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "财政"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-9",
+    "title": "泥石流灾害造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联 各方加紧抢险救援",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-10",
+    "title": "【“十五五”开好局起好步】融合升级 新型工业化提速",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-11",
+    "title": "北斗系统重点行业综合应用渗透率约90%",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-12",
+    "title": "国务院新闻办举行“新征程上的奋斗者”中外记者见面会",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-13",
+    "title": "国内联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-14",
+    "title": "“十五五”国家电网跨省区输电能力将达到5亿千瓦",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-15",
+    "title": "我国进一步完善家庭医生签约服务",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "签约"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-16",
+    "title": "澳琴跨境陆空联运业务今天正式开通",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-17",
+    "title": "阿曼外交大臣访问伊朗 伊方公布霍尔木兹海峡临时航线安排 美媒称美暂不对伊朗发动新打击 重点转向经济施压",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-18",
+    "title": "加拿大宣布对美加征等额反制关税 涉700多种商品 美总统称考虑将安大略湖更名为美国湖 加官员称捍卫加方一切利益",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": -5,
+    "sent_hits": [
+     "加征",
+     "关税"
+    ],
+    "sectors": [
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-19",
+    "title": "国际联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-20",
+    "title": "俄总统新闻秘书证实俄美情报部门接触",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-21",
+    "title": "以拆除联合国近东救济工程处设施遭谴责",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-22",
+    "title": "西班牙推进移民和庇护制度改革应对危机",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": -3,
+    "sent_hits": [
+     "危机"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-23",
+    "title": "美国得州燃起林火蔓延迅速 居民疏散",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
    }
   ],
-  "category_dist": {},
-  "top_news": [],
-  "scored_news": [],
   "stats": {
-   "news_total": 0,
-   "xwlb_total": 0,
-   "scored_total": 0,
-   "pos": 0,
-   "neg": 0,
-   "neutral": 0
+   "news_total": 20,
+   "xwlb_total": 24,
+   "scored_total": 44,
+   "pos": 10,
+   "neg": 10,
+   "neutral": 24
   }
  },
- "news_raw": [],
- "xwlb_raw": []
+ "news_raw": [
+  {
+   "id": 22271,
+   "title": "今日话题｜企业撤回107份合同，年轻人失去的却是一整个招聘季",
+   "summary": "【话题金句】校招offer最重要的价值，是让年轻人敢于停止继续寻找。企业一旦使用了这份信任，就不能把自己的预测失误，全部打包寄给刚走出校门的人。",
+   "heat": 96.0,
+   "category": "话题",
+   "story": "#应届生就业 #校招信用 #劳动合同 #企业责任 #青年就业\n\n去年秋招，一批大学生拿到星宇股份的录用通知。他们停止投递，拒绝其他机会，完成毕业答辩，等到今年7月正式入职。\n\n一个多月后，其中107人又被送回就业市场。\n\n8月25日晚，常州市人社局通报：星宇股份共招录440名2026届高校毕业生，与其中107人解除劳动合同；企业在协商中“方法简单生硬，缺乏充分有效沟通”，已道歉并停职人力资源总监。\n\n早前的媒体采访中，有毕业生说，自己原本应聘的是技术、研发或管理岗位，入职后却被安排到生产线。有受访者形容：“签的是管理层岗位，干的却是流水线。”还有人面对调岗反问：“那这样的话，我们大学硕士这些年不都白读了吗？”\n\n这句话很容易把争论带偏。生产线工作不低人一等，硕士也不是不能拧螺丝。真正的问题是：一家企业能不能先用一种岗位招人，等年轻人放弃其他机会以后，再把完全不同的安排摆到他们面前？\n\n打螺丝没有错，拿技术岗招人再逼人选择才有问题\n\n制造业安排新员工到车间轮岗并不罕见，研发人员了解生产流程也可能是必要的培养环节。\n\n但轮岗培训与长期转为一线操作岗不是一回事。媒体披露，部分毕业生被要求在签署“个人原因离职”与转为一线操作岗之间选择。相关细节仍需结合每个人的合同和沟通记录判断。\n\n《劳动合同法》要求，用人单位招用劳动者时，应当如实告知工作内容、工作条件和劳动报酬；变更劳动合同约定的内容，也应当协商一致。\n\n工作没有贵贱，契约却有真假。尊重生产线工人，绝不意味着企业可以把“进车间”当成逼退其他岗位员工的工具。\n\n半个月工资，结不清一整个招聘季\n\n普通裁员已经令人焦虑，校招解约还多了一层特殊伤害：时间不可逆。\n\n校园招聘往往提前大半年启动。学生拿到offer后，会停止投递、拒绝其他企业，有人还要跨城租房。等到7月正式报到，大部分秋招和春招早已结束。\n\n企业可以在下一轮重新招聘；一名毕业生却没有第二次2026届。不同考试和招聘对应届生身份的认定并不相同，不能说“缴过社保就一律失去应届生身份”，但突然解约确实可能让他们失去部分校招和政策机会。\n\n因此，即便一些毕业生得到半个月工资补偿，也不能说损失已经结清。\n\n企业撤回的是一份合同，年轻人失去的却可能是其他offer、一整个招聘季，以及职业生涯第一次相信承诺的勇气。\n\n“协商解除”不能只看纸上有没有签字\n\n官方通报使用了“与其中107人解除劳动合同”的表述，并指出协商方式简单生硬。目前公开材料还不足以判断每一份解除协议是否存在违法、胁迫或欺诈，不能在仲裁和法院之前替个案下结论。\n\n但“协商”是否真实，不能只看最后有没有签名，还要看拒绝会付出什么代价。\n\n如果劳动者面对的选择是：以“个人原因”离职，或者接受岗位、薪酬和职业路径发生明显变化；如果沟通中还暗示不配合可能影响后续背调，那么双方的谈判能力显然并不对等。相关说法是否属实，应当继续核查。\n\n真正的协商，不是强势一方准备好两个都不利的答案，再让弱势一方自己勾选。\n\n对于已经签字的毕业生，也应提供独立法律咨询，让他们知道协议后果和救济途径。\n\n停职一名人力总监，回答不了是谁多招了107个人\n\n企业停职人力资源总监，回应了约谈方式和沟通责任，却没有回答招聘决策本身。\n\n440人的招聘规模由谁批准？岗位和预算怎样测算？公司什么时候发现无法提供原定岗位？如果经营计划发生变化，为什么没有更早告知，而要等毕业生入职后再集中解除？\n\n星宇股份2025年社会责任报告曾把校园招聘写入人才建设成绩。招聘数量可以成为企业成绩，解约责任就不能只停在人力资源部门。\n\n成绩归战略，代价归执行，最后再由年轻人承担损失，这不是完整的公司治理。\n\n企业当然可能调整岗位，规则也不要求公司永远保留每个职位。但谁作出错误预测，谁就应承担主要成本，不能把不确定性推给选择权最少的年轻人。\n\n推荐新工作，是善后；修复校招信用，还要把旧账说清楚\n\n常州市人社局表示，截至8月25日，107人中已有22人重新就业，14人正在参加其他企业面试。帮助这些毕业生尽快找到工作，非常必要。\n\n但再就业服务不能代替处理原劳动关系。解除是否自愿、调岗是否符合合同、补偿是否依法结清，仍应逐一解决。\n\n遇到类似情况，毕业生应保存offer、三方协议、劳动合同、岗位说明和沟通记录；不要急于在压力下签署“个人原因离职”，可先拨打12333咨询，必要时申请劳动仲裁。\n\n监管部门也可建立校招异常解约预警：企业在毕业季集中撤回录用或解除劳动合同时，应及时说明原因，并承担清晰的补偿和再就业责任。\n\n一家公司当然可以重新招聘，年轻人也可以重新找工作。但如果校招承诺随时能够撤回，下一届毕业生拿到offer时，就只能把它当成一张可能作废的彩票。\n\n最后被透支的，不只是一家公司的雇主口碑，而是整个就业市场最宝贵的信用。",
+   "impact": "",
+   "publish_time": "2026-08-26T16:04:52",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787731318401-%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22244,
+   "title": "情报预测：美国大概率追加7.5%对华关税，覆盖面可能超过新能源",
+   "summary": "【一句话判断】未来30天，美国有六成概率公布针对中国“结构性产能过剩”的301措施；7.5%最可能成为填满20%替代关税上限的税率，但实施时间和豁免清单仍可能进入峰会谈判。",
+   "heat": 95.0,
+   "category": "财经",
+   "story": "截至时间： 2026年8月26日 \n预测窗口： 2026年8月26日至9月底 \n当前置信等级： B级 \n一句话预测： 美国在9月底中美元首会晤前后公布“结构性产能过剩”301调查结果的概率约为60%；最可能的方案是对部分或大部分未获豁免的中国商品追加7.5%关税，把替代性关税从12.5%补到20%，但正式实施可能被延后，成为峰会前后的谈判筹码。\n\n7.5%不是随意试探，它正好补满20%的政策空间\n\n美国贸易代表办公室尚未宣布这项关税。现在可以确认的，是三组已经咬合的公开信号。\n\n第一，USTR在3月11日正式启动“结构性产能过剩”301调查，覆盖中国、欧盟、日本、韩国、越南、墨西哥等16个经济体；书面意见和5月听证程序已经完成。截至8月26日，USTR专题页面仍未公布最终认定或行动方案。\n\n第二，美国7月23日已通过另一项“强迫劳动”301调查，对中国商品加征12.5%的替代性关税。中国商务部随后披露，美方在中美经贸磋商中承诺，对中国商品的替代加征关税不超过20%。\n\n第三，AP援引三名知情人士称，白宫正在考虑在9月底会晤前追加7.5%关税；报道同时强调，方案仍在内部讨论，特朗普可能改变决定，白宫和USTR也没有正式确认。\n\n12.5%加7.5%，恰好等于20%。这组数字说明，7.5%更像一项经过上限约束的制度安排，而不是临时喊价。美国既可以用它填补此前关税被法院推翻后留下的政策缺口，又可以宣称没有突破中美磋商形成的20%边界。\n\n真正需要预警的，是美国正在把“产能、补贴、贸易顺差和国内需求不足”组合成新的常态化加税理由。一旦这一套301逻辑完成首次落地，以后面对中国制造业的限制就不必再等待某个产品出现单独争端。\n\n三种情景：公布措施的概率高于立即全面生效\n\n情景概率未来30天可能发生什么对判断的含义基准情景60%美国在峰会前后公布对华不利认定，提出7.5%附加税；覆盖范围较广但保留产品豁免，实施日可能晚于公告日关税工具完成法律重建，峰会主要谈豁免、暂停期和执行范围谈判延后25%USTR公布调查结果或继续释放信号，但白宫暂缓正式行动，换取中国在采购、市场准入或国内需求政策上的回应7.5%成为谈判筹码，风险没有消失，只是执行时间后移偏离情景15%措施缩窄到特定行业、税率偏离7.5%，或9月底前没有结论媒体消息高估了决策成熟度，需把预警降至观察级\n\n这里预测的是政策动作，不是贸易战全面升级。7.5%的设计本身带有限制冲突强度的意味：它补足20%，却没有主动突破20%。如果这一方案落地，更像美国为关税重新寻找法律基础，同时把具体豁免和生效时间留给谈判，而不是立即撕毁休战安排。\n\n覆盖面可能比新能源车、光伏和电池更宽\n\nUSTR启动文件列出的行业不止新能源。示例范围包括铝、汽车、电池、水泥、化工、电子、能源产品、玻璃、机床、机械、有色金属、纸张、塑料、食品饮料、机器人、卫星、半导体、船舶、光伏组件、钢铁和运输设备。\n\n因此，市场最容易犯的错误，是只把7.5%关税映射到电动车和光伏概念。真正需要检查的是产品原产地、美国收入、海关编码、既有232或其他301税负、合同承担方，以及海外工厂能否满足真实原产地规则。\n\n观察对象为什么相关当前更像什么未来30天查什么不能过度解读什么美的集团（000333.SZ/0300.HK）、海尔智家（600690.SH/6690.HK）家电、电子和机械可能进入广泛产品范围直接暴露待核美国收入、出口原产地、产品编码、当地生产占比不能用集团美国收入直接等同中国出口税负福耀玻璃（600660.SH/3606.HK）玻璃和汽车零部件均在调查逻辑内本地化对冲样本美国工厂供货比例、中国出口零部件、客户转价美国本地生产可能受益，不能一概写成受损万华化学（600309.SH）化工、塑料和能源成本均在USTR关注范围产品级风险美国收入、当地装置、具体化工品编码和豁免“化工被点名”不代表所有产品统一加税隆基绿能（601012.SH）、晶科能源（688223.SH/JKS）、宁德时代（300750.SZ）光伏、电池被明确列入示例行业高关注、税负需拆分既有行业关税、产地、美国项目和产品豁免既有高关税可能带来豁免或避免重复叠加比亚迪（002594.SZ/1211.HK）USTR文件直接以其海外产能网络举例政策叙事强、美国乘用车直接收入有限海外工厂原产地审查、第三国是否同步受措施被文件点名不等于当期美国利润遭受同等冲击泰国、越南、马来西亚、墨西哥等海外基地这些经济体同样在本次调查名单中不再是当然避风港当地增加值、零部件来源、转口调查、各国最终税率海外设厂不自动改变原产地，也不自动失去保护作用\n\n四个时间点会决定这次预测是否命中\n\n1. USTR专题页面出现调查报告或不利认定。这是媒体信号转成政策事实的第一步。 2. 白宫或《联邦公报》公布7.5%、产品清单与豁免。只有这一项出现，税率预测才算命中。 3. 公告日与生效日是否分离。若公布后延迟执行，说明关税主要承担峰会谈判功能；若很快生效，企业成本将先于谈判结果落地。 4. 中方是否启动磋商、世贸程序或对等反制。商务部已经保留采取必要措施的权利，新的正式回应将决定冲突是否停留在20%边界内。\n\n什么情况会推翻这篇预测\n\n若9月底前USTR没有公布最终认定，白宫继续把相关报道定性为无依据猜测，且中美元首会晤议程没有出现“产能过剩”或301安排，这篇预测应降为未命中。\n\n若最终措施不是7.5%，而是只针对极少数行业、改用最低进口价格或配额，说明“12.5%加7.5%补足20%”只是一种谈判算术，没有成为执行方案。\n\n反过来，如果《联邦公报》出现对华7.5%税率、广泛产品范围和具体生效日，本轮预警即告命中；下一步应从政策预测转入企业产品编码、美国收入和海外产地的逐项核对。\n\n下一次复盘： USTR公布调查结果后立即复盘；若无公告，最迟于2026年9月15日复盘一次。\n\n信息来源与口径说明\n\n1. USTR：3月11日启动“结构性产能过剩”301调查 \n2. USTR调查专题页：截至8月26日尚未列出最终认定 \n3. USTR启动文件及行业示例 \n4. USTR：7月23日“强迫劳动”301调查最终措施 \n5. 中国商务部：对华替代加征关税现为12.5%，美方承诺不超过20% \n6. 中国商务部：《关于所谓“产能过剩”问题的中方立场》 \n7. AP：白宫考虑7.5%关税，决定仍可能变化 \n8. Reuters：无法独立核实相关媒体消息\n\n本文概率、情景和时间判断均为基于公开信息的编辑推断，不是美国政府决定，也不构成投资建议。",
+   "impact": "",
+   "publish_time": "2026-08-26T15:10:20",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787728110038-%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A6%82%E7%8E%87%E8%BF%BD%E5%8A%A07.5%25%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%A8%8E.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22228,
+   "title": "小鹏亏损13.4亿元，却给机器人融资超9亿美元：下一张牌是什么",
+   "summary": "小鹏汽车2026年第二季度实现营收197.4亿元，但仍净亏损13.4亿元；同期服务及其他收入同比增长93.9%。8月24日，小鹏宣布机器人业务融资超过9亿美元、投后估值超过63亿美元，计划推动IRON在2026年底量产、2027年正式交付。",
+   "heat": 95.0,
+   "category": "财经",
+   "story": "小鹏二季度汽车交付10.33万辆，同比仅增长0.1%；总营收197.4亿元，同比增长8.0%、环比增长51.5%；汽车销售收入170.5亿元，同比增长1.0%；综合毛利率20.7%，汽车毛利率12.1%；净亏损13.4亿元，同比扩大、但较一季度的17.8亿元有所收窄。\n\n更值得注意的是，服务及其他收入达到27亿元，同比增长93.9%。公司解释，增长主要来自向一家汽车制造商提供技术研发服务，以及零部件销售。小鹏二季度财报\n\n这说明小鹏正在尝试证明：自己不只是卖车，也能出售智能驾驶、电子电气架构和研发能力。\n\n另一边，小鹏机器人业务融资超过9亿美元，投后估值超过63亿美元。IDG资本领投，高榕创投参与，腾讯和阿里巴巴提供战略支持；小鹏继续保持控股，机器人业务也将纳入集团财务报表。小鹏融资公告\n\n一家仍在亏损的汽车公司为何投入机器人？因为智能汽车和人形机器人共用不少技术底座：视觉感知、运动控制、AI芯片、端到端模型、电池、电机、供应链管理和大规模制造。小鹏希望把汽车研发投入形成的能力，复制到另一种“可以移动、理解环境并执行任务”的终端上。\n\n这也是中国人形机器人产业的整体变化。工信部数据显示，2025年国内整机企业超过140家、发布产品超过330款；到2026年上半年，国内人形机器人整机产品已超过400款，占全球一半以上。工信部数据\n\n小鹏真正的考题不是能不能造出机器人，而是能不能把“车规级制造能力”变成“机器人商业能力”。\n\nIRON计划先进入小鹏门店和园区，2027年再在国内外正式交付。接下来需要看的不是发布会动作有多拟人，而是量产成本、付费客户、订单数量、故障率，以及机器人业务何时产生可核验收入。",
+   "impact": "",
+   "publish_time": "2026-08-26T12:48:13",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787719085361-%E5%B0%8F%E9%B9%8F%E4%BA%8F%E6%8D%9F13.4%E4%BA%BF%E5%85%83.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22211,
+   "title": "网购3元假种子毁掉一季庄稼：平台退款了，农民的农时谁来赔？",
+   "summary": "【一句话判断】记者在多个平台购买10款号称某上市种业公司培育的玉米种子，检测后没有一款能与正品完成基因比对。假种子最恶劣的地方，是骗局往往要等庄稼长出来才暴露：平台可以退回几元货款，已经错过的农时、化肥农药和一季收入却无法点击退款。",
+   "heat": 95.0,
+   "category": "社会",
+   "story": "湖南一名消费者花三块多钱，在网上买了一包“云南拇指玉米”种子。\n\n种下去以后，地里长出来的却是普通糯玉米。\n\n如果这是一件普通网购商品，平台退回三块钱，订单似乎就结束了。可种子不是一件收到货就能辨别真假的商品。等庄稼长高、结穗，骗局才终于露面，一季农时也已经被消耗完了。\n\n假种子最狠的地方，是骗子卖掉一包货，农民赔进去的却是一段不能重新购买的时间。\n\n10包网购玉米种子，没有一包能对上正品\n\n中央广播电视总台中国之声近日调查发现，一家经营玉米育种多年的上市种业公司，多次在电商平台买到冒用其品牌的种子。\n\n记者随后从多个平台购买10款号称由该企业培育的玉米种子，送检后发现，没有一款能够与原品牌玉米种子完成基因比对。\n\n这些种子装在普通塑料袋里，没有正规包装，没有标签，也没有可以追溯的品种信息。10家店铺公示材料中，也没有销售玉米种子所需要的农作物种子生产经营备案表。\n\n更离奇的是，一些网店共用同一张营业执照，却上传另一家企业的林草种子许可证，然后堂而皇之地销售主粮种子；有的登记地址经属地执法人员核查，还是虚假地址。\n\n从平台页面看，店名、销量、物流和客服一应俱全；真正需要追责时，经营者却像被一层层账号和证件遮住了脸。\n\n平台把一包假种子送到农民手里，追责却被拆给多个县\n\n假种子的流通链条很懂互联网。\n\n店铺注册在一个地方，许可证属于另一个主体，货物从第三个县发出；卖家再使用隐私地址，物流信息只显示到县或乡镇。消费者向发货地农业部门投诉，得到的答复往往是：没有公司名称和详细地址，很难上门检查。\n\n平台掌握订单、付款账户、登录设备、聊天记录和完整物流信息，却把最艰难的定位工作留给农民和一个个属地部门。\n\n这与此前“一个平台购物，却要去200多个商家属地逐一投诉”的开票难题，本质上是同一种责任转移：交易被平台集中起来，维权却被重新拆散。\n\n对普通商品，这种拆分已经足够折磨人；对种子，它还会错过执法和取证的最佳窗口。\n\n退回种子钱，只退了损失中最便宜的一部分\n\n一包种子的售价可能只有几元、几十元，真正的损失发生在土地里。\n\n整地需要机械和人工，播种以后要施肥、浇水、打药。等到发现品种不对、发芽率不足或者发生病害，重新播种的季节可能已经过去。即使平台迅速退款，农民拿回的也只是全部损失中最便宜的一部分。\n\n司法案例早已说明这笔账有多悬殊。\n\n有人把价值42500元的假豌豆种卖给农户，最终造成14万余元损失；还有无资质经营者出售带菌马铃薯种薯，导致植株枯死、薯块腐烂，法院判赔两名农户543750元。\n\n现行种子法规定，种子使用者因种子质量问题遭受损失，赔偿范围可以包括购种价款、有关费用以及可得利益损失。\n\n种子法规定，赔偿范围可以包括购种价款、生产投入和可得利益损失。现实难点是，农民必须证明买到的是什么种子、在哪里种植、投入多少、减产多少，以及减产与种子之间存在因果关系。\n\n而假种子恰恰没有标签、没有正规票据、没有真实地址。骗子从一开始就在拆毁未来维权需要的证据。\n\n主粮种子不能按普通百货上架\n\n平台当然不是农业检测机构，不可能拆开每一包种子做基因鉴定。但销售主粮种子至少应当先回答三个问题：谁在卖，有没有备案，货从哪里来。\n\n这三道门，目前都出现了漏洞。\n\n平台入驻时没有准确核验经营许可和备案；经营过程中没有识别多个店铺共用证照、许可证类别与所售商品不符；交易完成后又允许卖家用模糊地址发货，导致属地执法无法迅速找到仓库和人员。\n\n2026年已经实施的网络交易平台规则监管办法，要求平台规则不得侵害交易各方合法权益。相关网络交易监管规定也要求，平台发现商品信息违法或者损害公共利益时采取必要措施并向监管部门报告。\n\n对种子、农药、兽药等特殊农资，仅仅让商家勾选“我有资质”显然不够。平台完全可以把农业部门备案数据与店铺主体联网核验，对共用证照、异常注册、隐私发货和主粮种子关键词实施重点复核。\n\n农民买的不是一包商品，而是一年的可能性\n\n假种子案件常被当成金额不大的消费纠纷，原因是人们只看到了订单金额。\n\n一包种子进入土地以后，连接的是一整套生产：家庭收入、粮食产量、土地租金、农资投入和下一年的资金安排。它不像假衣服那样可以脱下来寄回，也不像损坏的电器那样可以换新。\n\n平台扩大了农资的销售半径，也必须扩大责任半径。\n\n真正有效的处理，至少应当包括：立即冻结同一证照和付款账户关联的全部店铺，向发货地执法部门提供完整地址，对已售订单主动预警和召回，并为受害农户保存交易、物流与主体信息，协助完成田间鉴定和损失索赔。\n\n平台不能只保证退款按钮有效，还要保证农民按下退款按钮时，那个卖假种子的人仍然找得到。\n\n三块钱可以买一包种子，却买不回错过的春耕，也买不回已经长坏的一季庄稼。\n\n假种子治理最后要解决的，不是怎样把三块钱退得更快，而是谁来赔偿那段被骗子偷走、平台放行、永远无法重新开始的农时。\n\n来源与口径说明\n\n• 中央广播电视总台中国之声关于网售“三无”种子的调查，用于核对10款送检种子、证照和物流调查以及消费者案例。\n• 最高人民法院“农资打假”典型案例，用于核对假种薯造成损失及判赔案例。\n• 最高人民法院种业知识产权司法保护典型案例，用于核对假豌豆种的销售额和农业损失。\n• 市场监管总局《网络交易平台规则监督管理办法》，用于说明平台规则责任背景。\n\n本文依据截至2026年8月26日公开信息创作。记者购买的10款种子属于调查样本，不能据此推算全部网售种子的合格率。",
+   "impact": "",
+   "publish_time": "2026-08-26T09:58:35",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787709412774-%E7%BD%91%E8%B4%AD3%E5%85%83%E5%81%87%E7%A7%8D%E5%AD%90%E6%AF%81%E6%8E%89%E4%B8%80%E5%AD%A3%E5%BA%84%E7%A8%BC.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22223,
+   "title": "数字产业半年收入20.71万亿：AI正从聊天框走进汽车、家电和工厂",
+   "summary": "【一句话判断】AI产业正在告别只靠模型制造热度的阶段：服务器网络、高阶电路板和端侧芯片已经出现真实收入，更深的变化是AI开始进入普通设备、制造订单和出口物流。",
+   "heat": 94.0,
+   "category": "科技",
+   "story": "扫地机器人绕开拖鞋，摄像头在本地识别人脸，汽车能听懂连续指令，工厂里的设备开始自己判断故障——很多人第一次真正使用AI，可能不是打开一个聊天机器人，而是发现身边原有的机器突然“聪明”了一点。\n\n这种变化已经出现在今年的经济数据里。\n\n上半年，中国数字产业收入达到20.71万亿元，同比增长13.6%；利润增长19.3%，跑得比收入更快。7月，香港商品出口货值同比增长50.7%，在6月增长53.4%之后继续处于高位。全志科技、沪电股份两家公司的半年报，则把宏观数字落到了芯片和电路板上。\n\n这几组新闻真正值得讲的，不是AI产业又多了几个漂亮数字，而是AI正在离开聊天框，进入真实世界的生产、运输和销售。\n\nAI变得“摸得着”，先从看不见的零部件开始\n\n一台设备拥有AI能力，往往不会先改变外形。最先变化的，是藏在机器内部的芯片和电路板。\n\n摄像头要在本地分析画面，需要更强的芯片；扫地机器人要识别障碍，需要处理图像和传感器信息；汽车要同时完成语音交互、辅助驾驶和屏幕显示，需要更多计算能力。另一边，大模型运行所需的数据中心，也不只有计算芯片。成千上万台服务器需要高速交换机彼此连接，更快的网络又要求层数更高、传输损耗更低的电路板。\n\n这就是AI从软件热词变成硬件订单的过程：\n\n人们使用更多AI → 数据中心扩建，普通设备增加AI功能 → 芯片和高阶电路板出货增加 → 工厂收入、跨境运输和利润随之变化\n\n过去两年，公众最容易看见的是聊天机器人和大模型发布会。现在，收入开始出现在那些不容易被普通人看见、却决定AI能否真正运行的零部件上。\n\n一块高阶电路板，透露数据中心正在大规模施工\n\n沪电股份（002463）上半年收入136.89亿元，同比增长61.17%；净利润29.23亿元，同比增长73.72%。其中，32层及以上电路板收入增长190.83%。\n\n为什么一块电路板需要做到32层甚至更多？可以把它想成一座城市的立体交通网。服务器之间传输的数据越多，电路板要容纳的“车道”就越多，而且高速信号不能互相干扰。AI数据中心规模扩大之后，交换机从400G升级到800G、1.6T，对电路板的要求也随之提高。\n\n沪电股份已经批量生产1.6T交换机电路板，并开始预研3.2T产品；泰国工厂也在量产400G交换机和AI服务器相关产品。这些动作比“公司进入AI赛道”更有分量，因为产品已经从研发和送样走到了批量生产。\n\n但这里也有一条重要边界：公司披露的AI服务器及高性能计算电路板收入为18.28亿元，占总收入约13.4%。沪电股份的大头仍然是高速交换机、路由器和通用服务器。AI确实带来了新需求，却不能承包所有增长。\n\n芯片进入扫地机和摄像头，AI才真正接近普通人\n\n全志科技（300458）提供了另一幅图景。\n\n公司上半年收入18.88亿元，同比增长41.23%；净利润4.90亿元，同比增长204.17%。它设计的芯片已经进入智能音箱、扫地机器人、3D打印机、AI玩具、词典笔、摄像头、智能门锁、汽车座舱和工业设备。\n\n这件事的公共意义在于，AI普及未必会以一种全新“AI神器”的方式发生。更可能的情形是，人们继续购买熟悉的家电、汽车和学习设备，只是它们逐渐增加识别、理解和判断能力。\n\n对消费者来说，这意味着AI竞争最终要回到体验：扫地机能不能少卡一次，摄像头能不能减少误报，车机能不能真正听懂人话。一个设备贴上AI标签并不难，难的是这些功能能否让用户愿意使用，厂商愿意持续采购芯片。\n\n全志科技也没有单独公布“AI产品收入”。它的利润增长还受到新品量产、产品线扩张和提价等因素影响。因此，这份半年报能证明AI能力正在进入更多设备，却还不能证明每一种带AI功能的终端都已经卖得很好。\n\n香港出口大涨，记录的是亚洲硬件“车流量”\n\n7月香港商品出口货值达到6725亿港元，同比增长50.7%。如果把香港看成亚洲电子贸易的重要中转站，这个数字更像一条高速公路上的车流量：经过这里的芯片、零部件和设备明显增多了。\n\n6月的数据已经透露了货物结构。当月，电动机械、仪器及零件出口货值增加1218亿港元；办公室机器和自动资料处理设备增加459亿港元；通讯设备增加328亿港元。香港特区政府也把全球对AI相关电子产品的强劲需求，列为出口增长的重要原因。\n\n不过，香港大量货物属于转口，出口增长不能直接写成“香港制造增长”，更不能全部算作中国AI企业的收入。价格也推高了货值：6月香港出口货值增长53.4%，实际货量增长34.3%，出口价格上涨13.6%。\n\n所以，50.7%的意义不在于制造一个惊人的标题，而在于提供了一项旁证：AI硬件增长已经不只出现在公司的利润表里，也出现在亚洲真实的货物流动中。\n\n这轮增长会怎样影响普通人的生活\n\n它首先改变产品。AI会像摄像头、触摸屏和无线网络一样，逐渐成为汽车、家电和工业设备的常见功能。未来真正的竞争，不是谁先把“AI”印在包装上，而是谁能把功能做得稳定、便宜又省电。\n\n它也会改变工作。模型训练仍然重要，但更多岗位和生意会出现在模型之外：芯片设计、电路板制造、设备测试、工厂自动化、出口物流以及把AI功能装进具体产品的工程环节。AI从软件走向硬件，意味着产业影响开始从少数互联网公司扩散到制造业。\n\n它还会改变公众判断一家“AI公司”的方法。发布模型、展示产品，只能说明公司有兴趣或能力；芯片进入客户产品、产品开始批量生产、收入增加、利润变成现金，才说明AI真正成为了生意。\n\n看什么已经走到哪一步接下来最重要的变化沪电股份高阶电路板已有收入，1.6T交换机产品进入量产新产能投产后，毛利率和现金流能否一起改善全志科技多类端侧芯片进入家电、汽车和摄像头新品销量能否持续增长，AI相关收入能否披露得更清楚香港出口电子产品货值连续两个月高速增长7月实际货量能否维持高增长，价格影响有多大数字产业利润增长快于收入这种差距能否再保持两个季度，而非一次性跳升\n\nAI真正进入经济，要过“现金”这一关\n\n眼下的信号比一年前更硬，但还没有硬到可以忽略风险。\n\n沪电股份上半年经营活动现金流净额同比下降45.14%，全志科技的经营现金流也明显低于净利润。原因可能包括扩产、备货、应收账款变化等，需要结合后续财报确认。它提醒人们：收入和利润可以先增长，钱却未必已经全部收回来。\n\n未来一至两个季度，最值得等待的不是又一家企业宣布“拥抱AI”，而是三件朴素的事：新产品批量出货、客户持续付款、经营现金流跟上利润。\n\nAI走进聊天框，只需要一次模型发布；AI走进汽车、家电和工厂，则要经过芯片、电路板、生产线、物流和付款。后面这条路更慢，却真正决定20.71万亿元数字产业里，哪些增长能够留下来。\n\n主要资料来源\n\n• 工业和信息化部：2026年上半年电子信息制造业运行情况\n• 工业和信息化部：2026年上半年软件业运行情况\n• 新华财经：上半年我国数字产业业务收入达20.71万亿元\n• 香港特区政府统计处：2026年6月份对外商品贸易统计\n• 香港特区政府统计处：2026年6月份对外商品贸易货量及价格统计\n• 中国新闻网：香港7月商品整体出口货值同比上升50.7%\n• 沪电股份2026年半年度报告\n• 全志科技2026年半年度报告\n\n注：本文讨论产业变化及公开经营信号，不构成投资建议。文中比例按公司披露数据计算，四舍五入后可能存在尾差。",
+   "impact": "",
+   "publish_time": "2026-08-26T09:58:35",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787708650738-%E6%95%B0%E5%AD%97%E4%BA%A7%E4%B8%9A%E5%8D%8A%E5%B9%B4%E6%94%B6%E5%85%A520.71%E4%B8%87%E4%BA%BF.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22210,
+   "title": "美国拟收10.3万美元H-1B入场签证费：中国迎来高水平人才回流机会",
+   "summary": "【一句话判断】美国法院刚刚否决特朗普政府此前征收10万美元H-1B签证费的做法，国土安全部又通过正式规则制定程序提出103265美元的新收费。美国一边担心中国争夺科技人才，一边准备向外国工程师收取约70万元人民币的入场费。这笔费用将改变美国科技公司的招聘成本，也可能重新推动全球人才流向。",
+   "heat": 94.0,
+   "category": "时政",
+   "story": "特朗普政府给外国科技人才重新贴了一张价签：103265美元。\n\n这笔钱既不是年薪，也换不来美国绿卡。它是美国企业为一份受年度配额限制的H-1B申请，可能额外支付的申请费，折合人民币约70万元，还要叠加在其他费用之上。\n\n更荒诞的是，两个月前，美国联邦法院刚刚推翻上一版10万美元收费，认为行政部门越过了国会授权。现在，美国国土安全部换了一条路：不再只靠总统一纸命令，转而走正式的行政规则制定程序，还顺手把价格从10万美元调到了103265美元。\n\n法院说这笔钱不能这样收，特朗普政府的回答不是放弃，而是换一张收费依据，再多收3265美元。\n\n美国准备从8.5万份申请里收走88亿美元\n\nH-1B原本是美国吸引专业技术人才的重要通道。每年一般配额为6.5万个，另有2万个名额留给取得美国高校硕士及以上学位的人。\n\n美国国土安全部提出，如果新规落地，每一份受年度配额限制的申请都要额外缴纳103265美元。按照每年8.5万份计算，政府预计可以获得约88亿美元。\n\n官方解释是，这笔钱用于分担移民审批、欺诈调查、国家安全审查、移民法庭、领事处理和劳动标准执法等成本。\n\n这个解释把美国的移民系统包装成了一项昂贵的定制服务：既然联邦政府要审查你，就请雇主替政府支付整套机器的运转费。\n\n问题在于，费用高到这个程度，它就不再只是“成本补偿”。\n\n一个年薪10万美元左右的年轻工程师，入职前先产生10.3万美元的签证费用。大型科技公司或许付得起，但初创企业、中小公司、学校之外的研究机构和外包服务企业必须重新计算：这个人究竟不可替代到什么程度，才值得先交一套首付？\n\nH-1B于是从人才通道变成了一场财力筛选。最富的公司可以继续抢人，预算有限的公司只能退出。\n\n一边担心中国抢人才，一边给人才设置天价门票\n\n这项政策与中国并不遥远。\n\n美国移民局2024财年数据中，出生于印度的申请人约占获批H-1B的71%，中国出生者约占12%，位居第二。印度和中国合计构成了美国技术移民最重要的来源。\n\n美国近年来反复强调，要在人工智能、芯片、生物科技和先进制造领域保持领先，也不断指责中国通过人才计划增强科技实力。\n\n可到了真正争夺人才的入口，美国给出的方案却是收费。\n\n美国想把全世界最聪明的人请进实验室，又在实验室门口摆出一台70万元的验票机。\n\n这会产生三个直接结果。\n\n第一，大公司挑走最成熟、最容易立即创造收入的人，年轻研究人员和跨学科人才更难获得机会。\n\n第二，外国留学生在美国完成教育后，留下工作的成本大幅上升。公司如果不愿承担费用，他们会转向加拿大、欧洲、新加坡、中东，或者回到本国。\n\n第三，美国企业可能把更多岗位直接放到海外。既然把一个工程师带到美国需要先交10万美元，那么让团队留在班加罗尔、上海、深圳或多伦多，通过跨国协作完成工作，反而更便宜。\n\n这就出现了政策的反转：本意是减少外国人进入美国就业市场，结果可能让岗位、研发团队和供应链一起离开美国。\n\n法院已经打掉一次，为什么还要再来\n\n2025年，特朗普政府曾以总统公告方式对部分新H-1B申请征收10万美元。2026年6月，美国联邦法院认定，这种做法实质上接近一项税收，总统和行政部门没有得到国会足够明确的授权。\n\n新方案显然在补这道程序漏洞。\n\n它以拟议规则的形式公开征求意见，把收费解释为移民系统的成本回收机制，并试图使用行政机关既有的费用制定权。换句话说，旧方案撞上法院以后，美国政府没有改变政策目标，而是在寻找一条更能经受诉讼的法律路径。\n\n这也意味着，103265美元目前还不是已经生效的价格。它仍要经历意见征集、正式规则发布以及几乎必然到来的新诉讼。\n\n真正值得观察的不是特朗普又报出了一个惊人数字，而是这次法院会不会接受“成本回收”的解释。88亿美元究竟对应怎样的新增成本，也会成为争议核心。\n\n美国可能把人才竞争变成中国的回流窗口\n\n中国不必把每一个离开美国的人都想象成必然回国的人才。科研条件、薪酬、家庭安排和职业自由仍会影响个人选择。\n\n但全球人才流动从来不是一道单选题。当美国主动提高进入成本，其他国家就获得了降低成本、改善服务和争取人才的窗口。\n\n中国真正应该做的，不是等待美国把人赶回来，而是回答几个现实问题：海外学历和研究经历能不能顺利评价，科研经费能不能稳定，民营企业能不能提供足够有吸引力的技术岗位，外籍科研人员和家属能不能获得便利的居留、教育与医疗服务。\n\n如果这些条件补得上，美国的10.3万美元收费才会真正转化为中国的机会。\n\n特朗普政府把这项政策描述成让雇主承担移民系统成本。对美国科技产业来说，它更像一笔被强行加在人才身上的关税。\n\n商品被加税以后，企业会寻找替代供应商；人才被加税以后，人也会寻找新的国家。\n\n美国当然有权决定谁能进入国境。但当一个国家开始用天价门票筛选全球人才，它收进国库的可能是88亿美元，送出国门的却可能是下一家公司、下一项专利和下一轮科技突破。\n\n来源与口径说明\n\n• 美国国土安全部关于H-1B新增费用的说明，用于核对103265美元、8.5万份申请、预计88亿美元收入及适用范围。\n• 美国移民局2024财年H-1B报告，用于核对印度、中国出生申请人的比例。\n• 美联社关于法院推翻10万美元收费的报道，用于核对旧政策的诉讼结果。\n\n本文依据截至2026年8月26日公开信息创作。103265美元收费仍处于拟议规则阶段，尚未正式生效。",
+   "impact": "",
+   "publish_time": "2026-08-26T09:58:35",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787708752869-%E7%BE%8E%E5%9B%BD%E6%8B%9F%E6%94%B610.3%E4%B8%87%E7%BE%8E%E5%85%83H-1B%E5%85%A5%E5%9C%BA%E7%AD%BE%E8%AF%81%E8%B4%B9.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22229,
+   "title": "霍尔木兹海峡拟开临时商船通道：这是中国油价背后的航道",
+   "summary": "伊朗和阿曼8月25日宣布，双方讨论了恢复霍尔木兹海峡安全通航的阶段性框架，包括建立临时联合航运通道、共同排雷，并继续谈判永久航道和未来管理机制。由于中国进口原油中超过四成被指需要经过霍尔木兹海峡，航道风险会通过油价、运费和保险成本传导至国内。",
+   "heat": 93.0,
+   "category": "财经",
+   "story": "霍尔木兹海峡最窄处只有数十公里，却承载着全球最重要的石油和液化天然气运输流量之一。沙特、伊拉克、阿联酋、伊朗、科威特和卡塔尔的大量能源出口，都需要穿过这条海峡进入印度洋。\n\n伊朗与阿曼讨论的阶段性方案包括建立临时联合航运通道、推进海峡排雷、交换船舶和航行信息、建立航行与安全服务机制，并继续谈判永久航道及未来管理安排。联合声明相关报道\n\n这条新闻与中国的关系非常直接。公开研究资料显示，2024年通过霍尔木兹海峡运输的原油和凝析油中，大约三分之一流向中国；这部分原油占中国进口原油总量的比例超过四成。中国、印度、日本和韩国合计接收了海峡原油流量的约69%。浙江省经济信息中心数据\n\n一旦海峡通行受阻，国内炼油企业可能需要寻找俄罗斯、非洲和拉美等替代来源，航程和成本也会改变。国际油价上涨还可能逐步传导到国内成品油调价、航空燃油和化工原料价格。\n\n航道“可以走”和航运“恢复正常”是两回事。\n\n船公司还要考虑水雷、军事冲突、扣船风险、保险承保和港口调度。只有实际通行量持续上升、油轮等待时间缩短、战争险附加费下降，才能说明海峡真正恢复稳定。",
+   "impact": "",
+   "publish_time": "2026-08-26T12:48:13",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787719037633-%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%8B%9F%E5%BC%80%E4%B8%B4%E6%97%B6%E5%95%86%E8%88%B9%E9%80%9A%E9%81%93.jfif",
+   "source": "日知录"
+  },
+  {
+   "id": 22213,
+   "title": "北京首条跨省地铁跑出“高铁速度”：一条线改变北京向东发展的方式",
+   "summary": "【一句话判断】北京轨道交通22号线进入空载试运行，预计年底具备开通条件。全线79.1公里，最高时速160公里，燕郊到北京CBD最快约28分钟。它要解决的不只是一段通勤，而是数十万人长期存在的“住在河北、工作在北京”生活错位；地铁缩短了空间距离，公共服务和城市治理还要继续追赶。",
+   "heat": 92.0,
+   "category": "时政",
+   "story": "8月25日，北京第一条真正开进河北的地铁开始空载试运行。\n\n列车里暂时没有乘客，却已经替数十万跨省通勤者跑了一遍未来的早高峰：从燕郊到北京城市副中心最快9分钟，到CBD红庙站约28分钟。\n\n如今这段路在拥堵时需要一两个小时。很多人每天醒来时住在河北，工作、消费和社交却发生在北京。行政地图上的一条省界，被他们用睡眠和通勤时间反复跨越。\n\n22号线真正要缩短的，不只是燕郊到CBD的公里数，而是一群人被交通切成两半的生活。\n\n79.1公里地铁，跑出高铁速度\n\n轨道交通22号线西起北京朝阳区东大桥一带，向东经过CBD、通州城市副中心、河北三河和燕郊，再进入北京平谷。\n\n全线约79.1公里，设20座车站，其中5座位于河北。高架段最高时速160公里，地下段最高120公里，采用的是市域快线模式：站距比普通地铁更大，速度更接近城际铁路，又能直接接入城市地铁换乘体系。\n\n此次空载试运行不是正式载客。列车要先完成车辆、信号、通信等系统联调，再按照未来运行图反复“跑图”，检验正点率和运行图兑现率。按照计划，线路预计在今年底基本具备开通条件。\n\n这一脚临门之前，22号线已经规划和建设多年。线路方案也从早期54公里、9座车站，逐步扩展到进入CBD、在河北设置5站的跨区域大通道。\n\n变化背后，是规划者终于承认一件早已发生的事实：北京的真实城市边界，早就越过了北京行政边界。\n\n燕郊为什么需要一条“跨省地铁”\n\n燕郊与北京通州隔潮白河相望。房价相对较低，使这里长期承接北京外溢居住需求；工作岗位和优质公共资源却仍集中在北京。\n\n于是，通勤成为燕郊最醒目的城市景观。天还没亮，居民涌向公交、拼车和进京道路；晚上再沿原路返回。道路检查、潮汐车流、事故和天气，任何一个变量都可能吞掉一小时。\n\n北京市公开预测显示，22号线运营初期全日客流可达56.2万人次，其中燕郊地区进京客流约8.2万人次，约占当地每日进京客流总量的43%。\n\n这意味着它不是给少数人提供的新选项，而可能一次接走近一半燕郊进京通勤需求。\n\n一条轨道线还会重新计算居住半径。过去买房租房要问“离北京多远”，开通后更重要的问题会变成“离22号线车站多远”。燕郊、三河和平谷的房租、商业和产业园区都可能围绕站点重新布局。\n\n但房价是否上涨、人口是否重新流入，不能只看一张线路图。最终还取决于票价、班次、换乘时间以及沿线能否形成新的就业岗位。\n\n地铁跨过省界，公共服务还没有自动跨过去\n\n22号线会让燕郊到CBD的时间接近北京部分远郊到市中心的时间，却不会自动消除行政边界。\n\n一个家庭可能在北京缴纳社保，在河北居住；孩子在哪里上学，老人在哪里就医，汽车牌照、住房资格和公共服务怎样衔接，仍然由不同制度决定。\n\n交通一体化往往走在公共服务一体化前面。地铁把两个地方连接成同一个生活圈以后，原有的分割反而会变得更显眼。\n\n因此，22号线开通后的真正考试包括：跨省通勤票价怎样计算，北京与河北的安检、运营和应急责任怎样衔接，河北站点周边接驳公交能否跟上，医保教育和政务服务能否适应越来越多“双城生活”的家庭。\n\n如果这些问题不解决，地铁只是让人更快到达省界另一边；如果公共服务继续跟进，它才会真正把环京地区从“睡城”变成完整城市。\n\n一条线可能改变北京向东发展的方式\n\n北京过去的城市扩张，更多发生在同一行政区内部。22号线第一次把市域轨道直接穿过河北再回到北京，也为超大城市治理提供了一个新样本。\n\n大城市没有必要把所有人口、住宅、产业和公共服务都塞在一个行政边界里。东京、纽约、巴黎等都市圈本就跨越多个地方政府，核心是用高频轨道、统一票制和协调治理形成共同生活圈。\n\n京津冀协同发展谈了多年，真正能被普通人每天感知的，不是会议文件，而是早晨能晚起多久，晚上能否回家吃饭。\n\n22号线开通以后，可以用三个数字检验它的价值：实际跨省客流有多少，燕郊通勤时间缩短多少，沿线是否出现更多本地就业而不是单纯推高房价。\n\n空载试运行意味着列车已经进入最后考试。等车厢真正坐满乘客，北京也将第一次面对一个非常具体的问题：\n\n当河北居民每天只用28分钟就能到北京CBD，他们究竟算生活在两座城市，还是已经生活在同一座城市？交通已经给出答案，接下来轮到公共服务和城市治理追上来。\n\n来源与口径说明\n\n• 北京市政府关于22号线空载试运行的信息，用于核对线路长度、站点、运行阶段及预计开通时间。\n• 北京22号线换乘与客流预测资料，用于核对56.2万人次、燕郊8.2万人次及43%的预测口径。\n• 中新网关于22号线空载试运行的报道，用于核对最高速度和预计通勤时间。\n\n本文依据截至2026年8月26日公开信息创作。28分钟和客流量均为项目方预测，实际表现仍取决于正式运行图、停站方案、换乘及客流状况。",
+   "impact": "",
+   "publish_time": "2026-08-26T09:58:35",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787708591574-%E5%8C%97%E4%BA%AC%E9%A6%96%E6%9D%A1%E8%B7%A8%E7%9C%81%E5%9C%B0%E9%93%81%E8%B7%91%E5%87%BA%E2%80%9C%E9%AB%98%E9%93%81%E9%80%9F%E5%BA%A6%E2%80%9D.png",
+   "source": "日知录"
+  },
+  {
+   "id": 22230,
+   "title": "“叙利亚民主力量”宣布解散：控制叙东北十年的武装走向终点",
+   "summary": "库尔德武装主导的“叙利亚民主力量”8月25日宣布解散，并把军事和行政体系整合进叙利亚国家机构。这支2015年成立、长期获得美国支持的武装曾控制叙利亚北部和东部大片地区；人员整编、地方自治、油气资源和极端组织在押人员如何处理，仍可能引发新的博弈。",
+   "heat": 92.0,
+   "category": "时政",
+   "story": "“叙利亚民主力量”成立于2015年，其骨干来自库尔德武装“人民保护部队”。在美国支持下，该组织参与打击极端组织“伊斯兰国”，随后控制了叙利亚东北部大片土地。\n\n这片区域的重要性不只在面积。它包含叙利亚部分重要油气田、粮食产区、水资源和通往伊拉克的交通通道。谁控制这里，谁就掌握了叙利亚重建所需的一部分经济资源。\n\n该组织始终面对三重压力：叙利亚中央政府要求恢复领土和国家机构统一；土耳其把其主导力量视为本国库尔德武装的延伸；美国的军事和政治支持存在长期不确定性。\n\n阿卜迪此次在叙总统府宣布组织使命结束，并称要从“战场走向建设”。新华社报道\n\n真正困难的工作从宣布解散之后才开始。数万名武装人员是以个人身份加入政府军，还是保留原有编制？地方安全由谁负责？油气收入如何分配？关押“伊斯兰国”成员及其家属的监狱和营地由谁接管？库尔德地区还能保留多少语言、教育和地方治理权？\n\n这件事与中国的关系主要体现在叙利亚稳定和重建。2025年中叙外长会谈时，中方表示愿积极考虑参与叙利亚经济重建；叙方表示愿参与共建“一带一路”，并承诺不允许任何实体利用叙利亚领土损害中国利益。外交部资料\n\n只有叙东北真正完成整合，安全风险下降，交通、能源和行政体系重新连接，外国资本参与重建才具有现实条件。",
+   "impact": "",
+   "publish_time": "2026-08-26T12:48:13",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787718982072-.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22270,
+   "title": "今日纪事｜一颗泰国卫星升空：中国商业航天开始面对世界客户",
+   "summary": "【纪事金句】过去，中国航天更擅长完成国家任务；今天，商业航天开始学习面对海外客户，为一整套产品和服务负责。",
+   "heat": 91.0,
+   "category": "纪事",
+   "story": "8月25日11时21分，长征六号丙运载火箭从太原卫星发射中心升空。几分钟后，中科卫星14星、15星等7颗卫星进入预定轨道。\n\n其中有一颗并不起眼的立方星。它叫灵知09泰国立方星，由中国民营企业银河航天抓总研制，用户是泰国地理信息与空间技术发展局。\n\n它不载人，也不是庞大的通信卫星。它将为泰国提供国土、农业和生态遥感数据，并帮助当地高校开展卫星设计、航天测控和遥感应用教学。\n\n今天的记录点不在又一枚火箭升空，而在这颗小卫星进入轨道以后，中国商业航天企业第一次面向东南亚客户完成整星研制、发射和在轨交付。\n\n一颗星不大，一道门槛却被跨了过去。\n\n中国早就出口卫星，这一次新在哪里\n\n中国航天并不是今天才走向海外。\n\n2007年，尼日利亚通信卫星一号发射，中国第一次以火箭、卫星、地面站和发射支持的整体方式实现整星出口。此后，中国卫星又进入亚洲、拉美、欧洲和非洲多个国家。\n\n那些项目证明，中国拥有把卫星造出来、送上天并交到外国用户手中的国家工程能力。它们大多由国有航天体系承担，以国家合作、大型工程和“交钥匙”项目的方式推进。\n\n今天这颗泰国立方星的不同之处，在于承担者是一家2018年投入运营的民营商业航天企业。\n\n银河航天不只提供卫星本体。公开资料显示，项目还包括地面系统、运营支持和人员培训：泰方技术人员到中国集中学习，中方团队前往泰国实地教学。\n\n火箭把卫星送入轨道，只完成了物理意义上的跨越；企业让客户能够使用、运营并理解这颗卫星，才完成商业意义上的交付。\n\n这要求一家企业不仅懂技术，还要懂客户。需要什么数据，系统如何运行，出了问题由谁响应——这些问题不像发射那样壮观，却决定一笔生意能不能变成长期信任。\n\n从“完成任务”到“为客户负责”\n\n国家工程首先回答的是：能不能完成既定目标。\n\n商业企业还要回答另一组问题：客户为什么购买，能不能按期交付，价格是否有竞争力，产品能否复制，后续服务能不能持续。\n\n两种能力并不冲突，却不是同一种能力。\n\n在国家任务中，资源可以围绕一个重大目标集中配置，许多技术只要完成突破，就已经具有战略价值。进入商业市场以后，技术必须继续接受成本、工期、可靠性和复购的检验。同样一颗卫星，造得出来是工程问题，卖得出去是市场问题，让客户愿意再买一颗，则是企业问题。\n\n国家能力可以把一个项目送上天，商业能力必须把一次成功变成可以重复的产品。\n\n这也是灵知09值得记录的原因。它的意义不在体量，而在闭环：海外客户提出需求，中国民营企业组织研制，国家航天体系提供可靠发射，卫星进入轨道，地面系统和人员培训随之交付。\n\n国家积累几十年的技术、人才和基础设施，开始通过一家民营企业转化为面向海外市场的产品。\n\n我们为什么期待中国的SpaceX\n\n人们谈到商业航天，很难绕过马斯克和SpaceX。\n\n我们期待的并不只是传奇企业家。SpaceX带来的变化，是把昂贵、低频、围绕单次任务组织的航天活动，逐渐变成可以连续生产、反复发射和出售服务的产业。\n\n但SpaceX并不是在国家力量退出以后凭空长出来的。\n\nNASA的商业货运和商业载人项目，把国际空间站运输这样的真实任务交给企业。企业投入资本、研制并拥有自己的飞行器，NASA提出安全和性能要求，再购买运输服务。2014年，NASA分别向波音和SpaceX授予固定价格的商业载人合同；后来，龙飞船通过认证并持续承担载人任务。\n\n更值得借鉴的是一种关系：国家提出足够困难、足够真实的需求，建立安全边界并成为第一批客户；企业承担失败风险、控制成本，再把为公共任务形成的能力带到更广阔的市场。\n\n伟大的商业航天公司，既不是财政资金包出来的承包商，也不是脱离国家基础能力的孤胆英雄。它生长在公共任务与市场竞争相接的地方。\n\n中国不缺造星能力，缺的是更多真实订单\n\n2014年，国务院文件开始明确鼓励民间资本研制、发射和运营商业遥感卫星。2015年发布的国家民用空间基础设施规划，进一步提出支持民间资本投资卫星研制和系统建设。\n\n十多年过去，中国商业航天已经不再只有计划书和模型。\n\n银河航天公开信息显示，截至2026年6月，公司已发射40余颗自主研制卫星，并形成百颗卫星的低成本批产能力。民营火箭企业也在冲击液体火箭、可重复使用和更高频次发射。2026年政府工作报告首次单独提出“加快发展卫星互联网”。\n\n这些进展说明，门已经打开。但走出一家世界级公司，光有政策鼓励和技术演示还不够。\n\n商业航天需要持续而明确的订单，让企业知道未来五年该为谁造火箭、为谁造卫星；需要真正的政府采购，让公共部门从分配项目转向购买经过竞争的服务；需要长期资本忍受漫长研制和多次失败；也需要透明稳定的准入、发射、频轨、保险和出口规则。\n\n它还需要允许失败。\n\n航天不能轻视安全，但如果一次试验失败就让一家企业永远失去机会，企业就会把精力用来避免责任，而不是降低成本和快速迭代。允许失败不是降低标准，而是把试验失败、产品缺陷和不可容忍的失职区分开来。\n\n没有真实订单，商业航天只能不断证明自己“会造”；没有失败空间，它也很难学会怎样“造得更快、更便宜、更可靠”。\n\n中国需要自己的巨头，但不必复制一个马斯克\n\n过去二十年，中国民营企业已经在互联网、消费电子、新能源汽车、动力电池等领域长出一批具有全球影响力的公司。它们共同的特点，是既受益于中国的基础设施、人才和巨大市场，也在激烈竞争中形成了产品、成本和供应链能力。\n\n人工智能和商业航天很可能是下一轮必须争夺的产业高地。它们投资更大、周期更长、风险更高，也更依赖算力、能源、发射场、频谱和科研体系。国家力量不可能缺席。\n\n国家参与之后，还要给企业留下长成巨头的空间：允许它拥有核心产品，开放真实应用场景，让不同所有制企业公平竞争，让资本分享成功也承担失败。\n\n中国当然希望出现一个像马斯克那样有雄心的企业家，更需要出现一家像SpaceX那样能够定义产品、降低成本、吸引人才并代表中国参与全球竞争的公司。\n\n但伟大公司无法靠指定产生，也不能由一句口号催熟。\n\n比等待一个天才更重要的，是让成百上千个团队有机会出发，让真正优秀的公司在订单、失败和竞争中被筛选出来。\n\n银河航天会不会成为这样的公司，现在还不能下结论。一颗立方星也不足以证明中国商业航天已经建立全球优势。它还要接受在轨运行、数据质量、交付成本、后续服务和海外复购的检验。\n\n结论可以克制，今天仍值得记住。\n\n8月25日，一颗为泰国客户研制的小卫星从太原升空。火箭仍来自国家航天体系，卫星背后却站着一家年轻的民营企业；客户买到的不只有一件设备，还有地面系统、培训和此后的服务。\n\n这幅画面更接近中国商业航天应有的未来：国家托住最难的基础能力，企业把能力做成产品；中国不只完成自己的任务，也开始为世界客户解决问题。\n\n当越来越多中国民营企业能够凭产品、价格和信誉把自己的名字写进全球订单，中国的科技力量才真正拥有另一种抵达世界的方式。\n\n这便是8月26日纪事。\n\n主要资料与事实边界\n\n• 中国航天科技集团：《长六丙火箭一箭七星发射成功》：用于核对发射时间、地点、卫星名称、进入预定轨道及发射服务关系。\n• 北京市科委、中关村管委会：《“北京星”首次整星出口东南亚》：用于核对“商业航天企业首次面向东南亚国家完成整星研制、发射及在轨交付”的限定口径，以及卫星用途、地面系统和培训安排。\n• 中国航天科技集团：《整星出口，多点开花》：用于核对2007年以来中国国有航天体系整星出口历史。本文不把灵知09表述为“中国首次出口卫星”。\n• 国家航天局：《国务院创新重点领域投融资机制，鼓励社会投资》与《国家民用空间基础设施中长期发展规划（2015—2025年）》：用于核对民间资本进入商业遥感卫星和空间基础设施领域的政策节点。\n• 银河航天公司介绍：用于核对公司投入运营时间、自研卫星数量和批产能力；这些数据为企业自述口径，不能直接等同于商业收入、市场份额或盈利能力。\n• NASA监察长办公室：《NASA商业载人项目管理》与NASA商业载人项目资料：用于核对商业载人项目的服务采购模式、2014年固定价格合同及龙飞船认证情况。SpaceX仅作为商业机制参照，不据此认为中美制度和市场条件可以简单照搬。\n• 灵知09是立方星，一次交付不代表中国民营商业航天已经形成全球优势。卫星长期运行、数据应用、交付成本、后续订单与商业回报仍需持续观察。",
+   "impact": "",
+   "publish_time": "2026-08-26T16:04:54",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787731475267-%E7%81%B5%E7%9F%A509%E6%B3%B0%E5%9B%BD%E7%AB%8B%E6%96%B9%E6%98%9F.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22267,
+   "title": "一条差评换来地址被恶意曝光：商家开始用收货信息报复消费者",
+   "summary": "【一句话判断】消费者为了收货把地址交给商家，商家却被指把这些信息贴进评论区，用来回应中差评。正常差评应当受到保护，恶意差评需要证据和平台裁决，商家报复则必须被及时制止。平台既掌握订单，也控制评论区，必须同时保护消费者隐私、遏制商家恶意并处理虚假评价。",
+   "heat": 91.0,
+   "category": "社会",
+   "story": "陈习在网上买了6罐黄油啤酒，喝完后留下评价：“不太好喝，香精味很浓，口味有点怪怪的。”\n\n商家没有解释味道，也没有讨论产品，而是在评价下面贴出了她的收货地址。\n\n地址没有精确到门牌号，却足以让陈习感到恐吓。她继续查看店铺评论，发现其他留下中差评的买家也遭遇了类似回复：姓氏、部分地址被公开，旁边还夹杂着污言秽语。\n\n更令人不安的是，陈习向平台和监管部门投诉后，接到多个显示来自北京的陌生电话。现有证据尚不能确认这些电话由商家拨打，但她已经不敢轻易接听。\n\n目前，涉事店铺已经更名并下架全部商品，北京市顺义区市场监管部门介入调解。平台客服表示重视消费者隐私，将根据订单信息处理。\n\n表面上，这是一场因差评引发的纠纷。真正越过边界的动作却非常清楚：\n\n消费者为了完成交易，把姓名、电话和地址交给商家；商家随后把这份信任改造成公开威胁。\n\n这件事需要先摆正三条规则。\n\n第一，消费者依据真实体验给出差评，是评价权的一部分。商家可以解释和申诉，报复消费者从一开始就是错的。\n\n第二，恶意差评和职业敲诈确实存在，但认定需要完整证据。交易记录、聊天内容、异常评价轨迹都可以提交平台核查，商家不能自己充当法官，更不能拿消费者隐私实施惩罚。\n\n第三，平台不能只提供一个评论框，再让商家和消费者自行对抗。它既要保护真实评价，也要处理恶意差评；既要限制商家使用订单数据，也要及时制止辱骂、骚扰和隐私曝光。\n\n差评纠纷可以交给证据和规则，个人信息绝不能成为任何一方的筹码。\n\n收货地址只能服务这笔订单\n\n一笔网络交易，天然要求消费者交出部分个人信息。商家知道把商品送到哪里，快递员知道如何联系收件人，平台保存订单和支付记录。\n\n消费者接受这些信息流转，目的只有一个：把交易完成。\n\n这个授权存在明确边界。地址可以用来发货，电话可以用来联系收件，姓名可以用来核对订单。它们没有自动附带另一种用途：当消费者说了商家不爱听的话，便可以被复制到评论区示众。\n\n《个人信息保护法》确立了明确原则：处理个人信息应当具有明确、合理的目的，并限于实现处理目的的最小范围。《电子商务法》也要求电商经营者履行个人信息保护义务。\n\n商家拿到收货信息，源于履行订单的需要。把它公开用于回击差评，已经改变了收集这些信息的目的。\n\n哪怕地址只公开到小区、学校或单位附近，也可能与买家的头像、昵称、购买记录和社交平台信息拼接。对县城居民、学生、独居女性或者使用单位地址收货的人来说，一段“不完整”的地址仍可能完成现实定位。\n\n法院公开裁判文书都要隐去自然人的家庭住址和通信方式，一家网店更没有资格把顾客信息当作吵架素材。\n\n差评可以反驳，事实可以澄清，隐私不能拿来还击。\n\n当消费者害怕说真话，好评率就成了一张假成绩单\n\n差评让商家难受，是因为它会影响其他消费者的判断，也可能影响店铺评分、流量和销量。\n\n商家当然有权回应。它可以说明原料、口味差异、运输状况，可以提出售后方案。遇到恶意捏造和职业差评，则应当保存订单、聊天和评价记录，把证据提交平台申诉；涉嫌敲诈的，还可以向监管部门或者公安机关反映。\n\n公开顾客地址走的是另一条路：商家绕开平台和证据程序，直接用自己掌握的订单信息惩罚消费者。\n\n今天公开一个模糊地址，明天反复拨打电话，后天把订单信息发到其他平台。商家甚至不必真的找上门，只要让消费者相信“我知道你住在哪里”，威慑就已经形成。\n\n这会改变评价区里的每一个人。\n\n一名消费者原本想写“味道不好”，可能改成沉默；另一名消费者遇到质量问题，担心被骚扰，最后给出违心好评；更多人看见公开地址的回复，干脆不再参与评价。\n\n最终留下来的好评率，看起来越来越漂亮，信息价值却越来越低。\n\n这种风险并非孤例。湖南邵阳消保委今年发布的一项网络餐饮调查回收了45211份有效问卷，超过三成受访者表示，给出差评后曾受到商家骚扰。与此同时，超过八成受访者会优先选择好评度高的商家。\n\n两组数据放在一起，问题已经不只是“商家脾气差”。消费者依赖评价做选择，商家又可能通过骚扰压制差评，评价系统便会出现一个荒诞循环：\n\n大家因为相信评价而下单，评价却因为说真话要付出代价而越来越不可信。\n\n《电子商务法》要求平台建立信用评价制度，为消费者提供评价途径，并明确平台不得删除消费者评价。法律保护的显然不只是一块可以输入文字的页面，而是一套能够容纳真实反馈的市场信用机制。\n\n如果好评来自奖励，差评招来威胁，那么五星店铺可能只证明一件事：不满意的人已经学会闭嘴。\n\n消费者被“开盒”之前，平台就该拦住地址\n\n这起事件里，消费者承担了几乎全部发现和维权成本。\n\n陈习偶然翻回评价页面，才发现自己的地址早已被公开。她保存评论、订单和店铺截图，查询商户注册地，再向平台和市场监管部门投诉。作为法学生，她知道怎样固定证据；换成不熟悉流程的人，很可能只会删除评价、拉黑电话，然后自认倒霉。\n\n平台则同时站在交易和评论的两端，也应承担双向治理责任。\n\n它把订单信息提供给商家，也决定商家回复如何展示；它能够识别手机号、身份证号、地址等信息格式，也掌握店铺更名、下架、重新开店和关联主体情况。\n\n2026年施行的《网络交易平台规则监督管理办法》要求，平台在规则中明确评论信息安全条款以及平台内经营者处理个人信息的规范，并采取措施防范违法和不良信息传播。\n\n平台既要为正常差评提供安全空间，也要为商家建立清晰、快速的恶意评价申诉程序。它的责任不能只剩下一句“请当事人提供订单信息”。更有效的防线至少包括：\n\n• 评论和商家回复中出现疑似地址、电话等信息时，系统立即拦截并转入人工复核；\n• 商家完成发货和售后期限结束后，订单页面继续减少其可见的个人信息；\n• 消费者举报隐私泄露时，平台先隐藏相关内容、保全证据，再核查责任；\n• 对利用订单信息骚扰、威胁消费者的商家，处罚应当关联经营主体，防止改名后继续营业；\n• 对涉嫌恶意差评的投诉，核对交易、沟通和账号行为证据，及时处理虚假评价并向双方说明依据；\n• 向受影响消费者说明哪些信息被访问、公开了多久、平台采取了什么补救措施。\n\n这些动作并不神秘。电商平台每天都在识别广告词、导流信息和违规联系方式。技术已经能够保护平台自己的交易秩序，也应当用于保护消费者的人身安全。\n\n一条真实差评，本来就是市场治理的一部分\n\n职业差评、恶意敲诈确实存在，商家同样需要申诉和救济渠道。平台应当依据证据处理虚假评价，司法和执法机关则负责处理敲诈等违法行为。消费者说“味道不好”属于正常的主观体验表达，商家拿不出恶意评价的证据，就应当接受市场中存在不同意见这一基本事实。\n\n真实差评能够提醒后来者，也能迫使商家改进产品。它不是交易结束后的噪音，而是市场淘汰劣质商品、奖励优质服务的重要信息。\n\n平台保护评价权，并非偏袒消费者；它是在保护所有守规矩的商家。只有差评能够安全留下，好评才有价格，评分才有信用，真正提供好商品的店铺才能被看见。\n\n这起事件最终如何处罚，仍要等待平台和监管部门给出结论。但有一条边界无需等待：\n\n消费者交出地址，是为了让商品找到自己；商家收到地址，是为了把商品送到。谁把这段交易信息变成威胁，谁就在摧毁网络商业最基本的信任。\n\n一条差评可以让一件商品少卖几单。一次用隐私报复差评的纵容，却可能让所有评价一起失真。\n\n来源与口径说明\n\n• 封面新闻：留差评后地址被公开，多名买家遭商家“开盒”，用于核对消费者评价、商家回复内容、其他买家遭遇、陌生来电、店铺状态及监管介入情况。陌生电话与商家之间的关系目前尚未得到确认。\n• 中国人大网：《中华人民共和国电子商务法》，用于核对电子商务经营者的个人信息保护义务，以及平台建立信用评价制度、不得删除消费者评价等规定。\n• 中国人大网：《中华人民共和国个人信息保护法》，用于核对个人信息处理目的明确、直接相关和最小范围等原则。\n• 市场监管总局：《网络交易平台规则监督管理办法》，用于核对平台有关评论信息安全、个人信息处理规则及防范违法信息传播的责任。\n• 中国经济网：网络餐饮评价失真与差评骚扰调查，用于核对邵阳市消保委45211份有效问卷及差评骚扰、消费者依赖评价等数据。\n\n本文依据截至2026年8月26日公开信息创作。涉事店铺是否构成违法、平台应承担何种具体责任以及最终处理结果，仍以监管调查、平台正式说明或司法认定为准。",
+   "impact": "",
+   "publish_time": "2026-08-26T15:10:20",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787728017316-%E4%B8%80%E6%9D%A1%E5%B7%AE%E8%AF%84%E6%8D%A2%E6%9D%A5%E5%9C%B0%E5%9D%80%E8%A2%AB%E6%81%B6%E6%84%8F%E6%9B%9D%E5%85%89.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22266,
+   "title": "国家明确长护险居家、机构支付方式：3.2亿参保人保障加速落地",
+   "summary": "【一句话判断】国家医保局明确长护险居家按小时、机构按床日付费，年度最高支付限额原则上不超过当地人均可支配收入的50%；支付规则将影响3.2亿参保人的保障如何兑现。",
+   "heat": 90.0,
+   "category": "时政",
+   "story": "2026年8月26日，国家医保局发布《关于做好长期护理保险支付管理工作的指导意见》。这次最重要的变化，不是长护险又增加了多少参保人，而是国家层面开始把“护理服务怎么付钱”系统写清楚：\n\n1. 居家护理原则上按小时付费，机构护理按床日付费，社区护理根据具体服务确定付费单元； 2. 参保人员基金年度最高支付限额，原则上不超过当地上年度城乡居民人均可支配收入的50%； 3. 基金按规定支付失能等级评估和目录内护理服务费用，超出目录的服务由个人或其他渠道承担；首次评估通过以及按制度参加定期复评的评估费，原则上由基金支付。\n\n这三项规则会直接影响护理机构愿意提供什么服务、家庭需要自付多少、居家上门护理能否持续，也决定长护险基金能否把钱付到真实发生的照护上。\n\n它们影响的不是少数试点家庭。到今年7月，长护险已在100个统筹地区落地运行，参保覆盖达到3.2亿人。制度已经从“把更多人纳入保障”走到更具体的一步：怎样让参保资格变成床边的一次助浴、一顿喂饭、一次压疮护理，以及家庭照护者可以真正得到的喘息。\n\n一句话结论\n\n居家按小时、机构按床日的支付规则，决定的不只是基金怎样算账，而是3.2亿参保人在真正失能时，能否换来可获得、可持续的护理服务。\n\n2016年启动试点后，长期护理保险已经走过十年。2026年3月，中办、国办发布《关于加快建立长期护理保险制度的意见》，长护险由地方试点转入全国建制。这里需要守住一个边界：3.2亿是参保覆盖人数，不是正在享受长护险待遇的人数。\n\n一个人随当地制度参加长护险，只是进入了保障范围。真正享受待遇，还要提出申请、接受失能等级评估、符合当地待遇条件，并按照护理服务计划使用定点机构提供的服务。\n\n这正是长护险从“有没有”走向“好不好用”时必须跨过的第一道门槛。\n\n新闻背后的故事：制度落地要过三道关\n\n第一关，是失能评估能否把真正需要的人识别出来\n\n长护险保障的不是一般养老消费，而是失能人员的基本生活照料和与之密切相关的医疗护理。制度起步阶段主要从重度失能人员开始保障。\n\n因此，失能评估不是一道普通手续。它决定一个人是否能进入待遇入口，也决定有限的基金优先支持谁。\n\n8月26日的指导意见明确，失能等级评估服务费根据不同情形由基金和个人承担。原则上，参保人首次评估通过，以及按照制度要求参加定期复评的费用，由基金支付。这样设计，是为了避免随意、过度申请评估，同时保障真正符合条件的人不因必要的复评增加过多负担。\n\n风控有必要，但评估也必须经得起另一种检验：同样的身体状况，在不同地方、不同机构之间，是否会得到相近结果；评估标准、材料要求和复评期限是否让家庭看得懂；对评估结果有异议时，是否有清晰的复核入口。\n\n如果这些环节不透明，基金风险可能被控制住了，失能家庭的时间成本和申诉成本却会增加。长护险需要防止“宽进滥用”，同样需要防止真正需要帮助的人被程序挡在门外。\n\n第二关，是服务目录能否变成家门口的真实服务\n\n按照国家医保局公布的信息，符合条件的参保人可以获得20项日常生活照护服务和16项医疗护理服务。8月26日的指导意见进一步明确，纳入国家长期护理保险服务项目目录的护理费用，由基金按规定支付；超出目录的服务，由个人或其他渠道承担。长护险和基本医保原则上不能重复支付。\n\n目录解决的是“基金可以买什么”。但对家庭来说，还要继续追问：当地有没有足够的定点服务机构，有没有愿意上门的护理人员，所需要的服务是否排得上，服务时间和质量是否稳定。\n\n支付方式会直接影响这些服务如何生长。新规提出，居家护理原则上按小时付费，机构护理按床日付费，社区护理根据具体服务确定计费单元，并鼓励使用居家和社区护理服务。\n\n这不只是财务结算方式的变化。按小时为居家服务付费，意味着护理人员上门洗浴、翻身、喂食、康复护理等劳动开始有更清楚的计价单位；按床日支付机构护理，则需要防止只计算“住了几天”，却忽视每天实际获得了什么服务。\n\n对失能家庭而言，真正的保障不是目录上有一个项目，而是在需要的时候，有合格的人按规范把这项服务送到床边。\n\n第三关，是基金既不能失守，也不能让风控压过保障\n\n长护险是一项社会保险，不是没有边界的福利承诺。它必须根据筹资规模和地方承受能力确定待遇。\n\n指导意见提出，各地根据基金支撑能力、参保人基本保障需求和服务供给情况确定支付标准，并动态调整。参保人员基金年度最高支付限额，原则上不超过当地上年度城乡居民人均可支配收入的50%。\n\n这里最容易产生两个误读。\n\n第一，这个“50%”是年度最高支付限额的上限，不是每位参保人都能拿到相当于当地人均可支配收入50%的现金。\n\n第二，国家文件没有规定全国统一的具体报销比例和每月金额。各地仍要根据筹资、人口、服务价格和基金运行情况制定具体标准。\n\n为了守住基金，新规提出，对评估未按规定执行、评估通过率畸高畸低，护理服务没有按照计划实施、没有达到目录要求，以及社会力量经办不规范等情况，可以扣减费用直至拒付。长护险基金也不得交由第三方社会力量代管代拨。\n\n这些规则是为了避免虚假评估、虚假服务和基金被挪用。但监管最终不能只看表格、打卡和通过率，还要看失能人员实际得到了什么服务。服务记录应当真实完整，但不能演变为护理人员把大量时间耗在留痕上；费用审核应当严格，也不能让正常费用长期拖延，最终由机构、护理人员或家庭垫付。\n\n基金安全与待遇兑现不是两件相反的事。只有真实服务可核验、支付流程可追踪、投诉异议可处理，基金才能长期稳定地支持更多家庭。\n\n谁在承担长护险没有顺利到达的成本\n\n一人失能之后，家庭承担的远不只是护理费用。\n\n有人需要辞职或者减少工作时间照护亲属；有人必须在医院、养老机构、社区和医保窗口之间反复咨询；有人能找到护理员，却承担不起长期费用；还有的家庭即使愿意支付，也找不到适合重度失能人员的稳定服务。\n\n当专业护理没有到位，成本首先落到某一位家庭成员身上，往往意味着其减少工作时间甚至暂时退出职场。家庭照护能力继续下降后，压力又会转移到医院长期住院、养老机构、基层医疗和社会救助体系。\n\n因此，长护险的公共价值不只是“报销了一笔钱”。它把原本由一个家庭独自承担的照护风险，逐步变成由单位、个人、政府和社会共同分担的社会风险。\n\n但这种分担只有在评估、服务和支付完整衔接时才会发生。参保规模再大，如果服务进不了家庭，照护责任仍然会退回到家属身上。\n\n常识回归：普通家庭现在应当核对什么\n\n长护险正在全国推进，但不同地区仍处在不同实施阶段。普通家庭不能只凭外地经验判断自己能否享受待遇，也不能把某个城市的报销比例当成全国标准。\n\n家中出现长期失能人员时，可以先向当地医保经办机构、政务服务平台或医保服务热线核对六件事：\n\n1. 本人是否已经随当地基本医保参加长期护理保险； 2. 当地当前覆盖职工、居民，还是两类参保人； 3. 失能评估向哪里申请，需要哪些病历、身份和参保材料； 4. 当地长护险服务项目目录包括哪些生活照护和医疗护理； 5. 有哪些定点评估机构、机构护理单位和居家上门服务机构可选； 6. 当地支付比例、支付限额、复评期限，以及对评估或服务有异议时的处理渠道。\n\n需要特别提醒的是，长护险主要支付符合规定的护理服务费用，不等同于向所有老人发放现金补贴；基本医保负责疾病诊疗，长护险负责长期照护，两项制度原则上不能为同一项费用重复支付。\n\n长护险用了十年，从15个试点城市走到3.2亿人参保覆盖。今天的支付管理规则表明，制度建设已经进入更细、更难的一段：不仅要把人纳入保障，还要决定谁应当获得服务、服务怎样定价、基金怎样安全地把钱付到真实护理上。\n\n一项社会保险真正成熟的标志，不只是参保名单越来越长，而是一个普通家庭遭遇失能风险时，知道门在哪里、能够走进去，并且真的有人把服务送到身边。\n\n资料来源\n\n• 国家医疗保障局：《关于做好长期护理保险支付管理工作的指导意见》，2026年8月26日\n• 国家医疗保障局：《〈关于做好长期护理保险支付管理工作的指导意见〉政策解读》，2026年8月26日\n• 国家医疗保障局：2026年上半年例行新闻发布会实录，2026年7月9日\n• 国务院新闻办公室：介绍加快建立长期护理保险制度有关情况新闻发布会，2026年3月26日\n• 中共中央办公厅、国务院办公厅：《关于加快建立长期护理保险制度的意见》，2026年3月",
+   "impact": "",
+   "publish_time": "2026-08-26T15:10:20",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787728073992-%E5%9B%BD%E5%AE%B6%E6%98%8E%E7%A1%AE%E9%95%BF%E6%8A%A4%E9%99%A9%E5%B1%85%E5%AE%B6%E3%80%81%E6%9C%BA%E6%9E%84%E6%94%AF%E4%BB%98%E6%96%B9%E5%BC%8F.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22243,
+   "title": "13岁女孩不会编程，三四天卖出了90单：AI时代的创业起跑线变了",
+   "summary": "【一句话判断】13岁女孩借助AI编程工具，在三四天内做出虚拟陪读产品，并在一场以真实成交排名的比赛中获得近90份订单。AI让产品越来越容易做出来，发现需求、说清问题、找到客户和承担责任，正在成为创业者更重要的能力。",
+   "heat": 88.0,
+   "category": "社会",
+   "story": "13岁、刚升初二、几乎没有传统编程基础，三四天做出一个可以卖钱的AI产品。\n\n这几个信息放在一起，很像培训机构为暑期班编出的广告。可它确实发生在杭州一场AI产品比赛里。\n\n上海女孩朱书浛发现，父母没时间一直陪着自己写作业，自己偶尔也会离开座位、趴睡或者偷看手机。她于是做了一个名叫“在场”的虚拟陪读网站：上传家长照片后，屏幕里会出现一个“虚拟家长”；摄像头识别到上述三种动作，系统便发出提醒，自习结束后再生成一份简单报告。\n\n她不喜欢产品向父母“打小报告”，还特意删掉了容易激化亲子矛盾的设计，希望提醒温和一点，也给孩子留出空间。\n\n产品从构思到跑通核心功能，只用了三四天。完成这些工作的主要方式，不是逐行敲出复杂代码，而是把自己的想法说给AI编程工具，让机器帮助梳理逻辑、生成代码，再不断测试和修改。\n\n8月21日至23日，这款仍在内测的产品被带到杭州“卖客松”。比赛没有评委，也不看路演有多漂亮，50多个团队按照48小时内的真实净收入排名。后续报道显示，“在场”获得近90份订单，朱书浛拿到季军。\n\n多家媒体还报道了1.8万元收入，但目前公开材料没有披露不同订单的价格结构。赛前报道中的体验价是99元，简单乘以近90份订单并不能得到1.8万元。因此，最值得关注的硬事实不是一个尚待拆解的收入数字，而是：\n\n一个几乎不会传统编程的初中生，已经可以把自己的生活烦恼做成产品，并让陌生人为它付钱。\n\n过去先学几年代码，现在先问“谁需要它”\n\n几年前，一个初中生想独立做出这样的网站，至少要面对前端页面、后端服务、图像识别、数据库和部署等一串技术名词。即使想法很好，也可能在第一行代码前放弃。\n\n大模型和低代码平台正在拆掉这道最早出现的墙。\n\n用户可以用自然语言说明想要什么，让AI生成页面、代码和工作流程；出错后继续描述问题，让它检查和修改。开发者不再必须先熟练掌握所有技术，才有资格验证一个想法。\n\n另一位13岁的AI开发者吕思彤也是如此。她最初为了在海外游戏平台练习英语，使用低代码平台制作“青蛙外教”；后来又把生活中遇到的问题做成“小狐狸讲代码”、长文本生成思维导图等工具。她在采访中称，自己已经陆续做出约100个AI小应用。其中，长文本生成思维导图工作流已有200多人付费使用。\n\n网络上广泛传播的“百万商单”，目前仍缺少合同金额、实际回款和客户信息等公开证据，不宜当作既成事实。但百余个应用、付费用户和比赛中的真实订单，已经足以说明变化。\n\n过去，产品开发首先筛选会不会写代码；今天，它开始首先筛选另一组能力：\n\n• 能不能发现一个真实而具体的问题；\n• 能不能把模糊想法准确地告诉AI；\n• 能不能判断机器生成的东西是否真的可用；\n• 能不能找到第一批用户，并说服他们付钱。\n\nAI让产品越来越容易做出来。接下来真正拉开差距的，是知道该做什么、卖给谁，以及能不能长期把它做好。\n\n近90个订单，也不是一台电脑凭空变出来的\n\n把这个故事写成“一名普通孩子靠AI白手起家”，同样会错过一半真相。\n\n朱书浛有一台能够运行开发工具的电脑，有时间反复尝试，有机会从上海前往杭州参赛，也有愿意支持她探索的家庭。相关报道显示，她的母亲还通过短视频和直播帮助推广产品，为订单带来重要流量。\n\n这些资源并不削弱孩子自身的创造力，却说明AI时代的创业起跑线正在发生变化。\n\n过去，家庭之间的数字差距可能表现为有没有电脑、会不会上网；接下来，它还会表现为有没有稳定的设备和模型服务，父母是否理解AI，孩子能不能接触真实问题、比赛、社区和用户，身边有没有人帮助处理传播、合同、付款、隐私和售后。\n\n技术门槛下降以后，资源门槛不会自动消失。它甚至可能因为成功故事的快速传播而变得更加隐蔽：人们只看到13岁的年纪和近90个订单，却看不到产品背后的家庭支持、平台流量和城市资源。\n\nAI可能让更多孩子获得创造工具，也可能让最先掌握工具和渠道的家庭更快拉开距离。普及AI教育的意义，不是多培养几个被镜头追逐的“少年老板”，而是让普通孩子也有机会把一个想法真正做出来。\n\n别把AI创造力再做成一门昂贵补习班\n\n这样的新闻一旦走红，最容易出现的下一幕已经不难想象。\n\n培训机构把“13岁接单”印上海报，AI研学营承诺几天做出产品，家长开始追问自己的孩子为什么只会用AI查题、写作文。原本从兴趣出发的探索，很快又被改造成证书、比赛、融资和收入竞赛。\n\n类似包装已经出现。部分AI研学项目打出“8岁当产品经理”“6天创办一家AI公司”等口号，价格达到上万元。孩子还没来得及享受创造的乐趣，成年人已经准备把新工具变成新一轮教育焦虑。\n\n但朱书浛和吕思彤真正值得学习的，恰好不是赚钱速度。\n\n她们都是从自己的具体烦恼出发：没人陪写作业、英语缺少练习、编程课听不懂、长文章整理太麻烦。AI让她们跳过一部分技术准备，把“我希望有这样一个东西”迅速变成“我先做一个试试”。\n\n这比背诵多少条提示词重要，也比在课堂里照着教程复制一个标准应用更接近真正的AI能力。\n\n学校需要教的，不只是怎样调用模型，还包括怎样提出问题、核验结果、保护数据、尊重版权、了解产品责任。家庭需要提供的，也不是立刻替孩子注册公司、追逐流量，而是时间、设备、试错空间和必要的安全边界。\n\n“在场”需要调用摄像头识别未成年人的行为。开发者称画面识别后会立即删除、不保存视频，但一个内测产品真正进入家庭后，仍需要更完整地回答数据传到哪里、由谁处理、是否留痕、如何退出。会做出功能只是第一步，能够对用户负责才是产品。\n\n下一代创业者，可能先学会提需求，再学会写代码\n\n13岁孩子做出AI应用，并不意味着程序员已经失去价值。真正复杂、稳定并且大规模运行的产品，仍然需要工程、安全、运营和行业知识。\n\n变化首先发生在产品诞生之前：过去只有少数专业人士能够把想法做成可点击、可试用的原型，现在越来越多普通人也能动手验证自己的创意。\n\n这会释放大量过去没有机会落地的小需求。教师可以为自己的课堂做工具，小店主可以改造库存流程，医生、律师和工厂师傅可以把行业经验变成应用。许多人未必因此成立公司，却可能第一次不必排队等待技术团队，便能亲手检验自己的判断。\n\n与此同时，市场也会迅速塞满粗糙、雷同甚至不负责任的AI产品。当“做出来”不再稀缺，真正昂贵的东西将变成需求判断、用户信任、持续服务和对错误负责的能力。\n\n近90个订单还不能证明一家公司的未来，却足以确认一个变化：不会传统编程的孩子，也能把产品交给真实用户检验。\n\nAI让更多人获得了创业的入场券。接下来真正拉开差距的，是谁更懂生活，谁能把问题说清楚，谁能找到用户，谁又愿意为产品造成的结果负责。\n\n来源与口径说明\n\n• 杭州网、杭州通客户端：13岁女孩做出“陪写作业神器”，杭州这场比赛不看评委看买家，用于核对朱书浛年龄、产品功能、开发时间、内测状态、赛前定价及比赛规则。\n• 深圳新闻网：13岁女孩三天获得近90份订单，用于核对比赛结果、近90份订单及媒体报道的收入数字。订单价格构成和收入明细尚未公开，本文未将1.8万元作为核心论据。\n• 新榜：13岁做了100多个AI应用是什么体验，用于核对吕思彤开发百余个小应用、主要作品及长文本工作流已有200多人付费等信息。\n• 中国新闻网、中国新闻周刊：AI研学营“注水”现象调查，用于核对部分AI研学项目以“8岁当产品经理”“6天创办一家AI公司”等话术招生及相关收费情况。\n\n本文依据截至2026年8月26日公开信息创作。“百万商单”缺少可公开复核的合同、付款及客户资料，未作为已确认事实采用；“在场”仍处于内测阶段，其数据处理方式来自开发者介绍，尚不等于已经完成独立安全与隐私审查。",
+   "impact": "",
+   "publish_time": "2026-08-26T15:10:20",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787728000041-AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%88%9B%E4%B8%9A%E8%B5%B7%E8%B7%91%E7%BA%BF%E5%8F%98%E4%BA%86.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22268,
+   "title": "菲律宾首例远程手术在上海操刀：国产手术机器人开始跨境临床",
+   "summary": "【一句话判断】菲律宾医生在上海为马尼拉患者完成该国首例远程手术，国产手术机器人出海由设备销售迈向准入、装机、临床和远程协作；真正的商业考题是装机能否持续转化为手术量、耗材与服务收入。",
+   "heat": 86.0,
+   "category": "科技",
+   "story": "手术台在菲律宾奎松市，操控台在上海。\n\n8月25日，两名菲律宾外科医生在上海操作手术机器人，为菲律宾泌尿外科中心一名53岁患者完成手术。菲律宾本地医疗团队全程在场，准备随时接管。这是菲律宾首例远程手术。\n\n如果只把它理解为一次跨国“隔空操刀”，新闻价值很快就会消失。更值得注意的是，中国手术机器人正在输出一套比硬件更复杂的能力：设备先进入海外医院，再获得当地准入、培训医生、完成常规临床，最后接入跨境专家协作。\n\n国产手术机器人出海正在从“卖出一台机器”，推进到“连接一张临床网络”。但网络能否成为生意，还要看装机之后能否形成稳定的手术量、耗材与服务收入。\n\n菲律宾这一刀，跨过了设备、准入和临床三道门\n\n新华社的报道确认了远程手术的地点、医生和患者信息，但没有直接写出机器人品牌。结合菲律宾泌尿外科中心此前公开信息和菲律宾腔内泌尿外科学会记录，涉事医院在2025年引进并临床启用了中国微创机器人旗下的图迈腔镜手术机器人，当年3月31日完成首例图迈辅助前列腺根治术。因此，公开证据指向图迈平台，但“新华社点名图迈”并不准确。\n\n这个时间顺序很重要。\n\n菲律宾泌尿外科中心不是在8月25日第一次接触机器人，而是已经用了一年多：先引进设备，完成本地手术，再训练医生，最后尝试跨境远程操作。远程手术不是一次孤立演示，而是既有装机和临床能力的一次升级。\n\n现场仍有本地医疗团队待命，也说明远程手术并不是“医生不用到场”。患者筛选、麻醉、摆位、器械更换、术中处置和突发情况下的接管，都离不开当地医院。跨境网络增加了远端专家能力，却没有取消本地医疗责任。\n\n这也是手术机器人与普通消费电子出海的根本差别：一台机器运抵海外，只能算物流完成；获得医疗器械许可、医院愿意采购、医生能够使用、临床团队敢于承担责任，才算真正进入市场。\n\n图迈的海外扩张，已经从订单走到装机\n\n微创机器人2025年获得中国国家药监局远程手术功能批准。公司披露，该系统可以接入5G、宽带、专线光纤和卫星通信。2026年6月，远程应用又获得欧盟CE认证，覆盖泌尿、普外、胸外和妇科等科室。\n\n公司披露的订单和装机数字也在快速增加，但这些数字必须分层阅读。\n\n时间公司披露的进展可以说明什么仍不能说明什么2024年末图迈累计订单超过60台；公司全产品订单超过100台海外商业化开始形成批量全产品订单不能全部归入图迈，订单也不等于安装和收入确认2026年2月全球订单超过200台，装机约130台，进入近50个国家和地区交付网络在扩大各地手术量和装机利用率尚不透明2026年6月全球商业订单超过300台；公司称已在60多个国家和地区完成安装布局第三个百台订单用时明显缩短数据为公司初步内部统计，未经审计2026年6月底公司公告标题显示全球商业装机超过200台订单正在转化为医院端设备仍需观察每台设备的实际开机和耗材消耗2026年8月菲律宾完成该国首例远程手术海外装机开始承接跨境临床协作单次成功不能代表大规模、长期运营已经成熟\n\n这条链条里，订单、装机、手术和收入不是同一个数字。\n\n订单代表客户意愿；装机说明设备进入医院；手术量反映设备利用率；只有设备销售、耗材更换、维修服务和培训等收入持续兑现，商业模式才真正跑通。把300台订单直接写成300台销量，或者把200台装机直接推导为高利润，都会高估产业化进度。\n\n公司7月发布的正面盈利预告称，预计2026年上半年收入同比增长200%至230%，净利润为2800万至4000万元，而上年同期亏损约1.15亿元。这是公司上市以来首次预告半年度盈利，但仍属于未经审计的业绩预告。它说明订单和交付开始进入报表，却还需要中期报告核对海外收入、毛利率和经营现金流。\n\n真正值钱的不是遥控距离，而是每台机器做多少手术\n\n手术机器人是一门“设备入口加经常性收入”的生意。\n\n全球龙头直觉外科2026年二季度拥有11710台达芬奇手术系统装机，季度手术量同比增长15%；器械与附件收入达到17.3亿美元，同比增长18%。公司此前披露，器械、附件、服务和租赁等经常性收入约占总收入86%。直觉外科没有参与菲律宾这次手术，但它提供了一个成熟商业模式的参照：装机是入口，手术量决定耗材和服务收入的厚度。\n\n远程能力可能改变这套模式的效率。\n\n对于缺少专科医生的地区，远程协作可以减少专家跨城、跨国出差，让同一位专家覆盖更多医院；对设备厂商而言，它也可能提高低利用率医院的开机次数，并把培训、术式支持、运维和数据服务嵌入医院网络。微创机器人此前还披露了英国医生远程连接直布罗陀患者、泰国跨境远程泌尿手术，以及巴西建设远程手术网络等案例。若这些案例从单次示范转为稳定排期，商业价值将不再只来自一次性设备销售。\n\n不过，目前公开信息还不足以回答三个关键问题：海外每台设备一年完成多少例手术，耗材与服务在海外收入中占多大比例，远程功能是否会带来单独付费。所谓“跨境临床网络”现阶段是产业方向，不是已经被财务数据完全证明的结论。\n\n观察对象与本次事件的关系重点跟踪不应怎样理解微创机器人（02252.HK）图迈制造商，直接相关海外装机、单机手术量、耗材与服务收入、现金流公司订单和初步统计不等于已审计收入微创医疗（00853.HK）控股股东及医疗器械生态，间接相关持股关系、渠道协同及合并报表影响不能把子公司的全部业务重复计算到母公司直觉外科（NASDAQ：ISRG）全球商业模式参照，与事件无直接关系装机、手术量及经常性收入不能把达芬奇的数据当作国产设备现状其他国产手术机器人企业行业准入和医院采购的同类观察样本具体产品注册、装机和临床量不同术式、技术路线不能因为“机器人”三个字一并受益通信运营商与网络设备商远程手术需要稳定网络，但本次供应商未披露专线、冗余和医院级服务合同不能据此给任意5G概念公司分配订单\n\n跨境临床网络还要补齐四块基础设施\n\n第一块是本地医疗能力。远端医生可以操控器械，患者身边仍需要有能够完成麻醉、护理、急救和必要时转为常规手术的团队。没有合格的本地团队，远程连接本身没有临床意义。\n\n第二块是医生资质和责任边界。跨国操作涉及远端医生能否在患者所在地合法执业，医院、医生、设备厂商和网络服务商如何划分责任，以及发生并发症时由谁处理。一次获准的手术，不等于一个国家已经建立常态化制度。\n\n第三块是网络与设备冗余。平均时延只是一个指标，更关键的是抖动、丢包、断线恢复和备用链路。医院需要把通信故障当作医疗风险管理，而不是普通视频会议故障。\n\n第四块是数据和网络安全。手术视频、患者信息、设备日志可能跨境传输，各国对医疗数据保存、跨境流动和网络安全的规定不同。远程能力扩展得越快，合规成本越不能被省略。\n\n这四块基础设施决定了手术机器人出海的竞争，不会只发生在机械臂精度和价格上。谁能把监管注册、医生培训、临床支持、医院运维、网络方案和责任体系一起交付，谁才更可能形成真正的跨境临床网络。\n\n下一枚钉子，要看海外装机能否变成稳定手术量\n\n菲律宾首例远程手术证明了两件事：国产腔镜机器人已经能够进入海外医院的真实临床流程；中国的设备、医生培训和远程协作能力开始以系统形式向外延伸。\n\n它还没有证明，这张网络已经形成成熟利润。\n\n未来6至12个月，最值得跟踪的不是又跨越了多少公里，而是四组更朴素的数字：300多台订单中有多少完成安装，200多台装机中有多少持续开展手术，海外耗材与服务收入增长多快，以及更多国家是否给远程功能明确准入。\n\n当海外医院不再只举行“首例”，而是开始公布月度手术量、复购耗材和常态化排期时，国产手术机器人出海才算从设备交付真正迈进临床网络经营。\n\n信息来源与口径说明\n\n1. 新华社英文稿：菲律宾首例远程手术，2026年8月25日\n2. 菲律宾泌尿外科中心官方网站\n3. 菲律宾腔内泌尿外科学会：图迈机器人在菲律宾泌尿外科中心投入临床\n4. 微创机器人：图迈远程手术功能获国家药监局批准\n5. 微创机器人港交所公告：全球商业订单超过300台，2026年6月16日\n6. 微创机器人港交所公告：图迈远程应用获欧盟CE认证，2026年6月22日\n7. 微创机器人港交所公告：全球订单及装机进展，2026年2月12日\n8. 微创机器人2025年度业绩演示材料\n9. 微创机器人：2026年上半年正面盈利预告说明\n10. 微创机器人：英国—直布罗陀远程手术案例\n11. 微创机器人：泰国跨境远程手术案例\n12. 直觉外科2026年第二季度业绩\n13. 直觉外科2026年第一季度报告\n\n事实层级说明：手术地点、人员和菲律宾首例性质来自新华社；涉事医院与图迈的关系由医院和当地专业协会此前公开信息交叉确认，新华社简讯本身没有点名设备型号；订单、装机、远程手术数量和盈利预测均来自公司公告或公司新闻，其中部分为内部初步统计或未经审计数据。关于“跨境临床网络”和经常性收入的讨论属于基于公开材料的产业判断。文中公司均为产业观察样本，不构成交易建议。",
+   "impact": "",
+   "publish_time": "2026-08-26T15:10:20",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787727951538-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%A6%96%E4%BE%8B%E8%BF%9C%E7%A8%8B%E6%89%8B%E6%9C%AF%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%93%8D%E5%88%80.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22176,
+   "title": "电动自行车新国标征意见，最高时速拟调至20公里",
+   "summary": "电动自行车新国标征求意见，拟将最高设计车速由25公里每小时调整为20公里每小时。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "据相关报道，电动自行车强制性国家标准修订正在征求意见，最高设计车速拟调整为20公里/小时。\n\n现行标准中，电动自行车最高设计车速为25公里/小时。此次拟调整引发消费者、商家和城市交通管理者讨论，核心在安全、通勤效率和监管执行之间。\n\n近年来，电动自行车保有量持续增长，超速、非法改装、占道行驶、充电安全等问题频发。监管部门希望通过标准约束车辆性能，降低道路事故风险。\n\n但也有用户担心，限速过低会延长通勤时间，并可能促使部分人继续私自解限速或购买违规车辆。新标准最终内容仍以正式发布为准。",
+   "impact": "电动自行车治理不能只靠调低速度，还要同步解决车道供给、执法一致性、外卖配送压力和违规改装链条。\n\n如果标准落地，生产企业、销售门店和存量车辆管理都需要过渡安排，否则容易形成新旧车混用、执法争议和消费者权益问题。",
+   "publish_time": "2026-08-25T23:45:51",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787672578231-%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%96%B0%E5%9B%BD%E6%A0%87%E5%BE%81%E6%84%8F%E8%A7%81%2C%E6%9C%80%E9%AB%98%E6%97%B6%E9%80%9F%E6%8B%9F%E8%B0%83%E8%87%B320%E5%85%AC%E9%87%8Cc.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22241,
+   "title": "AI伪造车祸视频形成造谣流水线：9000多个账号背后是什么生意",
+   "summary": "小米8月25日通报多起利用AI技术制造涉企谣言案件：西安一案涉及3家MCN机构和14名人员，晋中一案则牵出9000多个关联账号、50多家MCN机构，3名嫌疑人非法获利超过50万元。AI造谣正在从个人博眼球升级为灰色产业链。",
+   "heat": 86.0,
+   "category": "社会",
+   "story": "过去制造一段“汽车发生严重事故”的假视频，需要找素材、剪辑、配音。现在使用生成式AI，几分钟就能制造碰撞现场、燃烧画面、所谓车主讲述，甚至批量改变车型、地点和人物。\n\n小米公布的案件包括：河南商丘、广西河池两起案件被公安部列为典型案例；上海警方侦破一起针对多家车企的网络水军案；西安案件涉及3家MCN机构、14名人员，其中4人被刑拘；晋中案件关联账号9000多个、MCN机构50多家，3名嫌疑人非法获利50多万元。小米通报相关内容\n\n相关案件性质和最终责任仍以警方、检察机关及法院认定为准。\n\n这条灰色产业链通常分成几步：AI批量生成冲突性内容，账号矩阵集中分发，通过情绪化标题获得流量，再利用广告、带货、商业攻击、有偿删帖或者账号交易获利。\n\n汽车是特别容易受到这种模式攻击的行业。一场真实车祸往往需要等待警方和企业调查，虚假视频却可以在调查结果出来前迅速传播；而车辆安全直接关系生命，消费者很容易因为恐惧转发。\n\n网信部门公布的另一组数据可以看出问题规模。2026年4月启动AI应用乱象专项整治后，第一阶段累计处置违规AI产品1.4万余款，清理违法违规信息600余万条，处置账号2.6万余个。中央网信办数据\n\nAI没有凭空创造谣言，却把制造谣言的成本压低、产量放大，还让同一套模板可以迅速更换品牌和事故地点。\n\n但治理同样需要保持边界。企业有权反击捏造的事故和虚假数据，真实车主投诉、媒体调查和合理产品批评却不能因此被统称为“黑公关”。区分两者，仍需回到事故地点、警方记录、车辆数据、原始视频和完整调查。",
+   "impact": "",
+   "publish_time": "2026-08-26T12:48:13",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787717741156-AI%E4%BC%AA%E9%80%A0%E8%BD%A6%E7%A5%B8%E8%A7%86%E9%A2%91%E5%BD%A2%E6%88%90%E9%80%A0%E8%B0%A3%E6%B5%81%E6%B0%B4%E7%BA%BF.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22259,
+   "title": "台湾岛内绿媒节目称“北京没有冰箱”，国台办：荒诞说法会成笑柄",
+   "summary": "国台办回应岛内节目所谓“北京没有冰箱”说法，称脱离事实的言论只会沦为笑柄。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "8月26日上午，国台办举行例行新闻发布会，回应岛内绿媒节目关于“北京没有冰箱”的说法。\n\n国台办表示，这种脱离事实的言论只会沦为笑柄。发言人批评民进党当局禁限、阻挠两岸交流交往，在岛内蓄意制造“信息茧房”。\n\n国台办称，有关做法企图封锁台湾民众了解大陆，用荒诞说法误导岛内舆论。但事实生活经验很容易戳破类似言论。\n\n近期，两岸民间交流、岛内媒体叙事和网络舆论多次围绕大陆真实生活状况发生争论。大陆方面持续强调，应让更多台湾民众亲自来大陆走走看看。",
+   "impact": "“北京没冰箱”这类说法容易在社交平台引发嘲讽，但背后反映的是信息隔绝和政治叙事对普通认知的影响。\n\n对两岸交流而言，真实接触比隔空宣传更能消除误解，后续民间往来能否持续恢复仍是关键。",
+   "publish_time": "2026-08-26T15:05:02",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1787726349893-15.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22185,
+   "title": "新加坡设重奖鼓励生育：每个孩子相关补贴最高约5.5万美元",
+   "summary": "新加坡加码鼓励生育政策，每个孩子相关补贴最高约5.5万美元。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "据媒体报道，新加坡推出更大力度鼓励生育措施，每个孩子相关补贴最高约5.5万美元。\n\n新加坡长期面临低生育率和人口老龄化压力，政府此前已通过育儿津贴、税收优惠、托育支持和住房政策鼓励家庭生育。\n\n此次“重奖生育”意味着政府继续把生育问题视为国家长期竞争力和社会结构议题。补贴覆盖现金、托育、教育等多个方面，意在降低家庭养育成本。\n\n不过，许多低生育率经济体经验表明，现金补贴只能缓解部分压力，住房、教育竞争、女性就业和育儿时间分配才是更深层因素。",
+   "impact": "新加坡加码补贴说明，单靠口号无法扭转低生育趋势，政策必须实实在在降低家庭成本。\n\n但补贴能否转化为生育意愿，还要看年轻人对职业安全、居住空间和公共托育服务的信心。",
+   "publish_time": "2026-08-25T23:45:51",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787672704035-%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%87%8D%E5%A5%96%E7%94%9F%E8%82%B2%EF%BC%8C%E6%AF%8F%E5%90%8D%E5%AD%A9%E5%AD%90%E8%A1%A5%E8%B4%B4%E7%BA%A65.5%E4%B8%87%E7%BE%8E%E5%85%83.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22204,
+   "title": "天工机器人百米跑出8.86秒，再刷新运动会纪录",
+   "summary": "第二届世界人形机器人运动会大型组100米复赛中，天工机器人跑出8.86秒，再次刷新纪录。",
+   "heat": 86.0,
+   "category": "科技",
+   "story": "据央视新闻消息，8月25日，第二届世界人形机器人运动会大型组100米复赛第一组成绩再次刷新纪录。\n\n来自北京人形机器人创新中心的天工机器人跑出8.86秒最好成绩。此前，它曾在开幕式上跑出9.39秒，此后预赛成绩也继续提升。\n\n本届人形机器人运动会在北京国家速滑馆举行，除田径项目外，还设置拳击、足球、综合五项和多类场景赛，检验机器人运动控制、平衡、感知和任务执行能力。\n\n机器人百米成绩不断提升，更多体现的是平台稳定性和运动控制进步，并不等同于完全按照人类田径规则比较。",
+   "impact": "人形机器人比赛正在从表演走向工程能力测试，速度、稳定性和跌倒恢复能力都能反映技术成熟度。\n\n不过真正商业化还要看机器人在工业、应急、服务等场景中的连续作业能力，而不只是短距离冲刺成绩。",
+   "publish_time": "2026-08-25T23:33:58",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787671770052-%E5%A4%A9%E5%B7%A5%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E8%B7%91%E5%87%BA8.86%E7%A7%92.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22237,
+   "title": "AI和康复机器人进入社区：残疾人需要的是长期用得起",
+   "summary": "8月25日是第十个全国残疾预防日。成都部分社区卫生服务中心引入下肢康复机器人和数字互动系统，广东使用AI无障碍系统帮助听障人士开展语言训练。技术进入基层减少了部分患者长途就医负担，但设备覆盖、专业人员、收费标准和长期疗效仍决定项目能否真正普及。",
+   "heat": 85.0,
+   "category": "时政",
+   "story": "康复技术的价值，往往不在于机器人能完成多复杂的动作，而在于患者能不能长期、规律地使用。\n\n央视报道的成都案例中，一名脑梗后左侧肢体瘫痪的患者，此前前往专业康复机构需要花费大半天；社区卫生服务中心引入康复机器人后，她可以在家门口接受步态训练。央视报道\n\n康复机器人能够重复执行动作、记录训练强度和步态变化，减少治疗师部分机械性工作；AI语音和视觉系统则可以辅助听障、视障人士沟通和训练。\n\n但设备不能替代康复治疗师。治疗师仍需判断患者是否适合训练、如何调整方案，以及是否出现疼痛、痉挛、疲劳或其他风险。\n\n从全国情况看，康复服务需求远不只是少数示范项目。中国残联发布的2025年统计公报显示，全国有795.9万残疾人得到基本康复服务；全国已建成残疾人康复设施1258个，总建设面积713.3万平方米。中国残联统计公报\n\n康复最怕的不是设备不够先进，而是完成展示、验收和报道之后，患者因为费用、路程或缺少治疗师，再也用不上。\n\n评价这类项目应当看五个指标：覆盖多少社区、每次收费多少、医保能否支付、设备利用率多高、患者经过数月训练后功能是否真正改善。",
+   "impact": "",
+   "publish_time": "2026-08-26T12:48:13",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787718653040-AI%E5%92%8C%E5%BA%B7%E5%A4%8D%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%85%A5%E7%A4%BE%E5%8C%BA7.webp",
+   "source": "日知录"
+  }
+ ],
+ "xwlb_raw": [
+  {
+   "id": "xwlb-0",
+   "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示强调 千方百计搜救失联人员 加强各类风险隐患排查整治 确保人民群众生命财产安全 李强作出批示",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-1",
+   "title": "习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-2",
+   "title": "李强在黑龙江、吉林调研",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-3",
+   "title": "赵乐际同全国人大常委会会议列席代表座谈",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-4",
+   "title": "十四届全国人大常委会第二十四次会议举行联组会议",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-5",
+   "title": "赵乐际会见乌兹别克斯坦总统办公厅主任",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-6",
+   "title": "全国政协十四届常委会第十八次会议举行全体会议 围绕“加大保障和改善民生力度，扎实推进全体人民共同富裕”进行大会发言 王沪宁出席",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-7",
+   "title": "全国政协十四届常委会第十八次会议闭幕 王沪宁主持并讲话",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-8",
+   "title": "丁薛祥在安徽合肥出席财政科学管理试点座谈会",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-9",
+   "title": "泥石流灾害造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联 各方加紧抢险救援",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-10",
+   "title": "【“十五五”开好局起好步】融合升级 新型工业化提速",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-11",
+   "title": "北斗系统重点行业综合应用渗透率约90%",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-12",
+   "title": "国务院新闻办举行“新征程上的奋斗者”中外记者见面会",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-13",
+   "title": "国内联播快讯",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-14",
+   "title": "“十五五”国家电网跨省区输电能力将达到5亿千瓦",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-15",
+   "title": "我国进一步完善家庭医生签约服务",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-16",
+   "title": "澳琴跨境陆空联运业务今天正式开通",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-17",
+   "title": "阿曼外交大臣访问伊朗 伊方公布霍尔木兹海峡临时航线安排 美媒称美暂不对伊朗发动新打击 重点转向经济施压",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-18",
+   "title": "加拿大宣布对美加征等额反制关税 涉700多种商品 美总统称考虑将安大略湖更名为美国湖 加官员称捍卫加方一切利益",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-19",
+   "title": "国际联播快讯",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-20",
+   "title": "俄总统新闻秘书证实俄美情报部门接触",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-21",
+   "title": "以拆除联合国近东救济工程处设施遭谴责",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-22",
+   "title": "西班牙推进移民和庇护制度改革应对危机",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "xwlb-23",
+   "title": "美国得州燃起林火蔓延迅速 居民疏散",
+   "source": "新闻联播",
+   "date": "2026-08-26"
+  }
+ ]
 }

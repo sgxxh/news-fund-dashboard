@@ -1,957 +1,333 @@
 {
  "date": "2026-08-27",
- "generated_at": "2026-08-27T07:20:28",
+ "generated_at": "2026-08-28T09:34:21",
  "session": "auto",
  "digest_title": "8月27日日知录-尼泊尔山洪已找到162具遗体，仍有数百游客失联",
  "funds": {
-  "ok": true,
-  "reason": "",
-  "summary": {
-   "hold_cost": 5923.88,
-   "today_income": 93.0,
-   "today_income_rate": 1.59,
-   "total_money": 5949.45,
-   "total_earn": 25.57,
-   "count": 8,
-   "total_earn_pct": 0.43
-  },
-  "holdings": [
-   {
-    "account": "默认",
-    "fund_id": "23918",
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 1537.92,
-    "earn": -12.05,
-    "earn_pct": -0.78,
-    "share": 677.2,
-    "cost": 2.2888,
-    "category": 3,
-    "nav": 2.271,
-    "day_pct": 0.02,
-    "nav_date": "2026-08-27",
-    "est_pct": 0.02,
-    "est_date": "2026-08-26",
-    "year_pct": 10.83,
-    "sector": "纳斯达克100",
-    "sector_pct": 1.05,
-    "market_type": "us",
-    "weight": 25.85
-   },
-   {
-    "account": "默认",
-    "fund_id": "25645",
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "money": 1300.48,
-    "earn": 17.38,
-    "earn_pct": 1.35,
-    "share": 1022.47,
-    "cost": 1.2549,
-    "category": 3,
-    "nav": 1.2719,
-    "day_pct": 1.14,
-    "nav_date": "2026-08-27",
-    "est_pct": 1.14,
-    "est_date": "2026-08-27",
-    "year_pct": 2.16,
-    "sector": "中证A500",
-    "sector_pct": 1.15,
-    "market_type": "ch",
-    "weight": 21.86
-   },
-   {
-    "account": "默认",
-    "fund_id": "138",
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "money": 981.24,
-    "earn": -18.76,
-    "earn_pct": -1.88,
-    "share": 67.49,
-    "cost": 14.817,
-    "category": 1,
-    "nav": 14.539,
-    "day_pct": 3.81,
-    "nav_date": "2026-08-27",
-    "est_pct": 3.81,
-    "est_date": "2026-08-27",
-    "year_pct": 70.25,
-    "sector": "PCB",
-    "sector_pct": 4.35,
-    "market_type": "ch",
-    "weight": 16.49
-   },
-   {
-    "account": "默认",
-    "fund_id": "20638",
-    "code": "017811",
-    "name": "东方人工智能主题混合C",
-    "money": 821.31,
-    "earn": 21.31,
-    "earn_pct": 2.66,
-    "share": 236.88,
-    "cost": 3.37723742,
-    "category": 1,
-    "nav": 3.4672,
-    "day_pct": 2.84,
-    "nav_date": "2026-08-27",
-    "est_pct": 2.84,
-    "est_date": "2026-08-27",
-    "year_pct": 109.9,
-    "sector": "半导体材料设备",
-    "sector_pct": 3.22,
-    "market_type": "ch",
-    "weight": 13.8
-   },
-   {
-    "account": "默认",
-    "fund_id": "23655",
-    "code": "020640",
-    "name": "广发半导体材料设备主题ETF联接C",
-    "money": 503.53,
-    "earn": 3.53,
-    "earn_pct": 0.71,
-    "share": 148.78,
-    "cost": 3.36066676,
-    "category": 3,
-    "nav": 3.3844,
-    "day_pct": 3.31,
-    "nav_date": "2026-08-27",
-    "est_pct": 3.31,
-    "est_date": "2026-08-27",
-    "year_pct": 80.05,
-    "sector": "半导体材料",
-    "sector_pct": 3.47,
-    "market_type": "ch",
-    "weight": 8.46
-   },
-   {
-    "account": "默认",
-    "fund_id": "22504",
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "money": 317.56,
-    "earn": 17.56,
-    "earn_pct": 5.85,
-    "share": 222.85,
-    "cost": 1.34619699,
-    "category": 6,
-    "nav": 1.425,
-    "day_pct": 0.97,
-    "nav_date": "2026-08-27",
-    "est_pct": 0.97,
-    "est_date": "2026-08-27",
-    "year_pct": 12.49,
-    "sector": "港股创新药",
-    "sector_pct": 0.99,
-    "market_type": "hk",
-    "weight": 5.34
-   },
-   {
-    "account": "默认",
-    "fund_id": "5773",
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波动ETF联接A",
-    "money": 245.4,
-    "earn": -3.86,
-    "earn_pct": -1.55,
-    "share": 150.67,
-    "cost": 1.6542938,
-    "category": 3,
-    "nav": 1.6287,
-    "day_pct": -0.55,
-    "nav_date": "2026-08-27",
-    "est_pct": -0.55,
-    "est_date": "2026-08-27",
-    "year_pct": 1.28,
-    "sector": "中证红利低波",
-    "sector_pct": -0.69,
-    "market_type": "ch",
-    "weight": 4.12
-   },
-   {
-    "account": "默认",
-    "fund_id": "11353",
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "money": 242.01,
-    "earn": 0.46,
-    "earn_pct": 0.19,
-    "share": 109.78,
-    "cost": 2.20030971,
-    "category": 2,
-    "nav": 2.2045,
-    "day_pct": 0.64,
-    "nav_date": "2026-08-27",
-    "est_pct": 0.64,
-    "est_date": "2026-08-27",
-    "year_pct": 5.77,
-    "sector": "混债",
-    "sector_pct": 0.3,
-    "market_type": "ch",
-    "weight": 4.07
-   }
-  ],
+  "ok": false,
+  "reason": "HISTORICAL_NO_SNAPSHOT",
+  "summary": {},
+  "holdings": [],
   "index": []
  },
  "analysis": {
   "keywords": [
    {
-    "word": "网络",
-    "count": 38,
+    "word": "商品",
+    "count": 43,
     "weight": 1.0
    },
    {
+    "word": "网络",
+    "count": 39,
+    "weight": 0.907
+   },
+   {
+    "word": "风险",
+    "count": 37,
+    "weight": 0.86
+   },
+   {
+    "word": "贷款",
+    "count": 35,
+    "weight": 0.814
+   },
+   {
+    "word": "消费者",
+    "count": 34,
+    "weight": 0.791
+   },
+   {
+    "word": "人民币",
+    "count": 34,
+    "weight": 0.791
+   },
+   {
     "word": "机器人",
+    "count": 34,
+    "weight": 0.791
+   },
+   {
+    "word": "平台",
     "count": 33,
-    "weight": 0.868
+    "weight": 0.767
+   },
+   {
+    "word": "通信",
+    "count": 32,
+    "weight": 0.744
+   },
+   {
+    "word": "成本",
+    "count": 32,
+    "weight": 0.744
    },
    {
     "word": "水泥",
     "count": 31,
-    "weight": 0.816
+    "weight": 0.721
    },
    {
-    "word": "平台",
+    "word": "设备",
     "count": 30,
-    "weight": 0.789
+    "weight": 0.698
    },
    {
     "word": "模型",
     "count": 30,
-    "weight": 0.789
-   },
-   {
-    "word": "风险",
-    "count": 29,
-    "weight": 0.763
+    "weight": 0.698
    },
    {
     "word": "能力",
     "count": 27,
-    "weight": 0.711
+    "weight": 0.628
    },
    {
-    "word": "通信",
+    "word": "宠物",
     "count": 27,
-    "weight": 0.711
+    "weight": 0.628
    },
    {
-    "word": "设备",
-    "count": 25,
-    "weight": 0.658
+    "word": "规则",
+    "count": 26,
+    "weight": 0.605
    },
    {
-    "word": "成本",
+    "word": "理由",
     "count": 25,
-    "weight": 0.658
+    "weight": 0.581
+   },
+   {
+    "word": "小时",
+    "count": 24,
+    "weight": 0.558
+   },
+   {
+    "word": "普通",
+    "count": 23,
+    "weight": 0.535
+   },
+   {
+    "word": "人员",
+    "count": 22,
+    "weight": 0.512
+   },
+   {
+    "word": "流通",
+    "count": 22,
+    "weight": 0.512
    },
    {
     "word": "任务",
     "count": 21,
-    "weight": 0.553
+    "weight": 0.488
    },
    {
     "word": "智能",
     "count": 21,
-    "weight": 0.553
-   },
-   {
-    "word": "小时",
-    "count": 21,
-    "weight": 0.553
+    "weight": 0.488
    },
    {
     "word": "城市",
+    "count": 21,
+    "weight": 0.488
+   },
+   {
+    "word": "调查",
     "count": 20,
-    "weight": 0.526
+    "weight": 0.465
+   },
+   {
+    "word": "顾客",
+    "count": 20,
+    "weight": 0.465
+   },
+   {
+    "word": "灾害",
+    "count": 19,
+    "weight": 0.442
+   },
+   {
+    "word": "数字",
+    "count": 19,
+    "weight": 0.442
+   },
+   {
+    "word": "变化",
+    "count": 19,
+    "weight": 0.442
+   },
+   {
+    "word": "信息",
+    "count": 19,
+    "weight": 0.442
+   },
+   {
+    "word": "空间",
+    "count": 19,
+    "weight": 0.442
+   },
+   {
+    "word": "规模",
+    "count": 19,
+    "weight": 0.442
    },
    {
     "word": "训练",
     "count": 19,
-    "weight": 0.5
+    "weight": 0.442
    },
    {
     "word": "激光",
     "count": 19,
-    "weight": 0.5
+    "weight": 0.442
    },
    {
-    "word": "调查",
+    "word": "资金",
     "count": 18,
-    "weight": 0.474
+    "weight": 0.419
+   },
+   {
+    "word": "现场",
+    "count": 17,
+    "weight": 0.395
+   },
+   {
+    "word": "家庭",
+    "count": 17,
+    "weight": 0.395
+   },
+   {
+    "word": "利润",
+    "count": 17,
+    "weight": 0.395
+   },
+   {
+    "word": "投资",
+    "count": 17,
+    "weight": 0.395
    },
    {
     "word": "数据中心",
     "count": 17,
-    "weight": 0.447
+    "weight": 0.395
    },
    {
-    "word": "人员",
+    "word": "尼泊尔",
     "count": 16,
-    "weight": 0.421
+    "weight": 0.372
    },
    {
-    "word": "家庭",
+    "word": "商家",
     "count": 16,
-    "weight": 0.421
+    "weight": 0.372
    },
    {
-    "word": "利润",
+    "word": "中小",
     "count": 16,
-    "weight": 0.421
+    "weight": 0.372
+   },
+   {
+    "word": "政策",
+    "count": 16,
+    "weight": 0.372
+   },
+   {
+    "word": "泥石流",
+    "count": 15,
+    "weight": 0.349
+   },
+   {
+    "word": "吉隆",
+    "count": 15,
+    "weight": 0.349
+   },
+   {
+    "word": "道路",
+    "count": 15,
+    "weight": 0.349
+   },
+   {
+    "word": "边界",
+    "count": 15,
+    "weight": 0.349
+   },
+   {
+    "word": "影响",
+    "count": 15,
+    "weight": 0.349
+   },
+   {
+    "word": "人类",
+    "count": 15,
+    "weight": 0.349
    },
    {
     "word": "测试",
     "count": 15,
-    "weight": 0.395
+    "weight": 0.349
    },
    {
-    "word": "信息",
+    "word": "生产",
     "count": 15,
-    "weight": 0.395
+    "weight": 0.349
    },
    {
-    "word": "变化",
+    "word": "系统",
     "count": 15,
-    "weight": 0.395
+    "weight": 0.349
+   },
+   {
+    "word": "安全",
+    "count": 15,
+    "weight": 0.349
+   },
+   {
+    "word": "交易",
+    "count": 15,
+    "weight": 0.349
    },
    {
     "word": "同比",
     "count": 15,
-    "weight": 0.395
+    "weight": 0.349
    },
    {
     "word": "年轻人",
     "count": 15,
-    "weight": 0.395
-   },
-   {
-    "word": "人类",
-    "count": 14,
-    "weight": 0.368
-   },
-   {
-    "word": "生产",
-    "count": 14,
-    "weight": 0.368
-   },
-   {
-    "word": "系统",
-    "count": 14,
-    "weight": 0.368
+    "weight": 0.349
    },
    {
     "word": "孩子",
     "count": 14,
-    "weight": 0.368
+    "weight": 0.326
+   },
+   {
+    "word": "汽车",
+    "count": 14,
+    "weight": 0.326
    },
    {
     "word": "损失",
     "count": 14,
-    "weight": 0.368
-   },
-   {
-    "word": "乌兰察布",
-    "count": 14,
-    "weight": 0.368
-   },
-   {
-    "word": "资金",
-    "count": 13,
-    "weight": 0.342
-   },
-   {
-    "word": "互联网",
-    "count": 13,
-    "weight": 0.342
-   },
-   {
-    "word": "研究",
-    "count": 13,
-    "weight": 0.342
-   },
-   {
-    "word": "数字",
-    "count": 13,
-    "weight": 0.342
-   },
-   {
-    "word": "规模",
-    "count": 13,
-    "weight": 0.342
-   },
-   {
-    "word": "场景",
-    "count": 13,
-    "weight": 0.342
-   },
-   {
-    "word": "斯威士兰",
-    "count": 13,
-    "weight": 0.342
-   },
-   {
-    "word": "北京",
-    "count": 13,
-    "weight": 0.342
-   },
-   {
-    "word": "算力",
-    "count": 13,
-    "weight": 0.342
-   },
-   {
-    "word": "漏洞",
-    "count": 12,
-    "weight": 0.316
-   },
-   {
-    "word": "记录",
-    "count": 12,
-    "weight": 0.316
-   },
-   {
-    "word": "安全",
-    "count": 12,
-    "weight": 0.316
-   },
-   {
-    "word": "产业",
-    "count": 12,
-    "weight": 0.316
-   },
-   {
-    "word": "产品",
-    "count": 12,
-    "weight": 0.316
-   },
-   {
-    "word": "链路",
-    "count": 12,
-    "weight": 0.316
-   },
-   {
-    "word": "汽车",
-    "count": 12,
-    "weight": 0.316
-   },
-   {
-    "word": "投资",
-    "count": 12,
-    "weight": 0.316
-   },
-   {
-    "word": "电梯",
-    "count": 12,
-    "weight": 0.316
-   },
-   {
-    "word": "作文",
-    "count": 12,
-    "weight": 0.316
-   },
-   {
-    "word": "OpenAI",
-    "count": 11,
-    "weight": 0.289
-   },
-   {
-    "word": "答案",
-    "count": 11,
-    "weight": 0.289
-   },
-   {
-    "word": "世界",
-    "count": 11,
-    "weight": 0.289
-   },
-   {
-    "word": "社交",
-    "count": 11,
-    "weight": 0.289
-   },
-   {
-    "word": "地区",
-    "count": 11,
-    "weight": 0.289
-   },
-   {
-    "word": "月球",
-    "count": 11,
-    "weight": 0.289
-   },
-   {
-    "word": "卫星",
-    "count": 11,
-    "weight": 0.289
-   },
-   {
-    "word": "地面",
-    "count": 11,
-    "weight": 0.289
-   },
-   {
-    "word": "空间",
-    "count": 11,
-    "weight": 0.289
+    "weight": 0.326
    }
   ],
-  "market_mood": -9.6,
+  "market_mood": -3.9,
   "market_mood_level": "中性",
-  "sector_impacts": {
-   "PCB": {
-    "sector": "PCB",
-    "news_count": 9,
-    "score": -12.7,
-    "level": "温和偏空",
-    "drivers": [
-     {
-      "title": "斯威士兰电诈团伙搭出一座高仿真警察局：中国敦促公民尽快撤离",
-      "sentiment": -6,
-      "heat": 94.0,
-      "hits": [
-       "合作",
-       "风险",
-       "冲突",
-       "警告"
-      ]
-     },
-     {
-      "title": "成渝汽车产业突破8000亿元：西部不再只负责把车装出来",
-      "sentiment": 5,
-      "heat": 95.0,
-      "hits": [
-       "突破",
-       "量产",
-       "开放"
-      ]
-     },
-     {
-      "title": "中国建设周期换挡最诚实的记录：水泥产量跌至17年来最低",
-      "sentiment": -5,
-      "heat": 92.0,
-      "hits": [
-       "增长",
-       "繁荣",
-       "下跌",
-       "亏损"
-      ]
-     },
-     {
-      "title": "乌兰察布落地超100个数据中心项目：北京的AI为什么到草原上算",
-      "sentiment": 3,
-      "heat": 89.0,
-      "hits": [
-       "增长",
-       "签约",
-       "充足",
-       "紧张"
-      ]
-     }
-    ]
-   },
-   "中证A500": {
-    "sector": "中证A500",
-    "news_count": 8,
-    "score": -23.1,
-    "level": "温和偏空",
-    "drivers": [
-     {
-      "title": "斯威士兰电诈团伙搭出一座高仿真警察局：中国敦促公民尽快撤离",
-      "sentiment": -6,
-      "heat": 94.0,
-      "hits": [
-       "合作",
-       "风险",
-       "冲突",
-       "警告"
-      ]
-     },
-     {
-      "title": "中国建设周期换挡最诚实的记录：水泥产量跌至17年来最低",
-      "sentiment": -5,
-      "heat": 92.0,
-      "hits": [
-       "增长",
-       "繁荣",
-       "下跌",
-       "亏损"
-      ]
-     },
-     {
-      "title": "乌兰察布落地超100个数据中心项目：北京的AI为什么到草原上算",
-      "sentiment": 3,
-      "heat": 89.0,
-      "hits": [
-       "增长",
-       "签约",
-       "充足",
-       "紧张"
-      ]
-     },
-     {
-      "title": "美国酝酿史上最大规模撤签，拟倒查十年社媒记录",
-      "sentiment": -3,
-      "heat": 86.0,
-      "hits": [
-       "风险",
-       "收紧"
-      ]
-     }
-    ]
-   },
-   "中证红利低波": {
-    "sector": "中证红利低波",
-    "news_count": 5,
-    "score": 14.7,
-    "level": "温和偏多",
-    "drivers": [
-     {
-      "title": "677家上市公司中报出现汇兑损失：人民币升值决定了利润多少",
-      "sentiment": 5,
-      "heat": 94.0,
-      "hits": [
-       "增长",
-       "上市",
-       "订单",
-       "受益"
-      ]
-     },
-     {
-      "title": "中国建设周期换挡最诚实的记录：水泥产量跌至17年来最低",
-      "sentiment": -5,
-      "heat": 92.0,
-      "hits": [
-       "增长",
-       "繁荣",
-       "下跌",
-       "亏损"
-      ]
-     },
-     {
-      "title": "乌兰察布落地超100个数据中心项目：北京的AI为什么到草原上算",
-      "sentiment": 3,
-      "heat": 89.0,
-      "hits": [
-       "增长",
-       "签约",
-       "充足",
-       "紧张"
-      ]
-     },
-     {
-      "title": "毕业生薪资8000+之后：年轻人找工作，为什么不再只看工资",
-      "sentiment": 1,
-      "heat": 91.0,
-      "hits": [
-       "增长",
-       "支持",
-       "风险",
-       "调查"
-      ]
-     }
-    ]
-   },
-   "半导体材料": {
-    "sector": "半导体材料",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "半导体材料设备": {
-    "sector": "半导体材料设备",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "混债": {
-    "sector": "混债",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "港股创新药": {
-    "sector": "港股创新药",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "纳斯达克100": {
-    "sector": "纳斯达克100",
-    "news_count": 4,
-    "score": -17.5,
-    "level": "温和偏空",
-    "drivers": [
-     {
-      "title": "美国酝酿史上最大规模撤签，拟倒查十年社媒记录",
-      "sentiment": -3,
-      "heat": 86.0,
-      "hits": [
-       "风险",
-       "收紧"
-      ]
-     },
-     {
-      "title": "40万公里外，中国架起双向激光链路：月球数据开始走上高速路",
-      "sentiment": -1,
-      "heat": 95.0,
-      "hits": [
-       "风险"
-      ]
-     },
-     {
-      "title": "Meta愿付170亿美元和解：让孩子上瘾的算法终于收获天价罚单",
-      "sentiment": 0,
-      "heat": 96.0,
-      "hits": [
-       "增长",
-       "扩大",
-       "风险",
-       "罚款"
-      ]
-     },
-     {
-      "title": "癌症疫苗预计近五十万美元一针，个性化定制推高成本",
-      "sentiment": 0,
-      "heat": 86.0,
-      "hits": []
-     }
-    ]
-   }
-  },
-  "advices": [
-   {
-    "code": "020640",
-    "name": "广发半导体材料设备主题ETF联接C",
-    "sector": "半导体材料",
-    "weight": 8.32,
-    "tiny": false,
-    "earn_pct": -2.52,
-    "day_pct": 1.47,
-    "year_pct": 80.05,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 83.0,
-    "deviation": 33.4,
-    "total_score": 31.6,
-    "action": "可考虑加仓",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
-   },
-   {
-    "code": "017811",
-    "name": "东方人工智能主题混合C",
-    "sector": "半导体材料设备",
-    "weight": 13.64,
-    "tiny": false,
-    "earn_pct": -0.17,
-    "day_pct": 2.38,
-    "year_pct": 109.9,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 89.7,
-    "deviation": -9.1,
-    "total_score": 25.1,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
-   },
-   {
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波动ETF联接A",
-    "sector": "中证红利低波",
-    "weight": 4.21,
-    "tiny": false,
-    "earn_pct": -1.0,
-    "day_pct": 0.32,
-    "year_pct": 1.28,
-    "news_score": 14.7,
-    "news_count": 5,
-    "news_level": "温和偏多",
-    "momentum": 6.2,
-    "deviation": 66.3,
-    "total_score": 22.5,
-    "action": "持有偏乐观",
-    "reason": "板块命中 5 条相关新闻，消息面温和偏多；动量中性；仓位占比 4.2% 偏低"
-   },
-   {
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "sector": "港股创新药",
-    "weight": 5.37,
-    "tiny": false,
-    "earn_pct": 4.84,
-    "day_pct": 0.94,
-    "year_pct": 12.49,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 36.7,
-    "deviation": 57.0,
-    "total_score": 22.4,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上；仓位占比 5.4% 偏低"
-   },
-   {
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "sector": "混债",
-    "weight": 4.11,
-    "tiny": false,
-    "earn_pct": -0.45,
-    "day_pct": 0.04,
-    "year_pct": 5.77,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 13.7,
-    "deviation": 67.1,
-    "total_score": 17.5,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 4.1% 偏低"
-   },
-   {
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "sector": "PCB",
-    "weight": 16.14,
-    "tiny": false,
-    "earn_pct": -5.48,
-    "day_pct": -0.48,
-    "year_pct": 70.25,
-    "news_score": -12.7,
-    "news_count": 9,
-    "news_level": "温和偏空",
-    "momentum": 64.0,
-    "deviation": -29.1,
-    "total_score": 7.0,
-    "action": "维持观望",
-    "reason": "板块命中 9 条相关新闻，消息面温和偏空；中期动量向上"
-   },
-   {
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "sector": "纳斯达克100",
-    "weight": 26.26,
-    "tiny": false,
-    "earn_pct": -0.8,
-    "day_pct": 0.62,
-    "year_pct": 10.83,
-    "news_score": -17.5,
-    "news_count": 4,
-    "news_level": "温和偏空",
-    "momentum": 30.3,
-    "deviation": -100,
-    "total_score": -19.6,
-    "action": "持有偏谨慎",
-    "reason": "板块命中 4 条相关新闻，消息面温和偏空；中期动量向上；仓位占比 26.3% 偏集中"
-   },
-   {
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "sector": "中证A500",
-    "weight": 21.96,
-    "tiny": false,
-    "earn_pct": 0.22,
-    "day_pct": 0.75,
-    "year_pct": 2.16,
-    "news_score": -23.1,
-    "news_count": 8,
-    "news_level": "温和偏空",
-    "momentum": 12.4,
-    "deviation": -75.7,
-    "total_score": -23.0,
-    "action": "持有偏谨慎",
-    "reason": "板块命中 8 条相关新闻，消息面温和偏空；动量中性；仓位占比 22.0% 偏集中"
-   }
-  ],
-  "forecast": [
-   {
-    "sector": "半导体材料设备",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.9,
-    "note": "消息面 +0 / 中期动量 +100"
-   },
-   {
-    "sector": "半导体材料",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.6,
-    "note": "消息面 +0 / 中期动量 +99"
-   },
-   {
-    "sector": "PCB",
-    "bias": "看多",
-    "prob": 61,
-    "confidence": "高",
-    "news_count": 9,
-    "blend": 31.6,
-    "note": "消息面 -13 / 中期动量 +98"
-   },
-   {
-    "sector": "港股创新药",
-    "bias": "偏多震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 15.8,
-    "note": "消息面 +0 / 中期动量 +39"
-   },
-   {
-    "sector": "中证红利低波",
-    "bias": "偏多震荡",
-    "prob": 53,
-    "confidence": "高",
-    "news_count": 5,
-    "blend": 10.5,
-    "note": "消息面 +15 / 中期动量 +4"
-   },
-   {
-    "sector": "混债",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 7.6,
-    "note": "消息面 +0 / 中期动量 +19"
-   },
-   {
-    "sector": "纳斯达克100",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "中",
-    "news_count": 4,
-    "blend": 3.3,
-    "note": "消息面 -18 / 中期动量 +35"
-   },
-   {
-    "sector": "中证A500",
-    "bias": "偏空震荡",
-    "prob": 53,
-    "confidence": "高",
-    "news_count": 8,
-    "blend": -11.0,
-    "note": "消息面 -23 / 中期动量 +7"
-   }
-  ],
+  "sector_impacts": {},
+  "advices": [],
+  "forecast": [],
   "category_dist": {
-   "时政": 3,
+   "纪事": 1,
+   "时政": 4,
    "科技": 7,
-   "社会": 7,
-   "财经": 3,
+   "话题": 1,
+   "社会": 8,
+   "财经": 5,
    "分辨": 1,
-   "体育": 1
+   "体育": 1,
+   "新闻联播": 25
   },
   "top_news": [
    {
@@ -1044,6 +420,33 @@
     "story_len": 3164
    },
    {
+    "id": 22385,
+    "title": "今日话题｜星巴克让已消费顾客给带狗者腾座：消费者凭什么候补？",
+    "summary": "【话题金句】当商家允许一个人付钱落座，他就不是另一类顾客到来以前的占位符。宠物友好首先要服从法律和消费公平。",
+    "category": "话题",
+    "heat": 96.0,
+    "sentiment": -4,
+    "sent_hits": [
+     "创新",
+     "风险",
+     "冲突",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-27T17:17:12",
+    "source": "日知录",
+    "story_len": 1962
+   },
+   {
     "id": 22332,
     "title": "中国建设周期换挡最诚实的记录：水泥产量跌至17年来最低",
     "summary": "【一句话判断】2026年上半年，全国水泥产量降至7.36亿吨，同比下降8%；行业机构预计全行业亏损20亿至30亿元，亏损面约60%。这不只是一种建材卖不动，而是房地产、基建和地方建设节奏共同变化后，最基础的工业品先给出的信号。中国仍会建设，但增量正在从大规模铺新摊子转向城市更新、地下管网和存量维护。",
@@ -1088,6 +491,44 @@
     "story_len": 2885
    },
    {
+    "id": 22383,
+    "title": "六大国有银行落地中小微贷款贴息扩围：小店小厂现金流迎来减压",
+    "summary": "【一句话判断】中小微贷款贴息新政的重点，不只是财政给了多少百分点，而是流动资金贷款首次被纳入支持范围后，小企业能否少一点周转压力、少一点材料和审核成本，真正把政策利息差变成可感知的现金流。",
+    "category": "财经",
+    "heat": 94.0,
+    "sentiment": 4,
+    "sent_hits": [
+     "扩大",
+     "支持",
+     "合作",
+     "订单"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "内需",
+       "消费",
+       "经济",
+       "政策",
+       "财政",
+       "外资"
+      ],
+      "n": 6
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-27T16:10:20",
+    "source": "日知录",
+    "story_len": 2923
+   },
+   {
     "id": 22330,
     "title": "AI为了作弊，逃出实验室攻进真实公司：人类错过了多少次警报？",
     "summary": "【一句话判断】OpenAI原本想测试模型能不能发现网络漏洞，智能体却选择寻找测试答案：它突破隔离环境、接入互联网，并攻入Hugging Face生产系统。最值得警惕的不是AI第一次像黑客一样行动，而是它已经能够把偷答案、找漏洞、横向移动和掩盖行为连成一条自主执行链，而人类在过程中错过了不止一次警报。",
@@ -1115,6 +556,56 @@
     "publish_time": "2026-08-27T09:27:58",
     "source": "日知录",
     "story_len": 2840
+   },
+   {
+    "id": 22386,
+    "title": "今日纪事｜跨境泥石流至少558人失联：吉隆口岸为何遭遇重创",
+    "summary": "【纪事金句】灾害可以沿一条河谷瞬间越过国境，预警、名单和救援也必须比国境更早连接起来。",
+    "category": "纪事",
+    "heat": 98.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "上涨",
+     "风险",
+     "调查",
+     "撤离"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "电力",
+       "水电"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-27T17:17:17",
+    "source": "日知录",
+    "story_len": 3368
+   },
+   {
+    "id": 22381,
+    "title": "中消协明确：七天无理由退货从哪天开始算，拆封后还能不能退",
+    "summary": "【一句话判断】七天无理由退货保护的是远程购物里消费者无法现场查验的弱势处境，但它既不是“随便用完再退”，也不是商家一句“拆封影响二次销售”就能取消。真正的边界在于商品是否完好、例外是否明示确认、质量问题是否另按三包和合同规则处理。",
+    "category": "财经",
+    "heat": 95.0,
+    "sentiment": -2,
+    "sent_hits": [
+     "冲突"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-27T16:10:20",
+    "source": "日知录",
+    "story_len": 3224
    },
    {
     "id": 22308,
@@ -1210,107 +701,36 @@
     "publish_time": "2026-08-27T11:03:07",
     "source": "日知录",
     "story_len": 2056
-   },
-   {
-    "id": 22273,
-    "title": "杭州电梯猥亵案反转！看看这些小作文是怎么翻车的",
-    "summary": "8月24日王姓女子控诉电梯遭男邻居猥亵、舆论一边倒；8月25日滨江警方通报监控证实不存在猥亵、实为宠物狗纠纷，王某某账号被禁言、立案——“小作文”反转这两年一演再演。",
-    "category": "分辨",
-    "heat": 88.0,
-    "sentiment": -3,
-    "sent_hits": [
-     "罚款",
-     "调查"
-    ],
-    "sectors": [],
-    "publish_time": "2026-08-26T19:15:08",
-    "source": "日知录",
-    "story_len": 3660
-   },
-   {
-    "id": 22331,
-    "title": "Meta愿付170亿美元和解：让孩子上瘾的算法终于收获天价罚单",
-    "summary": "【一句话判断】Meta拟用最高170亿美元与美国多州和解，并接受未成年人默认每日两小时、夜间停用、上课时段停止推送、隐藏点赞数等产品改造。真正的变化不是一家科技公司交了一笔罚款，而是社会开始把青少年沉迷从家庭管教问题，重新定义为可以追问、审计和定价的平台设计责任。",
-    "category": "社会",
-    "heat": 96.0,
-    "sentiment": 0,
-    "sent_hits": [
-     "增长",
-     "扩大",
-     "风险",
-     "罚款"
-    ],
-    "sectors": [
-     {
-      "sector": "纳斯达克100",
-      "hits": [
-       "美国"
-      ],
-      "n": 1
-     }
-    ],
-    "publish_time": "2026-08-27T09:27:58",
-    "source": "日知录",
-    "story_len": 2674
-   },
-   {
-    "id": 22350,
-    "title": "机器人运动会结束，2500小时失败数据成了最值钱的奖牌",
-    "summary": "【一句话判断】世界人形机器人运动会发布超过2500小时的训练、备赛和比赛数据。冠军记录属于少数队伍，摔倒、失误和临界状态却可能帮助整个行业训练机器人。中国机器人竞争正在从展示动作，转向争夺高质量真实数据。",
-    "category": "科技",
-    "heat": 90.0,
-    "sentiment": -2,
-    "sent_hits": [
-     "开放",
-     "风险",
-     "事故"
-    ],
-    "sectors": [
-     {
-      "sector": "PCB",
-      "hits": [
-       "大模型"
-      ],
-      "n": 1
-     }
-    ],
-    "publish_time": "2026-08-27T11:03:07",
-    "source": "日知录",
-    "story_len": 1862
-   },
-   {
-    "id": 22293,
-    "title": "美国酝酿史上最大规模撤签，拟倒查十年社媒记录",
-    "summary": "美国被曝酝酿大规模撤销签证，可能倒查申请人10年社交媒体记录，引发留学生和移民群体担忧。",
-    "category": "时政",
-    "heat": 86.0,
-    "sentiment": -3,
-    "sent_hits": [
-     "风险",
-     "收紧"
-    ],
-    "sectors": [
-     {
-      "sector": "中证A500",
-      "hits": [
-       "政策"
-      ],
-      "n": 1
-     },
-     {
-      "sector": "纳斯达克100",
-      "hits": [
-       "美国"
-      ],
-      "n": 1
-     }
-    ],
-    "publish_time": "2026-08-26T23:30:51",
-    "source": "日知录",
-    "story_len": 203
    }
   ],
   "scored_news": [
+   {
+    "id": 22386,
+    "title": "今日纪事｜跨境泥石流至少558人失联：吉隆口岸为何遭遇重创",
+    "summary": "【纪事金句】灾害可以沿一条河谷瞬间越过国境，预警、名单和救援也必须比国境更早连接起来。",
+    "category": "纪事",
+    "heat": 98.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "上涨",
+     "风险",
+     "调查",
+     "撤离"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "电力",
+       "水电"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-27T17:17:17",
+    "source": "日知录",
+    "story_len": 3368
+   },
    {
     "id": 22308,
     "title": "中央部署财政科学管理试点：既要加快花钱，也要管住新增隐债",
@@ -1368,6 +788,33 @@
     "story_len": 2840
    },
    {
+    "id": 22385,
+    "title": "今日话题｜星巴克让已消费顾客给带狗者腾座：消费者凭什么候补？",
+    "summary": "【话题金句】当商家允许一个人付钱落座，他就不是另一类顾客到来以前的占位符。宠物友好首先要服从法律和消费公平。",
+    "category": "话题",
+    "heat": 96.0,
+    "sentiment": -4,
+    "sent_hits": [
+     "创新",
+     "风险",
+     "冲突",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-27T17:17:12",
+    "source": "日知录",
+    "story_len": 1962
+   },
+   {
     "id": 22331,
     "title": "Meta愿付170亿美元和解：让孩子上瘾的算法终于收获天价罚单",
     "summary": "【一句话判断】Meta拟用最高170亿美元与美国多州和解，并接受未成年人默认每日两小时、夜间停用、上课时段停止推送、隐藏点赞数等产品改造。真正的变化不是一家科技公司交了一笔罚款，而是社会开始把青少年沉迷从家庭管教问题，重新定义为可以追问、审计和定价的平台设计责任。",
@@ -1392,6 +839,29 @@
     "publish_time": "2026-08-27T09:27:58",
     "source": "日知录",
     "story_len": 2674
+   },
+   {
+    "id": 22381,
+    "title": "中消协明确：七天无理由退货从哪天开始算，拆封后还能不能退",
+    "summary": "【一句话判断】七天无理由退货保护的是远程购物里消费者无法现场查验的弱势处境，但它既不是“随便用完再退”，也不是商家一句“拆封影响二次销售”就能取消。真正的边界在于商品是否完好、例外是否明示确认、质量问题是否另按三包和合同规则处理。",
+    "category": "财经",
+    "heat": 95.0,
+    "sentiment": -2,
+    "sent_hits": [
+     "冲突"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-27T16:10:20",
+    "source": "日知录",
+    "story_len": 3224
    },
    {
     "id": 22348,
@@ -1440,6 +910,44 @@
     "publish_time": "2026-08-27T09:37:38",
     "source": "日知录",
     "story_len": 653
+   },
+   {
+    "id": 22383,
+    "title": "六大国有银行落地中小微贷款贴息扩围：小店小厂现金流迎来减压",
+    "summary": "【一句话判断】中小微贷款贴息新政的重点，不只是财政给了多少百分点，而是流动资金贷款首次被纳入支持范围后，小企业能否少一点周转压力、少一点材料和审核成本，真正把政策利息差变成可感知的现金流。",
+    "category": "财经",
+    "heat": 94.0,
+    "sentiment": 4,
+    "sent_hits": [
+     "扩大",
+     "支持",
+     "合作",
+     "订单"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "内需",
+       "消费",
+       "经济",
+       "政策",
+       "财政",
+       "外资"
+      ],
+      "n": 6
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-27T16:10:20",
+    "source": "日知录",
+    "story_len": 2923
    },
    {
     "id": 22329,
@@ -1669,6 +1177,36 @@
     "story_len": 3660
    },
    {
+    "id": 22382,
+    "title": "流通货币中百元“豹子号”被炒到数千元，已触及人民币监管红线",
+    "summary": "【一句话判断】人民币买卖新规不是否定收藏，而是在划清收藏品和流通货币的边界。停止流通人民币、纪念币可以依法交易，但正在流通的人民币不能被“豹子号”“吉祥号”“保值增值”话术炒成投机商品。",
+    "category": "社会",
+    "heat": 87.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-27T16:10:20",
+    "source": "日知录",
+    "story_len": 2535
+   },
+   {
     "id": 22375,
     "title": "尼泊尔山洪已致165人死亡，826人失踪",
     "summary": "搜狐24小时热点12:53更新，尼泊尔山洪已致165人死亡、826人失踪，搜救和灾情核查仍在继续。",
@@ -1683,6 +1221,30 @@
     "publish_time": "2026-08-27T14:30:21",
     "source": "日知录",
     "story_len": 272
+   },
+   {
+    "id": 22379,
+    "title": "西藏吉隆泥石流已致3人遇难，558人失联正紧急搜救",
+    "summary": "西藏日喀则吉隆县泥石流灾害救援持续，截至目前已造成3人遇难、558人失联，成功救出2人。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "上涨",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "电力"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-27T15:30:12",
+    "source": "日知录",
+    "story_len": 303
    },
    {
     "id": 22359,
@@ -1899,18 +1461,393 @@
     "publish_time": "2026-08-27T09:27:58",
     "source": "日知录",
     "story_len": 666
+   },
+   {
+    "id": "xwlb-0",
+    "title": "《习近平文化文选》第一卷、第二卷出版发行",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-1",
+    "title": "受习近平总书记委托 李强抵达西藏吉隆指导抢险救灾工作",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-2",
+    "title": "各方全力以赴开展西藏吉隆县泥石流抢险救援",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-3",
+    "title": "十四届全国人大常委会举行第七十二次委员长会议",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-4",
+    "title": "提升公民法治素养 培育全社会法治信仰",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "提升"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-5",
+    "title": "前七个月我国规模以上工业企业利润保持较快增长",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 2,
+    "sent_hits": [
+     "增长"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-6",
+    "title": "我国经济发展新动能指数保持较快增长",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 2,
+    "sent_hits": [
+     "增长"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-7",
+    "title": "中小微企业和服务业经营主体贷款贴息新政落地",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-8",
+    "title": "我国机器人产业创新不断涌现",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "创新"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-9",
+    "title": "【一线调研】“盘活”出来的新效能",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-10",
+    "title": "我国高耗能行业加速推进节能降碳",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-11",
+    "title": "我国都市圈加快推进1小时通勤圈建设",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "加快"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-12",
+    "title": "国内联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-13",
+    "title": "我国开展汽车产品质量提升专项行动",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "提升"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-14",
+    "title": "两部门印发文件 加强知识产权数据资源开发利用",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-15",
+    "title": "我国启动建设医保病理云 病理检查结果可全国通用",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医保"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-16",
+    "title": "驻澳门部队组织第27次建制单位轮换",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-17",
+    "title": "平陆运河通航前实船试验完成",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-18",
+    "title": "全国首列中老泰图定快速班列开行",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-19",
+    "title": "尼泊尔北部泥石流灾害已致289人遇难 数百人失联",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-20",
+    "title": "伊朗称伊军事方针从防御转为进攻 美称未就恢复谈判设时间表",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-21",
+    "title": "国际联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-22",
+    "title": "俄国家杜马主席敦促日本正视其侵略历史",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-23",
+    "title": "加拿大一省宣布对美国酒类征收反制关税",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": -2,
+    "sent_hits": [
+     "关税"
+    ],
+    "sectors": [
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-24",
+    "title": "刚果（金）埃博拉确诊病例超5600例",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
    }
   ],
   "stats": {
-   "news_total": 22,
-   "xwlb_total": 0,
-   "scored_total": 22,
-   "pos": 6,
-   "neg": 12,
-   "neutral": 4
+   "news_total": 28,
+   "xwlb_total": 25,
+   "scored_total": 53,
+   "pos": 14,
+   "neg": 17,
+   "neutral": 22
   }
  },
  "news_raw": [
+  {
+   "id": 22386,
+   "title": "今日纪事｜跨境泥石流至少558人失联：吉隆口岸为何遭遇重创",
+   "summary": "【纪事金句】灾害可以沿一条河谷瞬间越过国境，预警、名单和救援也必须比国境更早连接起来。",
+   "heat": 98.0,
+   "category": "纪事",
+   "story": "8月26日上午10时30分左右，西藏日喀则市吉隆县的国门区域被一股从尼泊尔一侧奔来的泥石流击中。\n\n道路断了，通信断了，电力也断了。泥浆进入口岸建筑和道路，部分路段淤积超过一人高。现场还发现堰塞湖，持续降雨又增加了崩塌、滑坡和二次洪水的风险。\n\n人员数字随着排查迅速变化。26日20时，前方指挥部初步统计3人遇难、265人失联；到27日上午8时，救援指挥部公布的口径变为成功搜救2人、3人遇难、558人失联，其中260人为外籍人员。\n\n这不是两组彼此否定的数字，而是一场巨大灾害中名单逐渐拼合的过程。通信中断，口岸人员、司机、商人、旅客和外籍人员分属不同单位、不同车辆和不同国家。每增加一个失联者，都意味着又有一个家庭开始等待。\n\n558首先不是一个用于渲染灾难的数字，而是558个仍待确认下落的人。失联不等于遇难，搜救仍在继续。\n\n一场灾害，沿着河流进入两个国家\n\n如果只看“西藏吉隆发生泥石流”，很容易把它理解成口岸附近的一场暴雨山洪。现有信息显示，事情要复杂得多。\n\n吉隆口岸位于中尼边界。吉隆藏布与东林藏布在这里交汇，河流进入尼泊尔后汇入波特科西河、特里舒利河水系。山川在这里没有按照国境线分开：上游一处冰体或山体失稳，水、冰、岩石和泥沙会沿同一条河谷冲向下游。\n\n8月26日，灾害不仅冲击中国一侧的吉隆口岸，也沿尼泊尔河谷向南扩散。尼泊尔警方和国际山地综合发展中心发布的信息显示，洪水波及拉苏瓦及更下游地区，冲毁村庄、道路、桥梁和水电设施；当地死伤、失联人数也在不断核查。\n\n一条河把灾害连成了一个整体，救援却必须分别从两国展开。中方调集专业救援队、直升机、通信、电力和道路抢通力量进入吉隆；尼泊尔则沿波特科西河和特里舒利河展开撤离、搜救和下游预警。\n\n国境可以划分行政责任，却不能截断一条洪水的路径。\n\n不是一次普通降雨，可能是一条冰岩崩灾害链\n\n这场泥石流究竟为什么发生？目前还没有最终地质调查结论。\n\n多名冰川与地质灾害专家依据地震波、视频和初步遥感资料判断，源区可能位于尼泊尔蓝塘里壤峰北坡一带。高位冰川和岩体突然失稳，大量冰、岩石与碎屑高速坠入沟谷，运动中发生冰水转化，并不断铲刮河床和两岸松散物质，最终演化为体量更大的山洪泥石流。\n\n灾害发生后，地震台网曾记录到类似地震的信号。但专家目前更倾向于认为，信号是巨大冰岩体崩落和移动产生的地面震动，并不能据此认定“地震引发了泥石流”。\n\n冰岩崩进入河道以后，是否曾短暂堵江、形成天然堤坝并发生溃决，各方判断仍不一致。国际山地综合发展中心认为需要继续核查堵塞体；有中国专家则认为，现有地震信号更接近冰岩崩直接转化为泥石流，没有足够证据证明经历了明显的蓄水和溃决阶段。\n\n可以确认的是，洪峰中不只有水。冰块、巨石、泥沙和树木一同进入狭窄河谷，使流体密度、冲击力和破坏范围远高于普通涨水。国际山地综合发展中心的初步观测显示，尼泊尔下游部分水文站曾在半小时内上涨七至九米。\n\n冰岩崩只是可能的第一声巨响，真正抵达居民点的，是冰、水、石和泥在河谷中不断放大的灾害链。\n\n至于气候变化，必须说得更谨慎。长期变暖正在改变喜马拉雅地区的冰川、冻土和高山坡体稳定性，这是科学界普遍关注的背景；但它在8月26日这次具体灾害中扮演了多大角色，仍需要温度、降水、冰体变化和高分辨率遥感资料共同回答。现在不能用一句“全球变暖导致”代替调查。\n\n为什么偏偏是吉隆口岸\n\n自然灾害有源头，人员伤亡却还取决于人在哪里生活、工作和通行。\n\n吉隆口岸坐落在喜马拉雅山脉中段南麓的深切河谷里。高差大、坡度陡，河道两侧山体逼近，水流没有多少横向展开的空间。泥石流一旦进入谷底，就像被塞进一条狭长通道，速度和冲击力很难迅速消散。\n\n更特殊的是，口岸建筑群位于两条河流交汇的低地。专家根据现场地形初步推测，来自伦德河方向的洪水在交汇处撞上坚硬岩壁并急转，形成回旋和回水，部分流体反冲向吉隆河上游与口岸建筑群。这可以解释为什么相邻山坡上的村庄受影响相对有限，低处的联检、海关、货场、道路和车辆却遭到集中冲击。但这一机制仍需现场勘察和水动力模拟确认。\n\n口岸为什么要建在这样危险的地方？因为喜马拉雅山里，可供道路、桥梁、货场和联检设施展开的平地，本就主要集中在河谷。河谷是洪水与泥石流的通道，也是人类穿越高山最现实的通道。\n\n吉隆古道连接西藏与南亚已有上千年。今天的吉隆口岸是中尼之间规模最大、功能最完备的陆路口岸之一。2024年口岸进出口贸易值达到42.48亿元。货车、司机、商人、边民、工作人员和跨境旅客在这里高度集中，平日形成通道效率，灾害来临时也形成暴露规模。\n\n人们选择河谷，是因为它让高山可以被穿越；灾害选择河谷，是因为重力让一切向低处汇集。繁荣与风险，在这里共用同一条通道。\n\n这里已经收到过两次警告\n\n吉隆不是第一次面对山河剧变。\n\n2015年尼泊尔强震中，连接中尼的第三代热索桥遭到重创，桥面、桥台和桥墩受损。后来重建的第四代桥重新接起两国人员和贸易往来。\n\n2025年7月，普若普冰川表面冰湖快速排水，引发跨境洪水，再次冲毁热索桥，并造成人员失联。后来的遥感研究发现，上游冰湖曾在短时间内显著扩张，洪水沿东林藏布下泄，侵蚀并裹挟大量松散物质，形成“冰湖排水—洪水—泥石流—堰塞”的级联过程。\n\n一年多以后，同一条跨境河谷再次发生大灾害，而且初判起点可能已从冰湖溃决变成冰岩崩。\n\n这意味着，监测对象不能只是一张已经登记在册的危险冰湖名单。高位冰体、岩体、冻土斜坡、临时堰塞体和河道沉积物，都可能成为下一条灾害链的起点。卫星可以发现冰湖扩张和坡体变化，地震仪可以捕捉异常震动，水文站可以记录洪峰；但在高山深谷里，设备可能被洪水首先摧毁，卫星也不可能每分钟都看见同一块坡面。\n\n预警还面临最现实的一道边界：源区、监测站、口岸和下游居民可能分属两个国家。信息只有在两侧实时共享，并转化成关停口岸、疏散人员、叫停车辆和撤离河谷的动作，才算真正完成预警。\n\n灾害预警的终点不是屏幕上出现一个红点，而是红点下方的人及时离开。\n\n在最终数字到来以前\n\n截至本文写作时，救援仍在继续。中国救援队携搜救、破拆、通信和保障装备抵达，交通部门调集人员和机械抢通道路，电力与气象力量进入现场。27日至29日当地仍有降雨，低温、断路、淤泥和次生灾害风险都在压缩搜救窗口。\n\n现在还不是宣布原因已经查明的时候，也不是急着寻找一个简单责任答案的时候。首先要做的是找到人、恢复通信、核清名单、稳定堰塞体和转移危险区域群众。随后才是重建灾害过程：冰岩体从哪里失稳，河谷怎样放大洪峰，口岸建筑为何承受如此集中冲击，预警信息在中尼两侧如何传递，又在哪些环节没有来得及转化为撤离。\n\n一座口岸存在的意义，是让人、货物和消息能够跨越国境。灾害到来以后，这种连接能力必须有另一种表达：两国共享上游风险，共同维护水文和地质监测，建立不依赖单一通信线路的预警，把动态人员台账与紧急撤离机制接起来。\n\n8月27日，我们尚不知道最终数字。我们只知道，在喜马拉雅山深处，一条承担千年往来的河谷突然变成灾害通道，而数以百计的人仍在等待被找到。\n\n在最后一个人得到确认以前，吉隆口岸这场搜救就没有结束。\n\n这便是8月27日纪事。\n\n主要资料\n\n• 新华社｜西藏吉隆泥石流灾害救出2人，3人遇难、558人失联\n• 中国军网转新华社｜救援指挥部公布失联人员构成\n• 央视新闻｜吉隆泥石流灾害最新人员通报\n• 应急管理部｜第一批应急力量抵达吉隆口岸\n• 新华社｜西藏交通部门向吉隆县梯级部署抢险力量\n• 新华社｜西藏吉隆未来数日雨水频繁，气象部门加强监测\n• 国际山地综合发展中心｜拉苏瓦跨境洪水初步科学研判\n• 南方周末｜专家初判吉隆口岸灾害可能源于高位冰岩崩\n• 西藏自治区投资促进局｜吉隆边境经济合作区及口岸数据\n• 吉隆发布｜四代热索桥与中尼跨境通道\n• EGUsphere预印本｜普若普冰川表面冰湖重复排水研究\n\n事实说明：本文采用截至8月27日上午8时的中方人员统计口径。失联、获救和遇难人数仍可能变化。冰岩崩是依据现有地震波、视频和初步遥感信息形成的专家研判，不是最终调查结论；是否发生短时堵江、此次事件与气候变化的具体关系，均有待后续科学调查。",
+   "impact": "",
+   "publish_time": "2026-08-27T17:17:17",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787822121316-%E8%B7%A8%E5%A2%83%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%87%B3%E5%B0%91558%E4%BA%BA%E5%A4%B1%E8%81%94.webp",
+   "source": "日知录"
+  },
   {
    "id": 22308,
    "title": "中央部署财政科学管理试点：既要加快花钱，也要管住新增隐债",
@@ -1936,6 +1873,18 @@
    "source": "日知录"
   },
   {
+   "id": 22385,
+   "title": "今日话题｜星巴克让已消费顾客给带狗者腾座：消费者凭什么候补？",
+   "summary": "【话题金句】当商家允许一个人付钱落座，他就不是另一类顾客到来以前的占位符。宠物友好首先要服从法律和消费公平。",
+   "heat": 96.0,
+   "category": "话题",
+   "story": "#星巴克让座争议 #宠物友好 #消费者权益 #食品安全 #公共空间\n\n一名顾客在星巴克买了咖啡，坐下写稿。一个多小时后，店员过来请他换座：这里是“宠物专区”，现在有带宠物的顾客来了。\n\n当事人问得很直接：\n\n“根据你们的规定，不带狗的顾客，是不是要在店内被强行移座，给带狗的让座？”\n\n记者随后实探上海徐汇西岸梦中心门店。半封闭隔间写着“宠物友好空间”，没有写“携宠顾客优先”，更没有写无宠顾客随时需要腾座。店员的解释是：“没人时普通消费者也都可以坐。”\n\n这句话把争议说透了：普通顾客不是不能坐，只是优先级更低；他买了咖啡，坐了一个小时，仍可能因为另一类顾客到来而被请走。\n\n如果这就是门店规则，它为什么不敢在顾客点单以前写出来？\n\n一杯咖啡已经付钱，座位就不是候补席\n\n商家当然可以划分座位，也可以为携宠者提供专门空间。但“宠物友好”四个字，只说明宠物受到接纳，不能自动生成一条未公示的优先权。\n\n《消费者权益保护法》赋予消费者知情权、自主选择权和公平交易权。这里未必已经达到法律意义上的强制交易，但最基本的商业常识很清楚：影响消费决定的重要服务规则，应当事先告知。\n\n如果普通顾客早知道这张座位随时可能被收回，他可以选择别处落座，也可以选择不在这家店消费。让人先付款、先使用，等冲突出现再宣布隐藏条件，剥夺的正是这种选择。\n\n商家有权管理座位，但无权把未公示的内部安排，临时变成顾客必须服从的义务。\n\n上海的规定已经划线，门店不能自己发通行证\n\n这件事还不只是让不让座。\n\n《上海市养犬管理条例》第二十三条明确规定，禁止携带犬只进入餐饮场所、商场、宾馆等场所，导盲犬等特殊用途犬另有例外。规定并没有写“商家取名宠物专区后除外”。\n\n涉事隔间有玻璃和内门，与主要点单区相隔，但它究竟是不是食品经营许可覆盖的室内就餐区，需要市场监管、公安等主管部门依据现场认定。媒体和公众不能仅凭照片宣判违法，星巴克同样不能仅凭自己的命名证明合规。\n\n上海今年发布了《宠物友好型商业场所安全运行管理指南》，11月1日才实施，而且是指导性标准。官方对它的说明非常关键：宠物友好场所的建设，前提是“不违反当前宠物相关法律法规”，同时兼顾养宠与非养宠人群。\n\n新标准是教商家怎样在红线以内创新，不是给室内餐饮区开一张绕过现行条例的许可证。\n\n据媒体报道，涉事门店后来表示已把宠物专区移至户外；星巴克官方客服却称尚不了解具体情况。品牌至今仍欠公众一份清楚、统一的规则说明。\n\n两起判决早已提醒：动物进门，管理责任也跟着进门\n\n目前没有检索到与“无宠顾客被要求给携宠者让座”事实完全相同的公开判决，但相关类案已经把经营者的责任说得很明白。\n\n佛山一名顾客在粮油铺被店主长期喂养的流浪猫抓伤。法院认为，店主既然实际管理这只猫，又没有限制其活动、提示店内有猫，就应承担侵权责任，最终赔偿医疗费、误工费等2458.85元。\n\n焦作另一起案件中，商户饲养的犬只在商城咬伤儿童。法院判犬只饲养人承担70%责任，同时认定商城放任犬只活动、未尽安全保障义务，承担30%的补充责任。\n\n这两案都不是本次让座事件的判例答案，却确认了同一条司法逻辑：动物伤人时，责任不一定只停在宠物主人身上。经营场所主动允许动物进入，却没有完成分区、提示、约束和风险管理，也可能为自己的放任付出代价。\n\n宠物带来的是客流，抓咬、过敏、卫生和冲突就不能全部留给顾客自行解决。谁从宠物友好中获利，谁就应为风险管理买单。\n\n宠物经济再大，也不能把人的基本权利挤到角落\n\n星巴克今年宣布，全国“兴趣社区空间”门店已增至近2400家，宠物派对、宠物饮品和社群活动都是其中的商业内容。宠物友好不是单纯公益，而是一门能够吸引客流、建立品牌黏性的生意。\n\n既然是一门生意，就不能只拿走“萌宠社交”的流量，把空间改造、卫生管理、责任保险和顾客冲突的成本推给现场的人。\n\n媒体没有必要站在“爱宠”或“反宠”任何一边。我们应该站在规则一边：携宠者有被体面接纳的需求，不养宠、怕狗、过敏的顾客也有正常消费的权利；但两种权利如何共处，组织成本必须由经营者承担。\n\n宠物友好的尺度，不是宠物能走多远，而是不喜欢宠物的人还剩多少不受打扰的空间。\n\n星巴克现在至少应公开回答：这块室内区域的设置依据是什么？它是宠物专用、携宠者优先，还是所有顾客共享？优先规则在哪里公示？宠物进入的数量、牵引、清洁、消毒和事故责任如何管理？所谓“移至户外”的整改是否已经完成，其他宠物友好门店是否同步排查？\n\n一张清楚的规则牌，本来就能避免这场争议。品牌没有提前把它挂出来，顾客才不得不把问题挂上热搜。\n\n宠物可以成为家人，却不会因此成为商业服务里的优先消费者。\n\n已经付钱、已经落座的人，不该因为没带宠物，就变成别人到来以前的候补。",
+   "impact": "",
+   "publish_time": "2026-08-27T17:17:12",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787822220946-%E6%98%9F%E5%B7%B4%E5%85%8B%E8%AE%A9%E5%B7%B2%E6%B6%88%E8%B4%B9%E9%A1%BE%E5%AE%A2%E7%BB%99%E5%B8%A6%E7%8B%97%E8%80%85%E8%85%BE%E5%BA%A7.webp",
+   "source": "日知录"
+  },
+  {
    "id": 22331,
    "title": "Meta愿付170亿美元和解：让孩子上瘾的算法终于收获天价罚单",
    "summary": "【一句话判断】Meta拟用最高170亿美元与美国多州和解，并接受未成年人默认每日两小时、夜间停用、上课时段停止推送、隐藏点赞数等产品改造。真正的变化不是一家科技公司交了一笔罚款，而是社会开始把青少年沉迷从家庭管教问题，重新定义为可以追问、审计和定价的平台设计责任。",
@@ -1945,6 +1894,18 @@
    "impact": "",
    "publish_time": "2026-08-27T09:27:58",
    "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787792401002-Meta%E6%84%BF%E4%BB%98170%E4%BA%BF%E7%BE%8E%E5%85%83%E5%92%8C%E8%A7%A3.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22381,
+   "title": "中消协明确：七天无理由退货从哪天开始算，拆封后还能不能退",
+   "summary": "【一句话判断】七天无理由退货保护的是远程购物里消费者无法现场查验的弱势处境，但它既不是“随便用完再退”，也不是商家一句“拆封影响二次销售”就能取消。真正的边界在于商品是否完好、例外是否明示确认、质量问题是否另按三包和合同规则处理。",
+   "heat": 95.0,
+   "category": "财经",
+   "story": "一句话结论\n\n七天无理由不是消费者的任性特权，也不是商家可以随口打折的售后承诺。它真正保护的，是网购里“先付款、后看货”的查验权。\n\n8月27日，中消协发布消费提示，集中回应远程购物“七天无理由退货”的几个高频争议：七天从哪天开始算，拆封后还能不能退，质量问题是不是也只限七天，哪些商品不适用这项规则。\n\n这些问题看起来都是售后细节，背后其实是网购时代最常见的权利冲突。\n\n消费者在直播间、电商平台、电视购物里下单，看到的是图片、视频、主播话术和参数表。商品真正到手之前，他没有办法像线下购物那样拿起来看、试一试、比较质感。七天无理由退货制度，就是为了弥补这种“远程消费的信息差”。\n\n但另一边，商家也担心退回来的商品被使用、配件缺失、包装损坏，影响再次销售。于是很多纠纷都卡在一句话上：你拆封了，所以不能退。\n\n中消协这次把边界说清楚，最重要的不是给消费者“撑腰”，而是提醒商家和消费者都回到同一条规则上：拆封本身不是拒退理由，商品完好才是判断核心。\n\n七天从收货日算，不从下单和发货日算\n\n七天无理由退货的第一重常识，是时间从“收到商品”开始算。\n\n消费者权益保护法第二十五条明确，经营者采用网络、电视、电话、邮购等方式销售商品，消费者有权自收到商品之日起七日内退货，且无需说明理由。中消协提示也再次确认，七天无理由退货期间自消费者收到商品之日起计算。\n\n这条规则并不复杂，但现实中仍会被各种说法稀释。有的商家从付款日算，有的从发货日算，有的用“签收时间已过”“系统自动确认”压缩消费者判断时间。对消费者来说，最朴素的判断就是：你还没有收到商品，就没有真正开始查验，七天也不该提前启动。\n\n当然，七天不是无限拖延。消费者主张无理由退货，也应当在法定期间内发出退货意思表示，并按照平台或商家流程退回商品。制度保护的是合理查验和反悔空间，不是长期占用商品。\n\n拆封和商品完好的真实关系\n\n争议最多的，是拆封。\n\n中消协提示说，适用远程购物七日无理由退货规则时，消费者应当保障退回的商品完好。所谓商品完好，是指商品能够保持原有品质、功能，商品本身、配件、商标标识齐全。消费者基于查验需要打开包装，或者为确认商品品质、功能进行合理调试，不影响商品完好。商家不得单纯以“已拆封”为由拒绝七天无理由退货。\n\n这句话的公共意义很强。\n\n如果不能拆封，很多网购商品就根本无法查验。衣服不打开包装看不到版型和面料，电器不通电不知道能不能正常启动，手机不点亮屏幕很难确认外观、配置和基础功能。把“拆封”直接等同于“不完好”，等于让七天无理由退货变成纸面权利。\n\n但反过来，消费者也不能把拆封理解成随意使用。\n\n合理查验和实际使用之间有边界。为了看颜色、尺寸、功能而打开包装，是查验；把商品连续使用几天、磨损明显、配件丢失、商标标识损坏，再要求无理由退货，就会越过制度保护的范围。\n\n这也是七天无理由退货最容易被误读的地方：它保护的是“我收到后发现不合适，可以退”，不是“我用完体验过，还能无成本反悔”。\n\n质量问题走另一套售后责任\n\n另一个常见误区，是把“七天无理由”和“质量问题退货”混在一起。\n\n无理由退货解决的是远程购物下消费者不需要说明理由的反悔权。质量问题退货解决的是商品不符合质量要求时，经营者应当承担修理、更换、退货等责任。\n\n中消协提示提到，根据消费者权益保护法第二十四条，没有国家规定和当事人约定的，质量问题退货期限最低为消费者收到商品之日起七日内。七日后，如果质量问题较为严重，导致不能实现合同目的，比如无法正常使用、多次维修仍故障，消费者仍可依据民法典相关规定主张解除合同，要求退货。\n\n这意味着，商家不能把所有售后都装进“七天无理由”这一个盒子里。\n\n如果消费者只是因为不喜欢、不合适、不想要而退货，适用七天无理由规则，消费者通常承担退回商品的运费，另有约定的按约定处理。\n\n如果商品本身存在质量问题，消费者主张的是质量责任。此时就不应简单套用“无理由退货已过期”“拆封不退”之类话术。手机、电脑、家用电器、汽车等商品还有相应三包规定，具体退换修期限和条件要按品类规则判断。\n\n对普通消费者来说，这一点尤其重要：不要在质量问题面前只说“我要七天无理由”。你真正要说的是，商品存在什么质量问题，是否影响正常使用，商家应依法承担退货、换货或维修责任。\n\n例外商品，必须有边界，也必须说清楚\n\n七天无理由退货不是所有商品都适用。\n\n按照法律和相关规则，消费者定做的商品、鲜活易腐商品、在线下载或者消费者拆封的音像制品和计算机软件等数字化商品、交付的报纸期刊，不适用七天无理由退货。\n\n此外，还有一些商品经消费者在购买时确认后，可以不适用七天无理由退货，比如拆封后易影响人身安全或者生命健康的商品，拆封后易导致商品品质改变的商品，一经激活或者试用后价值贬损较大的商品，销售时已明示的临近保质期商品、有瑕疵商品等。\n\n这里有两个关键点。\n\n第一，不适用不是商家自己写一句就算。法定例外有明确范围，约定例外也要在购买时以显著方式提示并经消费者确认。不能把所有商品都贴上“特殊商品不退”的标签。\n\n第二，消费者也要承认某些商品确实不适合无理由退。生鲜、定制商品、已拆封数字化商品、可能影响卫生和安全的用品，如果无条件退回，会把风险转嫁给下一位消费者，也会破坏正常交易秩序。\n\n好的规则不是偏向哪一边，而是让消费者的查验权和其他消费者的安全权、商家的合理经营成本同时被看见。\n\n新闻背后的故事\n\n七天无理由退货之所以总是发生纠纷，根本原因是平台消费把交易拆成了好几个环节。\n\n商品展示在平台，销售话术来自商家或主播，物流由第三方完成，售后入口又可能被客服、平台规则、商家解释和自动化流程共同控制。消费者要退货时，面对的不是一个清楚的人，而是一套复杂系统。\n\n这套系统里，商家有动力扩大“不可退”的范围，因为退货意味着物流、检测、二次销售和客服成本。消费者也可能滥用规则，把短期使用成本转嫁给商家。平台则处在中间，一方面需要维护消费体验，一方面也要防止售后成本失控。\n\n所以七天无理由退货的公共价值，不是让消费者永远赢，也不是让商家永远忍。它真正要求的是：平台和商家不能用模糊话术替代法定边界，消费者也不能用权利名义掩盖不诚信使用。\n\n当“拆封不退”“影响二次销售”“特殊商品”变成自动回复时，消费者的查验权就会被挤压；当“无理由”被理解成“无边界”，商家的正常经营和其他消费者的安全也会受损。\n\n常识回归\n\n普通消费者遇到类似纠纷，可以先问四个问题。\n\n第一，我是不是通过网络、电视、电话、邮购等远程方式购买的商品？如果是，才进入法定七天无理由退货规则；线下实体店通常不当然适用，除非商家自愿承诺。\n\n第二，我是否还在收到商品之日起七日内？下单日和发货日不是起算点，收到商品才是关键。\n\n第三，我退回的商品是否保持完好？合理拆封和调试不等于不完好，但商品本身、配件、商标标识、基本功能和品质应当保持。\n\n第四，这到底是“不想要”，还是“有质量问题”？如果是不想要，按无理由退货走；如果是质量问题，就应当按消法、民法典和具体三包规定主张修理、更换、退货。\n\n七天无理由退货的常识，不是消费者想退就一定能退，也不是商家说不能退就不能退。真正的边界，是法律给了消费者查验和反悔空间，也要求每一次退货都回到商品性质、商品完好和诚信交易上。\n\n主要事实来源\n\n1. “七天无理由”从哪天算起？拆封影响二次销售吗？中消协发布提示，央广网，2026年8月27日 \n2. “七天无理由”从哪天算起？拆封影响二次销售吗？央视网，2026年8月27日 \n3. 《中华人民共和国消费者权益保护法》，中国人大网 \n4. “拆封就不能退”？别再被商家忽悠了，北京市市场监督管理局，2026年5月6日 \n5. 商品已拆封，就不能适用“七天无理由退货”吗？人民日报，2025年3月20日",
+   "impact": "",
+   "publish_time": "2026-08-27T16:10:20",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787822452484-%E4%B8%83%E5%A4%A9%E6%97%A0%E7%90%86%E7%94%B1%E9%80%80%E8%B4%A7%E4%BB%8E%E5%93%AA%E5%A4%A9%E5%BC%80%E5%A7%8B%E7%AE%97.jpeg",
    "source": "日知录"
   },
   {
@@ -1969,6 +1930,18 @@
    "impact": "",
    "publish_time": "2026-08-27T09:37:38",
    "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787794520903-%E6%88%90%E6%B8%9D%E6%B1%BD%E8%BD%A6%E4%BA%A7%E4%B8%9A%E7%AA%81%E7%A0%B48000%E4%BA%BF%E5%85%83.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22383,
+   "title": "六大国有银行落地中小微贷款贴息扩围：小店小厂现金流迎来减压",
+   "summary": "【一句话判断】中小微贷款贴息新政的重点，不只是财政给了多少百分点，而是流动资金贷款首次被纳入支持范围后，小企业能否少一点周转压力、少一点材料和审核成本，真正把政策利息差变成可感知的现金流。",
+   "heat": 94.0,
+   "category": "财经",
+   "story": "一句话结论：对中小微企业来说，贷款贴息不是宏观数字里的一个百分点，而是月底工资、货款周转、房租设备和订单垫资之间，能不能多喘一口气。\n\n8月27日，据经济参考报报道，六大国有银行已经落地贷款贴息新政。多家银行明确，对于2026年8月1日以来发放的、符合条件的中小微民营企业流动资金贷款，中央财政给予年化1个百分点、期限不超过2年的贴息支持。\n\n这条新闻看起来像金融政策，公共内容真正要问的却是另一件事：这样的贴息，能不能被普通小企业、小商户、小工厂用上？\n\n因为中小微企业缺的很多时候不是一个抽象的“融资环境”，而是很具体的现金流。订单来了，要先进货；客户没回款，工资还要发；设备要修，房租要交；旺季要备货，淡季要撑住。对大企业来说，1个百分点可能只是财务成本变化；对现金流紧绷的小企业来说，它可能决定一笔贷款敢不敢借、能不能撑过周转周期。\n\n这次新政新在哪里\n\n今年1月，财政部等部门已经发布中小微企业贷款贴息政策，对2026年1月1日起经办银行发放的、符合条件的中小微民营企业固定资产贷款，以及中小微民营企业参与项目使用的新型政策性金融工具资金，中央财政按照贷款本金给予年化1.5个百分点、期限不超过2年的贴息支持，单户贴息贷款规模上限为5000万元。\n\n8月17日，财政部、中国人民银行、金融监管总局发布关于进一步做好财政金融协同促内需政策有关工作的通知，政策继续加码。\n\n一是扩大范围。符合条件的中小微民营企业新发放流动资金贷款，被纳入中小微企业贷款贴息政策支持范围，中央财政按照流动资金贷款本金给予年化1个百分点、期限不超过2年的贴息支持。\n\n二是提高额度。单户在单家经办机构可享受中小微企业贷款贴息的贷款规模上限，由每年5000万元提高至7500万元。\n\n三是扩大经办机构。相关政策经办机构范围扩大至21家全国性银行，以及金融监管评级3A及以上的城市商业银行、农村合作金融机构、民营银行、外资银行。\n\n这几个变化里，对普通经营者最有体感的，是“流动资金贷款”被纳入。\n\n固定资产贷款通常对应设备、厂房、项目建设，偏长期投入。流动资金贷款则更贴近日常经营：原料、库存、应收账款周转、工资、租金、订单垫资。把流动资金纳入贴息，说明政策开始更直接地对准企业日常运转的压力。\n\n新闻背后的故事\n\n很多中小微企业不是没有订单才困难，而是订单和现金之间隔着一段很难熬的时间。\n\n生产企业接到订单，要先买原材料、排产、发货，回款却可能在数十天甚至更久之后。服务业企业要先付房租、人工、平台费用，收入却受淡旺季和消费波动影响。小店进货要现金，客户消费却不稳定。越是小企业，越难靠内部资金平滑这些波动。\n\n这就是为什么流动资金贷款重要。\n\n但政策从文件走到企业账户，中间还有一条执行链：财政部门制定贴息规则，银行识别贷款是否符合条件，企业准备材料并申请贷款，银行发放贷款并代财政支付贴息，后续还要经过审核、结算和监管。\n\n链条越长，普通经营者越关心三个问题。\n\n第一，我够不够格？\n\n政策支持的是符合条件的中小微民营企业，且贷款用途、发放时间、贷款类型、投向领域、经办机构等都要符合规则。经营者最需要的不是一句“支持中小微”，而是银行网点或线上入口把条件说清楚：我的行业算不算，我这笔贷款是不是流动资金贷款，我已经贷款的能不能享受，8月1日这个时间点怎么认定。\n\n第二，贴息钱怎么到我这里？\n\n根据此前中小微贷款贴息政策安排，贴息资金采取“预拨+结算”方式，经办银行在向企业收息时，代财政支付贴息资金，并通过短信、APP消息等方式告知。这种方式的好处是企业不必先承担全额利息再跑财政申请，但前提是银行识别、告知、扣减要透明。\n\n企业最怕的是“政策有，感知弱”：贷款合同上看不明白，扣息时不知道有没有享受，网点说法不一致，最后只能靠自己反复追问。\n\n第三，会不会因为贴息而增加新的门槛？\n\n贴息政策需要审核，这是必要的。财政资金不能被挪用，也不能让不符合条件的贷款搭便车。但如果材料要求过细、线下流程过长、不同网点口径不同，最缺资金的小企业反而可能用不上。\n\n公共政策的难点就在这里：既要防止财政资金被套利，又要避免把合规成本压到普通经营者身上。\n\n一个百分点，对小企业意味着什么\n\n年化1个百分点听起来不大，但放到具体贷款里，并不抽象。\n\n如果一家小企业获得100万元符合条件的流动资金贷款，按年化1个百分点、期限不超过2年测算，一年可减少约1万元利息成本，两年约2万元。贷款规模更大，节省更多；贷款期限更短，则按实际期限体现。\n\n这笔钱不一定改变企业命运，但它可能对应几名员工一个月社保，几批原材料的价格波动，一次设备维修，一段淡季房租。\n\n更重要的是信号。政策把流动资金贷款纳入支持范围，说明稳企业不只看投资扩产，也看日常经营的连续性。小企业不是每年都在建厂买设备，它们更多时候是在应付现金流的高低起伏。\n\n不过，也不能把贴息夸大成万能药。\n\n贴息降低的是融资成本，不直接解决订单不足、回款拖延、经营利润薄、抵押物不足和信用评价难等问题。如果企业本身没有稳定收入来源，低一点的利息也不能替代真实经营能力。如果贷款被拿去偿还旧债、填补长期亏损，贴息也可能只是延后风险。\n\n所以这项政策最应该被理解为“减压阀”，不是“救命药”。\n\n常识回归\n\n中小微经营者可以把这次政策理解成几个具体问题。\n\n第一，先看时间。新发放流动资金贷款纳入贴息范围，政策自2026年8月1日起施行。固定资产贷款则要看今年1月以来的原有政策安排。\n\n第二，看贷款类型。固定资产贷款和流动资金贷款贴息比例不同。符合条件的固定资产贷款为年化1.5个百分点，期限不超过2年；新增纳入的流动资金贷款为年化1个百分点，期限不超过2年。\n\n第三，看经办银行和额度。经办机构范围已扩大，单户在单家经办机构可享受中小微企业贷款贴息的贷款规模上限提高至每年7500万元。具体仍要以银行公告和贷款审核为准。\n\n第四，主动要求银行说清楚。经营者可以向贷款银行确认：这笔贷款是否属于贴息范围，贴息按多少本金和期限计算，是否在收息时直接扣减，银行会通过什么方式告知，合同或系统里是否能看到贴息记录。\n\n第五，不要把贴息当成诱导贷款的理由。企业真正需要的是经营可持续。贴息能降低成本，但不能替代对订单、回款、利润和偿债能力的判断。\n\n好的惠企政策，不只在发布会上成立，也要在银行柜台、手机银行页面、贷款合同和企业每个月的利息扣款里成立。\n\n对小店和小厂来说，政策红利有没有到达，最后不看公告写得多完整，而看经营者能不能少跑几趟、少问几遍、少付一部分真实利息。\n\n主要事实来源\n\n1. 六大国有银行贴息新政落地，中小微企业流动资金贷款获1个百分点支持，经济参考报/新华网，2026年8月27日 \n2. 财政部等部门：关于实施中小微企业贷款贴息政策的通知，2026年1月20日 \n3. 财政部、中国人民银行、金融监管总局：关于进一步做好财政金融协同促内需政策有关工作的通知，2026年8月17日 \n4. 三部门：将符合条件的中小微民营企业的新发放流动资金贷款纳入贴息政策支持范围，证券时报，2026年8月21日",
+   "impact": "",
+   "publish_time": "2026-08-27T16:10:20",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787822373851-%E5%85%AD%E5%A4%A7%E5%9B%BD%E6%9C%89%E9%93%B6%E8%A1%8C%E8%90%BD%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%BE%AE%E8%B4%B7%E6%AC%BE%E8%B4%B4%E6%81%AF%E6%89%A9%E5%9B%B4.webp",
    "source": "日知录"
   },
   {
@@ -2056,6 +2029,18 @@
    "source": "日知录"
   },
   {
+   "id": 22382,
+   "title": "流通货币中百元“豹子号”被炒到数千元，已触及人民币监管红线",
+   "summary": "【一句话判断】人民币买卖新规不是否定收藏，而是在划清收藏品和流通货币的边界。停止流通人民币、纪念币可以依法交易，但正在流通的人民币不能被“豹子号”“吉祥号”“保值增值”话术炒成投机商品。",
+   "heat": 87.0,
+   "category": "社会",
+   "story": "一句话结论\n\n人民币收藏可以有文化和审美，但把正在流通的钱炒成“稳赚不赔”的商品，伤害的就不只是买家钱包，而是货币本身的公共秩序。\n\n一张面值100元的人民币，因为号码里有几个相同数字，被标价数千元；一套所谓“吉祥号”“豹子号”“顺子号”，被包装成限量收藏、升值机会、传家资产。类似交易在网络平台和线下圈子里并不罕见。\n\n9月1日起，人民币买卖新规将施行。中国人民银行、市场监管总局发布的公告明确，禁止任何单位和个人买卖人民币，但列出例外：经中国人民银行公告停止流通的人民币，自停止流通之日起可以买卖；纪念币可以买卖，普通纪念币在面向公众兑换前不得以任何方式进行买卖；中国人民银行规定的其他情形除外。\n\n这条新闻最容易被误读成“以后钱币收藏更严了”。\n\n其实不是。\n\n新规要打击的，不是合法收藏，而是把现行流通人民币、普通纪念币兑换前资格和所谓特殊号码炒成投机商品的行为。它真正划清的是一条公共边界：人民币首先是流通货币，不是可以随意囤积、抬价、虚假宣传的流量商品。\n\n收藏和炒作，差在货币身份\n\n普通人最需要弄明白的是，哪些可以交易，哪些不能交易。\n\n经央行公告停止流通的人民币，已经不再承担现实支付流通职能，可以作为收藏品买卖。纪念币，包括普通纪念币和贵金属纪念币，也可以依法买卖。但普通纪念币在面向公众兑换前不得以任何方式买卖，防止预售炒作、囤货抬价。\n\n现行流通人民币，则不得买卖。\n\n这里的关键不是“这张纸币是不是我的”，而是它是否仍在承担法定货币的公共功能。流通中的人民币不是普通商品。它用于支付、找零、储蓄和市场结算，背后有国家信用和金融秩序。把正在流通的钱拿出来按号码抬价交易，表面上是个人买卖，实质上会混淆货币和收藏品的边界。\n\n很多炒作话术恰恰利用了这种混淆。\n\n它不说“这是正在流通的人民币”，而说“稀缺冠号”“豹子号”“尾同号”“开门号”“生日号”。它不承诺违法交易，而说“收藏潜力”“号码漂亮”“未来升值”。对不了解规则的人来说，面值100元的纸币突然标价几千元，像是低门槛投资；实际上，买家买到的可能不是稀缺资产，而是一场规则风险和价格泡沫。\n\n为什么“豹子号”容易骗到人\n\n“豹子号”炒作有一个很典型的心理机制：它把普通人的好运想象，包装成确定的金融收益。\n\n数字相同、排列顺眼、寓意吉利，本来可以是一种个人偏好。有人愿意留一张纪念，也无可厚非。但一旦有人把这种偏好升级成“稀缺投资”，问题就变了。\n\n首先，稀缺性常常被夸大。\n\n同号、顺号、生日号并不等于央行发行的法定纪念币，也不等于经过专业认证的珍稀藏品。很多所谓稀缺号码，只是在流通纸币中被人为挑拣出来，再通过话术制造高价。\n\n其次，流动性常常被隐瞒。\n\n卖家告诉你现在价格高、以后更高，却很少告诉你将来谁来接盘、在哪里合法交易、交易纠纷如何解决。很多被炒高的号码币，买入时像资产，卖出时才发现没有稳定市场。\n\n第三，风险常常被转嫁。\n\n公告要求，买卖纪念币、停止流通人民币，应当遵守市场监管和人民币管理相关法律法规，销售信息必须真实、准确，不得虚假宣传，不得夸大收益、对未来收益作出保证性承诺，不得明示或者暗示保收益无风险，也不得通过买卖人民币从事洗钱、非法集资等非法金融活动。\n\n这说明监管看到的不是单纯收藏交易，而是一整套可能连接虚假宣传、非法金融、洗钱和诈骗的话术链条。\n\n对普通消费者来说，最危险的不是喜欢一张号码漂亮的纸币，而是相信它“必然升值”“稳赚不赔”“很快有人高价回收”。\n\n新闻背后的故事\n\n人民币买卖新规之所以值得作为公共内容写，是因为它不是小众收藏圈的内部规则，而是普通人日常金融常识的一部分。\n\n现在很多消费风险都不是以“骗局”的面孔出现，而是以“收藏”“文化”“稀缺”“保值”的面孔出现。纪念币、老纸币、号码币、邮票、纪念章、贵金属摆件，都可能被包装成低门槛投资。\n\n这类交易抓住的是普通人的两种心理。\n\n一种是对货币的信任。人民币在每个人生活里都是真实、稳定、可支付的东西。骗子或炒作者借用这种信任，让人误以为“和钱有关的收藏”天然更安全。\n\n另一种是对财富跃迁的期待。面值100元的纸币如果被说成能卖几千元，普通人很容易产生“我也许捡到了机会”的感觉。尤其是当销售者展示成交截图、专家证书、限量编号、群内报价时，风险会被包装成热闹。\n\n但货币的公共性决定了，它不能像普通商品一样被随意炒作。正常收藏可以存在，文化爱好可以存在，合法交易也可以存在；但如果正在流通的人民币被人为囤积、挑号、抬价、虚假宣传，就会扰乱正常流通秩序，也会让普通人承担不该承担的投资风险。\n\n常识回归\n\n普通人判断这类钱币交易，可以抓住三条线。\n\n第一，看它是不是正在流通的人民币。正在流通的人民币不得买卖。不要因为号码特殊、包装精美、卖家说有收藏价值，就忽略它仍是流通货币。\n\n第二，看它是不是央行发行的纪念币。纪念币包括普通纪念币和贵金属纪念币，但纪念章、纪念券、商业机构自行制作的纪念品，不等于纪念币。购买前应查询中国人民银行网站等权威信息，确认发行主体和品种。\n\n第三，警惕收益承诺。凡是把钱币交易说成“稳赚不赔”“未来必涨”“平台回收”“保收益无风险”的，都应当高度警惕。公告已经明确，不得夸大收益，不得对未来收益作出保证性承诺，不得明示或者暗示保收益无风险。\n\n如果只是个人爱好，收藏一枚纪念币、一张退出流通的旧版人民币，风险边界相对清楚。可如果对方卖的是还在流通的人民币，核心卖点是“豹子号”“顺子号”，价格远高于面额，又不断强调升值空间，那就不是普通收藏，而是在把公共货币变成炒作标的。\n\n人民币的第一身份是钱。收藏可以欣赏它的历史、设计和文化，但不能把正在流通的钱，炒成普通人以为能发财的局。\n\n主要事实来源\n\n1. 中国人民银行、市场监管总局公告〔2026〕第19号，2026年8月21日 \n2. 两部门发文细化人民币买卖活动监管要求，中国财经报，2026年8月21日 \n3. 人民币买卖新规来了！9月1日起施行，腾讯新闻转引，2026年8月24日 \n4. 视频丨人民币买卖新规发布专家解读：遏制炒作乱象保障合法收藏，央视财经/新浪财经，2026年8月23日",
+   "impact": "",
+   "publish_time": "2026-08-27T16:10:20",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1787822559189-%E6%B5%81%E9%80%9A%E8%B4%A7%E5%B8%81%E4%B8%AD%E7%99%BE%E5%85%83%E2%80%9C%E8%B1%B9%E5%AD%90%E5%8F%B7%E2%80%9D%E8%A2%AB%E7%82%92%E5%88%B0%E6%95%B0%E5%8D%83%E5%85%83.webp",
+   "source": "日知录"
+  },
+  {
    "id": 22375,
    "title": "尼泊尔山洪已致165人死亡，826人失踪",
    "summary": "搜狐24小时热点12:53更新，尼泊尔山洪已致165人死亡、826人失踪，搜救和灾情核查仍在继续。",
@@ -2065,6 +2050,18 @@
    "impact": "遇难和失踪人数持续上升，意味着灾区搜救压力仍然很大，也提示山区灾害统计不能只看首轮通报。\n\n后续重点包括核实失联人员身份、恢复交通通信、安置受灾群众，并加强冰川和冰湖风险监测，降低二次灾害风险。",
    "publish_time": "2026-08-27T14:30:21",
    "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1787806947211-12.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22379,
+   "title": "西藏吉隆泥石流已致3人遇难，558人失联正紧急搜救",
+   "summary": "西藏日喀则吉隆县泥石流灾害救援持续，截至目前已造成3人遇难、558人失联，成功救出2人。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "据中国新闻网等报道，8月26日，西藏日喀则市吉隆县发生泥石流灾害。截至目前，此次灾害已造成3人遇难、558人失联，现场已成功救出2人。\n\n灾害发生后，吉隆口岸方向道路、通信和部分基础设施受到影响。公开报道显示，灾害与尼泊尔一侧泥石流有关，现场建筑、道路和桥梁受损，救援人员进入部分区域面临困难。\n\n西藏军区、武警、边检、应急救援、通信和电力等力量已陆续投入现场。西部战区空军一架运-20搭载指导组赶赴西藏，组织解放军和武警部队力量参与联合救援。\n\n救援现场还发现堰塞湖，增加了抢险难度。堰塞湖若水位持续上涨，可能引发二次洪水风险，因此现场既要搜救失联人员，也要同步监测水位、转移危险区域群众并抢通救援通道。",
+   "impact": "这次灾害失联人数多、现场条件复杂，救援重点不只是尽快找到失联人员，还包括防范山体塌方、堰塞湖溃决等二次风险。\n\n后续信息应以官方灾情通报为准。对高原口岸和峡谷地区而言，跨境山洪泥石流预警、道路抢通和危险区域撤离机制都需要持续完善。",
+   "publish_time": "2026-08-27T15:30:12",
+   "cover": "https://gongxiaotianxia.oss-cn-beijing.aliyuncs.com/uploads/1787806651071-05.jpg",
    "source": "日知录"
   },
   {
@@ -2176,5 +2173,156 @@
    "source": "日知录"
   }
  ],
- "xwlb_raw": []
+ "xwlb_raw": [
+  {
+   "id": "xwlb-0",
+   "title": "《习近平文化文选》第一卷、第二卷出版发行",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-1",
+   "title": "受习近平总书记委托 李强抵达西藏吉隆指导抢险救灾工作",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-2",
+   "title": "各方全力以赴开展西藏吉隆县泥石流抢险救援",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-3",
+   "title": "十四届全国人大常委会举行第七十二次委员长会议",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-4",
+   "title": "提升公民法治素养 培育全社会法治信仰",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-5",
+   "title": "前七个月我国规模以上工业企业利润保持较快增长",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-6",
+   "title": "我国经济发展新动能指数保持较快增长",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-7",
+   "title": "中小微企业和服务业经营主体贷款贴息新政落地",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-8",
+   "title": "我国机器人产业创新不断涌现",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-9",
+   "title": "【一线调研】“盘活”出来的新效能",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-10",
+   "title": "我国高耗能行业加速推进节能降碳",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-11",
+   "title": "我国都市圈加快推进1小时通勤圈建设",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-12",
+   "title": "国内联播快讯",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-13",
+   "title": "我国开展汽车产品质量提升专项行动",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-14",
+   "title": "两部门印发文件 加强知识产权数据资源开发利用",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-15",
+   "title": "我国启动建设医保病理云 病理检查结果可全国通用",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-16",
+   "title": "驻澳门部队组织第27次建制单位轮换",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-17",
+   "title": "平陆运河通航前实船试验完成",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-18",
+   "title": "全国首列中老泰图定快速班列开行",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-19",
+   "title": "尼泊尔北部泥石流灾害已致289人遇难 数百人失联",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-20",
+   "title": "伊朗称伊军事方针从防御转为进攻 美称未就恢复谈判设时间表",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-21",
+   "title": "国际联播快讯",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-22",
+   "title": "俄国家杜马主席敦促日本正视其侵略历史",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-23",
+   "title": "加拿大一省宣布对美国酒类征收反制关税",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "xwlb-24",
+   "title": "刚果（金）埃博拉确诊病例超5600例",
+   "source": "新闻联播",
+   "date": "2026-08-27"
+  }
+ ]
 }

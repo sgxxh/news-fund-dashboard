@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-08-27",
-   "title": "8月27日日知录-尼泊尔山洪已找到162具遗体，仍有数百游客失联",
-   "mood": -9.6,
+   "date": "2026-08-28",
+   "title": "8月28日日知录-尼泊尔山洪致359死910失联，多名中国游客失联",
+   "mood": 8.6,
    "mood_level": "中性",
    "news_total": 22,
    "xwlb_total": 0,
-   "total_money": 5949.45,
-   "total_earn": 25.57,
-   "today_income": 93.0,
-   "today_income_rate": 1.59,
-   "generated_at": "2026-08-27T07:20:28"
+   "total_money": 5999.46,
+   "total_earn": 25.59,
+   "today_income": -33.33,
+   "today_income_rate": -0.56,
+   "generated_at": "2026-08-28T09:34:47"
+  },
+  {
+   "date": "2026-08-27",
+   "title": "8月27日日知录-尼泊尔山洪已找到162具遗体，仍有数百游客失联",
+   "mood": -3.9,
+   "mood_level": "中性",
+   "news_total": 28,
+   "xwlb_total": 25,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-08-28T09:34:21"
   },
   {
    "date": "2026-08-26",
@@ -495,6 +508,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-08-27",
- "updated_at": "2026-08-27T15:57:44"
+ "latest": "2026-08-28",
+ "updated_at": "2026-08-28T09:34:47"
 }

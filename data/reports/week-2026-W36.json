@@ -1,0 +1,256 @@
+{
+ "key": "2026-W36",
+ "label": "周报",
+ "type": "week",
+ "date_from": "2026-08-31",
+ "date_to": "2026-08-31",
+ "days": 1,
+ "dates": [
+  "2026-08-31"
+ ],
+ "avg_mood": 0.0,
+ "mood_series": [
+  {
+   "date": "2026-08-31",
+   "mood": 0
+  }
+ ],
+ "keywords": [],
+ "sectors": [
+  {
+   "sector": "PCB",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "中证A500",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "中证红利低波",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "半导体材料",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "半导体材料设备",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "混债",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "港股创新药",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "纳斯达克100",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  }
+ ],
+ "nav_series": [
+  {
+   "date": "2026-08-31",
+   "total": 6011.95,
+   "earn": -11.9,
+   "today_income": -61.44
+  }
+ ],
+ "holding_change": [
+  {
+   "code": "021000",
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "sector": "纳斯达克100",
+   "money": 1659.39,
+   "weight": 27.6,
+   "earn_pct": 0.57,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "022459",
+   "name": "易方达中证A500ETF联接A",
+   "sector": "中证A500",
+   "money": 1294.14,
+   "weight": 21.53,
+   "earn_pct": 0.86,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "720001",
+   "name": "财通价值动量混合A",
+   "sector": "PCB",
+   "money": 966.19,
+   "weight": 16.07,
+   "earn_pct": -3.38,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "017811",
+   "name": "东方人工智能主题混合C",
+   "sector": "半导体材料设备",
+   "money": 801.2,
+   "weight": 13.33,
+   "earn_pct": 0.15,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "020640",
+   "name": "广发半导体材料设备ETF联接C",
+   "sector": "半导体材料",
+   "money": 490.33,
+   "weight": 8.16,
+   "earn_pct": -1.93,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "019671",
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "sector": "港股创新药",
+   "money": 313.88,
+   "weight": 5.22,
+   "earn_pct": 4.63,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "007466",
+   "name": "华泰柏瑞中证红利低波ETF联接A",
+   "sector": "中证红利低波",
+   "money": 245.73,
+   "weight": 4.09,
+   "earn_pct": -1.41,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "000143",
+   "name": "鹏华双债加利债券A",
+   "sector": "混债",
+   "money": 241.09,
+   "weight": 4.01,
+   "earn_pct": -0.19,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  }
+ ],
+ "advice_consistency": [
+  {
+   "name": "广发半导体材料设备ETF联接C",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "鹏华双债加利债券A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "华泰柏瑞中证红利低波ETF联接A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "东方人工智能主题混合C",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "财通价值动量混合A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "dominant": "维持观望",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 1
+   }
+  },
+  {
+   "name": "易方达中证A500ETF联接A",
+   "dominant": "持有偏谨慎",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏谨慎": 1
+   }
+  }
+ ],
+ "top_events": [],
+ "stats": {
+  "news_total": 0,
+  "xwlb_total": 0
+ },
+ "generated_at": "2026-08-31T03:41:19",
+ "type_label": "周报"
+}

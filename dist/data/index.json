@@ -1,6 +1,32 @@
 {
  "dates": [
   {
+   "date": "2026-08-31",
+   "title": "",
+   "mood": 0,
+   "mood_level": "中性",
+   "news_total": 0,
+   "xwlb_total": 0,
+   "total_money": 6011.95,
+   "total_earn": -11.9,
+   "today_income": -61.44,
+   "today_income_rate": -1.02,
+   "generated_at": "2026-08-31T03:41:19"
+  },
+  {
+   "date": "2026-08-30",
+   "title": "8月30日日知录-中尼边境泥石流为何伤亡惨重：6-7分钟奔袭22公里",
+   "mood": 13.3,
+   "mood_level": "温和偏多",
+   "news_total": 23,
+   "xwlb_total": 23,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-08-31T03:41:00"
+  },
+  {
    "date": "2026-08-28",
    "title": "8月28日日知录-尼泊尔山洪致359死910失联，多名中国游客失联",
    "mood": 8.6,
@@ -508,6 +534,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-08-28",
- "updated_at": "2026-08-28T16:58:43"
+ "latest": "2026-08-31",
+ "updated_at": "2026-08-31T03:41:19"
 }

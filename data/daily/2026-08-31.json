@@ -8,12 +8,12 @@
   "reason": "",
   "summary": {
    "hold_cost": 6023.84,
-   "today_income": 12.7,
+   "today_income": 12.74,
    "today_income_rate": 0.21,
-   "total_money": 6011.95,
-   "total_earn": -11.9,
+   "total_money": 6000.34,
+   "total_earn": -23.5,
    "count": 8,
-   "total_earn_pct": -0.2
+   "total_earn_pct": -0.39
   },
   "holdings": [
    {
@@ -21,22 +21,22 @@
     "fund_id": "23918",
     "code": "021000",
     "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 1659.39,
-    "earn": 9.44,
-    "earn_pct": 0.57,
+    "money": 1647.78,
+    "earn": -2.16,
+    "earn_pct": -0.13,
     "share": 720.94,
     "cost": 2.2886,
     "category": 3,
-    "nav": 2.3017,
-    "day_pct": 1.35,
-    "nav_date": "2026-08-27",
+    "nav": 2.2856,
+    "day_pct": -0.7,
+    "nav_date": "2026-08-31",
     "est_pct": -0.7,
     "est_date": "2026-08-28",
     "year_pct": 12.34,
     "sector": "纳斯达克100",
     "sector_pct": -0.7,
     "market_type": "us",
-    "weight": 27.6
+    "weight": 27.46
    },
    {
     "account": "默认",
@@ -58,7 +58,7 @@
     "sector": "中证A500",
     "sector_pct": 0.34,
     "market_type": "ch",
-    "weight": 21.53
+    "weight": 21.57
    },
    {
     "account": "默认",
@@ -80,7 +80,7 @@
     "sector": "PCB",
     "sector_pct": 2.01,
     "market_type": "ch",
-    "weight": 16.07
+    "weight": 16.1
    },
    {
     "account": "默认",
@@ -102,7 +102,7 @@
     "sector": "半导体材料设备",
     "sector_pct": 0.65,
     "market_type": "ch",
-    "weight": 13.33
+    "weight": 13.35
    },
    {
     "account": "默认",
@@ -124,7 +124,7 @@
     "sector": "半导体材料",
     "sector_pct": 0.37,
     "market_type": "ch",
-    "weight": 8.16
+    "weight": 8.17
    },
    {
     "account": "默认",
@@ -140,13 +140,13 @@
     "nav": 1.4085,
     "day_pct": -1.16,
     "nav_date": "2026-08-28",
-    "est_pct": -3.84,
+    "est_pct": -3.83,
     "est_date": "2026-08-31",
     "year_pct": 12.27,
     "sector": "港股创新药",
-    "sector_pct": -3.84,
+    "sector_pct": -3.83,
     "market_type": "hk",
-    "weight": 5.22
+    "weight": 5.23
    },
    {
     "account": "默认",
@@ -168,7 +168,7 @@
     "sector": "中证红利低波",
     "sector_pct": 0.73,
     "market_type": "ch",
-    "weight": 4.09
+    "weight": 4.1
    },
    {
     "account": "默认",
@@ -190,7 +190,7 @@
     "sector": "混债",
     "sector_pct": 0.11,
     "market_type": "ch",
-    "weight": 4.01
+    "weight": 4.02
    }
   ],
   "index": []

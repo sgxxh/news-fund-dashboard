@@ -1,494 +1,1986 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T03:41:19",
+ "generated_at": "2026-09-01T03:36:20",
  "session": "auto",
- "digest_title": "",
+ "digest_title": "8月31日日知录-新修订国防动员法即将施行，明确发展新兴领域力量",
  "funds": {
-  "ok": true,
-  "reason": "",
-  "summary": {
-   "hold_cost": 6023.84,
-   "today_income": 12.74,
-   "today_income_rate": 0.21,
-   "total_money": 6000.34,
-   "total_earn": -23.5,
-   "count": 8,
-   "total_earn_pct": -0.39
-  },
-  "holdings": [
-   {
-    "account": "默认",
-    "fund_id": "23918",
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 1647.78,
-    "earn": -2.16,
-    "earn_pct": -0.13,
-    "share": 720.94,
-    "cost": 2.2886,
-    "category": 3,
-    "nav": 2.2856,
-    "day_pct": -0.7,
-    "nav_date": "2026-08-31",
-    "est_pct": -0.7,
-    "est_date": "2026-08-28",
-    "year_pct": 12.34,
-    "sector": "纳斯达克100",
-    "sector_pct": -0.7,
-    "market_type": "us",
-    "weight": 27.46
-   },
-   {
-    "account": "默认",
-    "fund_id": "25645",
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "money": 1294.14,
-    "earn": 11.04,
-    "earn_pct": 0.86,
-    "share": 1022.47,
-    "cost": 1.2549,
-    "category": 3,
-    "nav": 1.2657,
-    "day_pct": -0.49,
-    "nav_date": "2026-08-28",
-    "est_pct": 0.34,
-    "est_date": "2026-08-31",
-    "year_pct": 2.82,
-    "sector": "中证A500",
-    "sector_pct": 0.34,
-    "market_type": "ch",
-    "weight": 21.57
-   },
-   {
-    "account": "默认",
-    "fund_id": "138",
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "money": 966.19,
-    "earn": -33.81,
-    "earn_pct": -3.38,
-    "share": 67.49,
-    "cost": 14.817,
-    "category": 1,
-    "nav": 14.316,
-    "day_pct": -1.53,
-    "nav_date": "2026-08-28",
-    "est_pct": 2.22,
-    "est_date": "2026-08-31",
-    "year_pct": 74.03,
-    "sector": "PCB",
-    "sector_pct": 2.01,
-    "market_type": "ch",
-    "weight": 16.1
-   },
-   {
-    "account": "默认",
-    "fund_id": "20638",
-    "code": "017811",
-    "name": "东方人工智能主题混合C",
-    "money": 801.2,
-    "earn": 1.2,
-    "earn_pct": 0.15,
-    "share": 236.88,
-    "cost": 3.37723742,
-    "category": 1,
-    "nav": 3.3823,
-    "day_pct": -2.45,
-    "nav_date": "2026-08-28",
-    "est_pct": 0.71,
-    "est_date": "2026-08-31",
-    "year_pct": 110.58,
-    "sector": "半导体材料设备",
-    "sector_pct": 0.65,
-    "market_type": "ch",
-    "weight": 13.35
-   },
-   {
-    "account": "默认",
-    "fund_id": "23655",
-    "code": "020640",
-    "name": "广发半导体材料设备ETF联接C",
-    "money": 490.33,
-    "earn": -9.67,
-    "earn_pct": -1.93,
-    "share": 148.78,
-    "cost": 3.36066676,
-    "category": 3,
-    "nav": 3.2957,
-    "day_pct": -2.62,
-    "nav_date": "2026-08-28",
-    "est_pct": 0.37,
-    "est_date": "2026-08-31",
-    "year_pct": 81.14,
-    "sector": "半导体材料",
-    "sector_pct": 0.37,
-    "market_type": "ch",
-    "weight": 8.17
-   },
-   {
-    "account": "默认",
-    "fund_id": "22504",
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "money": 313.88,
-    "earn": 13.88,
-    "earn_pct": 4.63,
-    "share": 222.85,
-    "cost": 1.34619699,
-    "category": 6,
-    "nav": 1.4085,
-    "day_pct": -1.16,
-    "nav_date": "2026-08-28",
-    "est_pct": -3.83,
-    "est_date": "2026-08-31",
-    "year_pct": 12.27,
-    "sector": "港股创新药",
-    "sector_pct": -3.83,
-    "market_type": "hk",
-    "weight": 5.23
-   },
-   {
-    "account": "默认",
-    "fund_id": "5773",
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波ETF联接A",
-    "money": 245.73,
-    "earn": -3.52,
-    "earn_pct": -1.41,
-    "share": 150.67,
-    "cost": 1.6542938,
-    "category": 3,
-    "nav": 1.6309,
-    "day_pct": 0.14,
-    "nav_date": "2026-08-28",
-    "est_pct": 0.73,
-    "est_date": "2026-08-31",
-    "year_pct": 0.86,
-    "sector": "中证红利低波",
-    "sector_pct": 0.73,
-    "market_type": "ch",
-    "weight": 4.1
-   },
-   {
-    "account": "默认",
-    "fund_id": "11353",
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "money": 241.09,
-    "earn": -0.46,
-    "earn_pct": -0.19,
-    "share": 109.78,
-    "cost": 2.20030971,
-    "category": 2,
-    "nav": 2.1961,
-    "day_pct": -0.38,
-    "nav_date": "2026-08-28",
-    "est_pct": 0.51,
-    "est_date": "2026-08-31",
-    "year_pct": 6.04,
-    "sector": "混债",
-    "sector_pct": 0.11,
-    "market_type": "ch",
-    "weight": 4.02
-   }
-  ],
+  "ok": false,
+  "reason": "HISTORICAL_NO_SNAPSHOT",
+  "summary": {},
+  "holdings": [],
   "index": []
  },
  "analysis": {
-  "keywords": [],
-  "market_mood": 0,
-  "market_mood_level": "中性",
-  "sector_impacts": {
-   "PCB": {
-    "sector": "PCB",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+  "keywords": [
+   {
+    "word": "服务",
+    "count": 49,
+    "weight": 1.0
    },
-   "中证A500": {
-    "sector": "中证A500",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "成本",
+    "count": 43,
+    "weight": 0.878
    },
-   "中证红利低波": {
-    "sector": "中证红利低波",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "俄罗斯",
+    "count": 43,
+    "weight": 0.878
    },
-   "半导体材料": {
-    "sector": "半导体材料",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "老人",
+    "count": 30,
+    "weight": 0.612
    },
-   "半导体材料设备": {
-    "sector": "半导体材料设备",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "信用",
+    "count": 27,
+    "weight": 0.551
    },
-   "混债": {
-    "sector": "混债",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "国家",
+    "count": 24,
+    "weight": 0.49
    },
-   "港股创新药": {
-    "sector": "港股创新药",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "平台",
+    "count": 23,
+    "weight": 0.469
    },
-   "纳斯达克100": {
-    "sector": "纳斯达克100",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "目标",
+    "count": 22,
+    "weight": 0.449
+   },
+   {
+    "word": "政府",
+    "count": 22,
+    "weight": 0.449
+   },
+   {
+    "word": "投资",
+    "count": 21,
+    "weight": 0.429
+   },
+   {
+    "word": "变化",
+    "count": 19,
+    "weight": 0.388
+   },
+   {
+    "word": "信息",
+    "count": 19,
+    "weight": 0.388
+   },
+   {
+    "word": "证明",
+    "count": 19,
+    "weight": 0.388
+   },
+   {
+    "word": "系统",
+    "count": 19,
+    "weight": 0.388
+   },
+   {
+    "word": "技术",
+    "count": 19,
+    "weight": 0.388
+   },
+   {
+    "word": "票房",
+    "count": 18,
+    "weight": 0.367
+   },
+   {
+    "word": "能力",
+    "count": 17,
+    "weight": 0.347
+   },
+   {
+    "word": "银行",
+    "count": 17,
+    "weight": 0.347
+   },
+   {
+    "word": "社区",
+    "count": 17,
+    "weight": 0.347
+   },
+   {
+    "word": "法院",
+    "count": 16,
+    "weight": 0.327
+   },
+   {
+    "word": "机构",
+    "count": 16,
+    "weight": 0.327
+   },
+   {
+    "word": "普通",
+    "count": 15,
+    "weight": 0.306
+   },
+   {
+    "word": "影响",
+    "count": 15,
+    "weight": 0.306
+   },
+   {
+    "word": "净利润",
+    "count": 15,
+    "weight": 0.306
+   },
+   {
+    "word": "居民",
+    "count": 15,
+    "weight": 0.306
+   },
+   {
+    "word": "全球",
+    "count": 15,
+    "weight": 0.306
+   },
+   {
+    "word": "浙江",
+    "count": 15,
+    "weight": 0.306
+   },
+   {
+    "word": "区域",
+    "count": 14,
+    "weight": 0.286
+   },
+   {
+    "word": "记录",
+    "count": 14,
+    "weight": 0.286
+   },
+   {
+    "word": "研究",
+    "count": 14,
+    "weight": 0.286
+   },
+   {
+    "word": "团队",
+    "count": 14,
+    "weight": 0.286
+   },
+   {
+    "word": "用户",
+    "count": 14,
+    "weight": 0.286
+   },
+   {
+    "word": "汽车",
+    "count": 13,
+    "weight": 0.265
+   },
+   {
+    "word": "海洋",
+    "count": 13,
+    "weight": 0.265
+   },
+   {
+    "word": "志愿者",
+    "count": 13,
+    "weight": 0.265
+   },
+   {
+    "word": "电影",
+    "count": 13,
+    "weight": 0.265
+   },
+   {
+    "word": "地区",
+    "count": 12,
+    "weight": 0.245
+   },
+   {
+    "word": "空间",
+    "count": 12,
+    "weight": 0.245
+   },
+   {
+    "word": "结构",
+    "count": 12,
+    "weight": 0.245
+   },
+   {
+    "word": "诉讼",
+    "count": 12,
+    "weight": 0.245
+   },
+   {
+    "word": "美国",
+    "count": 12,
+    "weight": 0.245
+   },
+   {
+    "word": "国防",
+    "count": 12,
+    "weight": 0.245
+   },
+   {
+    "word": "品牌",
+    "count": 12,
+    "weight": 0.245
+   },
+   {
+    "word": "公园",
+    "count": 12,
+    "weight": 0.245
+   },
+   {
+    "word": "数字",
+    "count": 11,
+    "weight": 0.224
+   },
+   {
+    "word": "条件",
+    "count": 11,
+    "weight": 0.224
+   },
+   {
+    "word": "社会",
+    "count": 11,
+    "weight": 0.224
+   },
+   {
+    "word": "经济",
+    "count": 11,
+    "weight": 0.224
+   },
+   {
+    "word": "劳动",
+    "count": 11,
+    "weight": 0.224
+   },
+   {
+    "word": "动员",
+    "count": 11,
+    "weight": 0.224
+   },
+   {
+    "word": "产品",
+    "count": 11,
+    "weight": 0.224
+   },
+   {
+    "word": "商业",
+    "count": 11,
+    "weight": 0.224
+   },
+   {
+    "word": "工业",
+    "count": 11,
+    "weight": 0.224
+   },
+   {
+    "word": "云层",
+    "count": 11,
+    "weight": 0.224
+   },
+   {
+    "word": "大片",
+    "count": 11,
+    "weight": 0.224
+   },
+   {
+    "word": "食堂",
+    "count": 11,
+    "weight": 0.224
+   },
+   {
+    "word": "财富",
+    "count": 11,
+    "weight": 0.224
+   },
+   {
+    "word": "法律",
+    "count": 10,
+    "weight": 0.204
+   },
+   {
+    "word": "关系",
+    "count": 10,
+    "weight": 0.204
+   },
+   {
+    "word": "物业",
+    "count": 10,
+    "weight": 0.204
    }
+  ],
+  "market_mood": 15.2,
+  "market_mood_level": "温和偏多",
+  "sector_impacts": {},
+  "advices": [],
+  "forecast": [],
+  "category_dist": {
+   "时政": 9,
+   "财经": 5,
+   "话题": 1,
+   "纪事": 1,
+   "科技": 3,
+   "社会": 2,
+   "分辨": 1,
+   "新闻联播": 18
   },
-  "advices": [
+  "top_news": [
    {
-    "code": "020640",
-    "name": "广发半导体材料设备ETF联接C",
-    "sector": "半导体材料",
-    "weight": 8.16,
-    "tiny": false,
-    "earn_pct": -1.93,
-    "day_pct": -2.62,
-    "year_pct": 81.14,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 48.3,
-    "deviation": 34.7,
-    "total_score": 21.4,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
+    "id": 22725,
+    "title": "沪市净利润增长17.6%：八成利润仍集中在上证180公司",
+    "summary": "2026年上半年，沪市2318家公司合计营业收入26.22万亿元，同比增长6.3%；净利润2.82万亿元，同比增长17.6%，增速创2022年以来新高。近八成公司盈利，但上证180公司贡献了约83.7%的净利润。",
+    "category": "财经",
+    "heat": 91.0,
+    "sentiment": 13,
+    "sent_hits": [
+     "增长",
+     "复苏",
+     "新高",
+     "盈利",
+     "上市",
+     "扭亏",
+     "景气",
+     "亏损"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "上证",
+       "制造业"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-31T15:38:51",
+    "source": "日知录",
+    "story_len": 498
    },
    {
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "sector": "混债",
-    "weight": 4.01,
-    "tiny": false,
-    "earn_pct": -0.19,
-    "day_pct": -0.38,
-    "year_pct": 6.04,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 10.1,
-    "deviation": 67.9,
-    "total_score": 16.6,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 4.0% 偏低"
+    "id": 22705,
+    "title": "全球亿万富翁人数达到3795人，总财富15.1万亿美元创新高",
+    "summary": "Altrata报告显示，2025年全球亿万富翁3795人，总财富15.1万亿美元，均创历史新高。",
+    "category": "财经",
+    "heat": 86.0,
+    "sentiment": 11,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "新高",
+     "创新",
+     "上市",
+     "反弹"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "半导体",
+       "AI",
+       "人工智能"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "资本市场",
+       "经济"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "科技股",
+       "美国"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-31T15:03:46",
+    "source": "日知录",
+    "story_len": 343
    },
    {
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "sector": "港股创新药",
-    "weight": 5.22,
-    "tiny": false,
-    "earn_pct": 4.63,
-    "day_pct": -1.16,
-    "year_pct": 12.27,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 16.1,
-    "deviation": 58.2,
-    "total_score": 16.5,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 5.2% 偏低"
+    "id": 22693,
+    "title": "大疆把官司打回重审，长鑫起诉美国防部：中国企业排队撕标签",
+    "summary": "【一句话判断】大疆诉讼出现程序性进展后，中国最大DRAM企业长鑫存储也起诉美国国防部，要求撤销“中国军事企业”认定。小米、箩筐、中微、药明康德、大疆、阿里和长鑫相继采用法律工具，说明全球化竞争已经从产品、关税和出口管制一路打进法院。",
+    "category": "时政",
+    "heat": 94.0,
+    "sentiment": -6,
+    "sent_hits": [
+     "支持",
+     "合作",
+     "制裁",
+     "关税",
+     "起诉",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片",
+       "服务器",
+       "AI",
+       "存储"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "国企"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T12:16:30",
+    "source": "日知录",
+    "story_len": 2635
    },
    {
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波ETF联接A",
-    "sector": "中证红利低波",
-    "weight": 4.09,
-    "tiny": false,
-    "earn_pct": -1.41,
-    "day_pct": 0.14,
-    "year_pct": 0.86,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 3.4,
-    "deviation": 67.3,
-    "total_score": 14.5,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 4.1% 偏低"
+    "id": 22718,
+    "title": "适龄残疾儿童入学率97%后：特殊教育从“有学上”走向“学得好”",
+    "summary": "教育部等七部门印发特殊教育发展提升“十五五”行动计划，提出到2030年将适龄残疾儿童义务教育入学率巩固在97%以上，并扩大特殊教育资源、完善随班就读支持、发展学前及高中阶段教育。新的任务已经不只是让孩子进入学校，而是让他们获得适合自身情况的教育。",
+    "category": "时政",
+    "heat": 99.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "扩大",
+     "支持",
+     "提升"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策",
+       "就业"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-31T15:40:05",
+    "source": "日知录",
+    "story_len": 552
    },
    {
-    "code": "017811",
-    "name": "东方人工智能主题混合C",
-    "sector": "半导体材料设备",
-    "weight": 13.33,
-    "tiny": false,
-    "earn_pct": 0.15,
-    "day_pct": -2.45,
-    "year_pct": 110.58,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 49.7,
-    "deviation": -6.6,
-    "total_score": 13.6,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
+    "id": 22691,
+    "title": "从中国买苏-27到普京开中国心“伏尔加”：35年来中俄互换了位置",
+    "summary": "【一句话判断】普京试驾的俄罗斯老牌“伏尔加”K50，被俄罗斯汽车媒体和认证资料指向吉利Monjaro平台。上世纪90年代，中国从俄罗斯购买战机和重型装备；近35年后，中国成熟的民用工业体系开始帮助俄罗斯复活国民品牌。一辆车照出了中俄关系中最深刻的变化。",
+    "category": "时政",
+    "heat": 93.0,
+    "sentiment": 4,
+    "sent_hits": [
+     "复苏",
+     "支持",
+     "量产",
+     "合作",
+     "开放",
+     "提升",
+     "订单",
+     "停产"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "制造业",
+       "经济",
+       "财政"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "电子"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T12:16:30",
+    "source": "日知录",
+    "story_len": 3244
    },
    {
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "sector": "PCB",
-    "weight": 16.07,
-    "tiny": false,
-    "earn_pct": -3.38,
-    "day_pct": -1.53,
-    "year_pct": 74.03,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 54.9,
-    "deviation": -28.6,
-    "total_score": 10.8,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
+    "id": 22720,
+    "title": "物流成本占GDP比重目标降至13.1%：降低的是供应链等待",
+    "summary": "国家发展改革委、交通运输部印发物流网建设实施方案，围绕枢纽、通道、多式联运、城乡设施、冷链和数字化部署7方面17项任务，提出到2030年将社会物流总费用与GDP的比率降至13.1%，较“十四五”末降低0.8个百分点。",
+    "category": "财经",
+    "heat": 97.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "订单",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "GDP",
+       "经济"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医药",
+       "药企"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-31T15:23:52",
+    "source": "日知录",
+    "story_len": 564
    },
    {
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "sector": "纳斯达克100",
-    "weight": 27.6,
-    "tiny": false,
-    "earn_pct": 0.57,
-    "day_pct": 1.35,
-    "year_pct": 12.34,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 39.9,
-    "deviation": -100,
-    "total_score": -8.0,
-    "action": "维持观望",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上；仓位占比 27.6% 偏集中"
+    "id": 22744,
+    "title": "今日话题｜被踢出845个群半月只发55元：为了省钱，脸都不要了！",
+    "summary": "【话题金句】辞退一个人要承担法律成本，不能把不给工作、不作回应、逼人离开，包装成劳动者自己的选择。一个人不该先在工位上被抹掉，再到法庭上证明自己曾经认真工作。",
+    "category": "话题",
+    "heat": 96.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "支持",
+     "起诉"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "上证",
+       "经济"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "保险"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T16:58:21",
+    "source": "日知录",
+    "story_len": 2079
    },
    {
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "sector": "中证A500",
-    "weight": 21.53,
-    "tiny": false,
-    "earn_pct": 0.86,
-    "day_pct": -0.49,
-    "year_pct": 2.82,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 1.7,
-    "deviation": -72.2,
-    "total_score": -13.9,
-    "action": "持有偏谨慎",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 21.5% 偏集中"
+    "id": 22721,
+    "title": "六大行三年来首次营收净利全员双增，息差压力开始缓和",
+    "summary": "2026年上半年，六大国有银行营收超过2万亿元、净利润约7126亿元，全部实现营收和净利润增长，为2022年以来首次；拟实施的中期分红合计超过2200亿元。42家A股上市银行合计归母净利润约1.13万亿元，但银行之间仍明显分化。",
+    "category": "财经",
+    "heat": 96.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "增长",
+     "上市",
+     "风险",
+     "承压"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "分红",
+       "银行"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "A股",
+       "经济"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-31T15:40:05",
+    "source": "日知录",
+    "story_len": 496
+   },
+   {
+    "id": 22728,
+    "title": "雄安集聚百余家AI企业：具身智能下一场比赛在工厂账本",
+    "summary": "雄安新区已引入100余家人工智能重点企业，研发30余个大模型，算力调度平台链接国内算力超过2万P；极智嘉总部落户，梅卡曼德通过港交所上市聆讯。具身智能行业也正从大会演示转向工厂、仓储和城市服务中的规模应用。",
+    "category": "科技",
+    "heat": 87.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "开放",
+     "上市",
+     "订单"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "算力",
+       "AI",
+       "人工智能",
+       "大模型"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T15:38:51",
+    "source": "日知录",
+    "story_len": 517
+   },
+   {
+    "id": 22745,
+    "title": "今日纪事｜从10%到90%：小区居民为什么能把物业费收上来？",
+    "summary": "【纪事金句】一千多户居民重新缴费，一天一元只是门槛，更大的变化是价格、服务、账目和决定权终于重新对上了。",
+    "category": "纪事",
+    "heat": 94.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T16:58:25",
+    "source": "日知录",
+    "story_len": 2923
+   },
+   {
+    "id": 22724,
+    "title": "医保支付3.0版引入“特例单议”：复杂患者不该成为医院负担",
+    "summary": "国家医保局围绕DRG/DIP 3.0版分组方案的特例单议机制举行座谈。该机制针对住院时间长、费用高、使用新药新耗材新技术、复杂危重症或多学科诊疗等病例，允许医院单独申报并调整支付标准。3.0版计划于2027年1月执行。",
+    "category": "时政",
+    "heat": 92.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医保",
+       "新药"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-31T15:38:51",
+    "source": "日知录",
+    "story_len": 506
+   },
+   {
+    "id": 22726,
+    "title": "暑运多项客流纪录刷新：学生流增长44.6%，同时反映三种变化",
+    "summary": "2026年暑运于8月31日结束。现有公开材料显示，多地机场和铁路客流创下阶段性纪录，铁路学生客流同比增长44.6%；但全国铁路、民航和公路最终汇总数据尚未完整发布，地方纪录不能直接相加成为全国结论。",
+    "category": "时政",
+    "heat": 89.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "增长",
+     "紧张"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-31T15:38:51",
+    "source": "日知录",
+    "story_len": 422
    }
   ],
-  "forecast": [
+  "scored_news": [
    {
-    "sector": "半导体材料设备",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.9,
-    "note": "消息面 +0 / 中期动量 +100"
+    "id": 22718,
+    "title": "适龄残疾儿童入学率97%后：特殊教育从“有学上”走向“学得好”",
+    "summary": "教育部等七部门印发特殊教育发展提升“十五五”行动计划，提出到2030年将适龄残疾儿童义务教育入学率巩固在97%以上，并扩大特殊教育资源、完善随班就读支持、发展学前及高中阶段教育。新的任务已经不只是让孩子进入学校，而是让他们获得适合自身情况的教育。",
+    "category": "时政",
+    "heat": 99.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "扩大",
+     "支持",
+     "提升"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策",
+       "就业"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-31T15:40:05",
+    "source": "日知录",
+    "story_len": 552
    },
    {
-    "sector": "半导体材料",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.6,
-    "note": "消息面 +0 / 中期动量 +99"
+    "id": 22720,
+    "title": "物流成本占GDP比重目标降至13.1%：降低的是供应链等待",
+    "summary": "国家发展改革委、交通运输部印发物流网建设实施方案，围绕枢纽、通道、多式联运、城乡设施、冷链和数字化部署7方面17项任务，提出到2030年将社会物流总费用与GDP的比率降至13.1%，较“十四五”末降低0.8个百分点。",
+    "category": "财经",
+    "heat": 97.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "订单",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "GDP",
+       "经济"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医药",
+       "药企"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-31T15:23:52",
+    "source": "日知录",
+    "story_len": 564
    },
    {
-    "sector": "PCB",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.4,
-    "note": "消息面 +0 / 中期动量 +99"
+    "id": 22744,
+    "title": "今日话题｜被踢出845个群半月只发55元：为了省钱，脸都不要了！",
+    "summary": "【话题金句】辞退一个人要承担法律成本，不能把不给工作、不作回应、逼人离开，包装成劳动者自己的选择。一个人不该先在工位上被抹掉，再到法庭上证明自己曾经认真工作。",
+    "category": "话题",
+    "heat": 96.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "支持",
+     "起诉"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "上证",
+       "经济"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "保险"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T16:58:21",
+    "source": "日知录",
+    "story_len": 2079
    },
    {
-    "sector": "纳斯达克100",
-    "bias": "偏多震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 15.6,
-    "note": "消息面 +0 / 中期动量 +39"
+    "id": 22721,
+    "title": "六大行三年来首次营收净利全员双增，息差压力开始缓和",
+    "summary": "2026年上半年，六大国有银行营收超过2万亿元、净利润约7126亿元，全部实现营收和净利润增长，为2022年以来首次；拟实施的中期分红合计超过2200亿元。42家A股上市银行合计归母净利润约1.13万亿元，但银行之间仍明显分化。",
+    "category": "财经",
+    "heat": 96.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "增长",
+     "上市",
+     "风险",
+     "承压"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "分红",
+       "银行"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "A股",
+       "经济"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-31T15:40:05",
+    "source": "日知录",
+    "story_len": 496
    },
    {
-    "sector": "港股创新药",
-    "bias": "偏多震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 15.5,
-    "note": "消息面 +0 / 中期动量 +39"
+    "id": 22745,
+    "title": "今日纪事｜从10%到90%：小区居民为什么能把物业费收上来？",
+    "summary": "【纪事金句】一千多户居民重新缴费，一天一元只是门槛，更大的变化是价格、服务、账目和决定权终于重新对上了。",
+    "category": "纪事",
+    "heat": 94.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T16:58:25",
+    "source": "日知录",
+    "story_len": 2923
    },
    {
-    "sector": "混债",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 7.9,
-    "note": "消息面 +0 / 中期动量 +20"
+    "id": 22693,
+    "title": "大疆把官司打回重审，长鑫起诉美国防部：中国企业排队撕标签",
+    "summary": "【一句话判断】大疆诉讼出现程序性进展后，中国最大DRAM企业长鑫存储也起诉美国国防部，要求撤销“中国军事企业”认定。小米、箩筐、中微、药明康德、大疆、阿里和长鑫相继采用法律工具，说明全球化竞争已经从产品、关税和出口管制一路打进法院。",
+    "category": "时政",
+    "heat": 94.0,
+    "sentiment": -6,
+    "sent_hits": [
+     "支持",
+     "合作",
+     "制裁",
+     "关税",
+     "起诉",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "芯片",
+       "服务器",
+       "AI",
+       "存储"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "国企"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T12:16:30",
+    "source": "日知录",
+    "story_len": 2635
    },
    {
-    "sector": "中证A500",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 3.7,
-    "note": "消息面 +0 / 中期动量 +9"
+    "id": 22691,
+    "title": "从中国买苏-27到普京开中国心“伏尔加”：35年来中俄互换了位置",
+    "summary": "【一句话判断】普京试驾的俄罗斯老牌“伏尔加”K50，被俄罗斯汽车媒体和认证资料指向吉利Monjaro平台。上世纪90年代，中国从俄罗斯购买战机和重型装备；近35年后，中国成熟的民用工业体系开始帮助俄罗斯复活国民品牌。一辆车照出了中俄关系中最深刻的变化。",
+    "category": "时政",
+    "heat": 93.0,
+    "sentiment": 4,
+    "sent_hits": [
+     "复苏",
+     "支持",
+     "量产",
+     "合作",
+     "开放",
+     "提升",
+     "订单",
+     "停产"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "制造业",
+       "经济",
+       "财政"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "电子"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T12:16:30",
+    "source": "日知录",
+    "story_len": 3244
    },
    {
-    "sector": "中证红利低波",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 1.1,
-    "note": "消息面 +0 / 中期动量 +3"
+    "id": 22724,
+    "title": "医保支付3.0版引入“特例单议”：复杂患者不该成为医院负担",
+    "summary": "国家医保局围绕DRG/DIP 3.0版分组方案的特例单议机制举行座谈。该机制针对住院时间长、费用高、使用新药新耗材新技术、复杂危重症或多学科诊疗等病例，允许医院单独申报并调整支付标准。3.0版计划于2027年1月执行。",
+    "category": "时政",
+    "heat": 92.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医保",
+       "新药"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-31T15:38:51",
+    "source": "日知录",
+    "story_len": 506
+   },
+   {
+    "id": 22725,
+    "title": "沪市净利润增长17.6%：八成利润仍集中在上证180公司",
+    "summary": "2026年上半年，沪市2318家公司合计营业收入26.22万亿元，同比增长6.3%；净利润2.82万亿元，同比增长17.6%，增速创2022年以来新高。近八成公司盈利，但上证180公司贡献了约83.7%的净利润。",
+    "category": "财经",
+    "heat": 91.0,
+    "sentiment": 13,
+    "sent_hits": [
+     "增长",
+     "复苏",
+     "新高",
+     "盈利",
+     "上市",
+     "扭亏",
+     "景气",
+     "亏损"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "上证",
+       "制造业"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-31T15:38:51",
+    "source": "日知录",
+    "story_len": 498
+   },
+   {
+    "id": 22694,
+    "title": "中国团队在3.3公里外看见拐角后目标：一面普通墙变成一面“镜子”",
+    "summary": "【一句话判断】中国科学院光电技术研究所团队利用墙面反射的微弱光子，在3.3公里外重建被遮挡目标，采样约3分钟，空间分辨率优于3厘米。它不是穿墙透视，而是把一面普通墙变成光的中转站，再用算法从散射信号中还原目标。",
+    "category": "科技",
+    "heat": 91.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "2026-08-31T12:16:30",
+    "source": "日知录",
+    "story_len": 2341
+   },
+   {
+    "id": 22726,
+    "title": "暑运多项客流纪录刷新：学生流增长44.6%，同时反映三种变化",
+    "summary": "2026年暑运于8月31日结束。现有公开材料显示，多地机场和铁路客流创下阶段性纪录，铁路学生客流同比增长44.6%；但全国铁路、民航和公路最终汇总数据尚未完整发布，地方纪录不能直接相加成为全国结论。",
+    "category": "时政",
+    "heat": 89.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "增长",
+     "紧张"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-31T15:38:51",
+    "source": "日知录",
+    "story_len": 422
+   },
+   {
+    "id": 22695,
+    "title": "往云里撒海盐，地球可能降温0.9℃：中国团队模拟“云端遮阳伞”",
+    "summary": "【一句话判断】中国科研团队模拟在三个副热带海域喷射海盐气溶胶，使低云变得更明亮。模型显示，到本世纪末全球平均温度可能降低约0.9℃，陆地旱情总体缓解；但南美洲东部和亚欧大陆部分区域可能更加干旱。它展示了人类调节气候的可能，也把国际治理难题提前摆到桌面上。",
+    "category": "科技",
+    "heat": 89.0,
+    "sentiment": 0,
+    "sent_hits": [
+     "受益",
+     "警告"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-31T12:16:30",
+    "source": "日知录",
+    "story_len": 2546
+   },
+   {
+    "id": 22692,
+    "title": "贵阳“奶奶食堂”办了12年：平均65岁志愿者照顾比自己更老的人",
+    "summary": "【一句话判断】贵阳一群老人从2014年开始为社区老人做饭，如今已建成5个公益互助服务点和2个社区养老服务站，累计助餐超过226万人次。它最可贵的地方不只是善意，而是把低龄老人、高龄老人、年轻员工、政府购买服务和社会捐助组织成一套运行了12年的互助系统。",
+    "category": "社会",
+    "heat": 89.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "水电"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T12:16:30",
+    "source": "日知录",
+    "story_len": 2228
+   },
+   {
+    "id": 22728,
+    "title": "雄安集聚百余家AI企业：具身智能下一场比赛在工厂账本",
+    "summary": "雄安新区已引入100余家人工智能重点企业，研发30余个大模型，算力调度平台链接国内算力超过2万P；极智嘉总部落户，梅卡曼德通过港交所上市聆讯。具身智能行业也正从大会演示转向工厂、仓储和城市服务中的规模应用。",
+    "category": "科技",
+    "heat": 87.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "开放",
+     "上市",
+     "订单"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "算力",
+       "AI",
+       "人工智能",
+       "大模型"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T15:38:51",
+    "source": "日知录",
+    "story_len": 517
+   },
+   {
+    "id": 22661,
+    "title": "新修订国防动员法10月施行，明确发展新兴领域力量",
+    "summary": "新修订的国防动员法将于2026年10月1日起施行，新增发展新兴领域国防动员力量等内容。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T00:11:26",
+    "source": "日知录",
+    "story_len": 244
+   },
+   {
+    "id": 22699,
+    "title": "乌兹别克视频现至少6架歼-10CE，或成中国战机第二海外用户",
+    "summary": "外媒称乌兹别克斯坦独立日阅兵视频中出现至少6架歼-10CE，或成为该机型第二个海外用户。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "2026-08-31T15:03:46",
+    "source": "日知录",
+    "story_len": 331
+   },
+   {
+    "id": 22702,
+    "title": "房地产板块多股一字涨停，特发服务盘初20CM快速封板",
+    "summary": "房地产板块集体走强，特发服务20CM涨停，金融街、渝开发等多股一字涨停。",
+    "category": "财经",
+    "heat": 86.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "支持"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "A股",
+       "资本市场",
+       "政策",
+       "证监会"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "稳健",
+       "基建"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-31T15:03:46",
+    "source": "日知录",
+    "story_len": 331
+   },
+   {
+    "id": 22696,
+    "title": "浙江公共信用平台归集近66亿条信用信息：它会在哪里影响我们？",
+    "summary": "【一句话判断】公共信用数据可以让证明少跑腿、让融资多一个入口，但从政府平台进入金融和商业场景后，用户必须知道谁在用、为何使用，并能拒绝、撤回和纠错。",
+    "category": "社会",
+    "heat": 86.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "保险",
+       "运营商"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "云计算"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "就业"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T12:53:23",
+    "source": "日知录",
+    "story_len": 3642
+   },
+   {
+    "id": 22705,
+    "title": "全球亿万富翁人数达到3795人，总财富15.1万亿美元创新高",
+    "summary": "Altrata报告显示，2025年全球亿万富翁3795人，总财富15.1万亿美元，均创历史新高。",
+    "category": "财经",
+    "heat": 86.0,
+    "sentiment": 11,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "新高",
+     "创新",
+     "上市",
+     "反弹"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "半导体",
+       "AI",
+       "人工智能"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "资本市场",
+       "经济"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "科技股",
+       "美国"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-08-31T15:03:46",
+    "source": "日知录",
+    "story_len": 343
+   },
+   {
+    "id": 22685,
+    "title": "美国大峡谷国家公园突发山洪，逾20人被列为可能失联",
+    "summary": "美国国家公园管理局8月30日表示，大峡谷国家公园29日突发山洪，超过20人被列为可能失联或下落不明人员。事发区域地势陡峭、岩石密布，短时强降雨迅速形成地表径流。",
+    "category": "时政",
+    "heat": 82.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "撤离"
+    ],
+    "sectors": [
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T10:07:17",
+    "source": "日知录",
+    "story_len": 372
+   },
+   {
+    "id": 22732,
+    "title": "150人入选“中国好人榜”：普通人的长期选择更值得记住",
+    "summary": "2026年第二批“中国好人榜”在甘肃静宁发布。经过各地推荐、网友评议和专家评审，共有150名助人为乐、见义勇为、诚实守信、敬业奉献和孝老爱亲人物上榜。名单中既有危急时刻救人的勇者，也有把平凡小事坚持数十年的人。",
+    "category": "时政",
+    "heat": 82.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "支持"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "保险"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-08-31T15:38:51",
+    "source": "日知录",
+    "story_len": 406
+   },
+   {
+    "id": 22643,
+    "title": "中国以后没有大片了？",
+    "summary": "8月底，光线传媒董事长王长田与中影集团董事长傅若清相继公开表态，界面新闻、新浪娱乐、中华网等多家媒体跟进，中国电影的“大片时代”是否走到尽头，成为舆论焦点。",
+    "category": "分辨",
+    "heat": 65.0,
+    "sentiment": -5,
+    "sent_hits": [
+     "上涨",
+     "下滑",
+     "亏损",
+     "风险",
+     "失控"
+    ],
+    "sectors": [],
+    "publish_time": "2026-08-30T18:13:13",
+    "source": "日知录",
+    "story_len": 4137
+   },
+   {
+    "id": "xwlb-0",
+    "title": "习近平出席吉尔吉斯斯坦总统举行的欢迎仪式",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-1",
+    "title": "习近平同吉尔吉斯斯坦总统会谈",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-2",
+    "title": "习近平同吉尔吉斯斯坦总统小范围晤谈",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-3",
+    "title": "《求是》杂志发表习近平总书记重要文章《坚持落实管党治党政治责任》",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-4",
+    "title": "李强主持召开国务院常务会议",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-5",
+    "title": "赵乐际同奥地利国民议会议长会谈",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-6",
+    "title": "王沪宁会见奥地利国民议会议长",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-7",
+    "title": "丁薛祥将赴俄罗斯出席第十一届东方经济论坛并举行中俄投资合作委员会第十三次会议、能源合作委员会第二十三次会议和第八届中俄能源商务论坛",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-8",
+    "title": "我国制造业景气水平较上月明显改善",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 2,
+    "sent_hits": [
+     "景气"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "制造业"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-9",
+    "title": "西藏吉隆县泥石流灾害抢险救援工作持续推进",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-10",
+    "title": "今年以来消费品以旧换新带动销售额超1.54万亿元",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-11",
+    "title": "推动构建中吉命运共同体 开启双边关系新篇章——吉尔吉斯斯坦各界高度评价习近平主席国事访问 国际人士期待中国继续推动上合组织高质量发展",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-12",
+    "title": "2026上海合作组织国家人文交流活动在比什凯克举行",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-13",
+    "title": "国际联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-14",
+    "title": "时隔一个月 美伊互相打击对方目标",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-15",
+    "title": "俄罗斯称重启俄乌谈判缺乏条件",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-16",
+    "title": "冰岛总理称任期内不再推进加入欧盟谈判",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-17",
+    "title": "日本新发10年期国债收益率逼近30年高位",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
    }
   ],
-  "category_dist": {},
-  "top_news": [],
-  "scored_news": [],
   "stats": {
-   "news_total": 0,
-   "xwlb_total": 0,
-   "scored_total": 0,
-   "pos": 0,
-   "neg": 0,
-   "neutral": 0
+   "news_total": 22,
+   "xwlb_total": 18,
+   "scored_total": 40,
+   "pos": 12,
+   "neg": 3,
+   "neutral": 25
   }
  },
- "news_raw": [],
- "xwlb_raw": []
+ "news_raw": [
+  {
+   "id": 22718,
+   "title": "适龄残疾儿童入学率97%后：特殊教育从“有学上”走向“学得好”",
+   "summary": "教育部等七部门印发特殊教育发展提升“十五五”行动计划，提出到2030年将适龄残疾儿童义务教育入学率巩固在97%以上，并扩大特殊教育资源、完善随班就读支持、发展学前及高中阶段教育。新的任务已经不只是让孩子进入学校，而是让他们获得适合自身情况的教育。",
+   "heat": 99.0,
+   "category": "时政",
+   "story": "97%是一个重要数字，但它首先回答的是“有没有进入教育体系”，不能自动等同于“获得了高质量教育”。\n\n按照行动计划，人口20万以上的县级行政区要办好一所达到标准的特殊教育学校；有条件的地区可建设从学前到高中阶段的十五年一贯制特殊教育学校，普通中小学和普惠性幼儿园也可设立特殊教育部或特殊教育班。\n\n这意味着特殊教育将形成三条并行路径：进入专门学校、在普通学校随班就读，以及因身体状况接受送教上门等服务。\n\n过去，特殊教育最突出的问题是覆盖不足；覆盖率提高以后，新的矛盾开始转向资源质量。一个孩子即使进入普通学校，如果没有资源教师、个别化教育方案、无障碍设施和同伴融合支持，也可能只是“人在课堂里”，却没有真正参与学习。\n\n区域差距同样值得重视。宁波等部分地区的残疾儿童义务教育入学率已连续多年保持在99%以上，并把支持延伸到生活能力和就业；但一些人口较少、师资不足的县域，仍可能面临特教学校规模小、专业教师难留、康复与教育分离等问题。\n\n这轮政策真正值得期待的，不是97%再提高了多少，而是剩下的孩子能不能被找到、已经入学的孩子能不能得到适合自己的教育。\n\n接下来可以观察四个指标：资源教师配备数量、随班就读学生的个别化教育落实率、特殊教育向学前和高中阶段延伸的速度，以及残疾学生毕业后的升学与就业情况。",
+   "impact": "",
+   "publish_time": "2026-08-31T15:40:05",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788161867469-%E9%80%82%E9%BE%84%E6%AE%8B%E7%96%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%AD%A6%E7%8E%8797%25%E5%90%8E.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22720,
+   "title": "物流成本占GDP比重目标降至13.1%：降低的是供应链等待",
+   "summary": "国家发展改革委、交通运输部印发物流网建设实施方案，围绕枢纽、通道、多式联运、城乡设施、冷链和数字化部署7方面17项任务，提出到2030年将社会物流总费用与GDP的比率降至13.1%，较“十四五”末降低0.8个百分点。",
+   "heat": 97.0,
+   "category": "财经",
+   "story": "物流成本经常被简单理解为货车运费，实际上它包括运输、仓储、库存占用、装卸搬运和管理等一整套成本。\n\n一家企业的货物在铁路站、公路港和仓库之间反复换装，等待三天才进入下一段运输，损失的不只是几笔运费，还包括库存资金、仓储空间、订单延误和货损风险。物流网建设真正要解决的，就是这些藏在不同环节之间的摩擦。\n\n方案提出推动物流枢纽从“单点布局”转向“功能组网”，加强铁路、公路、水运和航空衔接，并补齐农村物流、城市配送、冷链和应急仓储短板。我国现有181个国家物流枢纽、105个国家骨干冷链物流基地，下一阶段的重点不再是单纯增加数量，而是让这些节点真正连成网络。\n\n0.8个百分点是什么概念？假设经济总量为140万亿元，0.8个百分点在数学上对应约1.12万亿元。但这不能直接理解为企业一定“省下1.12万亿元”，因为GDP规模、商品结构和价格都在变化。它更适合被看作效率目标：同样规模的经济活动，需要占用的运输、库存和管理资源更少。\n\n企业最直接的感受可能来自三个方面：铁路和港口衔接是否更顺畅，仓库周转天数是否缩短，跨地区物流信息能否互认。对农产品和医药企业而言，冷链断点减少尤其重要；对制造企业而言，多式联运可能降低大宗原材料和设备运输成本。\n\n物流网的价值不在于建更多仓库，而在于让货物少停一次、库存少压一天、企业少垫一笔钱。",
+   "impact": "",
+   "publish_time": "2026-08-31T15:23:52",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788162100296-%E7%89%A9%E6%B5%81%E6%88%90%E6%9C%AC%E5%8D%A0GDP%E6%AF%94%E9%87%8D%E7%9B%AE%E6%A0%87%E9%99%8D%E8%87%B313.1%25.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22744,
+   "title": "今日话题｜被踢出845个群半月只发55元：为了省钱，脸都不要了！",
+   "summary": "【话题金句】辞退一个人要承担法律成本，不能把不给工作、不作回应、逼人离开，包装成劳动者自己的选择。一个人不该先在工位上被抹掉，再到法庭上证明自己曾经认真工作。",
+   "heat": 96.0,
+   "category": "话题",
+   "story": "#劳动权益 #职场冷暴力 #被迫离职 #用工边界\n\n半个月工资55元，被踢出845个工作群。\n\n这两个数字足够荒唐，却还不是事情最值得追问的部分。\n\n据扬子晚报、紫牛新闻报道，小古在重庆某公司工作六年多。她称，2025年9月起，公司突然不再给她安排工作，搬走办公电脑，将摄像头对着她的工位，还陆续把她移出845个工作群。她担心被认定为旷工，仍然每天到岗、打卡，并持续询问工作安排。\n\n她形容那段日子：“我坐了将近一个月的冷板凳。”\n\n2025年10月14日，小古邮寄《被迫解除劳动关系告知书》。她后来申请劳动仲裁，案件又经历一审、二审。公开报道显示，法院基本支持了欠薪和经济补偿等主张，但没有支持她提出的全部加班费。8月27日，前公司履行了判决确定的款项；据小古说，社保、公积金问题仍待继续处理。\n\n被踢出群以前，她先被踢出了工作\n\n许多人把焦点放在“845个群”：一个人怎么会有这么多工作群？公司又要动员多少人，才能把她一个群一个群地移出去？\n\n但群聊只是表面。被切断的，是一个劳动者完成工作的条件。\n\n电脑被搬走，任务不再分配，询问无人回应，协作渠道逐个关闭——人仍坐在工位上，劳动关系也没有正式结束，但公司仿佛提前宣布：这里已经没有你的位置。\n\n这类“软性逼退”的精明之处，就在于它尽量不留下那张写着“辞退”的纸，却希望劳动者在羞辱、焦虑和收入压力中自己走。\n\n一旦劳动者只写一句“本人自愿离职”，企业就可能把本应说明的解除理由、本应履行的程序、本应支付的经济补偿，一并推回给个人承担。\n\n所以，这不是普通的办公室关系恶化，也不只是领导不搭理人。管理方式可以有温度高低，但工资、劳动条件和解除程序不是情绪问题。\n\n“你自己走的”，不该成为万能免责句\n\n劳动合同法并不只认识两种离开方式：要么公司辞退，要么员工自愿辞职。\n\n如果用人单位没有按照约定提供劳动条件、没有及时足额支付劳动报酬，或者没有依法缴纳社会保险费，劳动者可以依法解除劳动合同；符合规定的，用人单位仍应支付经济补偿。最高人民法院的相关司法解释也明确，用人单位通过不提供劳动条件、克扣或拖欠工资等方式迫使劳动者提出解除，不能因此逃掉工资与经济补偿责任。\n\n劳动者最后发出解除通知，不等于此前的一切都变成“自愿”。关键要看，是谁先破坏了劳动合同继续履行的条件。\n\n这也是小古每天打卡、反复询问工作安排的重要性。她不是坐在家里等待公司犯错，而是持续用行动证明：自己愿意工作，是公司没有给她工作。\n\n可是，法律上存在“被迫解除”，并不意味着维权会自动完成。从仲裁到二审，她用了近一年；一审判决书厚达194页，她保存的工作照片、审批、聊天记录等材料达到数GB。即使如此，她主张的加班费也没有获得全部支持。\n\n当一个人要用数GB材料证明自己上过班、加过班、没有主动消失，更该反思的就不只是她是否“懂得留证”，还有用工管理为何能够长期停留在不说清、不书面、不回应的灰色地带。\n\n胜诉了，也没有把这一年还给她\n\n小古后来把自己的经历写进歌里。视频受到关注后，她说，前公司曾多次投诉相关内容。面对采访，她反问：“谁愿意天天在网上说这些事？”\n\n这句话比55元和845个群更接近维权者的真实处境。\n\n普通人公开讲述纠纷，很少因为喜欢把生活变成连续剧。很多时候，是内部沟通没有回应，仲裁和诉讼又太漫长，只有把私人困境变成公共话题，才可能让一件事不再悄无声息。\n\n但热搜也容易制造另一种错觉：只要保存截图、勇敢起诉，就能复制同样的结果。事实并没有这么简单。不同案件的合同约定、工资记录、解除理由、通知方式和当地裁判尺度都可能不同；移出工作群、调整岗位或暂不安排任务，也不能脱离完整证据单独认定。\n\n法律可以判回应付的工资和补偿，却很难把近一年的时间、焦虑和自我怀疑原样赔回来。程序正义不应只保证最终有路可走，还应尽量缩短一个普通人为证明常识所付出的路程。\n\n别在最崩溃的时候，替公司写完最后一句\n\n对普通劳动者来说，这个事件最实用的提醒不是“马上辞职”，而是不要在情绪最崩溃的时候，替公司完成“自愿离职”的结论。\n\n发现工作被突然停止、工资异常或沟通渠道被切断时，应尽可能保留劳动合同、工资流水、社保记录、打卡记录、工作安排和书面询问；重要聊天记录及时导出，避免随着账号权限关闭而丢失。需要解除劳动关系时，解除依据、通知内容和送达方式都可能影响后续认定，最好先向当地人社部门、工会或法律援助机构咨询，再根据具体情况行动。\n\n对企业来说，道理更简单：想解除劳动关系，就依法说明理由、履行程序、结清工资、承担补偿。经营困难可以协商，岗位变化可以沟通，员工不能胜任也有相应处理路径。\n\n唯一不该被认可的路径，是一边享受管理权，一边假装从未作出任何决定；一边把员工从工作中清空，一边等她亲手写下“是我自己要走”。\n\n845个群终究只是手机里的数字。需要守住的，是劳动关系里那条不能被静音的常识：公司可以决定不再与一个人同行，但必须把理由、程序和成本摆到桌面上。\n\n不能让劳动者先在工位上消失，再到法庭上证明自己曾经存在。",
+   "impact": "",
+   "publish_time": "2026-08-31T16:58:21",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788166647041-%E8%A2%AB%E8%B8%A2%E5%87%BA845%E4%B8%AA%E7%BE%A4%E5%8D%8A%E6%9C%88%E5%8F%AA%E5%8F%9155%E5%85%83.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22721,
+   "title": "六大行三年来首次营收净利全员双增，息差压力开始缓和",
+   "summary": "2026年上半年，六大国有银行营收超过2万亿元、净利润约7126亿元，全部实现营收和净利润增长，为2022年以来首次；拟实施的中期分红合计超过2200亿元。42家A股上市银行合计归母净利润约1.13万亿元，但银行之间仍明显分化。",
+   "heat": 96.0,
+   "category": "财经",
+   "story": "银行利润改善，首先不是因为贷款突然变贵，而是此前持续收窄的净息差出现企稳迹象。\n\n净息差可以简单理解为银行贷款、投资取得的收益，与吸收存款等资金成本之间的差。近年来贷款利率下行速度较快，而部分长期存款成本下降较慢，银行“两头受压”。随着高成本存款陆续到期、存款挂牌利率调整，银行负债成本开始下降。\n\n六大行上半年营收增速约在4%至11%之间，净利润增速约在4%至6%之间。与2025年上半年六大行约1.8万亿元营收、6825亿元归母净利润相比，2026年的改善具有一定延续性。\n\n但整体转好不意味着所有银行同步轻松。42家上市银行中，仍有6家净利润下降、23家净息差继续收窄。不同银行的区域经济、客户结构、房地产风险敞口和零售贷款质量差异，正在进一步反映到利润表上。\n\n超过2200亿元的中期分红，对投资者具有直接意义，也说明大型银行仍保持较强的资本和现金创造能力。不过，高分红不能替代对资产质量的判断。若不良贷款生成速度上升、息差再次承压，分红的可持续性也会受到影响。\n\n银行业的拐点不是“利润重新暴涨”，而是最坏的息差挤压可能正在缓和；真正的分水岭，将是哪些银行能在低利率环境下持续赚钱。",
+   "impact": "",
+   "publish_time": "2026-08-31T15:40:05",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788162848987-%E5%85%AD%E5%A4%A7%E8%A1%8C%E4%B8%89%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%90%A5%E6%94%B6%E5%87%80%E5%88%A9%E5%85%A8%E5%91%98%E5%8F%8C%E5%A2%9E.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22745,
+   "title": "今日纪事｜从10%到90%：小区居民为什么能把物业费收上来？",
+   "summary": "【纪事金句】一千多户居民重新缴费，一天一元只是门槛，更大的变化是价格、服务、账目和决定权终于重新对上了。",
+   "heat": 94.0,
+   "category": "纪事",
+   "story": "傍晚，济南长清区文昌花苑的楼道灯亮起来，老人坐在楼下乘凉。半年前，这里还是另一副样子：道路坑洼，垃圾遍地，污水从化粪池外溢。装修师傅进来干活，忍不住说，这里还不如农村干净。\n\n这个有35栋楼的老旧小区，已经换过多家物业公司。最后一家公司离开时，物业费收缴率连10%都不到。\n\n如果故事停在这里，人们很容易得到一个熟悉的结论：居民不肯交钱，所以谁来也管不好。\n\n但到2026年8月，同一个小区的缴费户数已经从不足100户增加到1000多户，收缴率超过90%。保安和保洁仍要发工资，垃圾仍要清运，坏掉的灯仍要更换。居民没有突然变得更富裕，也没有在半年间集体换了一种品格。\n\n改变的是，他们把小区的账接了过来。\n\n先把搅在一起的账拆开\n\n文昌花苑的问题，不只是一家物业服务好不好。\n\n这个建成20多年的小区，楼栋产权性质不同，用电管理方式也不一样。有的居民通过物业交电费，有的直接缴费。公共服务、代收费用和多年积累的纠纷混在一张收费单里。物业换了一茬又一茬，旧问题留给新公司，新公司又在越来越低的收缴率面前离开。\n\n这一次，部分楼栋先用政府债券资金改造电表。改造完成后，居民直接向供电部门缴费。电费回到电费，物业服务回到物业服务。\n\n这是一个不那么醒目、却十分要紧的动作。它没有靠劝说解决信任，而是先把收费主体和服务边界理顺。下一次发生物业争议时，不必再同时牵动居民的日常用电关系。\n\n许多小区的矛盾看上去是“人不讲理”，往下挖一层，常常是几本账从来没有真正分开。\n\n“一天一元”买什么，提前说清楚\n\n2025年8月，文昌社区牵头启动业委会选举。35栋楼一栋栋推选楼长，一户户投票。75岁的企业退休人员郑春和当选业委会主任，69岁的退休教师郝广顺担任副主任。\n\n新的办法叫“一元管家”：每户每天一元，一年360元，首年减60元。\n\n它没有许诺豪华景观、会所服务或者随叫随到的私人管家。居民购买的是一张很短的清单：公共区域扫干净，垃圾及时清走，路灯和楼道灯保持照明，化粪池不堵不溢。室内维修不在这笔钱里，自治队可以帮忙联系师傅，费用由住户自己谈。\n\n价格低，当然是收缴率上升的重要原因。但低价并不是全部答案。过去有些物业费同样不高，照样收不上来。文昌花苑多做了一步：让居民在缴费前知道自己买什么，也知道哪些事情没有包含在内。\n\n负责日常工作的也不是一群临时出门扫地的热心居民。社区找来退休前做过物业的老住户房秀平，再配齐4名保安、6名保洁和1名兼职维修员。物业公司不在了，物业工作并没有消失；变化的是谁来组织这些工作，按照什么标准付钱，又向谁交代。\n\n居民自治不是取消服务，而是把服务从一句含混的承诺，拆成可以核对的日常动作。\n\n钱进了公户，才算公共的钱\n\n新的物业费直接进入银行公户，由第三方会计公司记账，每半年公示一次，居民随时可以查询。\n\n社区负责协调监督，但不碰钱；业委会负责决策和财务审核；楼长收集住户意见；自治队完成具体工作。每周二是“联动日”，哪盏灯坏了，哪块绿化需要修整，几方坐下来处理。\n\n2026年上半年，小区还改建了停车位，对外来车辆限时收费，收入用于补充公共支出。\n\n这笔钱过去很容易藏在日常生活的角落里。道闸在转，广告牌在亮，快递柜占着公共空间，可普通居民未必知道这些收入究竟有多少、最后去了哪里。《民法典》早已明确，利用业主共有部分取得的收入，扣除合理成本后属于业主共有；管理者还应当公开服务、收费以及共有部分的经营收益。\n\n法律写出了权利，具体小区仍要有人开户、记账、公示、审核，才能让权利真正落到账本上。\n\n所谓“业主共有”，不能只在发生纠纷时出现；它首先应当表现为每个人都能看见的一张收支表。\n\n90%不是道德胜利\n\n把收缴率从不到10%提高到超过90%，不能简单解释成“公开账目以后，居民终于愿意交钱了”。\n\n变化至少来自四个方向：电表改造拆开了历史纠纷；一年300元至360元与基础服务重新匹配；银行公户和第三方记账恢复了查账能力；停车收益开始反哺公共支出。价格、服务、账目和组织同时改变，才换来1000多户居民缴费。\n\n这也意味着，文昌花苑还没有交出最终答案。\n\n按1000户静态计算，首年物业费约30万元，此后即使全部按360元缴纳，一年也只有约36万元。自治队共有4名保安、6名保洁和1名兼职维修员。即便暂时不算社保、垃圾清运、公共照明、会计、工具和维修材料，仅把36万元平均摊到11个人，每人每月也不过2700多元。\n\n这不是他们真实工资的计算，只是说明：单靠“一天一元”，这本账很难宽裕。停车收入有多少，政府支持能持续多久，设备老化后由谁承担大修，工作人员有没有稳定报酬和保险，75岁的主任、69岁的副主任将来由谁接班，都还需要时间回答。\n\n收缴率超过90%说明信任正在回来，却不能证明一个小区已经完成了长期财务闭环。\n\n因此，可以复制的不是“一天一元”。高层住宅有电梯、消防、高压供电和复杂机电系统，大型社区需要更多专业人员，不可能照抄同一个价格。别处能够借鉴的，是先把历史遗留问题从物业费里拆出来，把服务标准写清楚，把共有收入放进公户，把决策、监督和执行分开。\n\n从买下一套房，到守住一个小区\n\n7月20日，《每日纪事》曾记录越来越多物业公司主动撤场。那篇文章留下的问题是：公司可以核算盈亏、选择离开，几百户人的共同生活却没有暂停键。\n\n一个多月后，文昌花苑给出了一个并不完美、却足够具体的回应。\n\n居民买房时，拿到的是一套住宅的钥匙；住进去以后，却必须与数百户人共同面对道路、管线、垃圾、停车和照明。私人产权可以写在房产证上，共同生活却不会因为每家各有一扇防盗门就自动形成。\n\n过去的商品房故事，最醒目的时刻是开盘、签约和交付。如今，大量小区进入二十年、三十年的使用期，城市必须面对另一段更漫长的生活：设备会老，成本会上升，物业会退出，居民也要学会作出共同决定。\n\n物业费从来不只是一张收费通知，它是千百户人为共同生活签下的一份日常契约。\n\n文昌花苑的1000多户居民重新交钱，不代表物业公司已经失去价值，也不说明居民自治天然更好。这个小区留下的，是一次不常见的转身：在多次“被接管”失败后，居民开始练习怎样管理属于所有人的钱，怎样界定基础服务，怎样让公共收入重新回到公共生活。\n\n不到10%和超过90%之间，不只是一个收缴数字的反转。\n\n它标记着居民身份的一次变化：从等待别人把小区管好，到承认自己既是房屋所有人，也是共同生活的责任人。\n\n这张成绩单还只是第一年，远没有到庆祝毕业的时候。但在8月31日，它值得被写下。\n\n这便是8月31日纪事。\n\n---\n\n资料来源与口径说明：\n\n• 大众新闻·大众日报：《万家灯火｜这个物业“弃管”小区，有了“一元管家”》\n• 国家法律法规数据库：《中华人民共和国民法典》\n• 30万至36万元为按照1000户、每户每年300元或360元进行的静态估算，不是小区审计数据；具体缴费户数、停车收入、人员薪酬、社保和运营支出尚未公开。\n• “不足10%”与“超过90%”分别为最后一家物业退出时和截至2026年8月的报道口径，不能用于推断其他小区居民的普遍缴费意愿。",
+   "impact": "",
+   "publish_time": "2026-08-31T16:58:25",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788166558781-%E5%B0%8F%E5%8C%BA%E5%B1%85%E6%B0%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E6%8A%8A%E7%89%A9%E4%B8%9A%E8%B4%B9%E6%94%B6%E4%B8%8A%E6%9D%A5.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22693,
+   "title": "大疆把官司打回重审，长鑫起诉美国防部：中国企业排队撕标签",
+   "summary": "【一句话判断】大疆诉讼出现程序性进展后，中国最大DRAM企业长鑫存储也起诉美国国防部，要求撤销“中国军事企业”认定。小米、箩筐、中微、药明康德、大疆、阿里和长鑫相继采用法律工具，说明全球化竞争已经从产品、关税和出口管制一路打进法院。",
+   "heat": 94.0,
+   "category": "时政",
+   "story": "8月，大疆与美国国防部的官司被上诉法院部分发回重审。\n\n不到两周，长鑫存储也走进美国联邦法院，要求撤销“中国军事企业”认定。\n\n长鑫在诉状中称，公司生产的DRAM存储芯片面向民用和商业市场，与中国军方没有关联；美国国防部的认定缺少依据、损害正当程序，并持续造成商业和声誉损失。\n\n这已经不是一家中国企业孤立的反击。\n\n从小米、箩筐到中微公司、禾赛、大疆、药明康德、阿里巴巴和长鑫，越来越多中国企业聘请美国律师，研究行政程序，调取政府记录，要求法官审查美国政府给出的理由。\n\n全球化竞争已经打进法院。中国企业不仅要证明产品能赢，还要证明美国政府贴上的标签经不起证据审查。\n\n长鑫遇到了一次极其荒诞的“移出又撤回”\n\n长鑫存储是中国最重要的DRAM制造商之一。DRAM广泛用于电脑、手机、服务器和AI系统，也是三星、SK海力士和美光长期占据优势的市场。\n\n美国国防部在2025年1月把长鑫列入依据《国防授权法》第1260H条维护的“中国军事企业”名单。2026年2月，美国国防部一度发布通知称将把长鑫移出名单，却在同一天撤回；6月更新名单时，长鑫继续留在其中。\n\n这段反复是长鑫此次诉讼的重要背景。\n\n名单本身不是传统意义上的全面制裁，却会限制企业取得美国国防部合同，并产生远超政府采购的声誉后果。投资者、客户、银行和供应商看到“军事企业”标签后，往往会主动降低合作意愿。\n\n美国国会还在不断把更多采购、游说和供应链限制与这张名单连接起来。一个行政标签因此可能成为其他限制的入口。\n\n长鑫要争取的，不只是一笔美国军方生意。它要阻止一个政治定性继续污染民用客户对公司的判断。\n\n大疆的最新进展，告诉长鑫这场官司能争什么\n\n大疆此前也挑战1260H名单。一审阶段，大疆没有摘掉标签；上诉法院随后确认，部分认定可以维持，但一审法院不能依靠美国政府在诉讼中后来补充的解释，替行政机关原来的决定填补证据缺口。\n\n案件因此被部分发回地区法院，要求法院依据国防部作出决定时实际掌握的行政记录，重新审查最关键的一项认定。\n\n这不是大疆已经胜诉，也没有让名单自动失效。它打开了一道很重要的程序缝隙：\n\n美国政府可以基于国家安全作出判断，法院依然有权追问，这个判断在作出时究竟依据了什么。\n\n8月，药明康德在类似诉讼中取得初步禁令。法院认为其可能证明美国国防部对企业与中国国资、工信部门及军事体系关系的解释过于宽泛。\n\n这些案件共同指向1260H制度的核心争议：一家中国企业受到政府监管、取得产业政策支持、参与国家项目，是否就足以被解释为“军事关联”？如果这种关系可以无限延伸，几乎所有中国大型科技和制造企业都可能被装进同一只口袋。\n\n长鑫的案件会继续测试这条边界。\n\n中国企业已经打出三种不同结果\n\n这些官司适用的法律基础各不相同，简单统计一张“中企胜率表”会造成误导。它们仍然展示出三种结果：\n\n结果代表案例实际意义法院阻止或暂停执行小米、箩筐、药明康德政府证据或法律解释受到法院质疑，企业获得喘息时间行政机关主动移出中微公司诉讼与交涉推动重新审查，但不等同于法院判决胜诉一审失利后继续上诉或发回重审禾赛、大疆标签暂时保留，企业继续争夺程序与证据审查空间\n\n还有一类案件更难。华为挑战美国国会制定的政府采购限制未能成功，TikTok挑战专门立法也没有获得最高法院支持。\n\n区别在于权力来自哪里。\n\n行政机关临时作出一项列名决定，法院通常可以审查程序、证据和解释是否合理；国会直接通过专门法律，法院往往给予更大的国家安全和立法判断空间。\n\n所以，打官司也要选择战场。企业可以攻击一份行政决定的证据链，却很难仅靠诉讼推翻美国已经形成的整体对华政策。\n\n为什么还要去美国法院打这场可能赢不彻底的官司\n\n因为沉默的代价更高。\n\n企业如果不挑战，名单上的指控就会长期以“政府已经认定”的形式存在；一旦提起诉讼，美国国防部至少要提交行政记录，律师可以拆解法律定义，法官也要说明哪些理由成立、哪些理由站不住。\n\n即使无法立刻摘牌，诉讼仍可能带来四种价值：\n\n1. 延缓部分限制，为客户和投资者争取时间； \n2. 迫使政府固定理由，减少诉讼中临时补充说法； \n3. 为其他中国企业积累判例、证据清单和诉讼路径； \n4. 向全球客户证明，公司愿意公开挑战指控，而非默认标签。\n\n这种能力过去很容易被低估。中国企业擅长制造、成本和交付，却未必在进入海外市场之前就准备好长期诉讼、国会游说、合规沟通和危机公关。\n\n美国正在把出口管制、投资限制、政府采购、设备准入和企业名单叠加使用。中国企业的全球化能力也必须相应升级：产品部门负责卖货，法务部门负责保住进入市场的资格。\n\n长鑫这场官司，比普通商业纠纷更接近一场资格赛\n\n长鑫的处境还有一层特殊性。\n\nAI基础设施正在推高存储芯片的重要性，美国对中国半导体产业的限制也在持续加码。长鑫既是商业竞争者，也是中国减少对海外DRAM依赖的关键企业。它越接近高端市场，美国审视它的力度就越大。\n\n因此，这场诉讼即使取得程序进展，也不会终结美国对长鑫的技术、设备和供应链限制。1260H名单只是多道门中的一道。\n\n长鑫真正要证明的，是中国企业可以同时完成两件事：在工厂里缩小技术差距，在法庭上阻止政治标签无限扩张。\n\n大疆案件已经说明，法院不会自动接受企业的全部主张，也不会允许政府在任何时候随意补理由。药明康德的初步禁令则表明，当行政解释扩张过快时，企业确实可能争取到司法制衡。\n\n下一步应当观察三件事：长鑫能否取得临时禁令；美国国防部会拿出什么既有证据；法院如何解释中国企业与产业主管部门之间的普通监管关系。\n\n美国正在用名单决定谁有资格进入市场，中国企业则开始用诉讼要求美国先证明：这张名单凭什么这样写。\n\n能造出世界级芯片、无人机和互联网平台是一种硬实力；能够把一项国家安全指控拖回证据桌上，同样是全球化时代的硬实力。\n\n来源与口径说明\n\n• 路透社：长鑫存储起诉美国国防部\n• 美国国防部：1260H名单与相关采购影响说明\n• 美国法院：药明康德初步禁令裁定\n• 美国联邦上诉法院：禾赛诉美国国防部案\n• 美联社：阿里巴巴起诉美国国防部及1260H名单背景\n• 大疆诉美国国防部上诉案件相关判决与报道\n• 本文比较的案件涉及旧第1237条、现行1260H制度、政府采购立法及专门立法等不同法律基础。表格比较的是法院审查空间和企业应对方式，不是同一种案件的胜负统计。",
+   "impact": "",
+   "publish_time": "2026-08-31T12:16:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788149713667-%E5%A4%A7%E7%96%86%E5%88%9A%E6%8A%8A%E5%AE%98%E5%8F%B8%E6%89%93%E5%9B%9E%E9%87%8D%E5%AE%A1.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22691,
+   "title": "从中国买苏-27到普京开中国心“伏尔加”：35年来中俄互换了位置",
+   "summary": "【一句话判断】普京试驾的俄罗斯老牌“伏尔加”K50，被俄罗斯汽车媒体和认证资料指向吉利Monjaro平台。上世纪90年代，中国从俄罗斯购买战机和重型装备；近35年后，中国成熟的民用工业体系开始帮助俄罗斯复活国民品牌。一辆车照出了中俄关系中最深刻的变化。",
+   "heat": 93.0,
+   "category": "时政",
+   "story": "8月28日，普京在下诺夫哥罗德坐进一辆“伏尔加”K50，亲自开过厂区，又在车头签下名字。\n\n克里姆林宫发布的消息很简洁：新车已经在俄罗斯量产，普京认为车内安静、操控轻巧，甚至可以“一根手指”转动方向盘。\n\n俄罗斯人对“伏尔加”三个字却有更复杂的感情。它曾是苏联官员、公务车队和社会地位的象征，黑色车身上的金鹿标志，装着一个工业大国对自己的想象。\n\n如今金鹿回来了，车身里面却装着另一段历史。\n\n俄罗斯官方没有公开点名技术合作方，但当地车型认证信息、参数对照和多家汽车媒体均将K50指向吉利Monjaro平台。两者车身尺寸、轴距、动力总成和外观高度接近。俄罗斯《生意人报》甚至把这次品牌复活概括为：从生产Geely Monjaro开始。\n\n普京开的是一辆俄罗斯品牌汽车，撑起它的成熟平台却来自中国。\n\n把时间拨回上世纪90年代，画面几乎完全相反：中国需要俄罗斯的战机、防空系统、发动机和重型工业经验，俄罗斯人则把中国商品与边境小商品市场联系在一起。\n\n近35年过去，一辆重新上路的“伏尔加”，把中俄两国换过的位置摆到了方向盘前。\n\n苏联解体时，中国最想买的是俄罗斯的重工业\n\n1991年苏联解体，俄罗斯继承了庞大的军工体系、核力量、能源资源和大量科研人才，也继承了计划经济断裂后的工业危机。\n\n中国当时正处在另一条发展线上。改革开放释放了制造活力，轻工业和消费品开始扩张，可航空发动机、先进战机、防空系统和许多重型装备仍有明显差距。\n\n1990年代，中国引进苏—27战斗机及其生产技术，随后又采购防空系统、舰艇和其他俄制装备。俄罗斯需要外汇维持军工企业，中国需要用成熟装备迅速补上国防和工业短板。\n\n那时两国的经济互补非常直白：\n\n• 俄罗斯向中国出售能源、原材料、军工产品和重型技术；\n• 中国向俄罗斯输出服装、鞋帽、食品和日用消费品；\n• 俄罗斯提供中国暂时造不出的“大国重器”，中国填补俄罗斯商店里短缺的日常商品。\n\n这段贸易也留下过灰暗记忆。边境倒卖、质量参差和短期逐利，让不少俄罗斯消费者长期把“中国制造”与廉价商品联系在一起。政治关系不断升温，民间商业信任却要用很多年重建。\n\n中俄关系随后逐级稳定：1992年相互确认为友好国家，1996年建立战略协作伙伴关系，2001年签署《中俄睦邻友好合作条约》，2019年提升为新时代全面战略协作伙伴关系。\n\n条约解决的是长期相处的政治框架。真正改变两国经济位置的，是中国制造业在此后二十多年里的急速生长。\n\n俄罗斯守住了能源和军工，中国长出了完整的民用制造体系\n\n苏联解体重创俄罗斯汽车工业。计划订单和财政支持消失，外国新车、二手车和后来进入俄罗斯设厂的欧美日企业一起冲击本土品牌。\n\n伏尔加的命运就是缩影。1956年诞生后，它长期承担公务和中高档轿车角色；进入市场竞争时代，老旧平台、成本和产品迭代问题集中暴露。传统伏尔加轿车最终在2010年前后停产。\n\n俄罗斯并非没有尝试借助全球化重建汽车业。大众、雷诺、福特、丰田等企业曾进入俄罗斯设厂，本地市场一度形成俄罗斯品牌、西方品牌、日韩品牌共同竞争的结构。\n\n可这种复苏大量依赖外国平台、零部件和投资。2022年以后，西方汽车企业集中暂停业务或退出，俄罗斯才发现：厂房还在，品牌还在，维持现代乘用车生产所需的平台、电子系统、零部件和供应链却断了。\n\n同一时期，中国完成了另一场工业跃迁。\n\n中国汽车企业从学习合资技术起步，逐步建立发动机、变速箱、电池、电驱、智能座舱、辅助驾驶和整车开发能力。中国不再只向俄罗斯出口便宜商品，也开始输出汽车、机械、电子设备和生产方案。\n\n2021年，中国品牌在俄罗斯新车市场仍是少数；西方企业撤离后，份额迅速上升。俄罗斯汽车分析机构的不同统计口径略有差异，但趋势一致：2024年至2025年，中国品牌一度占据俄罗斯新乘用车市场一半以上。到了2026年，部分中国车型又换上俄罗斯或白俄罗斯品牌，在当地组装销售，单看车标反而会低估中国技术的实际存在。\n\n伏尔加K50正是这种变化的产物。厂房位于俄罗斯，品牌属于俄罗斯，工人和部分生产环节也在俄罗斯；支撑新车迅速上市的成熟车型基础，则被俄罗斯媒体指向中国。\n\n过去俄罗斯向中国出售短期内造不出的重型装备；现在中国向俄罗斯提供短期内补不齐的民用工业能力。\n\n中俄没有简单互换强弱，而是形成了新的依存结构\n\n把这辆车解释成“俄罗斯工业被中国接管”，同样过于简单。\n\n俄罗斯依然拥有世界级的核力量、军工基础、能源储备、航天能力和基础科研积累。中国在部分航空发动机、军用技术和资源供应上，仍然重视与俄罗斯合作。两国政治关系也不是由一辆汽车决定的。\n\n真正发生变化的是经济结构。\n\n2024年中俄贸易额达到约2448亿美元。俄罗斯对华出口仍以石油、天然气、煤炭、金属和农产品为主；中国对俄出口则越来越集中于汽车、机械、电子设备和其他工业制成品。\n\n这意味着两国都离不开对方，但需要对方的方式不同：\n\n俄罗斯更需要中国的部分中国更需要俄罗斯的部分汽车、电子、机械和消费品供应石油、天然气、煤炭和部分矿产市场、融资结算与替代性供应链稳定的北方能源通道西方企业退出后的工业平台和零部件战略纵深与欧亚大陆合作空间本地化生产所需的成熟民用技术部分军工、航天和基础科研合作\n\n中国的优势主要集中在产业规模、制造效率和产品迭代；俄罗斯的筹码集中在资源、安全能力和地缘政治。双方关系更加紧密，也出现了更明显的不对称。\n\n俄罗斯当然看得见风险。它不断提高进口车成本，推动本地组装，设定本地化要求，鼓励中国车型换用俄罗斯品牌，目的就是把市场份额逐步换成工厂、就业、税收和技术能力。\n\n对中国企业而言，俄罗斯也不是一块可以毫无顾忌扩张的市场。制裁风险、结算问题、政策变化、汇率波动和本地化要求都可能吞掉利润。汽车进入俄罗斯很快，建立长期品牌和稳定售后网络却要慢得多。\n\n“伏尔加”复活，证明合作已经进入最难的一层\n\n能源贸易很容易看懂：俄罗斯卖油气，中国付款。\n\n真正深入的工业合作更复杂。它会进入品牌归属、技术转让、零部件比例、工厂控制、利润分配和制裁风险。双方都会合作，也都会防止自己过度依赖对方。\n\n伏尔加K50因此比一张试驾照片更重要。\n\n它既是中国汽车工业的成绩，也是俄罗斯工业困境的提醒；既说明中国技术已经能够支撑另一个大国复活老品牌，也说明俄罗斯正在努力把中国供应链转化成本国生产能力。\n\n上世纪90年代，中国从俄罗斯买战机，解决的是“现在还造不出来”的问题；今天，俄罗斯借中国平台造汽车，解决的也是同一道题。\n\n近35年间，中俄政治上从结束对峙走向战略协作，经济上则从俄罗斯输出技术、中国输出轻工品，走到了俄罗斯输出能源、中国输出工业品。\n\n普京握住方向盘时，一根手指就能让K50转向。中俄关系的方向显然没有这么轻巧。\n\n它由历史、安全、能源、制造业和共同面对的外部压力一起推动。那辆重新挂上金鹿车标的汽车，只是把这场漫长变化浓缩成了一个人人看得见的瞬间：\n\n俄罗斯最有象征意义的老品牌之一，正在借中国制造重新上路。\n\n来源与口径说明\n\n• 俄罗斯总统府：普京访问下诺夫哥罗德汽车产业集群并试驾VOLGA K50\n• 俄罗斯《生意人报》：VOLGA品牌复活将从生产Geely Monjaro开始\n• 俄罗斯《生意人报》：首辆俄中合作VOLGA K50交付\n• 俄罗斯《俄罗斯报》：VOLGA K50上市及本地化讨论\n• 俄罗斯汽车研究机构NAPI：按实际技术来源计算中国汽车在俄市场份额\n• 中国外交部：中国同俄罗斯的关系\n• 商务部：中国与俄罗斯2024年双边贸易资料\n• 世界银行：苏联解体后俄罗斯汽车工业与外资进入\n• VOLGA官方没有在公开介绍中直接确认吉利为技术合作方。本文关于K50与Geely Monjaro关系的表述，依据俄罗斯商业媒体、车型认证参数及行业报道，并据此使用“被指向”“俄罗斯媒体认为”等口径。",
+   "impact": "",
+   "publish_time": "2026-08-31T12:16:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788149565483-%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%B9%B0%E8%8B%8F%E5%88%B6%E6%88%98%E6%9C%BA.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22724,
+   "title": "医保支付3.0版引入“特例单议”：复杂患者不该成为医院负担",
+   "summary": "国家医保局围绕DRG/DIP 3.0版分组方案的特例单议机制举行座谈。该机制针对住院时间长、费用高、使用新药新耗材新技术、复杂危重症或多学科诊疗等病例，允许医院单独申报并调整支付标准。3.0版计划于2027年1月执行。",
+   "heat": 92.0,
+   "category": "时政",
+   "story": "按病种付费的基本逻辑，是医保不再简单按照医院用了多少药、做了多少检查逐项买单，而是根据疾病和治疗复杂程度，设定相对标准化的支付额度。\n\n它有助于减少过度检查和不合理用药，却也带来一个现实问题：同一种疾病，有的患者病情简单，有的患者伴随多种并发症；如果都按照同一个标准支付，医院治疗复杂患者可能承担更高成本。\n\n特例单议就是为这种“平均数装不下的病例”留下出口。医院可以对符合条件的病例单独申报，由医保经办机构组织审核。符合要求的，可调整支付标准或采取其他合理补偿方式。\n\n这项机制对患者最重要的意义，不是个人报销比例立刻提高，而是减少医院因为控费压力而回避复杂病例、新技术或高成本治疗的可能性。\n\n当然，出口开得太窄，医院仍可能不愿申报；开得太宽，又可能让常规病例包装成“特例”，削弱控费效果。3.0版此前共收到约3.5万条意见建议，其中有效意见约3万条，说明医院和临床科室对分组、编码和支付标准高度关注。\n\n接下来应观察特例申请是否方便、审核需要多长时间、各地通过率差异多大，以及新药和新技术进入特例后能否逐步纳入常规分组。\n\n医保支付改革不能只追求平均成本最低，还要保证最复杂、最需要治疗的人不被平均数排除。",
+   "impact": "",
+   "publish_time": "2026-08-31T15:38:51",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788162266182-%E5%8C%BB%E4%BF%9D%E6%94%AF%E4%BB%983.0%E7%89%88%E5%BC%95%E5%85%A5%E2%80%9C%E7%89%B9%E4%BE%8B%E5%8D%95%E8%AE%AE%E2%80%9D.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22725,
+   "title": "沪市净利润增长17.6%：八成利润仍集中在上证180公司",
+   "summary": "2026年上半年，沪市2318家公司合计营业收入26.22万亿元，同比增长6.3%；净利润2.82万亿元，同比增长17.6%，增速创2022年以来新高。近八成公司盈利，但上证180公司贡献了约83.7%的净利润。",
+   "heat": 91.0,
+   "category": "财经",
+   "story": "这组数据说明沪市整体盈利明显改善，但也展示了一个容易被忽略的事实：盈利和增长并不是同一个概念。\n\n近八成公司盈利，意味着多数公司没有亏损；但净利润实现同比增长的公司只有924家，占2318家的约39.9%。另有339家公司利润增幅超过50%，142家公司扭亏为盈。市场的亮点更加集中在部分行业和头部公司。\n\n上证180公司上半年实现净利润2.36万亿元，占沪市公司净利润总额约83.7%。这说明金融、能源和大型制造企业仍是利润增长的主要压舱石。指数层面的高增长，未必能完整代表中小市值公司的经营体感。\n\n值得关注的是实体制造业。沪市实体类公司上半年营收增长4.5%，净利润增长19.3%；第二季度净利润同比增长23.9%。利润增速显著高于收入，可能来自产品结构改善、原材料成本变化、费用控制和部分行业景气回升，需要进一步按行业拆解。\n\n对投资者而言，比“净利润增长17.6%”更重要的是增长质量：利润是否来自主营业务，经营现金流是否同步改善，应收账款和存货有没有异常上升，以及增长能否延续到下半年。\n\n沪市半年报释放的是复苏和结构改善信号，但这轮增长仍由头部公司主导，尚未均匀传导到所有上市公司。",
+   "impact": "",
+   "publish_time": "2026-08-31T15:38:51",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788162592230-%E6%B2%AA%E5%B8%82%E5%87%80%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF17.6%25.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22694,
+   "title": "中国团队在3.3公里外看见拐角后目标：一面普通墙变成一面“镜子”",
+   "summary": "【一句话判断】中国科学院光电技术研究所团队利用墙面反射的微弱光子，在3.3公里外重建被遮挡目标，采样约3分钟，空间分辨率优于3厘米。它不是穿墙透视，而是把一面普通墙变成光的中转站，再用算法从散射信号中还原目标。",
+   "heat": 91.0,
+   "category": "科技",
+   "story": "站在一面墙前，目标藏在墙后，眼睛、相机和望远镜都失去了直线视野。\n\n中国科学家却从墙上收回了一束几乎已经被打散的光，再用它重建出3.3公里外的隐藏目标。\n\n这是公里级的外场距离。实验采样约3分钟，重建图像的空间分辨率优于3厘米。\n\n这不是科幻电影里的“透视眼”，激光也没有穿过墙。研究团队做了一件更巧妙的事：让墙面替相机拐了一个弯。\n\n中国科学院光电技术研究所近日介绍，王泽伟、李晓寅、郭迎辉、罗先刚等科研人员把激光反射层析成像引入非视域成像，在距离、速度和精度之间打开了新的空间。成果发表于《光电科学》，论文披露的实验结果显示，与传统扫描方案相比，室内实验的空间分辨率提高约2倍，成像速度提高约91倍。\n\n![非视域成像怎样利用墙面重建隐藏目标](/Users/weicheng/Documents/共晓工作台/新闻故事会/成果输出/2026-08-31/images/非视域成像原理示意图.png)\n\n墙没有变透明，光学系统学会了“借墙转弯”\n\n我们平时看见一个物体，依赖的是直来直去的光：阳光或灯光照到物体，物体反射的光进入眼睛或镜头。\n\n物体躲到拐角后，这条直线被切断了。可光并没有完全消失，它还会在墙面、目标和周围环境之间多次反射。只是每次反射都会让能量迅速衰减，方向也被打乱，最后回到探测器的只剩极少量光子。\n\n过去的非视域成像通常要让激光在墙面上逐点扫描。扫描点越多，收集的信息越完整，耗时也越长；想拍得快，画面又容易变粗糙。\n\n中国团队的新方法省掉了大面积逐点扫描。\n\n激光先照向一面普通的漫反射墙。墙面像一个天然扩束器，把光撒向隐藏目标；目标反射的光再次回到墙面，其中极少一部分最终进入单点探测器。目标在实验中旋转，留下多个角度的光学投影，算法再像医院CT重建断层图像一样，把这些投影组合成目标轮廓。\n\n方法怎样获取信息主要难点普通相机直接接收目标反射光遮挡后失去视线传统扫描式非视域成像激光逐点扫描中继墙面扫得细就慢，扫得快就粗激光反射层析成像墙面扩散光束、单点接收，利用多角度投影重建目前仍依赖目标转动和计算重建\n\n墙还是那面墙，变化发生在探测器和计算方法里。以前散射光被当成杂乱无用的噪声，现在科学家开始从噪声中把信息一层层捞回来。\n\n3.3公里、3分钟、3厘米，三个数字放在一起才重要\n\n单独做到其中一项，并不稀奇。\n\n近距离看见拐角后目标，国际上已有多年研究；远距离激光探测也并非新概念；层析算法更早已用于医学成像和工业检测。\n\n这项研究的推进，在于把三项能力放到同一场外场实验里：距离达到3.3公里，采样时间约3分钟，空间分辨率优于3厘米。\n\n远距离非视域成像很难，因为光每多反射一次，能够被探测的信号就急剧减少。3.3公里的传播还要面对大气扰动、背景光和设备噪声。最终抵达探测器的光子好比在人声鼎沸的体育场里传来的一句低语，系统既要听见，还要判断这句话从哪里来。\n\n团队用光学系统收集信号，再用层析算法完成重建。这里真正显示出来的，是中国光学工程、单光子探测和计算成像共同进步后的系统能力。\n\n它今天还看不了静止的人，明天却可能进入真实世界\n\n这项实验有一条必须讲清楚的边界：目标需要旋转，以便产生多个角度的投影。\n\n因此，它目前无法像摄像机一样，实时观察拐角后一个完全静止的人；约3分钟采样也谈不上行驶汽车的实时感知。把它说成“隔墙监控”或者“千里眼已经投入使用”，都会夸大研究状态。\n\n可一项新技术的价值，往往不只看它今天能不能直接装上汽车，还要看它打开了哪条路。\n\n• 地震、塌方和火灾救援中，探测视线之外的障碍物或目标；\n• 工业管道、复杂设备和封闭空间中，检查镜头无法直视的结构；\n• 自动驾驶和机器人领域，提前获得拐角后的环境信息；\n• 远距离安全观测中，在不能直接架设相机的位置获取目标线索。\n\n下一步的考题很明确：让系统应对静止或自由运动的目标，把分钟级采样压缩到秒级甚至实时，提高复杂天气和复杂背景下的稳定性，并缩小设备体积。\n\n这些难题不会因为一次实验自动消失，但中国团队已经证明，公里级非视域成像可以同时向更快、更清晰推进。\n\n人类正在给机器补上一种眼睛没有的能力\n\n照相机诞生后的很长时间里，它做的都是模仿眼睛：焦距更长、画面更清楚、弱光下看得更远。\n\n计算成像改变了这条路线。机器不再只记录镜头前直接到达的光，也开始利用人眼主动忽略的散射、相位和时间信息。相机由“拍到什么算什么”，走向“从光留下的线索中重建发生过什么”。\n\n这也是中国科研值得振奋的地方。我们正在推进的并非一只更贵的镜头，而是一种新的观察方法：把普通墙面变成光学中继站，把几乎淹没在噪声里的光子变成可计算的数据。\n\n今天，它在3.3公里外重建了一个旋转目标。未来，当速度、稳定性和设备成本继续跨过工程门槛，救援人员、工业机器人和无人系统就可能多出一双能够“看过拐角”的眼睛。\n\n墙仍然挡在那里，中国科学家已经让光找到了绕过去的路。\n\n来源与口径说明\n\n• 中国科学院：激光反射层析实现3.3公里距离下无扫描的高分辨非视域成像\n• 《光电科学》论文：Breaking the speed-resolution trade-off in 3.3-km non-line-of-sight imaging using scanning-free laser reflective tomography\n• 论文新闻稿与实验信息\n• 本文使用的3.3公里、约3分钟、优于3厘米、速度提高约91倍和分辨率提高约2倍，均来自论文及中国科学院公开介绍。\n• “看见拐角后目标”指依据多次散射光重建遮挡目标，不等于激光穿透实体墙；现阶段外场实验依赖目标旋转产生多角度投影。",
+   "impact": "",
+   "publish_time": "2026-08-31T12:16:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1788149477143--.png",
+   "source": "日知录"
+  },
+  {
+   "id": 22726,
+   "title": "暑运多项客流纪录刷新：学生流增长44.6%，同时反映三种变化",
+   "summary": "2026年暑运于8月31日结束。现有公开材料显示，多地机场和铁路客流创下阶段性纪录，铁路学生客流同比增长44.6%；但全国铁路、民航和公路最终汇总数据尚未完整发布，地方纪录不能直接相加成为全国结论。",
+   "heat": 89.0,
+   "category": "时政",
+   "story": "学生客流增长44.6%，可能同时反映三种变化：学生优惠票购买和核验更加便利，研学、实习和跨城活动增加，以及开学时间与暑期旅游客流叠加。\n\n机场纪录则说明暑期出行需求仍然旺盛。广州白云机场曾在8月15日保障约1909架次航班、运送约30.9万人次旅客，大连机场也刷新单日旅客吞吐量纪录。但单日峰值主要体现机场在极端高峰下的保障能力，不等于整个暑运平均增长同样快。\n\n作为参照，2025年全国民航暑运运输旅客1.47亿人次，日均约237万人次，平均客座率84.8%。判断2026年是不是一个更强的暑运，应等民航局公布累计旅客量、航班量、客座率和航班正常率，再与这一基数比较。\n\n对普通旅客而言，客流增长带来的影响不只在机票和火车票是否紧张，还包括热门机场夜间交通、极端天气下的退改签能力，以及学生返校高峰与旅游返程高峰重叠时的运力安排。\n\n暑运纪录的真正价值，不是证明“大家更爱旅游了”，而是检验交通系统能否在需求峰值和极端天气同时出现时保持稳定。",
+   "impact": "",
+   "publish_time": "2026-08-31T15:38:51",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788162897491-%E6%9A%91%E8%BF%90%E5%A4%9A%E9%A1%B9%E5%AE%A2%E6%B5%81%E7%BA%AA%E5%BD%95%E5%88%B7%E6%96%B0.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22695,
+   "title": "往云里撒海盐，地球可能降温0.9℃：中国团队模拟“云端遮阳伞”",
+   "summary": "【一句话判断】中国科研团队模拟在三个副热带海域喷射海盐气溶胶，使低云变得更明亮。模型显示，到本世纪末全球平均温度可能降低约0.9℃，陆地旱情总体缓解；但南美洲东部和亚欧大陆部分区域可能更加干旱。它展示了人类调节气候的可能，也把国际治理难题提前摆到桌面上。",
+   "heat": 89.0,
+   "category": "科技",
+   "story": "给地球降温，科学家设想过很多听起来像科幻小说的办法。\n\n有人研究把反光颗粒送入高空，有人设想在太空布置遮阳装置。还有一种方案，原料就在脚下的大海里：把海水制成极细的海盐微粒，喷向海面上方的低云。\n\n盐并不是用来融化云，也不是让天空“下咸雨”。它要完成的任务，是帮助云层生成更多、更小的水滴，让云变得更白，把更多阳光反射回太空。\n\n浙江大学曹龙团队与新疆大学姜玖团队近期在《中国科学：地球科学》发表研究。他们利用地球系统模式，模拟在三个副热带海洋区域实施“海洋云增亮”。结果显示，在设定情景下，到本世纪末，全球平均温度可能比未实施方案时降低约0.9℃，陆地干旱的强度、烈度和频率总体下降。\n\n0.9℃看起来只是温度计上不到一格的变化。放到全球气候系统里，它足以改变蒸发、降雨、土壤水分和大片农业区的旱情。\n\n这项研究展现了一种令人振奋的科学可能：人类或许能够利用海洋和云层已有的物理规律，为极端气候增加一道缓冲。\n\n它也给出了一条重要警告：这把“遮阳伞”能够给全球降温，却不能保证每个地方都得到同样的阴凉。\n\n![海洋云增亮的原理与区域差异](/Users/weicheng/Documents/共晓工作台/新闻故事会/成果输出/2026-08-31/images/海洋云增亮原理与区域差异示意图.png)\n\n海盐没有改变太阳，只让云层多反射一点阳光\n\n一朵云由无数微小水滴组成。水汽需要依附在尘埃、盐粒等“云凝结核”上，才能形成云滴。\n\n在云中液态水总量相近的情况下，凝结核增加，水就会被分配到更多云滴上。云滴数量变多，平均尺寸变小，云层通常会反射更多短波太阳辐射，看起来也会更明亮。\n\n海洋云增亮设想使用船舶或海上平台，把海水雾化成特定尺寸的海盐微粒，再送入适合的低层海洋云。\n\n这个原理并非凭空想象。卫星经常能在海面云层中看到一条条明亮的“船迹云”：船舶排放的颗粒进入云层，改变云滴数量和大小，沿航线留下比周围更亮的云带。科学家由此获得了理解气溶胶如何影响云层的天然样本。\n\n1990年，英国物理学家约翰·莱瑟姆系统提出利用类似机制增加海洋云反射率。三十多年后，人类仍未掌握一套可以放心部署的工程方案，却已经能够利用卫星、外场实验和越来越精细的地球系统模型，追问它到底会怎样改变世界。\n\n中国团队算的不只是温度，还包括世界各地会不会更旱\n\n这次研究没有在真实海域大规模喷盐。团队使用的是CESM2地球系统模式，在SSP2-4.5中等排放路径下开展多成员集合模拟。\n\n模拟喷射区域位于三个副热带海洋区，合计约占全球海洋面积12%。模型把海洋、云、大气、陆地温度、蒸发和降水连接起来，一直计算到本世纪末。\n\n结果显示，海洋云增亮带来的降温会降低陆地潜在蒸散发。通俗地说，空气和土地没有那么热，水分被“抽走”的速度就会减慢。因此，从全球平均水平看，干旱强度、烈度、频率和受影响面积都有所下降。\n\n不同地区的结果却出现明显分化：\n\n模型中的区域变化可能表现非洲萨赫勒地区、南亚、澳大利亚等旱情总体缓解，部分区域甚至出现“过度补偿”南美洲东部、亚欧大陆部分区域旱情反而可能加重全球平均温度降低约0.9℃，陆地干旱总体缓解\n\n原因在于，气候不是一台只带总开关的空调。一个海区云层变亮，会改变海陆温差、大气环流和水汽输送；一个地方少吸收的太阳能量，可能通过环流把影响传到遥远大陆。\n\n全球平均值变好，与每个国家都受益，是两件不同的事。\n\n这正是中国团队这项研究的重要增量。它没有停在“能降多少温”，而是继续追问：降温以后，水会去哪里，哪些地区会更安全，哪些地区可能承担代价。\n\n这不是替代减排的捷径，而是一项必须提前研究的能力\n\n海洋云增亮不会移除大气中的二氧化碳。\n\n即使云层暂时反射更多阳光，海洋酸化等由二氧化碳浓度上升直接引起的问题仍然存在。如果人类用它抵消大量升温，却没有同步减排，一旦工程突然停止，积累的温室效应可能在较短时间内迅速显现。\n\n它还面临一长串工程问题：海盐颗粒应该多大，喷到多高，怎样进入正确的云；云层会不会变薄或消散；盐粒会怎样影响大气化学、臭氧和海洋生态；成千上万套海上装置怎样运行，成本由谁承担。\n\n更难的是国际问题。\n\n如果甲国在公海上让云层变亮，乙国的降雨随之改变，谁来证明因果？谁有权批准？受到不利影响的地区如何获得补偿？设备启动容易，谁又拥有停止它的权力？\n\n美国国家科学院等机构此前建议谨慎推进太阳辐射干预研究，同时建立透明登记、公众参与、国际协调和风险评估机制。研究的意义在于认识选项和风险，而不是为仓促部署开出许可证。\n\n能够认真研究“地球开关”，本身就是科学能力的进步\n\n面对气候变化，人类最可靠的主线仍是减少温室气体排放、提高能源效率、建设清洁能源体系，并增强城市、农业和基础设施的适应能力。\n\n与此同时，我们也需要理解那些可能在极端情况下被讨论的技术。因为真正危险的局面，不是科学家把问题研究得太清楚，而是某一天气候压力突然增大，世界却对技术效果、副作用和治理规则一无所知。\n\n中国团队此次完成的是模型研究，不是工程部署。它既没有宣布人类已经能够控制天气，也没有许诺用海盐解决全球变暖。\n\n它做了一件更扎实的事：把一项宏大的气候设想拆成可以计算、比较和质疑的科学问题。\n\n三个海区、约12%的海洋面积、约0.9℃的全球平均降温，以及一张并不均匀的世界旱情变化图——这些结果提醒我们，人类正在靠近影响行星尺度气候的技术门槛，也必须同步建立行星尺度的责任感。\n\n未来的气候安全，不只取决于我们能造出多强的机器，还取决于我们能否在启动机器之前，把世界可能发生的变化算得更清楚。\n\n来源与口径说明\n\n• 论文：全球陆地干旱对海洋云增亮的响应\n• 《中国科学》杂志社研究介绍\n• NOAA：海洋云增亮的原理与太阳辐射干预研究现状\n• 美国国家科学院：Reflecting Sunlight研究与治理建议\n• NOAA：船迹云与海洋云增亮机制\n• 约0.9℃为CESM2模型在SSP2-4.5情景下得到的本世纪末模拟结果，不是已经观测到的降温，也不是任何现实工程的效果承诺。\n• 文中“旱情缓解”指模型中的干旱强度、烈度、频率等指标总体变化；区域结果存在明显差异。",
+   "impact": "",
+   "publish_time": "2026-08-31T12:16:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1788149477921--.png",
+   "source": "日知录"
+  },
+  {
+   "id": 22692,
+   "title": "贵阳“奶奶食堂”办了12年：平均65岁志愿者照顾比自己更老的人",
+   "summary": "【一句话判断】贵阳一群老人从2014年开始为社区老人做饭，如今已建成5个公益互助服务点和2个社区养老服务站，累计助餐超过226万人次。它最可贵的地方不只是善意，而是把低龄老人、高龄老人、年轻员工、政府购买服务和社会捐助组织成一套运行了12年的互助系统。",
+   "heat": 89.0,
+   "category": "社会",
+   "story": "65岁的王天能每天上午11点备好饭盒，给社区里的高龄、独居老人送午餐。\n\n他曾经也是来食堂吃饭的人。因为饭菜方便、价格合适，他先成为受助者，后来报名当志愿者，一干就是3年。\n\n做饭、洗碗、打包、送餐的人中，很多和他一样已经退休。106名常驻志愿者平均年龄约65岁，年纪最大的90岁；其中58人是70岁以下、身体较好的“低龄老人”。\n\n他们在贵阳办出了一家很特别的“奶奶食堂”：\n\n一群已经步入老年的人，开始照顾比自己更老、身体更弱的人。\n\n这件事已经坚持12年。\n\n几位退休老人点起的灶火，做出了226万人次餐食\n\n2014年，几位退休老人在贵阳自发开展助老服务。最初要解决的问题非常具体：社区里有些老人年纪大了，买菜、做饭和下楼吃饭越来越困难。\n\n一顿热饭看起来简单，背后却连着老人最基本的生活能力。\n\n独居老人今天有没有按时吃饭，送餐员一敲门就知道；老人身体是否异常，熟悉的志愿者比一次偶然上门更容易发现；吃完饭有人聊天、参加活动，又能缓解长期独居带来的孤独。\n\n12年后，这个项目已经在贵阳4个辖区建成5个公益互助服务点、2个社区养老服务站，累计提供助餐服务超过226万人次，上门送餐8.7万人次，参与志愿服务超过33万人次。\n\n服务内容也从吃饭扩展到生活照料、健康关怀、精神陪伴和兴趣活动。\n\n这组数字最重要的地方在于时间。一次送饭可以依靠热情，一场公益活动可以依靠宣传；226万人次餐食需要每天买菜、做饭、洗碗、记账、排班和解决临时缺人。\n\n善意坚持一天是感动，坚持12年就必须变成组织能力。\n\n“低龄老人帮助高龄老人”，补上了家庭与机构之间的空档\n\n中国老龄化正在同时制造两种老人。\n\n一类人刚刚退休，身体健康，有时间、有经验，也希望继续参与社会；另一类人进入高龄、失能或独居阶段，对送餐、陪伴和日常照料的需求迅速增加。\n\n传统养老容易把老人统一视为被照顾者。“奶奶食堂”把这群人重新分开：身体较好的老人依然是社区的重要劳动力，也可以在帮助别人时建立新的生活节奏和社会关系。\n\n这种模式的价值，不是让退休老人免费承担本应由公共服务完成的工作。它真正补上的，是家庭照顾和专业养老机构之间那块巨大的日常空档。\n\n子女可以承担主要责任，却很难每天中午赶回家送饭；养老机构能照护失能老人，却不可能覆盖每一位仍在家中生活的老人；普通外卖可以把饭送到门口，却不会顺便看一眼老人今天是否摔倒、是否生病、是否几天没有和人说话。\n\n熟悉社区的银发志愿者恰好能完成这些细小而高频的工作。\n\n更重要的是，受助者与服务者之间可以转换。有人先来吃饭，身体允许后加入送餐；有人受到照顾，家人再成为志愿者。70岁的任良媛带动一家四代七八口人参与服务，90岁的母亲也会到食堂帮忙。\n\n养老由此不再只是年轻人单向供养老人，而是社区成员在人生不同阶段互相接力。\n\n食堂能够坚持12年，靠的不是一句“献爱心”\n\n“奶奶食堂”能够坚持12年，靠的是一套比自带食材、自愿劳动更完整的支撑系统。\n\n公开资料显示，它建立了五类资金来源：企业理事单位提供场地和资金；社会捐赠物资与善款；就餐老人和志愿者自发互助捐赠；承接省级福彩公益金项目和政府购买服务；通过公益基金会开展线上募捐。\n\n机构每月公示财务账目，目前整体收支基本平衡。街道、社区、物业和社区卫生服务中心也参与健康义诊、反诈宣传和手机教学等服务。\n\n这套结构揭示了社区互助养老能够长期运行的条件：\n\n必要条件具体作用稳定场地和合格厨房保证餐饮安全，决定服务点能否真正落地持续资金支付食材、水电、设备和全职人员成本银发志愿者提供熟人社会中的日常服务和陪伴年轻全职员工承担管理、后勤、募资、传播和专业应急工作政府与社区支持购买服务、协调资源并连接真正有需要的老人\n\n少掉任何一项，项目都容易退回到偶尔办活动、节日送温暖的状态。\n\n这家食堂已经遇到下一道难题：照顾人的老人也在变老\n\n12年过去，最早加入的银发志愿者逐渐进入高龄阶段。机构目前最担心的是志愿者断层：愿意长期参与、身体条件允许的低龄老人补充速度不够快。\n\n另一个限制来自场地。养老助餐点需要合格的厨房面积、排烟、下水和消防条件，一些社区即使愿意合作，也找不到符合标准的空间。\n\n这提醒人们，“奶奶食堂”很值得学习，却无法仅凭号召复制。\n\n一个城市如果希望建立更多互助食堂，需要提供可持续的场地、政府购买服务、食品安全管理、志愿者保险、专业社工和全职运营人员。银发志愿者可以贡献时间和经验，公共责任仍要由制度托住。\n\n未来判断这一模式能否扩展，可以观察三个数字：每个服务点有多少稳定志愿者，政府购买服务和社会资金能否覆盖固定成本，新增社区能否找到符合餐饮标准的场地。\n\n“奶奶食堂”最动人的画面，是一位老人把热饭送到另一位老人门前。\n\n它真正值得城市学习的，却是画面背后的12年：老人参与、年轻人接棒、政府购买服务、社区提供空间、社会资金补位，每一方都承担一小段责任，最后把一顿饭稳定送到需要的人手里。\n\n养老社会最可靠的答案，是把已经存在的善意组织起来，让今天帮助别人的人，明天也有人接住。\n\n来源与口径说明\n\n• 工人日报、新华网：“奶奶食堂”运行12年的人员、服务量与运营机制\n• 文中“226万人次”是累计公益助餐服务人次，不等同于226万名不同老人，也不等同于全部免费供餐。\n• “低龄老人帮助高龄老人”是服务模式概括，不意味着用志愿劳动替代政府养老服务或家庭责任。",
+   "impact": "",
+   "publish_time": "2026-08-31T12:16:30",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788149757676-%E8%B4%B5%E9%98%B3%E2%80%9C%E5%A5%B6%E5%A5%B6%E9%A3%9F%E5%A0%82%E2%80%9D%E5%8A%9E%E4%BA%8612%E5%B9%B4.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22728,
+   "title": "雄安集聚百余家AI企业：具身智能下一场比赛在工厂账本",
+   "summary": "雄安新区已引入100余家人工智能重点企业，研发30余个大模型，算力调度平台链接国内算力超过2万P；极智嘉总部落户，梅卡曼德通过港交所上市聆讯。具身智能行业也正从大会演示转向工厂、仓储和城市服务中的规模应用。",
+   "heat": 87.0,
+   "category": "科技",
+   "story": "雄安发展AI产业的优势不只在政策。新区本身仍处于大规模建设和城市运营体系形成阶段，可以开放交通、物流、城市治理和公共服务场景，让企业在真实环境中测试产品。\n\n但企业注册地迁到雄安，并不自动等于产业集群已经形成。真正的产业集聚至少要看四件事：研发团队是否常驻，营收和纳税是否留在当地，上下游供应商是否跟进，以及产品能否在本地场景获得订单。\n\n具身智能机器人尤其需要真实场景。舞台上完成跑步、跳舞和网球表演，证明的是运动控制上限；进入工厂以后，还要面对光线变化、零件差异、连续运行和安全责任。\n\n上海已有项目计划在汽车零部件工厂部署100台机器人，覆盖8类工艺、33种场景和46个工位；广州公布了142项应用机会场景。这些项目比单台样机表演更有意义，因为它们能产生连续数据，暴露机械磨损、误操作和人工接管等真实问题。\n\n判断机器人是否“价值兑现”，可以看五个数字：连续无故障运行时间、任务成功率、人工接管次数、单位任务成本和投资回收周期。如果一台机器人采购和维护成本远高于节省的人工与停机成本，它再灵活也仍是展示品。\n\n雄安能否成为AI产业高地，不取决于落户名单有多长，而取决于这些企业能不能在真实城市和工业场景中跑出收入、数据与供应链。",
+   "impact": "",
+   "publish_time": "2026-08-31T15:38:51",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788162457024-%E9%9B%84%E5%AE%89%E9%9B%86%E8%81%9A%E7%99%BE%E4%BD%99%E5%AE%B6AI%E4%BC%81%E4%B8%9A.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22661,
+   "title": "新修订国防动员法10月施行，明确发展新兴领域力量",
+   "summary": "新修订的国防动员法将于2026年10月1日起施行，新增发展新兴领域国防动员力量等内容。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "据央广网报道，十四届全国人大常委会第二十四次会议表决通过新修订的国防动员法，法律将于2026年10月1日起施行。\n\n新修订国防动员法专门增加规定，国家推进先进技术在国防动员中的应用，发展新兴领域国防动员力量，以适应现代战争形态变化。\n\n修订还围绕国防动员职责、后备兵员储备与征召、战略物资储备与调用、表彰奖励等内容作出完善，强调组织和公民在和平时期依法完成国防动员准备工作。\n\n下一步，军地相关部门将按照职责分工和实际需要，依据新法制定配套政策和实施细则，推动国防动员工作法治化、规范化。",
+   "impact": "国防动员法修订把新兴领域力量纳入制度安排，意味着科技、产业和社会资源动员将更加体系化。\n\n对地方政府、企业和公民而言，后续配套细则会进一步明确哪些准备义务和动员任务需要落实。",
+   "publish_time": "2026-08-31T00:11:26",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1788105562150-17.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22699,
+   "title": "乌兹别克视频现至少6架歼-10CE，或成中国战机第二海外用户",
+   "summary": "外媒称乌兹别克斯坦独立日阅兵视频中出现至少6架歼-10CE，或成为该机型第二个海外用户。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "据《南华早报》等媒体报道，乌兹别克斯坦独立日相关画面中出现疑似中国制造歼-10CE战斗机，引发外界关注。报道援引画面分析称，视频里至少可以看到6架歼-10CE。\n\n如果相关判断属实，乌兹别克斯坦将成为继巴基斯坦之后，歼-10CE的第二个海外用户。歼-10CE是歼-10系列外贸型号，配套航电、雷达和武器系统一直是外界观察中国军机出口竞争力的重要窗口。\n\n目前，乌方尚未以完整采购公告形式公开披露合同金额、交付批次和装备单位，中国相关方面也未就具体交易细节作出进一步说明。因此，报道中的“第二个海外用户”仍属于基于公开画面和外媒信息的判断。\n\n歼-10CE若进入中亚国家空军序列，将使中国先进战机出口的地区分布更广，也会改变外界对中亚国家空中力量现代化路径的判断。",
+   "impact": "军贸消息需要区分“画面出现”和“官方确认”。对读者而言，关键事实是公开视频中至少出现6架疑似歼-10CE，而合同细节尚未公开。\n\n后续可关注乌方阅兵、国防部通报和中国军工企业公开信息，确认交付规模和后续维护训练安排。",
+   "publish_time": "2026-08-31T15:03:46",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1788155604474-02.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22702,
+   "title": "房地产板块多股一字涨停，特发服务盘初20CM快速封板",
+   "summary": "房地产板块集体走强，特发服务20CM涨停，金融街、渝开发等多股一字涨停。",
+   "heat": 86.0,
+   "category": "财经",
+   "story": "8月31日早盘，A股房地产板块集体走强，多只地产及地产服务个股一字涨停。特发服务盘初20CM涨停，金融街、渝开发、香江控股、深物业A、中交地产、天保基建等个股封板。\n\n市场情绪升温，与近期资本市场支持房地产发展新模式的政策信号有关。8月28日，证监会发布关于资本市场做好金融“五篇大文章”的实施意见，其中提到支持房地产市场平稳健康发展，服务构建房地产发展新模式。\n\n不过，板块短线大涨并不等于行业基本面已经完全逆转。房地产企业仍面临销售恢复、存量项目去化、债务压力和城市分化等问题，政策预期与业绩修复之间仍有距离。\n\n从资金面看，市场更关注政策是否继续落到融资、并购重组、保障性住房和城中村改造等具体环节。只有交易预期转化为企业现金流改善，板块行情才更有持续性。",
+   "impact": "房地产板块涨停潮反映的是政策预期和风险偏好改善，但普通投资者需要警惕短线题材快速轮动。\n\n后续重点看上市房企销售数据、融资成本和地方去库存政策，不能把一天涨停简单视为行业拐点。",
+   "publish_time": "2026-08-31T15:03:46",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1788155607842-05.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22696,
+   "title": "浙江公共信用平台归集近66亿条信用信息：它会在哪里影响我们？",
+   "summary": "【一句话判断】公共信用数据可以让证明少跑腿、让融资多一个入口，但从政府平台进入金融和商业场景后，用户必须知道谁在用、为何使用，并能拒绝、撤回和纠错。",
+   "heat": 86.0,
+   "category": "社会",
+   "story": "一句话结论\n\n公共信用数据可以让证明少跑腿、让融资多一个入口；但数据从政府平台进入金融和商业场景后，用户不能只剩下一次点击“同意”的机会，还必须知道谁在用、为何使用，并能拒绝、撤回和纠错。\n\n8月31日，人民日报报道，浙江省公共信用信息平台已对接全国和省市相关业务平台等262个系统，归集近66亿条信用信息。它覆盖1155.54万家企业（含个体工商户）、4518.19万名18周岁以上户籍人口，以及社会组织、事业单位和政府机构等五类主体。\n\n先要纠正一个容易引发恐慌的误读：这不是66亿条“失信记录”，更不是浙江给每个人建立了一个统一的“全民信用分”。报道所说的是基础、守信、失信等多类信息的总量。公共信用档案也不等于人民银行个人信用报告，后者主要记录信贷交易，由人民银行征信系统管理。\n\n真正值得追问的是：这些信息以后会在哪里影响一个人？当它被用于就业应聘、贷款、保险、免押租赁或平台服务时，谁能调用，用户是否真有选择？\n\n为什么先走到这里的是浙江\n\n“阿里总部在杭州”只能解释一部分，而且不是最重要的一部分。\n\n浙江首先有现实需求。民营企业、个体工商户和轻资产企业多，很多经营者缺少房产和抵押物，却有纳税、履约、专利等记录。信用数据能够降低银行识别企业的成本，也能减少经营者反复开证明的成本。\n\n其次是制度积累。浙江从2003年推进“信用浙江”建设，2005年出台省级企业信用信息管理办法，2018年施行公共信用信息管理条例。数据目录、归集责任、查询、异议和修复，都不是突然出现的。\n\n第三是数字政府底座。“最多跑一次”、浙江政务服务网、“浙里办”和省级公共数据平台，给跨部门归集提供了技术条件。2020年的官方报道显示，浙江与阿里合作建设政务服务中台，政务服务升级版建立在阿里云计算基础上。2019年的公开材料还显示，当时成立的数字浙江技术运营有限公司采用国资控股、阿里参股的结构，承担部分数字政府技术运营工作。\n\n但这两件事只能证明阿里参与过技术建设和运营，不能推出“阿里拥有浙江近66亿条信用信息”。建设系统、运维系统、控制数据和形成商业信用评价，是四种不同的权力。\n\n支付宝也是同样。浙江政务服务网页面目前仍列有“浙里办”支付宝小程序入口；支付宝可以是政务服务的入口容器，却不等于支付宝能看到用户在政务系统里的全部信用档案。本次公开页面实测也没有发现近66亿条数据整体进入芝麻信用的证据。\n\n五层关系必须分开看\n\n一条公共信用信息进入商业服务，至少经过五层：政府部门等公共数据源负责产生和提供信息；省公共信用平台负责归集；技术公司提供建设、运维或云服务；经授权的运营机构、征信机构或银行形成信用产品；最后才是贷款、招聘、保险、租赁和平台应用等用户入口。\n\n浙江已经在推进这条链。国家发展改革委2023年介绍，浙江依托省公共信用平台建设社会化应用产品池，在“数据可用不可见”的基础上，为银行、保险、担保和信用服务机构提供数据共享和模型开发服务。2026年仍可访问的浙江公共数据授权运营域，也把“原始数据不出域、数据可用不可见”列为原则。\n\n这条链今天的直接接口也未必首先是支付宝。2025年，杭州市西湖区官方信息显示，持牌个人征信机构钱塘征信成为浙江省公共数据授权运营商，拟在用户授权基础上构建个人数字化信用档案，连接金融、商业和社会服务。这个进展比旧有的“芝麻信用杭州加强版”更接近当前问题：公共数据不必整体交给某个超级平台，也可以通过授权运营、可信空间和征信产品，把核验或评价结果送入不同服务场景。\n\n这是一道重要的安全隔离：市场机构未必能拿走一份明文政务数据库，而可能只得到核验、评分或模型结果。但“看不见原始数据”不等于用户权利问题已经解决。用户仍可能不知道哪一项记录影响了结果，也不知道应该找数据提供部门、模型运营者，还是最终作出拒绝决定的银行或平台。\n\n好处已经出现，代价也可能被放大\n\n公共信用平台最直观的好处是少开证明。浙江已在46个领域推行“信用代证”，累计开具18.6万份专项信用报告，替代458.8万份有无违法违约证明。对企业而言，信用记录还能成为贷款的补充依据；对守信经营者，分级分类监管意味着减少不必要检查；对用户，免押、优惠和更快审批也可能成为可感知的便利。\n\n但同一条信息流转得越远，错误的影响半径也越大。过去一条错误记录可能只卡在一个部门；连接平台后，它可能影响招投标、贷款、保险或其他服务。为监管形成的数据进入招聘或商业定价，目的是否仍然相容；一项“自愿授权”是否因为不授权就无法获得正常服务而变成隐性门槛；政府平台完成修复后，第三方模型是否同步更新——这些不能仅靠“数据已经打通”回答。\n\n授权疲劳也是真实的制度风险。用户往往在急着完成一项服务时面对长协议，很难判断授权对象、数据范围、使用期限和转交对象。任务书提供的芝麻信用协议页面至今可以访问，但正文标明更新于2015年，不能当作2026年的现行授权实践。它最多提醒我们：公共信用平台与商业信用服务之间历史上存在接口设想；至于今天具体调用了什么数据，必须以用户所在场景的现行授权页为准。\n\n新闻背后的故事\n\n数据打通带来的效率收益通常是分散的：多数人少交一份材料、银行少做一次核验、监管部门提高一点效率。可一旦数据错误，损失却会集中落在一个具体的人身上——他要承担解释、申诉、等待和机会流失。\n\n因此，好的公共信用基础设施不能只追求“可用”，还要把一条信息从进入到退出的生命周期做完整：依据什么目录归集，谁对准确性负责；谁因什么目的查询，是否留下记录；错误如何更正，履责后如何修复；数据进入第三方后，更新和删除怎样同步。\n\n“原始数据不出域”解决的是数据泄露风险的一部分；单独明确授权、最小必要、结果可解释、授权可撤回、错误可纠正，解决的是人面对数据应用时有没有真正选择。\n\n常识回归\n\n浙江现行条例已经给出几条可使用的边界。自然人的宗教信仰、基因、指纹、血型、疾病和病史等信息不得归集；收入、存款、有价证券、商业保险、不动产和纳税数额等，未经本人书面同意不得归集。自然人公共信用信息原则上不公开，社会主体查询须提交被查询人的授权证明；信息平台还应记录查询情况。\n\n数据一旦进入商业服务，还要受个人信息保护法约束：收集应限于实现目的的最小范围；向另一个个人信息处理者提供时，应告知接收方、目的、方式和信息种类，并取得单独同意；基于同意处理的，个人有权便捷撤回；自动化决策对个人权益有重大影响时，个人有权要求说明，并拒绝仅由自动化决策作出决定。也就是说，“用户点过同意”不能成为无限复用的通行证。\n\n信息出了问题，要分清两条路：本来就是错的、漏的，或者超过期限仍在披露，走信用异议和复核；记录当时属实，但违法行为已经纠正、义务已经履行，符合条件后走信用修复。不能让用户为政府录错的数据申请“修复”，也不能把信用修复理解成付费洗掉行政处罚事实。\n\n本次实测显示，浙江政务服务网公开搜索结果中仍可找到“浙里信用”和“信用修复‘一件事’”，后者标注服务对象为个人、法人和其他组织。点击“立即前往”会进入浙江政务服务网登录页。浙江2025年官方操作指引显示，电脑端可搜索“浙里信用”，移动端路径为“浙里信用服务—增信服务—信用修复”；登录后从“我的失信信息”选择记录申请修复，并可在“我的修复记录”查询进度。信用中国（浙江）公开页面也保留“信用异议”“异议申请”和“结果查询”栏目。\n\n但由于本次没有浙江实名账号，登录后的个人信用档案、查询记录、授权管理、材料清单和第三方同步状态未能实测。公众办理时，可先通过浙江政务服务网或“浙里办”搜索上述服务；若入口、主体类型或修复结果不同步，可向原信息提供单位、浙江省信用中心或12345核实。不要向声称能收费“洗白”的中介提交身份证件和账户信息，浙江信用修复制度明确不得收费。\n\n浙江的近66亿条信息展示了公共数据能做多大，也把下一道考题摆到了台面上：好的信用治理，不只让守信者更方便、失信者被找到，还要让每一个被记录的人知道谁在用、为什么用，能够拒绝不必要的使用，也能改正错误、走出已经履责的旧记录。\n\n主要来源与核验说明\n\n1. 人民日报：《近66亿条信用信息带来什么——“信用浙江”建设观察》 \n2. 《浙江省公共信用信息管理条例》 \n3. 《浙江省公共信用信息修复管理办法》 \n4. 中共中央办公厅、国务院办公厅《关于健全社会信用体系的意见》 \n5. 国家发展改革委：“信用浙江”数智支撑与社会化应用 \n6. 浙江与阿里建设政务服务“一网通办”升级版 \n7. 信用中国（浙江） \n8. 浙江公共数据授权运营域 \n9. 公共信用信息修复“一件事”操作指引 \n10. 芝麻信用相关协议及授权须知（页面注明协议更新于2015年，仅作历史材料） \n11. 《中华人民共和国个人信息保护法》 \n12. 杭州市西湖区：钱塘征信获批浙江省公共数据授权运营商",
+   "impact": "",
+   "publish_time": "2026-08-31T12:53:23",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788151991890-%E6%B5%99%E6%B1%9F%E5%85%AC%E5%85%B1%E4%BF%A1%E7%94%A8%E5%B9%B3%E5%8F%B0%E5%BD%92%E9%9B%86%E8%BF%9166%E4%BA%BF%E6%9D%A1%E4%BF%A1%E7%94%A8%E4%BF%A1%E6%81%AF.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22705,
+   "title": "全球亿万富翁人数达到3795人，总财富15.1万亿美元创新高",
+   "summary": "Altrata报告显示，2025年全球亿万富翁3795人，总财富15.1万亿美元，均创历史新高。",
+   "heat": 86.0,
+   "category": "财经",
+   "story": "据央视财经援引美国《财富》杂志网站报道，财富情报公司Altrata最新报告显示，2025年全球亿万富翁人数达到3795人，创下历史新高。\n\n报告还显示，全球亿万富翁总财富额同比增长12.8%，达到15.1万亿美元，同样刷新纪录。人工智能、科技股上涨和资本市场反弹，是推动超级富豪财富增长的重要背景。\n\n从财富结构看，AI、半导体、软件平台和资本市场相关资产，对高净值人群财富扩张贡献明显。超级富豪人数增加，并不代表普通居民收入同步增长，财富集中趋势仍是全球讨论焦点。\n\n类似报告通常基于公开持股、企业估值和资产价格推算，数字会随市场波动调整。它更能反映资本市场估值和财富分布变化，而不是单一国家实体经济状况。不同地区股市表现、汇率变化和企业上市节奏，也会影响富豪榜和财富统计的年度变化。",
+   "impact": "亿万富翁人数和总财富双创新高，凸显AI和金融资产周期对财富分配的放大作用。\n\n对公共政策而言，税制、慈善、创新投资和社会流动性之间如何平衡，会继续成为各国争议焦点。",
+   "publish_time": "2026-08-31T15:03:46",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1788155793655-08.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22685,
+   "title": "美国大峡谷国家公园突发山洪，逾20人被列为可能失联",
+   "summary": "美国国家公园管理局8月30日表示，大峡谷国家公园29日突发山洪，超过20人被列为可能失联或下落不明人员。事发区域地势陡峭、岩石密布，短时强降雨迅速形成地表径流。",
+   "heat": 82.0,
+   "category": "时政",
+   "story": "据央视新闻报道，美国国家公园管理局8月30日发布声明称，位于亚利桑那州的大峡谷国家公园29日突发山洪，目前有超过20人被列为可能失联或下落不明人员。\n\n国家公园管理局在一份声明中表示，截至30日早晨，山洪影响区域已撤出62人，稍晚会安排更多人员撤离。声明呼吁公众提供可能身处受灾区的徒步旅行人员或者预定露营地人员的信息。大峡谷国家公园工作人员正与亚利桑那州地方机构协调，持续开展疏散和应急救援工作。\n\n山洪对包括光明天使峡谷在内的公园部分地区基础设施造成严重破坏，工作人员仍在持续评估受损情况。公园部分地区已关闭。美国国家气象局专家表示，事发区域地势陡峭、岩石密布，短时强降雨迅速形成地表径流。当地近日仍可能出现雷暴和强降雨，或导致山洪、泥石流和落石。大峡谷国家公园是美国最受欢迎的国家公园之一，官方数据显示该公园去年吸引游客超过443万人次。",
+   "impact": "大峡谷国家公园突发山洪造成多人可能失联，凸显极端天气下美国国家公园应急管理面临挑战。\n\n公园基础设施受损严重，未来一段时间内部分区域将持续关闭，景区运营和当地旅游业将受到冲击。",
+   "publish_time": "2026-08-31T10:07:17",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788141878297-%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA-%E8%B6%8520%E4%BA%BA%E5%A4%B1%E8%81%94.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22732,
+   "title": "150人入选“中国好人榜”：普通人的长期选择更值得记住",
+   "summary": "2026年第二批“中国好人榜”在甘肃静宁发布。经过各地推荐、网友评议和专家评审，共有150名助人为乐、见义勇为、诚实守信、敬业奉献和孝老爱亲人物上榜。名单中既有危急时刻救人的勇者，也有把平凡小事坚持数十年的人。",
+   "heat": 82.0,
+   "category": "时政",
+   "story": "其中，蓝天救援队副队长陈延寿在执行任务时牺牲；年过六旬的环卫工人钟耿平在11年间11次跳海救起7人；蒋石林一家五代人用92年接续为红军烈士守墓；基层干部贺娇龙长期扎根边疆助农；退休教师董海秀多年照顾家庭成员。\n\n这些故事的共同点，不是人物拥有超出常人的资源，而是在别人可能转身离开的时刻，他们选择留下来。\n\n见义勇为常被理解成一瞬间的勇敢，但11年11次下海救人，说明勇气也可以是一种长期形成的责任感。守墓92年则更像一种跨代际承诺：最初作出承诺的人早已离世，后代仍把它当成家庭的一部分。\n\n当然，榜样宣传不能只停留在感动。救援人员是否获得充分装备和保险，长期照护者有没有社会支持，基层工作者是否有合理的休息和保障，同样值得关注。不能因为有人愿意无私付出，就把本应由制度承担的责任推给个人。\n\n真正有力量的榜样，不是要求所有人复制壮举，而是提醒我们：社会的可信赖程度，往往由无数人在无人注视时作出的选择共同决定。",
+   "impact": "",
+   "publish_time": "2026-08-31T15:38:51",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788162332447-150%E4%BA%BA%E5%85%A5%E9%80%89%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%A5%BD%E4%BA%BA%E6%A6%9C%E2%80%9D.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22643,
+   "title": "中国以后没有大片了？",
+   "summary": "8月底，光线传媒董事长王长田与中影集团董事长傅若清相继公开表态，界面新闻、新浪娱乐、中华网等多家媒体跟进，中国电影的“大片时代”是否走到尽头，成为舆论焦点。",
+   "heat": 65.0,
+   "category": "分辨",
+   "story": "8月底，光线传媒董事长王长田与中影集团董事长傅若清相继公开表态，界面新闻、新浪娱乐、中华网等多家媒体跟进，中国电影的“大片时代”是否走到尽头，成为舆论焦点。\n1亿＋大片为何退潮 行业账本重算\n观众退场场均人次与观影频次持续下滑，影院从日常去处退回事件性场所\n↓回本困难片方只分33％，高成本项目需要极高票房才能覆盖制作与宣发\n↓投资收缩开机量较巅峰下降约九成，亿元级项目的亏损风险集中暴露\n↓预算下移2000万至5000万项目成为新均衡，故事与执行重新压过明星堆砌\n\n核心判断：大片并非必然消失，但依靠低分账、高预算和单一票房回收的“中国式大片模式”正在失效。\n33％片方票房分账约－90％开机量较巅峰超70％亿元项目亏损热度656家以上头部媒体跟进，话题阅读千万级、讨论量百万级，跨圈层热议但未到全网讨论。\nT【话题】TOPIC引爆这轮讨论的是两位头部公司掌门人几乎同步的发声。王长田公开披露，片方目前只能拿到33％的票房分账，海外普遍在50％以上，行业年亏百亿级；傅若清则给出了具体的成本红线：10亿票房的影片总成本含宣发不应超过2亿，中小成本电影投资应控制在5000万至8000万。\n\n两人的话之所以被反复引用，是因为它们撞上了今年夏天的几组极端案例——一边是投资过亿的项目接连扑街，一边是十几万成本的动画拿到千万票房。行业的账本第一次被摆到台面上，由业内最有分量的人亲口念出。\n核心争议点片方分成33％全球垫底、开机量较巅峰跌九成——中国电影“大片消失”是周期性低谷，还是结构性必然？\nE【事件】EVENT2026年8月底，王长田在公开场合披露：片方只能分账33％，海外普遍50％以上，行业年拍一千多部影片，其中约一半是废片。同期，傅若清公开表示，未来10亿票房的片子成本不应超过2亿，中小成本影片票房要做到3亿，投资应控制在5000万至8000万。\n界面新闻率先刊发深度报道《未来，影院很难有投资1亿+的大片了？》，新浪娱乐、中华网等跟进。报道中集中列出了今年的对照案例：黄晓明主演的悬疑片投资约1亿，票房仅420万；管虎执导、黄渤倪妮主演的新作投资超2亿，票房仅385万；舒淇自编自导投入3000万积蓄，票房471万。\n反向的案例同样密集。《人生大事》成本6000万斩获9.5亿票房；《给阿嬷的情书》制作成本约1400万，无流量明星却在今年暑期档拿下5.6亿；动画《牛来》成本仅十几万元，票房破千万。\nP【各方态度】ATTITUDES当事方光线传媒认为行业已到必须改变的临界点。王长田（光线传媒董事长）披露，片方分成只有33％，海外普遍50％以上，行业年亏百亿，年拍一千多部影片约一半是废片。\n当事方中影集团给出的是具体的成本红线。傅若清（中影集团董事长）：“未来10亿票房的片子，电影成本不应该超过2亿……中小成本电影，票房要达到3亿，投资控制在5000万-8000万。”\n当事方海外从业者账本可以作为对照。本·阿弗莱克在公开访谈中算过一笔账：按50％的分账比例，一部2500万美元成本的电影需要1亿美元票房才能回本；他同时提到观众心态的变化——“这部电影看起来不错，但我还是等它上流媒体再看吧”。\nV【声音】VOICES成本失控反思十年间制作成本上涨近十倍，各环节层层加价，影片未开拍利润已被预设。\n界面新闻《未来，影院很难有投资1亿+的大片了？》援引从业者说法：十年前1200万能拍一部电影，现在1.2亿还不够。个案不可复制这一视角提醒，小成本爆款是极少数样本，不能倒推为行业出路。\n新浪娱乐《中等成本电影能否成为市场主流？》指出，高回报率个案难以简单复制，不能代表所有小成本影片的前景；能拍好类型片的导演“一只手数得过来”。投资逻辑改写行业的回报结构已经从“二八”变成“一九九”，风险分布彻底改变。\n新浪看点《从1200万到1.2亿还不够》提出，电影投资已从“20-80原则”变成“1-99原则”——每年上千部影片里只有约十部能赚钱。观众用脚投票今日头条《票房扑街！一亿投资，观众集体吐槽》记录了大投资影片上映后的观众反馈，吐槽集中在故事和阵容不匹配预算，而非视效不够。\n不实或不合逻辑的言论“电影成本下来了，票价一分没降，观众没获益。”——把投资额与票价强行绑定是范畴混淆，票价由分账机制和档期供需决定，今年暑期档平均票价36.5元，同比反而下降了2.4％。\n“大片不行了，主要是现在不好洗钱了。”——把结构性问题归因于资金渠道收紧是因果倒置，无法解释6000万成本的《人生大事》拿到9.5亿。\n“都怪那些女权电影，谁爱看？”——用题材偏见解释票房失败，本质是用性别对立转移结构性矛盾。\nF【事实】FACTS投资端收缩投资端的收缩已成定局。开机数量较巅峰下降约九成，3000万至5000万的片酬基本消失；投资1亿以上的项目亏损比例超过70％。行业内部正在形成新的分层标准：8000万是新的“超级大片”门槛，5000万能覆盖八成项目预算，2000万上下将成为未来的主流投资规模。\n分账结构分配端的差距是这套账本的起点。片方分成仅33％，海外普遍在50％以上；收入结构同样畸形，95％依赖票房，衍生品、流媒体授权等非票房收入几乎空白。\n观众退场真正的变量在观众端。2025年全国总票房518.32亿元，其中《哪吒之魔童闹海》一部就贡献了154.46亿元，而2019年的总票房是641亿元。更能说明日常观影习惯的是场均人次：猫眼研究院数据显示，2025年1至9月全国场均人次仅16人，2019年同期为28人；\n进入2026年，非档期时段进一步降至11人左右。\n集中度与老龄化同期，人均观影频次降至2.17次，创近八年最低；观众平均年龄从2021年暑期档的27.7岁升至2025年的32.5岁；票房TOP10影片拿走全国票房的68％，2019年这一比例还是45％。\n暑期档回暖今年暑期档并非全无回暖。截至8月29日，2026年暑期档票房121.3亿元，同比增长5.5％，观影人次突破2.9亿创同期新高。但拉动它的是“以价换量”——平均票价36.5元，同比下降2.4％——以及《功夫女足》《欢迎来龙餐馆》《八仙！》多点接力，而非某一部重工业大片的独挑大梁。\n数据支持什么把这些数据和各方观点摆在一起，几处对不上的地方就显出来了。认为问题在分账制度的一方，与开机量跌九成、1亿以上项目亏损率超70％的数据高度吻合；认为小成本能替代大片的一方，则要面对场均人次腰斩的大盘现实——小成本跑得出爆款，但撑不起一个日常进影院的观众群。\n至于把票房失败归因于题材的说法，同档期同类型影片的票房分化本身就否定了它。\nA【AI分析】ANALYSIS判断起点顺着这些数据往回推，会发现最上游的那件事，并不在电影行业内部。\n底层迁移底层的变化是电影不再是人们的日常休闲方式。过去去影院看最新的大片，本身就是参与社会话题的一种方式——看完要聊，聊完还得看。今天话题的源头已经迁移到短视频和社交媒体，供给多到不需要等一部电影上映。\n场均人次从28人降到16人再到11人、人均观影频次跌到2.17次、观众平均年龄五年涨了近5岁，说的都是同一件事：影院正在从“日常去处”退回“事件性场所”。\n爆款机制失灵这件事首先砸中的就是头部大片的爆款率。大片的商业模型依赖“全民话题”这一分发机制——只有人人都在聊，才会有人人都去看。当话题的制造权转移出去，能触发全民观影的片子就变成小概率事件，而大片恰恰是最依赖这个概率的品类。\n2025年TOP10拿走68％票房、2019年只有45％，看起来是头部更强了，实际是观众只为极少数“必须看”的片子出门。\n回本模型倒挂加速器是中国式大片的账算不过来。一部7亿投资的大片，按33％分账需要21亿票房才能回本。2026年暑期档121.3亿元的大盘里，越过这条线的只有《功夫女足》一部，而它并不是重工业大片。同样的7亿放到中小成本上可以拍十部，出一部爆款就能回本——投资人不傻，自然就撤了。\n海外对照对照组是美国。美国片方分成约50％，7亿投资只要14亿票房就回本；收入结构是票房六到七成、衍生品流媒体主题公园三到四成，单部亏损还能靠IP长尾找补。同一笔钱在中国只能押一部21亿票房，在美国可以押一部14亿票房加上后续变现。所以问题不在大片模式本身，而在中国式大片模式。\n技术护城河消失重构力量是AI打掉了技术护城河。过去中小成本做不出视觉奇观，大片握有“科技壁垒”；现在AI介入剧本、拍摄、特效和剪辑，线下制作成本可压到1500万以下，中小成本也能拿出过去1亿才做得出的视效。壁垒消失，性价比被放大。\n变化释放的信号这套变化释放出的信息，比“大片会不会消失”更具体。\n行业新均衡对行业而言，平均预算下移到2000万至5000万区间会成为新的均衡。1亿以上的项目未必消失，但会退化为“特定项目”——顶配阵容或稀缺题材才配得上这个预算，因为只有它们能保证下限。\n宣发新任务对宣发而言，逻辑需要重写。当电影不再自动生成社会话题，宣发的任务就从“放大话题”变成“制造进影院的理由”。今年暑期档靠降价和多点接力把人次做到2.9亿，本身就是一次验证。\n创作门槛下移对创作者而言，准入门槛实际上在下降。1400万能拍出黑马，十几万能拍出破千万的动画，意味着资源不再是唯一的入场券。留在院线的电影靠的是好故事和好执行，而不是流量明星的堆砌——这一点，今年暑期档票房前列的片子已经替行业回答过了。\n【信息源】界面新闻《未来，影院很难有投资1亿+的大片了？》\n新浪娱乐《为什么未来大投资电影会越来越少？》\n新浪娱乐《中等成本电影能否成为市场主流？》\n新浪新闻《未来很难有投资1亿+的大片了？王长田称年亏百亿》\n新浪新闻《投资1亿+大片为何濒临消失？》\n中华网《未来很难有投资1亿+的大片了 行业寒冬下的成本压缩》\n新浪看点《从1200万到1.2亿还不够：为什么未来很难有投资1亿的大片了？》\n今日头条《票房扑街！一亿投资，观众集体吐槽》\n国家电影局2025年全国电影票房数据\n猫眼研究院2025年1—9月观影人次与场均人次数据\n灯塔专业版2026年暑期档票房、人次与平均票价数据",
+   "impact": "",
+   "publish_time": "2026-08-30T18:13:13",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788084776014-Codex-%E5%9B%BE%E5%83%8F-2026%E5%B9%B48%E6%9C%8830%E6%97%A5-18_11_17.png",
+   "source": "日知录"
+  }
+ ],
+ "xwlb_raw": [
+  {
+   "id": "xwlb-0",
+   "title": "习近平出席吉尔吉斯斯坦总统举行的欢迎仪式",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-1",
+   "title": "习近平同吉尔吉斯斯坦总统会谈",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-2",
+   "title": "习近平同吉尔吉斯斯坦总统小范围晤谈",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-3",
+   "title": "《求是》杂志发表习近平总书记重要文章《坚持落实管党治党政治责任》",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-4",
+   "title": "李强主持召开国务院常务会议",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-5",
+   "title": "赵乐际同奥地利国民议会议长会谈",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-6",
+   "title": "王沪宁会见奥地利国民议会议长",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-7",
+   "title": "丁薛祥将赴俄罗斯出席第十一届东方经济论坛并举行中俄投资合作委员会第十三次会议、能源合作委员会第二十三次会议和第八届中俄能源商务论坛",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-8",
+   "title": "我国制造业景气水平较上月明显改善",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-9",
+   "title": "西藏吉隆县泥石流灾害抢险救援工作持续推进",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-10",
+   "title": "今年以来消费品以旧换新带动销售额超1.54万亿元",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-11",
+   "title": "推动构建中吉命运共同体 开启双边关系新篇章——吉尔吉斯斯坦各界高度评价习近平主席国事访问 国际人士期待中国继续推动上合组织高质量发展",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-12",
+   "title": "2026上海合作组织国家人文交流活动在比什凯克举行",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-13",
+   "title": "国际联播快讯",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-14",
+   "title": "时隔一个月 美伊互相打击对方目标",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-15",
+   "title": "俄罗斯称重启俄乌谈判缺乏条件",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-16",
+   "title": "冰岛总理称任期内不再推进加入欧盟谈判",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "xwlb-17",
+   "title": "日本新发10年期国债收益率逼近30年高位",
+   "source": "新闻联播",
+   "date": "2026-08-31"
+  }
+ ]
 }

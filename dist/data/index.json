@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-08-31",
+   "date": "2026-09-01",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 6000.34,
-   "total_earn": -23.5,
-   "today_income": 12.74,
-   "today_income_rate": 0.21,
-   "generated_at": "2026-08-31T03:41:19"
+   "total_money": 6072.94,
+   "total_earn": -0.91,
+   "today_income": -72.92,
+   "today_income_rate": -1.2,
+   "generated_at": "2026-09-01T03:36:37"
+  },
+  {
+   "date": "2026-08-31",
+   "title": "8月31日日知录-新修订国防动员法即将施行，明确发展新兴领域力量",
+   "mood": 15.2,
+   "mood_level": "温和偏多",
+   "news_total": 22,
+   "xwlb_total": 18,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-01T03:36:20"
   },
   {
    "date": "2026-08-30",
@@ -534,6 +547,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-08-31",
- "updated_at": "2026-08-31T11:12:52"
+ "latest": "2026-09-01",
+ "updated_at": "2026-09-01T03:36:37"
 }

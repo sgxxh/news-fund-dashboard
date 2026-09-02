@@ -1,494 +1,2127 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T03:36:37",
+ "generated_at": "2026-09-02T02:54:27",
  "session": "auto",
- "digest_title": "",
+ "digest_title": "9月1日日知录-超级“初一”一个年级94个班，学校和老师都去哪儿了？",
  "funds": {
-  "ok": true,
-  "reason": "",
-  "summary": {
-   "hold_cost": 6073.84,
-   "today_income": -91.55,
-   "today_income_rate": -1.51,
-   "total_money": 6072.94,
-   "total_earn": -0.91,
-   "count": 8,
-   "total_earn_pct": -0.01
-  },
-  "holdings": [
-   {
-    "account": "默认",
-    "fund_id": "23918",
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 1697.79,
-    "earn": -2.15,
-    "earn_pct": -0.13,
-    "share": 742.82,
-    "cost": 2.2885,
-    "category": 3,
-    "nav": 2.2856,
-    "day_pct": -0.7,
-    "nav_date": "2026-08-28",
-    "est_pct": 0.08,
-    "est_date": "2026-08-31",
-    "year_pct": 11.56,
-    "sector": "纳斯达克100",
-    "sector_pct": 0.08,
-    "market_type": "us",
-    "weight": 27.96
-   },
-   {
-    "account": "默认",
-    "fund_id": "25645",
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "money": 1298.23,
-    "earn": 15.13,
-    "earn_pct": 1.18,
-    "share": 1022.47,
-    "cost": 1.2549,
-    "category": 3,
-    "nav": 1.2697,
-    "day_pct": 0.32,
-    "nav_date": "2026-08-31",
-    "est_pct": -0.54,
-    "est_date": "2026-09-01",
-    "year_pct": 3.14,
-    "sector": "中证A500",
-    "sector_pct": -0.54,
-    "market_type": "ch",
-    "weight": 21.38
-   },
-   {
-    "account": "默认",
-    "fund_id": "138",
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "money": 984.14,
-    "earn": -15.86,
-    "earn_pct": -1.59,
-    "share": 67.49,
-    "cost": 14.817,
-    "category": 1,
-    "nav": 14.582,
-    "day_pct": 1.86,
-    "nav_date": "2026-08-31",
-    "est_pct": -3.64,
-    "est_date": "2026-09-01",
-    "year_pct": 77.27,
-    "sector": "PCB",
-    "sector_pct": -3.45,
-    "market_type": "ch",
-    "weight": 16.21
-   },
-   {
-    "account": "默认",
-    "fund_id": "20638",
-    "code": "017811",
-    "name": "东方人工智能主题混合C",
-    "money": 808.16,
-    "earn": 8.16,
-    "earn_pct": 1.02,
-    "share": 236.88,
-    "cost": 3.37723742,
-    "category": 1,
-    "nav": 3.4117,
-    "day_pct": 0.87,
-    "nav_date": "2026-08-31",
-    "est_pct": -3.95,
-    "est_date": "2026-09-01",
-    "year_pct": 112.41,
-    "sector": "半导体材料设备",
-    "sector_pct": -3.64,
-    "market_type": "ch",
-    "weight": 13.31
-   },
-   {
-    "account": "默认",
-    "fund_id": "23655",
-    "code": "020640",
-    "name": "广发半导体材料设备ETF联接C",
-    "money": 492.05,
-    "earn": -7.95,
-    "earn_pct": -1.59,
-    "share": 148.78,
-    "cost": 3.36066676,
-    "category": 3,
-    "nav": 3.3072,
-    "day_pct": 0.35,
-    "nav_date": "2026-08-31",
-    "est_pct": -3.75,
-    "est_date": "2026-09-01",
-    "year_pct": 81.77,
-    "sector": "半导体材料",
-    "sector_pct": -3.75,
-    "market_type": "ch",
-    "weight": 8.1
-   },
-   {
-    "account": "默认",
-    "fund_id": "22504",
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "money": 303.05,
-    "earn": 3.05,
-    "earn_pct": 1.02,
-    "share": 222.85,
-    "cost": 1.34619699,
-    "category": 6,
-    "nav": 1.3599,
-    "day_pct": -3.45,
-    "nav_date": "2026-08-31",
-    "est_pct": -0.5,
-    "est_date": "2026-09-01",
-    "year_pct": 8.39,
-    "sector": "港股创新药",
-    "sector_pct": -0.5,
-    "market_type": "hk",
-    "weight": 4.99
-   },
-   {
-    "account": "默认",
-    "fund_id": "5773",
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波ETF联接A",
-    "money": 247.6,
-    "earn": -1.66,
-    "earn_pct": -0.67,
-    "share": 150.67,
-    "cost": 1.6542938,
-    "category": 3,
-    "nav": 1.6433,
-    "day_pct": 0.76,
-    "nav_date": "2026-08-31",
-    "est_pct": 1.21,
-    "est_date": "2026-09-01",
-    "year_pct": 1.63,
-    "sector": "中证红利低波",
-    "sector_pct": 1.21,
-    "market_type": "ch",
-    "weight": 4.08
-   },
-   {
-    "account": "默认",
-    "fund_id": "11353",
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "money": 241.92,
-    "earn": 0.37,
-    "earn_pct": 0.15,
-    "share": 109.78,
-    "cost": 2.20030971,
-    "category": 2,
-    "nav": 2.2037,
-    "day_pct": 0.35,
-    "nav_date": "2026-08-31",
-    "est_pct": -0.49,
-    "est_date": "2026-09-01",
-    "year_pct": 6.41,
-    "sector": "混债",
-    "sector_pct": -0.2,
-    "market_type": "ch",
-    "weight": 3.98
-   }
-  ],
+  "ok": false,
+  "reason": "HISTORICAL_NO_SNAPSHOT",
+  "summary": {},
+  "holdings": [],
   "index": []
  },
  "analysis": {
-  "keywords": [],
-  "market_mood": 0,
-  "market_mood_level": "中性",
-  "sector_impacts": {
-   "PCB": {
-    "sector": "PCB",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+  "keywords": [
+   {
+    "word": "美国",
+    "count": 51,
+    "weight": 1.0
    },
-   "中证A500": {
-    "sector": "中证A500",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "基金",
+    "count": 44,
+    "weight": 0.863
    },
-   "中证红利低波": {
-    "sector": "中证红利低波",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "产品",
+    "count": 39,
+    "weight": 0.765
    },
-   "半导体材料": {
-    "sector": "半导体材料",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "国家",
+    "count": 39,
+    "weight": 0.765
    },
-   "半导体材料设备": {
-    "sector": "半导体材料设备",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "目录",
+    "count": 38,
+    "weight": 0.745
    },
-   "混债": {
-    "sector": "混债",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "培训",
+    "count": 35,
+    "weight": 0.686
    },
-   "港股创新药": {
-    "sector": "港股创新药",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "商业",
+    "count": 35,
+    "weight": 0.686
    },
-   "纳斯达克100": {
-    "sector": "纳斯达克100",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
+   {
+    "word": "投资",
+    "count": 34,
+    "weight": 0.667
+   },
+   {
+    "word": "日本",
+    "count": 32,
+    "weight": 0.627
+   },
+   {
+    "word": "成本",
+    "count": 31,
+    "weight": 0.608
+   },
+   {
+    "word": "用户",
+    "count": 31,
+    "weight": 0.608
+   },
+   {
+    "word": "收益",
+    "count": 30,
+    "weight": 0.588
+   },
+   {
+    "word": "火箭",
+    "count": 30,
+    "weight": 0.588
+   },
+   {
+    "word": "检测",
+    "count": 29,
+    "weight": 0.569
+   },
+   {
+    "word": "资产",
+    "count": 28,
+    "weight": 0.549
+   },
+   {
+    "word": "机构",
+    "count": 27,
+    "weight": 0.529
+   },
+   {
+    "word": "变化",
+    "count": 26,
+    "weight": 0.51
+   },
+   {
+    "word": "能力",
+    "count": 26,
+    "weight": 0.51
+   },
+   {
+    "word": "铁路",
+    "count": 26,
+    "weight": 0.51
+   },
+   {
+    "word": "伊朗",
+    "count": 26,
+    "weight": 0.51
+   },
+   {
+    "word": "设备",
+    "count": 24,
+    "weight": 0.471
+   },
+   {
+    "word": "患者",
+    "count": 24,
+    "weight": 0.471
+   },
+   {
+    "word": "系统",
+    "count": 23,
+    "weight": 0.451
+   },
+   {
+    "word": "经济",
+    "count": 22,
+    "weight": 0.431
+   },
+   {
+    "word": "银行",
+    "count": 22,
+    "weight": 0.431
+   },
+   {
+    "word": "医院",
+    "count": 22,
+    "weight": 0.431
+   },
+   {
+    "word": "学校",
+    "count": 21,
+    "weight": 0.412
+   },
+   {
+    "word": "岗位",
+    "count": 21,
+    "weight": 0.412
+   },
+   {
+    "word": "平台",
+    "count": 21,
+    "weight": 0.412
+   },
+   {
+    "word": "无人机",
+    "count": 21,
+    "weight": 0.412
+   },
+   {
+    "word": "额度",
+    "count": 21,
+    "weight": 0.412
+   },
+   {
+    "word": "设计",
+    "count": 20,
+    "weight": 0.392
+   },
+   {
+    "word": "价值",
+    "count": 20,
+    "weight": 0.392
+   },
+   {
+    "word": "风险",
+    "count": 20,
+    "weight": 0.392
+   },
+   {
+    "word": "基本",
+    "count": 20,
+    "weight": 0.392
+   },
+   {
+    "word": "服务",
+    "count": 19,
+    "weight": 0.373
+   },
+   {
+    "word": "结构",
+    "count": 19,
+    "weight": 0.373
+   },
+   {
+    "word": "电网",
+    "count": 19,
+    "weight": 0.373
+   },
+   {
+    "word": "数字",
+    "count": 18,
+    "weight": 0.353
+   },
+   {
+    "word": "规模",
+    "count": 18,
+    "weight": 0.353
+   },
+   {
+    "word": "调整",
+    "count": 18,
+    "weight": 0.353
+   },
+   {
+    "word": "卫星",
+    "count": 18,
+    "weight": 0.353
+   },
+   {
+    "word": "试验",
+    "count": 18,
+    "weight": 0.353
+   },
+   {
+    "word": "药物",
+    "count": 18,
+    "weight": 0.353
+   },
+   {
+    "word": "模型",
+    "count": 18,
+    "weight": 0.353
+   },
+   {
+    "word": "资源",
+    "count": 17,
+    "weight": 0.333
+   },
+   {
+    "word": "目标",
+    "count": 16,
+    "weight": 0.314
+   },
+   {
+    "word": "欧盟",
+    "count": 16,
+    "weight": 0.314
+   },
+   {
+    "word": "孩子",
+    "count": 15,
+    "weight": 0.294
+   },
+   {
+    "word": "入口",
+    "count": 15,
+    "weight": 0.294
+   },
+   {
+    "word": "矿业",
+    "count": 15,
+    "weight": 0.294
+   },
+   {
+    "word": "监管",
+    "count": 15,
+    "weight": 0.294
+   },
+   {
+    "word": "航天",
+    "count": 15,
+    "weight": 0.294
+   },
+   {
+    "word": "病原体",
+    "count": 15,
+    "weight": 0.294
+   },
+   {
+    "word": "教师",
+    "count": 14,
+    "weight": 0.275
+   },
+   {
+    "word": "信息",
+    "count": 14,
+    "weight": 0.275
+   },
+   {
+    "word": "影响",
+    "count": 14,
+    "weight": 0.275
+   },
+   {
+    "word": "利息",
+    "count": 14,
+    "weight": 0.275
+   },
+   {
+    "word": "价格",
+    "count": 14,
+    "weight": 0.275
+   },
+   {
+    "word": "库存",
+    "count": 14,
+    "weight": 0.275
    }
+  ],
+  "market_mood": 22.7,
+  "market_mood_level": "温和偏多",
+  "sector_impacts": {},
+  "advices": [],
+  "forecast": [],
+  "category_dist": {
+   "纪事": 1,
+   "科技": 8,
+   "话题": 1,
+   "财经": 6,
+   "时政": 4,
+   "社会": 3,
+   "娱乐": 1,
+   "新闻联播": 22
   },
-  "advices": [
+  "top_news": [
    {
-    "code": "020640",
-    "name": "广发半导体材料设备ETF联接C",
-    "sector": "半导体材料",
-    "weight": 8.1,
-    "tiny": false,
-    "earn_pct": -1.59,
-    "day_pct": 0.35,
-    "year_pct": 81.77,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 72.9,
-    "deviation": 35.2,
-    "total_score": 28.9,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
+    "id": 22819,
+    "title": "中国再投5万亿升级电网：拥抱9亿千瓦新能源和4000万充电设施",
+    "summary": "【一句话判断】新能源大规模接入，AI与电动车推高新增负荷，5万亿元电网投资要解决的不只是远距离送电，还有城市和产业末端能否接得住、调得动。",
+    "category": "科技",
+    "heat": 93.0,
+    "sentiment": 13,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "扩大",
+     "投产",
+     "中标",
+     "上市",
+     "订单",
+     "受益"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "算力",
+       "数据中心",
+       "AI"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "电力"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T12:24:18",
+    "source": "日知录",
+    "story_len": 2909
    },
    {
-    "code": "017811",
-    "name": "东方人工智能主题混合C",
-    "sector": "半导体材料设备",
-    "weight": 13.31,
-    "tiny": false,
-    "earn_pct": 1.02,
-    "day_pct": 0.87,
-    "year_pct": 112.41,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 78.4,
-    "deviation": -6.5,
-    "total_score": 22.2,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
+    "id": 22817,
+    "title": "日本军费与国债利率同创新高：远程进攻武器的昂贵转嫁给百姓",
+    "summary": "【一句话判断】日本防卫省申请2027财年8.8908万亿日元预算，10年期国债收益率却升至近30年高位。日本右翼一面依靠美国武器扩张远程打击能力，一面用所谓“中国威胁”动员国内社会；最终，美国军工企业拿订单，普通日本人承担增税、利息和公共支出压力，整个东亚承受更高的军事风险。",
+    "category": "时政",
+    "heat": 94.0,
+    "sentiment": 9,
+    "sent_hits": [
+     "上涨",
+     "突破",
+     "新高",
+     "扩大",
+     "创新",
+     "订单",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "人工智能"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T12:24:18",
+    "source": "日知录",
+    "story_len": 3704
    },
    {
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "sector": "PCB",
-    "weight": 16.21,
-    "tiny": false,
-    "earn_pct": -1.59,
-    "day_pct": 1.86,
-    "year_pct": 77.27,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 85.7,
-    "deviation": -29.7,
-    "total_score": 19.8,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上"
+    "id": 22856,
+    "title": "长三角发现超级铜金矿：铜174万吨金248吨，钻到2000米仍未见底",
+    "summary": "【一句话判断】安徽宣城茶亭铜金矿显露超大型资源基地潜力。公司现阶段披露铜金属量约174万吨、共伴生金约248吨，2000米钻孔仍未揭穿矿体；数据尚待储量报告评审备案，项目还要经过探转采、审批和建设，规划目标指向2030年末。",
+    "category": "科技",
+    "heat": 97.0,
+    "sentiment": 6,
+    "sent_hits": [
+     "增长",
+     "突破",
+     "投产"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "数据中心",
+       "电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "制造业",
+       "经济"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-09-01T15:34:16",
+    "source": "日知录",
+    "story_len": 2558
    },
    {
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "sector": "混债",
-    "weight": 3.98,
-    "tiny": false,
-    "earn_pct": 0.15,
-    "day_pct": 0.35,
-    "year_pct": 6.41,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 18.2,
-    "deviation": 68.2,
-    "total_score": 19.1,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 4.0% 偏低"
+    "id": 22753,
+    "title": "存量房贷可申请延至40年：银行和政府都需要时间和“事缓则圆”",
+    "summary": "【一句话判断】40年不是鼓励家庭把债务背得更久，而是在房地产转向存量消化的过渡期，用时间缓冲家庭断供、银行坏账和市场预期下滑的连锁风险。",
+    "category": "财经",
+    "heat": 96.0,
+    "sentiment": -5,
+    "sent_hits": [
+     "增长",
+     "获批",
+     "下滑",
+     "风险",
+     "违约",
+     "断供"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济",
+       "政策",
+       "就业"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T00:40:12",
+    "source": "日知录",
+    "story_len": 2337
    },
    {
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波ETF联接A",
-    "sector": "中证红利低波",
-    "weight": 4.08,
-    "tiny": false,
-    "earn_pct": -0.67,
-    "day_pct": 0.76,
-    "year_pct": 1.63,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 11.2,
-    "deviation": 67.4,
-    "total_score": 16.8,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 4.1% 偏低"
+    "id": 22844,
+    "title": "智神星首飞入轨：中国商业火箭排队升空，地面建起“共享指挥所”",
+    "summary": "【一句话判断】智神星一号完成首次飞行，把载荷送入预定轨道，中国商业液体火箭又增加一个新型号。2025年中国商业航天完成50次发射、送311颗商业卫星入轨；火箭和卫星越来越多，北京亦庄随之建起全国首个开放式商业航天测运控共享平台。",
+    "category": "科技",
+    "heat": 94.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "创新",
+     "开放",
+     "首个",
+     "订单",
+     "放量"
+    ],
+    "sectors": [],
+    "publish_time": "2026-09-01T14:59:38",
+    "source": "日知录",
+    "story_len": 3405
    },
    {
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "sector": "港股创新药",
-    "weight": 4.99,
-    "tiny": false,
-    "earn_pct": 1.02,
-    "day_pct": -3.45,
-    "year_pct": 8.39,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": -5.5,
-    "deviation": 60.1,
-    "total_score": 10.4,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 5.0% 偏低"
+    "id": 22814,
+    "title": "4款国产创新药进入基本药物目录：新药开始获得基层医院的“入场券”",
+    "summary": "【一句话判断】2026版国家基本药物目录9月1日起施行，4款国产Ⅰ类新药进入目录。基本药物目录管的是医疗机构优先配备和临床使用，医保目录管的是费用报销；新药获得制度入口后，还要经过医院目录调整、采购供应和医生培训才能真正到达患者。",
+    "category": "社会",
+    "heat": 94.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "扩大",
+     "创新",
+     "获批",
+     "上市"
+    ],
+    "sectors": [
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "创新药",
+       "医药",
+       "医保",
+       "新药",
+       "药品"
+      ],
+      "n": 5
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T12:26:47",
+    "source": "日知录",
+    "story_len": 2338
    },
    {
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "sector": "中证A500",
-    "weight": 21.38,
-    "tiny": false,
-    "earn_pct": 1.18,
-    "day_pct": 0.32,
-    "year_pct": 3.14,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 10.5,
-    "deviation": -71.0,
-    "total_score": -11.1,
-    "action": "持有偏谨慎",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 21.4% 偏集中"
+    "id": 22858,
+    "title": "社保基金2025年赚3907亿，收益率13.22%：增至上年的4.4倍",
+    "summary": "【一句话判断】社保基金2025年收益率升至13.22%，更重要的变化是已实现收益增至上年的4.4倍，收益构成较2024年更均衡；但公允价值变动仍贡献约一半收益，单年成绩不能被当成普通账户的可复制回报。",
+    "category": "财经",
+    "heat": 93.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "创新"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "分红",
+       "银行",
+       "保险",
+       "长期资金"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "资本市场",
+       "财政"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "科技股"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T15:34:16",
+    "source": "日知录",
+    "story_len": 3155
    },
    {
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "sector": "纳斯达克100",
-    "weight": 27.96,
-    "tiny": false,
-    "earn_pct": -0.13,
-    "day_pct": -0.7,
-    "year_pct": 11.56,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 18.8,
-    "deviation": -100,
-    "total_score": -14.3,
-    "action": "持有偏谨慎",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 28.0% 偏集中"
+    "id": 22752,
+    "title": "QDII额度新增68.4亿美元：基金限购和ETF溢价有了松动条件",
+    "summary": "【一句话判断】新额度增加的是合规海外投资产品的供给能力，未来三个月最该检查基金限购、ETF一级市场份额供给和场内溢价是否同步松动。",
+    "category": "财经",
+    "heat": 92.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "上涨",
+     "开放",
+     "获批"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "保险"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "外资"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T00:40:12",
+    "source": "日知录",
+    "story_len": 3706
+   },
+   {
+    "id": 22815,
+    "title": "中吉乌铁路写进峰会议程：中国向西，又要打通一条国际大通道",
+    "summary": "【一句话判断】一条酝酿近30年的铁路已经进入施工阶段。它将从新疆喀什穿过吉尔吉斯斯坦群山，接入乌兹别克斯坦铁路网，为中国与中亚增加一条更短的东西向通道，也让内陆国家第一次更直接地连接中国市场。",
+    "category": "时政",
+    "heat": 96.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "增长",
+     "开放"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "就业"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T12:29:35",
+    "source": "日知录",
+    "story_len": 2301
+   },
+   {
+    "id": 22872,
+    "title": "今日话题｜抖音突然变难看，才发现个人思考和选择早已被外包",
+    "summary": "【话题金句】抖音变难看暴露的不是算法有多笨，而是我们早已把“下一条看什么”的权力交了出去，甚至忘了自己曾经拥有选择。",
+    "category": "话题",
+    "heat": 96.0,
+    "sentiment": -2,
+    "sent_hits": [
+     "失控"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T16:59:28",
+    "source": "日知录",
+    "story_len": 2071
+   },
+   {
+    "id": 22871,
+    "title": "9月1日纪事｜超级初一94个班以后：一代孩子推着学校向前走",
+    "summary": "【纪事金句】孩子每年升高一个年级，学校、教师和财政却不能原地等待。教育治理真正艰难的地方，是让资源赶在孩子前面，而不是等人群撞上校门再临时腾出一间教室。",
+    "category": "纪事",
+    "heat": 98.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "回落"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "财政"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T16:59:32",
+    "source": "日知录",
+    "story_len": 3110
+   },
+   {
+    "id": 22816,
+    "title": "感染重症不再逐个猜病原体：中国批准两款宏基因组检测试剂",
+    "summary": "【一句话判断】两款基于二代测序的病原宏基因组检测试剂获批，分别面向疑难重症呼吸道感染和血流感染。它们能够在一次检测中广泛寻找细菌、病毒和真菌线索，让疑难感染从逐项排查走向全景搜索；最终诊断仍需医生区分感染、定植与污染。",
+    "category": "科技",
+    "heat": 92.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "扩大",
+     "获批",
+     "上市",
+     "限制"
+    ],
+    "sectors": [],
+    "publish_time": "2026-09-01T12:24:18",
+    "source": "日知录",
+    "story_len": 2250
    }
   ],
-  "forecast": [
+  "scored_news": [
    {
-    "sector": "半导体材料设备",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 40.0,
-    "note": "消息面 +0 / 中期动量 +100"
+    "id": 22871,
+    "title": "9月1日纪事｜超级初一94个班以后：一代孩子推着学校向前走",
+    "summary": "【纪事金句】孩子每年升高一个年级，学校、教师和财政却不能原地等待。教育治理真正艰难的地方，是让资源赶在孩子前面，而不是等人群撞上校门再临时腾出一间教室。",
+    "category": "纪事",
+    "heat": 98.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "回落"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "财政"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T16:59:32",
+    "source": "日知录",
+    "story_len": 3110
    },
    {
-    "sector": "半导体材料",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.7,
-    "note": "消息面 +0 / 中期动量 +99"
+    "id": 22856,
+    "title": "长三角发现超级铜金矿：铜174万吨金248吨，钻到2000米仍未见底",
+    "summary": "【一句话判断】安徽宣城茶亭铜金矿显露超大型资源基地潜力。公司现阶段披露铜金属量约174万吨、共伴生金约248吨，2000米钻孔仍未揭穿矿体；数据尚待储量报告评审备案，项目还要经过探转采、审批和建设，规划目标指向2030年末。",
+    "category": "科技",
+    "heat": 97.0,
+    "sentiment": 6,
+    "sent_hits": [
+     "增长",
+     "突破",
+     "投产"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "数据中心",
+       "电子"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "制造业",
+       "经济"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-09-01T15:34:16",
+    "source": "日知录",
+    "story_len": 2558
    },
    {
-    "sector": "PCB",
-    "bias": "看多",
-    "prob": 64,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 39.5,
-    "note": "消息面 +0 / 中期动量 +99"
+    "id": 22872,
+    "title": "今日话题｜抖音突然变难看，才发现个人思考和选择早已被外包",
+    "summary": "【话题金句】抖音变难看暴露的不是算法有多笨，而是我们早已把“下一条看什么”的权力交了出去，甚至忘了自己曾经拥有选择。",
+    "category": "话题",
+    "heat": 96.0,
+    "sentiment": -2,
+    "sent_hits": [
+     "失控"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T16:59:28",
+    "source": "日知录",
+    "story_len": 2071
    },
    {
-    "sector": "纳斯达克100",
-    "bias": "偏多震荡",
-    "prob": 54,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 14.7,
-    "note": "消息面 +0 / 中期动量 +37"
+    "id": 22753,
+    "title": "存量房贷可申请延至40年：银行和政府都需要时间和“事缓则圆”",
+    "summary": "【一句话判断】40年不是鼓励家庭把债务背得更久，而是在房地产转向存量消化的过渡期，用时间缓冲家庭断供、银行坏账和市场预期下滑的连锁风险。",
+    "category": "财经",
+    "heat": 96.0,
+    "sentiment": -5,
+    "sent_hits": [
+     "增长",
+     "获批",
+     "下滑",
+     "风险",
+     "违约",
+     "断供"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费",
+       "经济",
+       "政策",
+       "就业"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T00:40:12",
+    "source": "日知录",
+    "story_len": 2337
    },
    {
-    "sector": "港股创新药",
-    "bias": "偏多震荡",
-    "prob": 53,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 10.9,
-    "note": "消息面 +0 / 中期动量 +27"
+    "id": 22815,
+    "title": "中吉乌铁路写进峰会议程：中国向西，又要打通一条国际大通道",
+    "summary": "【一句话判断】一条酝酿近30年的铁路已经进入施工阶段。它将从新疆喀什穿过吉尔吉斯斯坦群山，接入乌兹别克斯坦铁路网，为中国与中亚增加一条更短的东西向通道，也让内陆国家第一次更直接地连接中国市场。",
+    "category": "时政",
+    "heat": 96.0,
+    "sentiment": 3,
+    "sent_hits": [
+     "增长",
+     "开放"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "就业"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T12:29:35",
+    "source": "日知录",
+    "story_len": 2301
    },
    {
-    "sector": "混债",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 8.4,
-    "note": "消息面 +0 / 中期动量 +21"
+    "id": 22844,
+    "title": "智神星首飞入轨：中国商业火箭排队升空，地面建起“共享指挥所”",
+    "summary": "【一句话判断】智神星一号完成首次飞行，把载荷送入预定轨道，中国商业液体火箭又增加一个新型号。2025年中国商业航天完成50次发射、送311颗商业卫星入轨；火箭和卫星越来越多，北京亦庄随之建起全国首个开放式商业航天测运控共享平台。",
+    "category": "科技",
+    "heat": 94.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "创新",
+     "开放",
+     "首个",
+     "订单",
+     "放量"
+    ],
+    "sectors": [],
+    "publish_time": "2026-09-01T14:59:38",
+    "source": "日知录",
+    "story_len": 3405
    },
    {
-    "sector": "中证A500",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 4.2,
-    "note": "消息面 +0 / 中期动量 +10"
+    "id": 22814,
+    "title": "4款国产创新药进入基本药物目录：新药开始获得基层医院的“入场券”",
+    "summary": "【一句话判断】2026版国家基本药物目录9月1日起施行，4款国产Ⅰ类新药进入目录。基本药物目录管的是医疗机构优先配备和临床使用，医保目录管的是费用报销；新药获得制度入口后，还要经过医院目录调整、采购供应和医生培训才能真正到达患者。",
+    "category": "社会",
+    "heat": 94.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "扩大",
+     "创新",
+     "获批",
+     "上市"
+    ],
+    "sectors": [
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "创新药",
+       "医药",
+       "医保",
+       "新药",
+       "药品"
+      ],
+      "n": 5
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T12:26:47",
+    "source": "日知录",
+    "story_len": 2338
    },
    {
-    "sector": "中证红利低波",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 2.2,
-    "note": "消息面 +0 / 中期动量 +5"
+    "id": 22817,
+    "title": "日本军费与国债利率同创新高：远程进攻武器的昂贵转嫁给百姓",
+    "summary": "【一句话判断】日本防卫省申请2027财年8.8908万亿日元预算，10年期国债收益率却升至近30年高位。日本右翼一面依靠美国武器扩张远程打击能力，一面用所谓“中国威胁”动员国内社会；最终，美国军工企业拿订单，普通日本人承担增税、利息和公共支出压力，整个东亚承受更高的军事风险。",
+    "category": "时政",
+    "heat": 94.0,
+    "sentiment": 9,
+    "sent_hits": [
+     "上涨",
+     "突破",
+     "新高",
+     "扩大",
+     "创新",
+     "订单",
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "人工智能"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T12:24:18",
+    "source": "日知录",
+    "story_len": 3704
+   },
+   {
+    "id": 22820,
+    "title": "美伊重新交火，布油重上90美元：美国在两大库存短缺中咬牙死磕",
+    "summary": "【一句话判断】特朗普继续争夺霍尔木兹，不只是为了恢复通航，而是要让其他海湾石油出去、继续截断伊朗收入；这场选择性开放正在变成美国军火、伊朗经济和全球能源成本的消耗战。",
+    "category": "财经",
+    "heat": 94.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "上涨",
+     "开放",
+     "风险",
+     "冲突",
+     "通胀"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "保险"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "美国"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T12:24:18",
+    "source": "日知录",
+    "story_len": 3744
+   },
+   {
+    "id": 22858,
+    "title": "社保基金2025年赚3907亿，收益率13.22%：增至上年的4.4倍",
+    "summary": "【一句话判断】社保基金2025年收益率升至13.22%，更重要的变化是已实现收益增至上年的4.4倍，收益构成较2024年更均衡；但公允价值变动仍贡献约一半收益，单年成绩不能被当成普通账户的可复制回报。",
+    "category": "财经",
+    "heat": 93.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "创新"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "分红",
+       "银行",
+       "保险",
+       "长期资金"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "资本市场",
+       "财政"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "科技股"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T15:34:16",
+    "source": "日知录",
+    "story_len": 3155
+   },
+   {
+    "id": 22819,
+    "title": "中国再投5万亿升级电网：拥抱9亿千瓦新能源和4000万充电设施",
+    "summary": "【一句话判断】新能源大规模接入，AI与电动车推高新增负荷，5万亿元电网投资要解决的不只是远距离送电，还有城市和产业末端能否接得住、调得动。",
+    "category": "科技",
+    "heat": 93.0,
+    "sentiment": 13,
+    "sent_hits": [
+     "增长",
+     "上涨",
+     "扩大",
+     "投产",
+     "中标",
+     "上市",
+     "订单",
+     "受益"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "算力",
+       "数据中心",
+       "AI"
+      ],
+      "n": 3
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "电力"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "政策"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T12:24:18",
+    "source": "日知录",
+    "story_len": 2909
+   },
+   {
+    "id": 22752,
+    "title": "QDII额度新增68.4亿美元：基金限购和ETF溢价有了松动条件",
+    "summary": "【一句话判断】新额度增加的是合规海外投资产品的供给能力，未来三个月最该检查基金限购、ETF一级市场份额供给和场内溢价是否同步松动。",
+    "category": "财经",
+    "heat": 92.0,
+    "sentiment": 5,
+    "sent_hits": [
+     "上涨",
+     "开放",
+     "获批"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行",
+       "保险"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "外资"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T00:40:12",
+    "source": "日知录",
+    "story_len": 3706
+   },
+   {
+    "id": 22816,
+    "title": "感染重症不再逐个猜病原体：中国批准两款宏基因组检测试剂",
+    "summary": "【一句话判断】两款基于二代测序的病原宏基因组检测试剂获批，分别面向疑难重症呼吸道感染和血流感染。它们能够在一次检测中广泛寻找细菌、病毒和真菌线索，让疑难感染从逐项排查走向全景搜索；最终诊断仍需医生区分感染、定植与污染。",
+    "category": "科技",
+    "heat": 92.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "扩大",
+     "获批",
+     "上市",
+     "限制"
+    ],
+    "sectors": [],
+    "publish_time": "2026-09-01T12:24:18",
+    "source": "日知录",
+    "story_len": 2250
+   },
+   {
+    "id": 22857,
+    "title": "GPT被欧盟纳入超大型搜索引擎监管：AI入口开始承担平台级责任",
+    "summary": "【一句话判断】欧盟把ChatGPT认定为超大型在线搜索引擎，意味着AI问答已从模型产品变成公共信息入口；规模越大，系统性风险评估、内容治理、广告透明和外部监督就越会成为经营成本。",
+    "category": "时政",
+    "heat": 92.0,
+    "sentiment": -2,
+    "sent_hits": [
+     "开放",
+     "风险",
+     "限制"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "人工智能"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-09-01T15:34:16",
+    "source": "日知录",
+    "story_len": 3380
+   },
+   {
+    "id": 22818,
+    "title": "毛竹下山从半小时缩短到2分钟：低空经济先替山里人干起了苦活",
+    "summary": "【一句话判断】广东南雄开始用无人机吊运毛竹，一趟约2分钟，日运量超过10吨，每根运输成本由6元以上降至3元多。低空经济正在山林里率先形成真实收入，替农民接过机器长期到不了的险活和重活。",
+    "category": "科技",
+    "heat": 91.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "风险"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济",
+       "就业"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "保险"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T12:25:53",
+    "source": "日知录",
+    "story_len": 2105
+   },
+   {
+    "id": 22859,
+    "title": "上半年481.9万人次拿到技能证书：职业培训开始跟真实岗位需求走",
+    "summary": "【一句话判断】越来越多地方正推动职业培训向真实岗位需求靠拢。上半年全国新增取得职业资格或技能等级证书481.9万人次，但证书数量不是就业成绩；订单式培训真正要接受的检验，是岗位匹配率、工资、留任时间和企业是否共同承担成本。",
+    "category": "社会",
+    "heat": 88.0,
+    "sentiment": -1,
+    "sent_hits": [
+     "扩大",
+     "订单",
+     "风险",
+     "停产"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "制造业",
+       "经济",
+       "政策",
+       "就业"
+      ],
+      "n": 4
+     },
+     {
+      "sector": "PCB",
+      "hits": [
+       "人工智能"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T15:34:16",
+    "source": "日知录",
+    "story_len": 3133
+   },
+   {
+    "id": 22751,
+    "title": "180辆重卡给燕矶长江大桥“考试”：7200吨压上桥面测的是什么",
+    "summary": "【一句话判断】180辆单重40吨的重卡参加燕矶长江大桥荷载试验，总重量达到7200吨。工程师并不打算把桥压到破坏，而是让车辆按照计算结果停在关键位置、通过桥面，再用2万多个数据检验真实大桥是否按照设计模型工作。安全的桥梁允许弹性变形，真正的考题是变形是否可控、受力是否准确、卸载后能否按预期恢复。",
+    "category": "科技",
+    "heat": 88.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T00:41:18",
+    "source": "日知录",
+    "story_len": 2391
+   },
+   {
+    "id": 22831,
+    "title": "中国光伏装机超越煤电，成全国第一大装机电源",
+    "summary": "我国光伏发电装机已超越煤电，成为第一大装机电源，但煤电短期仍承担系统安全兜底作用。",
+    "category": "财经",
+    "heat": 86.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "增长"
+    ],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "电力"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T14:17:44",
+    "source": "日知录",
+    "story_len": 286
+   },
+   {
+    "id": 22811,
+    "title": "苹果CEO库克正式卸任，发文称对用户社区热爱不变",
+    "summary": "北京时间8月31日23时59分，库克在微博发文告别苹果CEO身份，称头衔会变但热爱不会改变。",
+    "category": "科技",
+    "heat": 86.0,
+    "sentiment": 1,
+    "sent_hits": [
+     "增长",
+     "创新",
+     "放缓"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "人工智能"
+      ],
+      "n": 2
+     },
+     {
+      "sector": "纳斯达克100",
+      "hits": [
+       "苹果"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T09:09:44",
+    "source": "日知录",
+    "story_len": 290
+   },
+   {
+    "id": 22822,
+    "title": "华为小米荣耀手机集体调价，存储成本上涨传导终端",
+    "summary": "9月1日，华为、小米、荣耀多款手机调价，业内普遍将其与存储成本上涨联系起来。",
+    "category": "科技",
+    "heat": 86.0,
+    "sentiment": 2,
+    "sent_hits": [
+     "上涨"
+    ],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "存储"
+      ],
+      "n": 1
+     },
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T14:22:11",
+    "source": "日知录",
+    "story_len": 292
+   },
+   {
+    "id": 22853,
+    "title": "航班管家称8月1120个大陆赴日航班被取消，18条航线停飞",
+    "summary": "航班管家DAST统计显示，8月中国大陆赴日本1120个航班取消，取消率30.1%，18条航线全部取消。",
+    "category": "财经",
+    "heat": 86.0,
+    "sentiment": -2,
+    "sent_hits": [
+     "下滑"
+    ],
+    "sectors": [],
+    "publish_time": "2026-09-01T14:59:38",
+    "source": "日知录",
+    "story_len": 258
+   },
+   {
+    "id": 22786,
+    "title": "民进中央原副主席刘宽忍涉案4800余万，法院判刑15年",
+    "summary": "民进中央原副主席刘宽忍受贿、贪污案一审宣判，数罪并罚决定执行有期徒刑15年。",
+    "category": "时政",
+    "heat": 86.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "2026-09-01T09:33:22",
+    "source": "日知录",
+    "story_len": 309
+   },
+   {
+    "id": 22847,
+    "title": "宁波57岁男子听信人工智能抄近道，爬山被困深山获救",
+    "summary": "宁波一名57岁男子爬山迷路后听信AI建议抄近道下山，结果越走越偏、体力耗尽被困深山。",
+    "category": "社会",
+    "heat": 86.0,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "AI",
+       "人工智能"
+      ],
+      "n": 2
+     }
+    ],
+    "publish_time": "2026-09-01T14:59:38",
+    "source": "日知录",
+    "story_len": 270
+   },
+   {
+    "id": 22836,
+    "title": "暑期档电影票房124.98亿元收官，功夫女足票房居第一",
+    "summary": "国家电影局统计，2026年暑期档电影票房124.98亿元，放映3851万场，创历史新高。",
+    "category": "娱乐",
+    "heat": 86.0,
+    "sentiment": 4,
+    "sent_hits": [
+     "新高",
+     "稳居"
+    ],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "消费"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "2026-09-01T14:12:39",
+    "source": "日知录",
+    "story_len": 278
+   },
+   {
+    "id": "xwlb-0",
+    "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-1",
+    "title": "习近平出席“上海合作组织+”会议并发表重要讲话",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-2",
+    "title": "央视快评：推动上海合作组织实现更高质量发展",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-3",
+    "title": "习近平会见俄罗斯总统",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-4",
+    "title": "习近平会见乌兹别克斯坦总统",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-5",
+    "title": "习近平会见蒙古国总统",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-6",
+    "title": "彭丽媛出席上海合作组织峰会配偶集体活动",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-7",
+    "title": "习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-8",
+    "title": "习近平在埃及媒体发表署名文章",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-9",
+    "title": "李强会见美中贸易全国委员会董事会代表团",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-10",
+    "title": "光伏发电装机首次超越煤电 成为我国第一大电源",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-11",
+    "title": "全国中小学幼儿园迎来秋季新学期",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-12",
+    "title": "西藏吉隆县泥石流灾害抢险救援工作持续全力推进",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-13",
+    "title": "国内联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-14",
+    "title": "第23届中国-东盟博览会将于9月17日—21日在广西南宁举办",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-15",
+    "title": "中共中央宣传部等印发《关于组织开展2026年“全民国防教育月”活动的通知》",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-16",
+    "title": "2026年《开学第一课》今晚在总台央视综合频道播出",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-17",
+    "title": "多国人士积极评价习近平主席在上合组织峰会上的重要讲话 国际人士赞赏中国推动各国共同发展",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-18",
+    "title": "“读懂中国之治”读书分享会特别节目在中吉两国主流媒体同步播出",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-19",
+    "title": "国际联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-20",
+    "title": "俄就军演计划向日本驻俄使馆提出交涉",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-21",
+    "title": "伊称绝不容忍美利用地区国家对伊侵略",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
    }
   ],
-  "category_dist": {},
-  "top_news": [],
-  "scored_news": [],
   "stats": {
-   "news_total": 0,
-   "xwlb_total": 0,
-   "scored_total": 0,
-   "pos": 0,
-   "neg": 0,
-   "neutral": 0
+   "news_total": 24,
+   "xwlb_total": 22,
+   "scored_total": 46,
+   "pos": 18,
+   "neg": 8,
+   "neutral": 20
   }
  },
- "news_raw": [],
- "xwlb_raw": []
+ "news_raw": [
+  {
+   "id": 22871,
+   "title": "9月1日纪事｜超级初一94个班以后：一代孩子推着学校向前走",
+   "summary": "【纪事金句】孩子每年升高一个年级，学校、教师和财政却不能原地等待。教育治理真正艰难的地方，是让资源赶在孩子前面，而不是等人群撞上校门再临时腾出一间教室。",
+   "heat": 98.0,
+   "category": "纪事",
+   "story": "9月1日，校门打开了。\n\n在沈阳虹桥初级中学，今年的新初一有62个班，集中在同一个校区。苏州高新区实验初级中学的新初一超过90个班，分布在四个校区。再往前一年，山东菏泽牡丹区第二十二初级中学实际开出94个初一班。\n\n这些数字大到有些失真。普通人熟悉的是一所学校有十几个、几十个班，如今却是一届学生就装满了一所大型学校。点名册要分成几十本，班主任要组成一支队伍，食堂、厕所、实验室、运动场和校门外的道路，都要在同一个早晨承受这批孩子的到来。\n\n但94个班并不是一条猎奇新闻。\n\n它更像一道水位线：走到这里，人们终于看见，一代孩子已经从出生人口统计表里走出来，经过幼儿园和小学，抵达了初中的校门。\n\n一代孩子正在把压力向前推\n\n教育部今年3月公开的判断是，初中、高中和高等教育学龄人口将在2026年、2029年和2032年依次达峰。三个年份连在一起，像一张写给教育系统的行程表。\n\n孩子不会停在初中等待资源准备完毕。他们今年进入初一，三年后就要寻找高中学位，再过三年又会走到大学门前。今天挤在初中校门口的压力，并没有消失，它只会随着这一届学生继续向上移动。\n\n2025年，全国初中招生1852.81万人，毕业生1723.74万人。入口比出口多出约129万人。这个差额最终不会停留在统计公报里，它会变成教室里的桌椅、县城里的新校区、学校招聘栏里的物理教师，也会变成家长早晨送学时遇到的车流。\n\n与此同时，潮水的另一端已经开始回落。2024年至2025年，全国幼儿园由25.33万所减少到23.19万所，普通小学由13.63万所减少到12.83万所。校数变化包含撤销、合并、转设等多种情况，不能简单理解为学校成片消失。但方向已经十分清楚：低龄学段先感到生源减少，初中却还在迎接峰值。\n\n同一个教育系统里，一边在为孩子腾教室，一边已经开始讨论空下来的教室怎么办。\n\n这就是“排浪式”变化最难处理的地方。它不是全国所有地方、所有学段同时增加或者同时减少，而是一群孩子沿着年龄向前走；城市和乡村、人口流入区和流出区，又各自承受不同的水位。\n\n校舍不会跟着孩子一起长大\n\n苏州高新区实验初级中学的90多个初一班分在四个校区，不能与62个班集中在单一校区简单相加比较。集团总规模、单个校区规模和单班人数，是三种不同概念。\n\n可即便分散办学，“一校四区”仍在提出一个新的问题：一所学校究竟是一个校园，还是一套可以跨越多个校园运行的管理系统？\n\n集团化办学有现实理由。成熟学校的课程、教研和管理可以较快进入新校区，家长也更容易接受一个熟悉的校名。地方不必在短时间里从零培养多所学校，就能先把突然增加的学生接进来。\n\n地方还有一本不容易算的建设账。苏州高新区教育部门在媒体采访中说，新建学校需要大量资金，目前只能充分利用已有教室。这个回答不漂亮，却很真实：一所学校从规划、拿地、建设到配齐教师，需要几年时间；而学龄人口高峰过去以后，新校舍可能很快面对生源回落。\n\n可是，如果因为担心将来空置，就把今天的孩子尽量集中进超大校额学校，公共财政省下的建设成本，可能会以另一种方式回到家庭身上——更长的上学距离、更拥挤的公共空间、更复杂的校园管理，以及一个孩子更难被老师看见的日常。\n\n学校建设最怕的不是暂时多花钱，而是只按人口最高点盖楼，又只按人口最低点撤校。\n\n真正需要变化的，是人们对校舍用途的想象。一栋建筑不必终身只服务一个学段。幼儿园生源减少后，可以承接托育、儿童服务或小学低年级；小学空间释放后，可以与初中组成九年一贯制学校；高峰过去的校园，也可以用于特殊教育、社区教育、青少年活动和教师培训。\n\n校牌可以更换，教室可以改造，操场仍然可以属于附近的孩子。与其追着每一道波峰反复新建、撤并，不如让一部分教育设施从设计之初就保留转换的可能。\n\n教师不是可以搬来搬去的桌椅\n\n比校舍更难移动的是教师。\n\n当幼儿园生源减少、初中学生增加，人们很容易说，把老师调过去就行。可一个熟悉幼儿身心发展的教师，不会因为一纸调令就立刻成为初中班主任；一名小学数学教师，也不能第二天便接手初中代数。教师资格、学科知识、跟岗培训、职称评定和工资待遇，每一道都关系到一个人的职业生活。\n\n今年，人力资源社会保障部、教育部要求各地结合学龄人口变化，测算未来三至五年教师需求，并把招聘与编制动态调整放在一起研究。这意味着教师配置开始从“今年缺几个人就招几个人”，转向观看一届学生将走到哪里。\n\n这一步很重要。高峰期若只依赖临时岗位，最先承受不稳定的是年轻教师；回落期若只谈人员富余，容易被忽略的又是科学、心理健康、体育艺术、特殊教育和乡村学校仍然存在的缺口。\n\n所谓教师过剩，常常不是讲台真的太多，而是人留在了生源减少的地方，岗位缺在了人口流入的新城；小学教师相对充足，初中某些学科却招不到合适的人。\n\n孩子可以按照年龄自然升学，教师的迁徙却必须由制度铺路。\n\n从“学校人”逐步转向区域教育系统里的专业人员，可能是今后的方向。但流动不能只有调令。跨校区通勤增加多少时间，跨学段需要多久培训，职称和绩效能否连续，家庭生活会不会被迫重排，都应当进入政策成本。\n\n如果这些成本全部留给教师个人，教育系统看似完成了资源调剂，只是把人口波动的代价从财政账上移到了一个个普通人的生活里。\n\n潮退以后，不该只剩下撤并\n\n人口回落常常被描述成教育的压力，仿佛学生少了，学校就只剩撤并和减员。\n\n它也可能是一次迟来的机会。\n\n过去因为学生太多，一个班只能塞进四五十人；将来人数下降，未必一定要撤掉教室，也可以让班级小一点。过去教师要先维持课堂秩序，今后或许能多看见几个沉默的孩子。体育、科学、艺术和心理健康，不必永远排在语数外之后。国家已经提出有序推进小班化教学，人口变化恰好提供了现实空间。\n\n当然，小班化不是把一个大班机械拆成两个小班。它需要更多教师、更稳定的财政投入，也需要课程和教学方式一起改变。否则，学生人数少了，课堂仍然只是同一套讲授和考试，小班只会成为一项好看的统计。\n\n乡村学校更不能只按生均成本处理。有些学校人数确实很少，却承担着一个村庄最基本的公共服务。把学校撤掉，账面上少养了一栋楼，孩子和家长却可能每天多走一段远路。那笔成本没有消失，只是从政府的预算表转到了家庭的时间表。\n\n教育资源随人口变化，不是哪里人少就从哪里撤走，而是哪里还有孩子，哪里就必须保留抵达教育的道路。\n\n9月1日，最紧迫的事仍然很朴素：让走进校门的每个孩子都有座位，有合格的老师，有安全、完整而不被忽略的校园生活。\n\n但这一天值得记录，还因为94个班让一个更长的过程突然有了形状。\n\n三年前，这批孩子在小学；三年后，他们将走向高中。教室不会自己迁徙，教师不会自动转岗，财政投入也不能等到校门拥堵以后才匆忙追赶。\n\n一个社会怎样对待这轮学龄人口潮，不只看它能否把最多的孩子装进学校，也看它能否让潮峰过去以后，留下更小的班级、更从容的老师和更公平的教育。\n\n这便是9月1日纪事。\n\n参考资料\n\n1. 九派新闻：一个年级超90个班，苏州等地初中出现超大校额 \n2. 新京报：初中一个年级招近100个班，办学不是办工厂 \n3. 苏州市人民政府：2026年苏州市义务教育阶段学校招生入学工作意见 \n4. 教育部：2025年全国教育事业发展统计公报 \n5. 教育部：教育资源如何适配学龄人口变化 \n6. 教育部：人社部、教育部部署2026年中小学幼儿园教师公开招聘工作 \n7. 中共中央、国务院：《教育强国建设规划纲要（2024—2035年）》 \n8. 国务院办公厅：关于规范农村义务教育学校布局调整的意见",
+   "impact": "",
+   "publish_time": "2026-09-01T16:59:32",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788252964272-%E8%B6%85%E7%BA%A7%E5%88%9D%E4%B8%8094%E4%B8%AA%E7%8F%AD%E4%BB%A5%E5%90%8E.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22856,
+   "title": "长三角发现超级铜金矿：铜174万吨金248吨，钻到2000米仍未见底",
+   "summary": "【一句话判断】安徽宣城茶亭铜金矿显露超大型资源基地潜力。公司现阶段披露铜金属量约174万吨、共伴生金约248吨，2000米钻孔仍未揭穿矿体；数据尚待储量报告评审备案，项目还要经过探转采、审批和建设，规划目标指向2030年末。",
+   "heat": 97.0,
+   "category": "科技",
+   "story": "长三角制造业腹地，探出了一座具有超大型规模潜力的铜金矿。\n\n自然资源部9月1日公布，安徽宣城茶亭铜金矿勘查取得重大突破。主矿体长约1.2千米、宽约1.1千米，单孔矿体最大视厚度达到1371米。施工至2000米的钻孔仍未穿过矿体底部，下一步还要实施3000米科学深钻。\n\n按西部矿业现阶段披露口径，项目查明铜金属量约174万吨、共伴生金约248吨。相关数字仍待资源储量报告评审备案，无法直接等同于可采储量，更不能直接换算成年产量和利润。\n\n即便守住这条边界，新闻的分量仍然足够大：黄金提高项目价值，铜和地理位置决定它对华东制造业的战略意义。\n\n174万吨铜、248吨金，先看清数据处于哪个阶段\n\n茶亭属于隐伏斑岩型铜金矿，矿体被火山岩覆盖。勘查团队通过三维激电、高光谱、地球化学、遥感和钻探，逐步确认地下矿体。\n\n四个月内，项目完成近10万米钻探。现有结果显示，矿体规模大、延伸深，伴生银、硫等组分也具备综合利用潜力。\n\n已公布信息当前口径还要确认什么铜金属量约174万吨西部矿业现阶段披露储量级别、平均品位、可采比例共伴生金约248吨西部矿业现阶段披露回收率与经济利用条件2000米尚未揭穿矿体自然资源部门勘查结果3000米深钻后的矿体边界超大型资源基地潜力当前找矿判断正式资源储量报告和备案结果\n\n2026年底是第一个重要窗口。公司计划完成正式资源储量报告并争取备案，平均品位、资源量级别和选矿指标届时会更加清楚。\n\n因此，当前最准确的表述是“探出超大型铜金矿潜力”。储量报告完成后，才能进一步判断这座矿的开发规模和经济价值。\n\n这座矿最重要的优势，是靠近中国最大的用铜区域\n\n中国铜产业长期存在“冶炼加工能力强、上游矿源依赖海外”的结构性矛盾。\n\n铜又是电气化时代的基础原料。新能源汽车、电机、充电桩、风电、光伏、储能、特高压、数据中心和机器人都需要铜材。工信部等部门发布的《铜产业高质量发展实施方案（2025—2027年）》提出，力争推动国内铜矿资源量增长5%至10%。\n\n茶亭矿位于长三角制造业腹地，同时邻近安徽、江西等华东铜冶炼和加工集群。安徽拥有重要铜冶炼产能，江西鹰潭形成大型铜冶炼和加工基地，江苏、浙江、上海则聚集电线电缆、汽车零部件、电子和新能源企业。\n\n矿山投产后，矿石通常先在矿区附近选矿，形成铜精矿，再送往冶炼厂。茶亭可以缩短铜精矿进入华东冶炼和制造体系的运输距离，为高度依赖外部原料的区域增加一份国内供给。\n\n一座矿无法替代全部进口，却能增加供应来源、缩短运输链条，并在外部供应波动时提供更多调节空间。\n\n控制权属于西部矿业，经济权益由三方分享\n\n2025年10月，西部矿业控股子公司西藏玉龙铜业股份有限公司以86.0893亿元竞得茶亭铜多金属矿勘查探矿权。\n\n玉龙铜业并非西部矿业全资所有。项目经济权益由三方分享：\n\n玉龙铜业股东持股比例对茶亭项目的关系西部矿业58%拥有控制权并合并报表紫金矿业22%通过玉龙铜业拥有穿透权益昌都市投资发展集团20%通过玉龙铜业分享经济权益\n\n玉龙铜业随后设立茶亭矿业承接项目。项目控制权落在西部矿业，紫金矿业和昌都投资同样拥有经济权益。\n\n资金口径也要拆开：\n\n• 86.0893亿元，是玉龙铜业向政府支付的原始探矿权竞得价；\n• 约86.891亿元，是集团内部将探矿权转让给茶亭矿业的定价，并非又向外部支付一笔86亿元；\n• 38亿元，是玉龙铜业向茶亭矿业的计划增资，相关议案已经通过；\n• 矿山最终总投资，还要等待开发利用方案和可研确定。\n\n当前项目仍处于资源核实和开发准备期。它首先改变的是市场对西部矿业、紫金矿业资源价值的预期，尚未形成产量和利润贡献。\n\n发现矿体以后，还要走完五道程序\n\n探矿权允许企业继续勘查，要真正建设矿山，还必须取得采矿权。\n\n项目后续路径已经比较清楚：\n\n资源储量报告及备案 → 探矿权转采矿权 → 开发利用方案与可研 → 环评、安全等审批 → 基建、试生产和达产\n\n公司披露的规划时间表是：\n\n时间公司规划目标需要注意的边界2026年底完成资源储量报告并争取备案取决于评审和备案进度2027年推进探转采和开发利用方案，力争下半年启动基建属于公司目标，并非监管承诺2030年末规划完成基建或建成投产投产后仍有产能爬坡过程\n\n投产与达产是两个阶段。矿山建成后还要调试采矿、选矿和尾矿系统，产量、回收率和成本通常需要一段时间才能稳定。\n\n十条情报后续最值得追踪的指标，已经从“是不是大矿”转向六个具体问题：\n\n1. 备案后的铜、金资源量分别是多少； \n2. 铜平均品位和选矿回收率多高； \n3. 探转采何时完成； \n4. 矿山设计产能和总资本开支是多少； \n5. 环评、安全和尾矿方案能否按期通过； \n6. 试生产后多久达到设计产量。\n\n茶亭的增量，不只是一座矿\n\n茶亭矿还提供了一种中国东部深部找矿样本。\n\n东部地区人口密集、地表开发程度高，不少矿体被土层、沉积物或火山岩覆盖。茶亭项目通过多种探测技术和深钻，在覆盖区找到厚大矿体。3000米科学深钻还将用于研究陆相火山岩盆地斑岩铜矿的成矿结构。\n\n如果这套方法在长江中下游其他区域复制，中国东部成熟工业区的深部资源潜力可能被重新评估。\n\n茶亭矿带来的变化将分三轮兑现：第一轮是资源量确认和市场预期变化；第二轮是采矿权、建设投资和项目订单；第三轮才是铜精矿产量进入华东供应链。\n\n现在可以确认的是：长三角制造业腹地已经探出一座具有超大型潜力的铜金矿，2000米仍未见底；这张资源底牌有多大、何时能够打出来，接下来要由储量备案、探转采和基建进度逐项回答。\n\n来源与口径说明\n\n• 中国地质调查局：安徽发现具有超大型规模潜力的铜金资源\n• 中国地质调查局转引央视：2000米钻孔尚未揭穿矿体\n• 中国政府网：铜产业高质量发展实施方案（2025—2027年）\n• 西部矿业投资者关系记录：股权、资源量及项目时间表\n• 紫金矿业2026年半年报：持有玉龙铜业22%股权\n• 西部矿业股东会决议：茶亭矿业增资及项目安排\n• 铜金属量约174万吨、共伴生金约248吨为公司现阶段披露口径，仍待资源储量报告评审备案；公司规划时间并非监管审批承诺，项目最终建设投资和达产时间仍可能变化。",
+   "impact": "",
+   "publish_time": "2026-09-01T15:34:16",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788247820441-%E9%95%BF%E4%B8%89%E8%A7%92%E5%9C%B0%E4%B8%8B%E5%8F%91%E7%8E%B0%E8%B6%85%E7%BA%A7%E9%93%9C%E9%87%91%E7%9F%BF.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22872,
+   "title": "今日话题｜抖音突然变难看，才发现个人思考和选择早已被外包",
+   "summary": "【话题金句】抖音变难看暴露的不是算法有多笨，而是我们早已把“下一条看什么”的权力交了出去，甚至忘了自己曾经拥有选择。",
+   "heat": 96.0,
+   "category": "话题",
+   "story": "#抖音推荐 #算法推荐 #注意力 #用户选择权\n\n“我的抖音突然变得很难看。”\n\n9月1日，这句抱怨在微博上迅速获得了大量共鸣。\n\n许多用户称，自己熟悉的推荐页忽然消失了，取而代之的是养生视频、AI短剧、老电影解说和其他与日常兴趣不相干的内容。有人调侃，抖音在一夜之间“强行给你换口味”；还有人追问，随机推荐难道是在帮大家“破除信息茧房”？\n\n更让人恼火的是，有用户反映，即使反复点击“不感兴趣”，类似内容仍然继续出现。抖音客服回应称，已经收到反馈，正在加急排查，具体原因尚未公布，用户可以尝试重启应用。\n\n这当然可能只是一场很快就会修好的产品异常。\n\n但它像一次突然退去的潮水，让人看见了平时藏在水面之下的东西：我们以为自己每天在抖音上自由选择，其实多数时候，我们只是在平台已经替我们排好的菜单里不停上划。\n\n你一直在滑动，却未必一直在选择\n\n短视频最容易制造的一种错觉，就是让每一次手指上划都显得像一次主动决定。\n\n不喜欢就划走，有意思便多看几秒。每个动作都出自用户本人，于是人很容易相信：这是我自己挑出来的内容。可真正决定什么有资格出现在屏幕上、什么永远不会进入视野的，并不是那根手指。\n\n用户可以拒绝眼前这一条，却无法选择平台从未端上来的那一条。用户可以不断说“不”，但决定候选名单的始终是推荐系统。\n\n“刷”是一种动作，却不必然是一种选择；连续拒绝平台给出的答案，也不等于你真正提出过自己的问题。\n\n平日里，算法足够准确，这种差别并不明显。它知道哪一种标题会让你停下，也知道怎样在你准备退出之前再递上一条。便利久了，推荐便不再像一种技术服务，而像空气一样自然。\n\n直到今天，它突然不懂你了。\n\n最危险的不是算法猜错，而是人不再追问\n\n“潮水退去才知道谁在裸泳。”抖音变难看以后，我们也终于知道，许多人对“自己究竟想看什么”并没有想象中那么确定。\n\n这里不能简单地说，几亿用户都放弃了思考。人们上了一天班，照顾完孩子，处理完琐事，打开短视频只想放松一会儿，这没有什么可指责的。不是每一分钟都必须用来学习，也不是每一条视频都要承担启蒙使命。\n\n真正值得警惕的是：平台把“不必选择、不必追问、不必停下来”设计成了默认状态，而我们在日复一日的顺滑体验中，渐渐失去了主动选择的肌肉。\n\n看什么无所谓，为什么推给我也无所谓；这一条不好看，再划一下就行。时间被切成几十秒一段，判断也被缩减为喜欢、不喜欢和继续上划。久而久之，人先失去的，是形成观点所需的耐心。\n\n这才是这场异常真正令人不安的地方。\n\n即使推荐突然变难看了，很多人的第一反应也只是再多划几下，等待那个熟悉的、舒服的、正中下怀的算法回来。我们希望的不是重新拿回选择，而是平台赶紧恢复到更准确地替我们选择。\n\n如果一个人只在算法猜错时感到不自由，又在算法猜对后心满意足，那么他反感的可能不是被安排，而只是被安排得不够舒服。\n\n信息茧房不能靠随机投喂来打破\n\n有人问，这次随机推荐会不会反而是好事，至少让大家跳出了原来的兴趣圈？\n\n问题在于，摆脱信息茧房和被随机灌入内容不是一回事。\n\n真正的多元，是用户知道自己正在看什么，能够主动切换主题、调整标签、关闭个性化推荐，也能接触与既有偏好不同的内容。它仍以人的知情和选择为前提。\n\n随机塞进一堆不相干的视频，只是把一只茧房换成另一条失控的流水线。\n\n现行《互联网信息服务算法推荐管理规定》已经明确，平台应提供不针对个人特征的选项，或者便捷的关闭算法推荐入口，并允许用户选择、删除用于推荐的个人标签。也就是说，用户对推荐说“不”，不应只停留在某一条视频下面那个经常被忽略的按钮上。\n\n平台需要说明这次异常究竟发生了什么、影响了多少人、何时恢复；更需要让关闭个性化、管理兴趣标签、重置推荐和切换非个性化内容真正容易找到、确实有效，而不是把选择权埋进层层设置里。\n\n别只等抖音重新“懂你”\n\n这场异常大概率会过去。养生视频和AI短剧会从不属于它们的首页退下去，熟悉的兴趣标签会回来，抖音重新变得“好看”。\n\n但如果事情只停在这里，我们可能会错过这次故障留下的唯一价值。\n\n对用户来说，最小的改变不是从此拒绝短视频，而是偶尔离开推荐页：看看自己主动关注了谁，搜索一个真正想了解的问题，整理兴趣标签，也给长文章、整本书和没有即时刺激的思考留一点时间。\n\n对平台来说，真正值得恢复的也不只是推荐准确率，而是用户对这套系统的信任。一个成熟的信息入口不能只在算法顺利时负责让人沉浸，也应在算法失灵时让人知道发生了什么、怎样退出、如何纠偏。\n\n推荐可以替我们节省选择的时间，却不能拿走我们重新选择的权利。\n\n抖音突然变难看并不是一代人的悲哀。\n\n真正的悲哀是：等它重新变好看以后，我们马上忘掉今天的疑问，继续把下一条看什么、为什么看、应不应该看，全部交还给那条永远没有尽头的信息流。\n\n参考资料\n\n• 抖音用户公开原帖及“抖音推荐难看”话题页面\n• 抖音客服9月1日回应：已收到反馈，正在加急排查\n• 国家互联网信息办公室：《互联网信息服务算法推荐管理规定》",
+   "impact": "",
+   "publish_time": "2026-09-01T16:59:28",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788253058888-%E6%8A%96%E9%9F%B3%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%8E%A8%E8%8D%90%E9%9A%BE%E7%9C%8B.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22753,
+   "title": "存量房贷可申请延至40年：银行和政府都需要时间和“事缓则圆”",
+   "summary": "【一句话判断】40年不是鼓励家庭把债务背得更久，而是在房地产转向存量消化的过渡期，用时间缓冲家庭断供、银行坏账和市场预期下滑的连锁风险。",
+   "heat": 96.0,
+   "category": "财经",
+   "story": "把房贷还款期拉到40年，看上去只是月供计算题，实质上是一场风险缓冲。\n\n8月28日，中国人民银行、国家金融监督管理总局发布房地产信贷新规，将个人住房贷款最长期限从30年延长至40年。8月31日，多家媒体向银行客服和网点咨询后报道，建行、交行、工行等部分银行已表示存量房贷可以申请延期；也有不少银行仍在等待细则和系统调整。\n\n先把边界说清：40年是上限，不是所有人的新期限；存量合同不会自动改变；能否延期、延多久，仍要与原贷款银行协商并经过审批。\n\n但如果只把这项政策理解成“月供可以少一点”，就低估了它的分量。\n\n40年首先重排的是家庭还款时间表\n\n房价涨跌是一张资产价格表，房贷则是一张延续二三十年的家庭债务表。两张表并不同步。\n\n房价可以调整，行业可以转型，经济增长的新支柱也可以逐步形成，但过去房地产扩张期形成的巨额家庭负债，不会因为时代主轴改变而自动消失。每个月的还款日照常到来，本金和利息也不会自行退场。\n\n国家发改委对当前发展阶段已有明确判断：我国城镇化正从快速增长期转向稳定发展期，城市发展正从大规模增量扩张转向以存量提质增效为主。2026年政府工作报告一面提出培育壮大新兴支柱产业，一面要求统筹有序化解房地产、地方债务和地方中小金融机构风险。\n\n两件事必须同时做：新增长动能要接上来，旧增长模式留下的债务要稳妥消化。40年期限上限，正是在这个交接期里出现的。\n\n房地产换了时代，债务却没有同步换表。\n\n为什么银行和政府都需要“事缓则圆”\n\n一个家庭短期降薪或失业，如果没有调整余地，现金流困难就可能变成逾期；逾期继续累积，就可能变成断供和银行不良贷款；如果同类风险集中出现，住房处置增加，又会继续压低价格预期，削弱家庭消费和市场信心。\n\n这条链条并非每笔延期都会触发，但它解释了为什么政策要在违约之前增加协商工具。\n\n新规明确，对阶段性失去收入来源、还款困难的存量借款人，银行可以按照市场化、法治化原则，与借款人协商延后还款、贷款展期或延迟还本。它没有免除债务，只是把一部分当期压力向后移动。\n\n对家庭，这是避免短期失速变成长期违约；对银行，这是尽量把一笔仍有偿还可能的贷款留在正常资产里；对政府，则是防止家庭债务、银行资产和房地产预期相互拖拽。\n\n说到底，这就是“事缓则圆”：先让最紧的一根弦松下来，避免一个现金流问题被迅速放大成资产质量问题和社会稳定问题。\n\n时间能换来空间，但不会免掉成本\n\n延期最直接的好处是降低月供，最明确的代价是增加利息。\n\n假设剩余本金80万元、年利率3%、等额本息，且未来利率不变、没有提前还款：\n\n假设方案月供未来总利息剩余20年4437元26.48万元延长为剩余30年3373元41.42万元\n\n月供减少约1064元，未来总利息却增加约14.94万元。\n\n这不是银行给任何人的正式报价，只是在说明一个不会消失的账本关系：今天少还的钱，不等于不用还；很多时候，只是以后还得更久、更多。\n\n因此，40年不是普遍意义上的“优惠”。它更像一笔时间交易：用未来更高的利息成本，换取今天不被月供压垮的现金流。\n\n存量合同仍要重签，银行仍要审批\n\n新规同时写明，施行前已经签订的房地产贷款合同继续按原约定执行。这意味着，存量房贷延期本质上是合同变更，不是借款人单方面选择。\n\n银行会评估延期原因、当前收入、后续还款来源、借款人年龄和剩余期限。不同银行、不同地区的受理进度和审批标准也可能不同。提交申请不等于获批，在新协议生效前，原合同仍然有效，借款人不能自行少还或停还。\n\n这项安排最适合的，也不是收入稳定、只想把月供数字做小的人，而是遭遇就业、疾病、照护等阶段性冲击，眼下确有压力、长期仍有偿债能力的家庭。\n\n普通人只需问清五笔账\n\n申请前，不必被“最长40年”这个数字牵着走。直接让银行给出书面方案，并问清五件事：\n\n• 1. 本地区和自己的贷款品种是否已经开放申请，自己最多能延长多久；\n• 2. 调整前后的月供、总利息和最后还款年龄分别是多少；\n• 3. 利率、重定价日、还款方式和提前还款条件是否改变；\n• 4. 合同变更、展期或延迟还本将如何报送征信，是否另有费用；\n• 5. 如果延期申请未获批准，是否还有延迟还本、调整还款日等替代方案。\n\n真正需要比较的，不是“月供降了多少”，而是“这段困难会持续多久，以及要为缓冲期多付多少钱”。\n\n40年给旧模式退场加了一条减震带\n\n把期限延长到40年，不能创造收入，不能消化库存，也不能让下跌的资产价格重新上涨。它能做的，是把一部分陡峭的当期压力摊平，给就业恢复、家庭收入修复、房地产风险处置和银行资产消化争取时间。\n\n所以，时间只能帮助化解问题，不能代替解决问题。如果收入和就业迟迟不能改善，房屋库存继续积压，银行只是把风险不断向后滚动，那么更长期限也可能只是把今天的困难延期。\n\n但在房地产从增量扩张转向存量消化、旧债与新增长动能并存的过渡期，能够避免风险突然绷断，本身就有价值。\n\n40年不是房地产重新起跑，而是旧模式退场时的一条减震带。它要守住的，不只是一个家庭的月供，而是家庭债务、银行资产与社会预期之间那条不能突然绷断的链条。\n\n主要来源\n\n• 中国人民银行、国家金融监督管理总局：《关于改革完善房地产信贷管理 推动加快构建房地产发展新模式的意见》\n• 中国人民银行有关部门负责人就房地产信贷新规答记者问\n• 国家金融监督管理总局：《个人住房贷款管理办法（试行）》\n• 国家发展改革委：我国城市发展正从大规模增量扩张转向存量提质增效\n• 2026年政府工作报告\n• 21世纪经济报道：多家银行存量房贷可申请延长至40年\n• 第一财经：部分银行已可申请，多数网点仍待细则",
+   "impact": "",
+   "publish_time": "2026-09-01T00:40:12",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788194262498-%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%E5%8F%AF%E7%94%B3%E8%AF%B7%E5%BB%B6%E8%87%B340%E5%B9%B4.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22815,
+   "title": "中吉乌铁路写进峰会议程：中国向西，又要打通一条国际大通道",
+   "summary": "【一句话判断】一条酝酿近30年的铁路已经进入施工阶段。它将从新疆喀什穿过吉尔吉斯斯坦群山，接入乌兹别克斯坦铁路网，为中国与中亚增加一条更短的东西向通道，也让内陆国家第一次更直接地连接中国市场。",
+   "heat": 96.0,
+   "category": "时政",
+   "story": "一条谈了近30年的铁路，又一次写进三国元首的会见议程。\n\n8月31日，习近平主席在比什凯克会见乌兹别克斯坦总统米尔济约耶夫时提出，高质量推进中吉乌铁路建设。\n\n政府间协定和施工机械已经把它从纸上搬进群山。2024年6月，三国签署政府间协定；同年12月，项目启动；如今，吉尔吉斯斯坦境内的路基、桥梁和隧道正在展开施工。\n\n中国向西修建的这条铁路，起点是新疆喀什，经吐尔尕特山口进入吉尔吉斯斯坦，穿过纳伦和贾拉拉巴德，最后接入乌兹别克斯坦安集延的铁路网。\n\n地图上的一条线，现实中要穿过天山支脉、河谷和高寒山区。它之所以谈了近30年才开工，也因为三个国家一直在回答三道难题：线路怎么走，轨距怎么接，投入和收益怎么分。\n\n中国通往中亚，过去要先向北绕行\n\n中国与中亚之间早已有铁路。\n\n从新疆阿拉山口、霍尔果斯出境的班列，可以进入哈萨克斯坦，再向乌兹别克斯坦、俄罗斯和欧洲延伸。这套通道支撑了中欧班列和中国—中亚贸易的快速增长。\n\n但从喀什前往乌兹别克斯坦费尔干纳盆地，现有铁路往往需要先向北进入哈萨克斯坦，再折向南方。两地在地图上相距不远，火车却要绕一个大弯。\n\n中吉乌铁路补上的正是这段东西向缺口。\n\n路段建设与改造安排它解决什么问题中国境内段由中方负责建设，从喀什通向吐尔尕特方向把南疆铁路网推到国境线附近吉尔吉斯斯坦境内段三国授权企业合资建设和运营穿过目前缺少东西向铁路的高山腹地乌兹别克斯坦境内段由乌方升级改造并接入既有铁路连接人口和产业密集的费尔干纳盆地\n\n这条通道建成以后，中国货物可以从喀什更直接地进入乌兹别克斯坦，再通往土库曼斯坦、伊朗、土耳其及欧洲。中亚商品进入中国，也将多出一条通往南疆的铁路通道。\n\n媒体和研究材料常引用“比现有路线缩短约900公里、节省7至8天”的预测。这个数字说明了设计目标，却还不是已经兑现的运输成绩。铁路建成后究竟省多少时间、降低多少费用，还要看换轨、口岸通关、班列密度和返程货源。\n\n中吉乌铁路带来的第一份价值，是多一个选择；能否把选择变成便宜、稳定的运输服务，才是第二场考试。\n\n铁轨只差85毫米，背后谈了近30年\n\n中国铁路采用1435毫米标准轨，吉尔吉斯斯坦和乌兹别克斯坦沿用前苏联时期的1520毫米宽轨。\n\n85毫米的差距，意味着列车不能从中国一路原样开到乌兹别克斯坦。货物需要换装，或者车辆更换转向架。轨距选择会影响建设成本、运输效率，也会改变换装站和沿线国家获得的收益。\n\n线路走向同样牵动利益。\n\n中国和乌兹别克斯坦希望线路尽可能短，发挥国际通道价值；吉尔吉斯斯坦则希望铁路连接更多本国城市，带动矿产、物流和地区发展。路线越深入山区，国内覆盖面越大，桥隧工程和投资成本也越高。\n\n项目最终选择的线路要经过莫尔多套山、海勒拜特山和费尔干纳山等山脉。吉尔吉斯斯坦境内将设置20座车站，线路既要承担国际过境运输，也要为这个内陆国家建立一条贯穿东西的交通骨架。\n\n因此，“中国修一条去欧洲的近路”只说出了其中一层。对于吉尔吉斯斯坦，它更像一次用过境位置交换铁路、就业和区域发展的国家工程；对于乌兹别克斯坦，它把费尔干纳盆地更直接地连接中国；对于中国，它增加了向西开放的通道冗余。\n\n三国利益能够同时落在一条铁轨上，项目才真正从谈判桌走进施工现场。\n\n一条铁路，会重新安排沿线城市的位置\n\n交通线路很少只是把旅程缩短几小时。\n\n车站、口岸、换装场、仓库和维修基地建在哪里，货物就会在哪里停留；货物在哪里停留，加工、贸易、住宿、餐饮和金融服务就可能在哪里聚集。\n\n喀什将由中国铁路网的西部节点，进一步走向跨境铁路始发地。吉尔吉斯斯坦的纳伦、贾拉拉巴德等地区将第一次获得更完整的铁路连接。乌兹别克斯坦安集延背后的费尔干纳盆地，则拥有中亚最密集的人口和产业之一。\n\n前7个月，中国与上合组织其他成员国进出口额达到2.42万亿元，同比增长14.9%。这批贸易目前依靠公路、既有铁路、航空和管道共同完成。中吉乌铁路不会凭空制造全部货源，却可能重新分配其中一部分运输路线。\n\n最先适合铁路的，通常是货值较高、对时间有要求、又不值得使用航空运输的产品，例如机械设备、汽车零部件、电子产品、纺织品，以及中亚的农产品、矿产和工业原料。\n\n这条铁路的成色最终由三组数据决定：工程进度，口岸和换装能力，以及稳定的双向货源。\n\n中国向西，多拿到一把打开内陆市场的钥匙\n\n海运仍然是中国对外贸易的主力。铁路不会取代海运，也不会凭一条新线改变全部欧亚贸易。\n\n它改变的是中国向西的通道结构。\n\n霍尔果斯、阿拉山口连接中亚北部，中吉乌铁路面向中亚南部；中欧班列走欧亚大陆北部和中部，跨里海通道连接高加索与欧洲，中吉乌铁路又为经伊朗、土耳其向西延伸增加可能。通道越多，货主越能根据时间、价格和国际局势选择路线。\n\n对一个贸易规模巨大的国家来说，真正的开放能力不只体现在货物卖到了多少国家，也体现在通往这些国家的道路能否由自己参与建设、稳定运营，并在局势变化时拥有替代方案。\n\n近30年的争论已经留在身后。接下来，工程师要在高山里打通隧道，三国要在口岸上接通规则，企业要在铁路上装满双向货物。\n\n等第一列货运列车从喀什驶向安集延，中国向西打开的将不只是一条铁路，而是一整片内陆市场。\n\n来源与口径说明\n\n• 习近平会见乌兹别克斯坦总统米尔济约耶夫\n• 新华社：中吉乌铁路从蓝图走向现实\n• 国家发展改革委：中吉乌铁路项目政府间协定成功签署\n• 文中线路作用、运距和运输时间属于规划及公开预测。实际运营效果取决于工程进度、换轨换装、通关效率、运价和双向货源，不能在通车前写成已经实现的结果。",
+   "impact": "",
+   "publish_time": "2026-09-01T12:29:35",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788236946751-%E4%B8%AD%E5%90%89%E4%B9%8C%E9%93%81%E8%B7%AF%E5%86%99%E8%BF%9B%E5%B3%B0%E4%BC%9A%E8%AE%AE%E7%A8%8B.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22844,
+   "title": "智神星首飞入轨：中国商业火箭排队升空，地面建起“共享指挥所”",
+   "summary": "【一句话判断】智神星一号完成首次飞行，把载荷送入预定轨道，中国商业液体火箭又增加一个新型号。2025年中国商业航天完成50次发射、送311颗商业卫星入轨；火箭和卫星越来越多，北京亦庄随之建起全国首个开放式商业航天测运控共享平台。",
+   "heat": 94.0,
+   "category": "科技",
+   "story": "9月1日上午10时，智神星一号从东风商业航天创新试验区升空。\n\n七台液氧煤油发动机同时点火，把一枚高52米、起飞质量约283吨的火箭推离地面。随后，载荷进入预定轨道，智神星一号完成首次飞行。\n\n这是一条足够硬的新闻：中国商业航天又有一款中型液体火箭拿到了进入轨道的门票。\n\n它背后还有另一条不那么耀眼、却同样重要的新闻。十多天前，全国首个开放式商业航天测运控共享平台在北京亦庄启用。从火箭轨迹到卫星状态，从地面站调度到在轨故障诊断，商业航天企业开始共用一座地面“指挥所”。\n\n两条新闻放在一起，才看得清中国商业航天正在发生的变化：天上的火箭和卫星迅速增加，地面的发射、测控和运营能力也开始从单项工程走向规模化公共服务。\n\n智神星一号首飞成功，先拿到了液体火箭的入场券\n\n研制智神星一号的星河动力，此前最成熟的产品是谷神星系列固体火箭。\n\n固体火箭结构相对简洁、响应速度快，适合中小卫星发射。液体火箭能够调节推力，更适合发展大运力和一级垂直回收，却要同时处理推进剂加注、多台发动机并联、复杂管路和飞行控制，研制难度明显上升。\n\n智神星一号采用两级构型，芯级直径3.35米，近地轨道运载能力覆盖5至7吨。一子级使用七台发动机并联：一台发动机出现部分异常时，控制系统要迅速判断其他发动机能否重新分配推力；七台发动机的振动、燃烧、管路和控制还必须彼此配合。\n\n首飞把载荷送入预定轨道，让火箭总体方案、动力系统、飞行控制和级间分离完成了首次全流程飞行验证。\n\n但智神星一号按照可重复使用方向设计，不等于首飞已经验证了重复使用。\n\n技术关口智神星一号当前状态它证明什么首飞入轨已完成火箭能够完成一次完整发射任务一级回收本次任务未宣布完成仍需验证再入、减速、着陆点火和回收精度回收后复飞尚未验证要看箭体检查、维修成本和周转时间常态化商业运营尚未形成要看订单、成功率、发射频率和实际价格\n\n企业公布的设计目标是一级垂直回收、重复使用25次。这个数字描述的是设计能力，不是已经完成25次复飞。\n\n首飞入轨、一级回收、同一枚一级再次升空、形成常态化商业运营，是四张不同的成绩单。智神星一号今天交出了第一张。\n\n一年50次商业发射，中国开始面对“火箭不够用”的新问题\n\n一枚新火箭为什么值得放进行业大图景里观察？因为中国商业航天已经不是一年偶尔发射几次的试验行业。\n\n国家航天局数据显示，2025年中国完成50次商业航天发射，占全年宇航发射总数的54%；其中商业运载火箭发射25次。全年共有311颗商业卫星入轨，占中国当年入轨卫星总数的84%。\n\n中国商业航天企业已经超过600家，覆盖火箭、卫星、发射测控和卫星应用。仅北京亦庄就聚集空天领域企业超过230家，商业火箭型号约占全国80%；截至8月下旬，“亦庄箭”今年已经执行19次发射任务。\n\n产业信号2025年或2026年公开数据说明什么商业航天发射2025年50次，占全国宇航发射54%商业任务已成为中国发射活动的重要组成部分商业卫星入轨2025年311颗，占全年入轨卫星84%卫星生产和组网需求正在放量商业航天企业超过600家产业链从少数总体单位扩展到多类市场主体北京亦庄超230家空天企业，商业火箭型号约占全国80%商业火箭形成明显产业集聚\n\n火箭端还在继续增加新型号。\n\n朱雀三号已经完成一级陆地支腿回收；智神星一号完成首飞入轨；双曲线三号、天龙三号、星云一号等液体火箭也在推进研制或关键试验。\n\n它们共同面对同一个市场：低轨卫星互联网需要把大量卫星送入轨道，传统的一次性、小运力发射难以长期满足组网速度和成本要求。\n\n行业早期更突出的瓶颈是可用运力和火箭型号。如今型号越来越多，成功率、发射频次和地面保障也开始成为规模化约束。\n\n火箭排队升空，地面不能每次重新搭一套班子\n\n火箭点火以后，地面工作并没有结束。\n\n地面测控站要接收火箭的位置、速度、温度、压力和设备状态；指挥系统要计算飞行轨迹，判断发动机与箭体是否正常；卫星入轨以后，还要安排通信窗口、调整姿态、下达任务、下载数据，并在异常时进行故障诊断。\n\n过去航天任务数量少、主体集中，一项重大任务可以配备专门团队、专用软件和地面资源。\n\n商业航天追求的是高频发射和大规模星座。如果每一家创业公司都自行建设地面站、数据中心、运控软件和全天候值班团队，很多企业还没把卫星送上天，就先被地面成本挡住。\n\n8月19日启用的北京火箭大街商业航天智能测运控中心，正是为这个阶段准备的公共基础设施。\n\n“共享”不是几家公司共用一块大屏幕，而是共同调用站网资源、计算系统、软件平台和专业团队。\n\n飞行阶段共享平台可以提供什么火箭上升接收遥测数据、计算轨迹、监视飞行状态一级回收跟踪返回轨迹，监视点火和着陆过程星箭分离确认卫星释放和初始轨道卫星在轨定轨、姿态控制、任务规划和故障诊断多星运营调度地面站窗口，管理多颗卫星和不同任务优先级\n\n它对外公布的设计服务能力是：每年为不少于200次商业火箭发射及回收提供测控，为不少于5000颗商业卫星提供测运控服务，覆盖低轨、高轨和地月空间。\n\n这组数字是设计服务能力，还不是已经签下的订单。它却提前暴露了产业的目标状态：未来不是偶尔看一枚火箭升空，而是要同时管理数百次发射和数千颗卫星。\n\n朱雀三号已经用过，智神星一号尚未确认\n\n共享平台启用当天，承担了朱雀三号遥二火箭和鸿鹄03卫星的全过程测控。\n\n平台接收发射场和其他测控节点传回的数据，监视火箭上升、一级返回、垂直着陆、星箭分离和卫星入轨。这是一次真实发射任务，不是展厅演示。\n\n目前没有公开材料证明，9月1日首飞的智神星一号也使用了这套共享平台。因此，不能把智神星一号写成平台的第二个服务案例。\n\n它的意义在另一层：智神星一号代表正在快速增加的潜在服务需求。\n\n朱雀三号、智神星一号以及后续液体火箭来自不同企业，使用不同动力、飞行程序和数据接口。型号越多，行业越需要统一接口、共享站网和可重复调用的测控能力；否则每增加一款火箭，地面就要重新建设一套烟囱式系统。\n\n朱雀三号已经让共享平台完成一次真实任务验证，智神星一号则说明，需要这类平台服务的新火箭还会继续增加。\n\n中国商业航天开始从“造产品”转向“建系统”\n\n最近几年，中国商业航天最醒目的进步集中在产品端：更大火箭、更多卫星、垂直回收、批量制造。\n\n产品增加以后，公共能力必须跟上。\n\n北京火箭大街除测运控中心外，还在布局共性试验、元器件支持、时空信息服务和太空态势感知平台。火箭公司不必分别购买每一套昂贵设备，卫星公司也不必独自建立完整的在轨运营系统。\n\n这与云计算的发展逻辑相似。互联网创业公司不必先盖一座数据中心，商业卫星公司也可以按任务购买测控、计算和运营服务，把资金集中到载荷、应用和客户。\n\n共享平台不会自动创造商业订单，也不会替火箭公司解决可靠性问题。它还要回答数据隔离、商业秘密、任务优先级、事故责任和服务价格等现实问题。\n\n判断它有没有真正推动产业，可以继续看四个数字：\n\n1. 一年实际服务多少次发射，而不是设计容量有多大； \n2. 接入多少家不同企业、多少种火箭和卫星； \n3. 单次测控成本和任务准备周期是否下降； \n4. 平台能否在多任务并发和异常状态下保持可靠。\n\n智神星一号完成首飞，给中国商业航天增加了一枚新火箭。共享指挥所投入运行，则在火箭之外增加了一套可以反复使用的公共能力。\n\n这是中国商业航天开始走向系统化、规模化运营的一个信号：竞争不再只看谁能造出一枚火箭，也要看谁能把发射、回收、测控、卫星运营和数据应用连成稳定运转的系统。\n\n今天，智神星一号把载荷送入轨道；未来，当越来越多中国火箭排队升空，地面必须有一座始终看得见、叫得应、管得住它们的共同大脑。\n\n来源与口径说明\n\n• 新华网：智神星一号运载火箭首飞成功\n• 星河动力：智神星一号主要参数与设计目标\n• 国家航天局：2025年度商业航天发射达到50次\n• 国家航天局：商业航天企业数量超过600家\n• 北京市政府：商业航天智能测运控中心正式启用\n• 北京经开区：空天企业、火箭型号与年度发射数据\n• 智神星一号本次任务确认完成首飞入轨，公开通报未宣布一级回收成功；一级重复使用25次为企业设计目标。共享平台已确认服务朱雀三号任务，目前没有公开证据表明其承担了智神星一号首飞测控。",
+   "impact": "",
+   "publish_time": "2026-09-01T14:59:38",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788245691781-%E6%99%BA%E7%A5%9E%E6%98%9F%E4%B8%80%E5%8F%B7%E9%A6%96%E9%A3%9E%E5%85%A5%E8%BD%A8.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22814,
+   "title": "4款国产创新药进入基本药物目录：新药开始获得基层医院的“入场券”",
+   "summary": "【一句话判断】2026版国家基本药物目录9月1日起施行，4款国产Ⅰ类新药进入目录。基本药物目录管的是医疗机构优先配备和临床使用，医保目录管的是费用报销；新药获得制度入口后，还要经过医院目录调整、采购供应和医生培训才能真正到达患者。",
+   "heat": 94.0,
+   "category": "社会",
+   "story": "一种新药获得上市批准，只说明它可以卖。\n\n进入医保目录，解决的是患者能否按规定报销。\n\n进入国家基本药物目录，则意味着它开始被放进另一套制度：各级公立医疗卫生机构要优先配备、优先使用，并把它纳入本机构的用药供应目录。\n\n9月1日，2026年版国家基本药物目录正式施行。目录由685种扩大到794种，16种创新药进入其中，包括4款国产Ⅰ类新药：依达拉奉右莰醇、泰它西普、司普奇拜单抗和解郁除烦胶囊。\n\n基本药物目录过去给人的印象，多是疗效明确、价格适宜、长期使用的经典药。这次把国产创新药放进去，释放了一个清楚信号：中国创新药的下一场竞争，已经从获批上市走向更广泛的临床使用。\n\n四款新药，对应四类常见而沉重的疾病\n\n这四款药让“创新”第一次大批量落到具体疾病上。\n\n药品主要治疗方向进入基本药物目录的公共意义依达拉奉右莰醇脑卒中相关治疗面向患者数量庞大、抢救和康复负担较重的疾病泰它西普系统性红斑狼疮等自身免疫病为需要长期治疗的自身免疫病提供国产创新生物药选择司普奇拜单抗特应性皮炎等皮肤病让严重、反复发作的慢性皮肤病进入更现代的治疗路径解郁除烦胶囊抑郁症相关治疗把精神健康和中医药创新纳入基本用药体系\n\n脑卒中、自身免疫病、特应性皮炎和抑郁症，覆盖了患者基数庞大或需要长期治疗的疾病，也长期存在规范治疗不足和地区可及性差异。\n\n创新药过去经常先出现在大型医院和中心城市。患者即使听说过药名，也可能遇到本地医院没有药、医生不熟悉、院内目录尚未纳入等问题。\n\n基本药物目录想补上的，正是从国家目录到医院药房之间这段距离。\n\n“进基药”和“进医保”，管的是两件事\n\n很多患者看到药品“进目录”，第一反应是以后可以报销。\n\n这需要区分两张目录。\n\n医保药品目录确定哪些药品费用可以由医保基金按规定支付，核心是支付范围和报销条件。国家基本药物目录强调临床首选、公平可及和医疗机构配备使用，核心是医院有没有、医生会不会规范使用。\n\n一款药可以同时进入两张目录，也可能只进入其中一张。即使同时进入，患者最终支付多少，还会受到医保支付范围、起付线、报销比例、医院级别和地方政策影响。\n\n制度环节回答的问题药监部门批准上市这款药能否合法生产销售国家基本药物目录医疗机构是否应优先配备和使用国家医保药品目录符合条件的费用能否由医保基金支付医院用药供应目录患者所在医院能否实际开到\n\n因此，“进入基本药物目录”最准确的理解，是获得了一张通往更多医院的制度入场券。它提高了配备优先级，却不会在9月1日当天自动出现在全国每一家药房。\n\n国家给了两个月，医院要重新整理药房清单\n\n为了避免新目录只停留在文件中，国家卫健委随后明确：各级公立医疗卫生机构应在新版目录实施后两个月内，完成本机构用药供应目录的更新调整，细化到药品通用名、剂型和规格，并坚持优先配备基本药物。\n\n这两个月要完成的工作很具体。\n\n医院药事管理部门要评估临床需求，更新院内目录；采购部门要对接生产和配送企业；药房要安排库存；医生和药师要接受处方集、临床指南及合理用药培训。生物药还可能涉及冷链保存、注射条件和不良反应管理。\n\n任何一个环节没有接上，“国家目录里有、医院药房里没有”的落差就会继续存在。\n\n国家同时提出逐步提高二、三级公立医院基本药物配备品种数量占比，强化上下级医疗机构用药衔接。它关系到一个很现实的问题：患者在大医院确定治疗方案以后，能否回到基层继续取药和管理病情，而不是为了同一种药反复奔波。\n\n创新药真正的考场，从实验室搬到了全国医院\n\n创新药进入基本药物目录，对企业意味着更大的潜在市场。真正的销量仍要经过医院准入、医生处方和持续供应检验。\n\n药品还要经受更严格的现实检验：疗效和安全性是否在更广泛患者中稳定，供应能否覆盖更多地区，价格是否适合长期使用，医生能否清楚掌握适应证，企业能否持续开展药物警戒和患者教育。\n\n对医院来说，“国产”“创新”四个字也替代不了临床判断。基本药物仍然强调安全、有效、价格适宜、供应保障和合理使用。临床价值不充分、滥用风险高或供应不稳定，都会削弱目录扩容的意义。\n\n这也是本次调整最值得肯定的地方。中国医药创新已经积累了一批可以进入公共用药体系的成果，国家开始为其中具备临床价值的产品打开更广的使用通道。\n\n人民日报报道，2025年新增医保谈判药品已配备至全国31万家定点医药机构；2026年1至5月，全国有1225万人次使用新版医保目录新增品种。这是医保目录的落地成绩，与基本药物目录采用不同口径，却说明一款新药要惠及更多人，目录、支付和医疗机构配备必须共同工作。\n\n患者接下来可以看三件事\n\n第一，看所在地公立医院是否在两个月内更新用药供应目录。\n\n第二，看具体药品是否已进入医保，以及医保支付条件是否覆盖患者的疾病和用药阶段。\n\n第三，看医院能否稳定供药。短期采购到一次，与形成持续库存，是两种不同状态。\n\n目录更新完成了国家层面的选择，真正的结果要在医院药房和患者处方上体现。\n\n过去，国产创新药最振奋人心的消息是获批上市。今后，判断一款药的公共价值还要多问一句：它能不能从中心医院走向更多城市和县域，稳定到达真正需要它的患者。\n\n创新药走出实验室只是第一程；进入基本药物目录以后，它开始驶向中国医疗最广阔的基层。\n\n来源与口径说明\n\n• 国家卫健委等部门：国家基本药物目录（2026年版）9月1日起施行\n• 新华网：2026年版目录调入4种Ⅰ类创新药\n• 国家卫健委：关于做好基本药物优先配备使用工作的通知\n• 人民日报：让创新药惠及更多群众\n• 基本药物目录与医保药品目录功能不同。进入基本药物目录不自动等于获得医保报销，也不代表所有医院在施行首日已经完成采购配备。",
+   "impact": "",
+   "publish_time": "2026-09-01T12:26:47",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788236786096-4%E6%AC%BE%E5%9B%BD%E4%BA%A7%E5%88%9B%E6%96%B0%E8%8D%AF%E8%BF%9B%E5%85%A5%E5%9F%BA%E6%9C%AC%E8%8D%AF%E7%89%A9%E7%9B%AE%E5%BD%95.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22817,
+   "title": "日本军费与国债利率同创新高：远程进攻武器的昂贵转嫁给百姓",
+   "summary": "【一句话判断】日本防卫省申请2027财年8.8908万亿日元预算，10年期国债收益率却升至近30年高位。日本右翼一面依靠美国武器扩张远程打击能力，一面用所谓“中国威胁”动员国内社会；最终，美国军工企业拿订单，普通日本人承担增税、利息和公共支出压力，整个东亚承受更高的军事风险。",
+   "heat": 94.0,
+   "category": "时政",
+   "story": "日本政府在同一天收到了两张账单。\n\n一张来自防卫省。2027财年防卫预算申请额达到8.8908万亿日元，再创历史新高。攻击型无人机、远程导弹、人工智能指挥系统和防卫云，都在采购清单上。\n\n另一张来自债券市场。8月31日，日本10年期国债收益率一度升至2.950%，逼近1996年以来的高位。\n\n日本右翼想把国家重新武装成一只带远程利爪的猛兽，现实却先递来一只计算器：人口在减少，养老账单在增加，政府债务已经堆到国内生产总值的约两倍，借钱的利息还在上涨。\n\n日本的狼子野心从未缺少借口，现在开始缺少便宜的钱。\n\n日本嘴上说“防卫”，购物车里装的却是远程进攻\n\n8.8908万亿日元不是一次普通的装备更新，而是日本2023至2027财年五年扩军计划的最后一笔大单。五年总规模约43万亿日元，日本借此把年度军费推向国内生产总值的2%左右。\n\n钱花到哪里，意图就写在哪里。\n\n• 发展可以从空中、水面和水下发射的攻击型无人装备；\n• 推进潜艇发射高超音速导弹等远程打击能力；\n• 建设能够辅助战场判断和目标选择的人工智能指挥平台；\n• 改造“出云”级舰艇，使其能够搭载F-35B战斗机；\n• 强化弹药、供应链和军工产能，为持久作战做准备。\n\n这些装备的共同点很清楚：打得更远、出手更快、持续更久。\n\n日本2026年已经部署首批远程导弹，还计划在驱逐舰上部署射程约1600公里的美国“战斧”巡航导弹。所谓“反击能力”，正在一步步变成对他国纵深目标实施打击的现实能力。\n\n日本政府仍然把扩军包装成“和平国家的自卫”。可一只手高举和平宪法，另一只手购买400枚“战斧”、改造准航母、发展高超音速武器，这套话术已经越来越像皇帝的新衣。\n\n日本2026年版《防卫白皮书》又把中国描述为所谓“最大战略挑战”。中国外交部已经明确指出，日本以“中国威胁”为借口推进远程进攻能力和所谓“新型作战方式”，正在危险方向上加速扩军备武。\n\n真正发生的事情，是日本右翼借中国之名，拆除日本战后军事约束。\n\n对美国俯首买单，对亚洲邻国摆出强硬姿态\n\n日本扩军还有一层荒诞：它把“国家自主”喊得震天响，最关键的武器却不断向美国下单。\n\n“战斧”导弹来自美国，F-35战斗机来自美国，宙斯盾系统深度依赖美国，部分人工智能技术和军事数据体系仍准备接入美国方案。美国商务部公开资料显示，日本计划继续扩大通过美国对外军售制度采购装备的规模。\n\n华盛顿负责制定联盟战略、出售武器和提供关键技术，东京负责出钱、提供基地并把本国西南岛屿推向前线。\n\n这就是日本右翼最矛盾的姿态：面对美国，接受战略依附；面对中国和其他亚洲邻国，却摆出所谓“正常国家”的强硬身段。\n\n它崇拜强权，又渴望成为强权；依靠美国获得安全感，又试图借美国撑腰突破战后约束。说得好听叫“日美同盟”，说得直白一点，就是日本花自己的钱，替美国补上亚太军事围堵的一段防线。\n\n美国当然欢迎日本增加军费。日本每多买一批美制导弹、战机和雷达，美国军工企业就多一笔订单；日本把更多基地、岛屿和指挥系统接入美军体系，美国就多一个靠近中国的军事支点。\n\n东京却未必获得同等程度的自主。美制装备什么时候交货、软件怎样升级、关键零部件如何供应，仍然受制于美国。日本越用扩军证明自己，越把军事体系绑在美国战车上。\n\n它想摆脱战败国身份，选择的办法却是更深地依附战后占领它的美国。\n\n债券市场开始给右翼野心标价\n\n日本曾经享受了几十年的超低利率。政府债务再大，也能通过低成本滚动发债把矛盾向后拖。\n\n现在，时间开始收费。\n\n日本财务省公布的2027财年概算要求显示，国债费达到36.6386万亿日元，比2026财年初始预算增加5.3628万亿日元。其中，利息及折价费用达到16.5888万亿日元，增加3.5516万亿日元。\n\n2027财年申请项目金额这笔钱意味着什么防卫预算8.8908万亿日元远程导弹、无人机、AI指挥与持久作战能力继续扩张国债费36.6386万亿日元偿债支出约为防卫预算的4倍国债费同比增量5.3628万亿日元新增债务成本已相当于防卫预算的六成左右利息及折价费用16.5888万亿日元单是利息相关支出已接近防卫预算的两倍\n\n国债收益率升至2.950%，不会让全部旧债一夜之间重新计息。日本大量存量国债锁定了过去的低利率，压力会随着旧债到期和新债发行逐年进入预算。\n\n但方向已经清楚。日本普通国债余额在2026财年末预计达到1145万亿日元。如此庞大的债务规模，只要平均融资成本缓慢上升，新增利息就足以吞掉多个政府项目。\n\n扩军与国债上涨也不是简单的一对一因果。通胀、日本央行政策和债券供求都在推动收益率变化。可到了财政部的账本上，它们最终会争夺同一笔钱。\n\n债券市场没有历史情怀，也不会被“中国威胁论”感动。日本右翼每增加一项长期军事承诺，市场就会追问：钱从哪里来？\n\n美国军工拿走订单，日本普通人被绑上战车\n\n日本最现实的扩军筹资方案，已经落到企业和居民身上。\n\n日本政府早已设计为防卫力量建设筹集约1万亿日元稳定财源，包括设置防卫特别法人税、调整所得税安排并分阶段提高烟草税。日本财务省公布的计划显示，烟草税将从2027年4月起分三阶段提高，每支累计增加1.5日元。\n\n日本右翼讲国家安全时慷慨激昂，结账时却要从企业利润、个人收入和一支香烟里找钱。\n\n与此同时，日本老龄化正在持续增加养老金、医疗和护理需求。2026财年社会保障支出占一般支出的55.7%。年轻人减少，自卫队招人困难，政府于是用无人机和人工智能补兵员；老年人口增加，政府又要提高社会保障支出。\n\n扩军、养老和偿债，三个支出方向同时向上，日本普通家庭终究要面对选择：更多税收，更高债务，或者更紧的公共服务。\n\n日本军工企业可能获得订单，美国军火商可能获得利润，右翼政客可能获得强硬形象。为这一切长期付款的，却是没有参与制定地区战略的普通日本人。\n\n把民众绑上战车，开始时往往只是一项预算、一种税和一句“为了安全”；等远程导弹部署、军事基地扩建、周边反制升级以后，整个社会才会发现，自己已经成了冲突链条中的一环。\n\n日本扩军给东亚制造的不是安全，而是更贵的危险\n\n日本部署射程更远的导弹，中国就必须提升预警、反导、远程打击和区域拒止能力；日本把西南岛屿军事化，中国必然加强东海方向的军事准备；日美指挥和作战体系结合越深，中美战略竞争就越容易把日本推到前线。\n\n这叫安全困境：一方以“自卫”为名增加武器，另一方只能增加相应能力，最后每个国家都花了更多钱，地区却更加危险。\n\n日本右翼最爱利用岛国的地理焦虑——资源依赖海运，国土纵深有限，人口集中在沿海——把一切不确定性翻译成军事威胁。可地理决定的危机意识如果被政治长期放大，就会从谨慎变成偏执，从防御变成扩张。\n\n历史已经证明，日本一旦把资源焦虑、海洋通道焦虑和“大国地位”捆在一起，最先遭殃的是亚洲邻国，最后被拖进灾难的也包括日本民众自己。\n\n今天的东亚当然不是上世纪30年代，日本也受到和平宪法、选举政治和社会舆论约束。但持续突破武器出口限制、发展远程进攻能力、把对华军事准备常态化，正在一点点改变这些边界。\n\n中国没有理由替日本的财政困境担忧，却必须为日本军事化保持警惕。实力、反制能力和地区外交缺一不可。让日本右翼明白扩军既无法压倒中国，还会付出更高经济、外交和安全代价，才是阻止冒险的有效语言。\n\n接下来，日本会走向三种更危险的结果\n\n第一，军费继续上升，增税和债务成本逐步传给国民。预算数字可以暂时拆分，家庭承担的税负和公共服务压力迟早会汇合。\n\n第二，日本对美国军事体系依赖更深。远程武器、情报、指挥和后勤越依赖美国，日本越难在中美冲突中保持独立，所谓“自主防卫”最终可能变成“自主出钱、听从指挥”。\n\n第三，东亚军备竞争继续升级。日本每向前突破一步，中国就会增加应对能力，韩国、朝鲜和俄罗斯也会调整部署。日本得到的并非绝对安全，而是更多导弹把它纳入瞄准和反制范围。\n\n日本当然拥有庞大的国内储蓄、成熟金融市场和本币发债能力，短期融资不会因为收益率上升而中断。危险正在更慢、更深地积累：扩军支出固化，社会保障难降，利息逐年抬升，战略自主却没有同步增加。\n\n日本政府可以继续把“中国威胁”写进白皮书，也可以继续把“和平国家”挂在嘴边，却无法同时抹掉导弹射程、美国订单和财政账单。\n\n扩军计划暴露了日本右翼的野心，国债收益率则揭穿了它的底气：想对邻国龇牙，仍要向美国买刀，最后再让本国民众付款。\n\n来源与口径说明\n\n• 日本防卫省：防卫力量建设计划及2027财年约8.9万亿日元目标\n• 日本2027财年防卫预算申请及无人机、AI、远程打击项目\n• 日本财务省：2027财年国债费概算要求\n• 日本财务省：防卫力量建设相关税制措施\n• 美国商务部：日本扩大防务采购与对美军售采购\n• 中国外交部：回应日本2026年版《防卫白皮书》\n• 10年期日本国债收益率2.950%采用2026年8月31日盘中市场报道口径。防卫预算为概算申请，最终预算和实际执行额仍需以后续文件为准。",
+   "impact": "",
+   "publish_time": "2026-09-01T12:24:18",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788236630483-%E6%97%A5%E6%9C%AC%E5%86%9B%E8%B4%B9%E4%B8%8E%E5%9B%BD%E5%80%BA%E5%88%A9%E7%8E%87%E5%90%8C%E5%88%9B%E6%96%B0%E9%AB%98.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22820,
+   "title": "美伊重新交火，布油重上90美元：美国在两大库存短缺中咬牙死磕",
+   "summary": "【一句话判断】特朗普继续争夺霍尔木兹，不只是为了恢复通航，而是要让其他海湾石油出去、继续截断伊朗收入；这场选择性开放正在变成美国军火、伊朗经济和全球能源成本的消耗战。",
+   "heat": 94.0,
+   "category": "财经",
+   "story": "8月30日，美军打击伊朗拉腊克岛附近的火箭发射设施，这是一个月来美国首次再次动武。伊朗随后向约旦境内的美国设施发射导弹。次日，布伦特原油重新站上每桶90美元。\n\n如果只是沿着“交火—油价—通胀—航运成本”再讲一遍，这条新闻写成快讯就够了。半年战争真正的新问题是：美国的军火库存已经吃紧，国内商业原油库存也在下降，特朗普为什么还要继续争夺霍尔木兹海峡？\n\n答案不只是“把海峡打开”。\n\n特朗普想建立的是一套选择性通航秩序：沙特、阿联酋等海湾国家的油可以出去，伊朗的港口和石油收入继续被封锁。换句话说，美国要把霍尔木兹从全球公共航道，变成压迫伊朗的经济闸门。\n\n这也是8月底重新交火比又一次口水战更重要的地方。双方争夺的已不只是一处火箭阵地，而是谁能决定海峡让谁走、让谁停。\n\n特朗普为什么死磕：要让海湾出油，让伊朗断钱\n\n2月底开战时，特朗普曾预计战争只需四到五周。半年后，美国的目标已经发生变化。美联社梳理称，重新开放霍尔木兹海峡如今成为美国的首要目标之一，而它在开战前甚至不是问题——当时海峡本来就自由通航。\n\n如今美国面前有三件互相冲突的事。\n\n第一，美国要让海湾石油恢复出口。海峡长期低流量，会把美国汽油、柴油、食品和运输成本一起推高，也会让特朗普在11月国会选举前持续承受国内压力。\n\n第二，美国又不愿让伊朗跟着恢复正常出口。特朗普政府已把军事打击的一部分让位于经济施压，威胁惩罚继续与德黑兰交易的国家和机构。美国所说的“控制海峡”，实际还包括封锁伊朗港口、拦截伊朗出口，让伊朗无法从油价上涨中获得完整收益。截至8月30日，美军称已在对伊朗港口的封锁行动中改变83艘商船航向，并使3艘船失去行动能力。\n\n第三，美国必须证明伊朗无权把一条承载全球约五分之一石油贸易的水道变成谈判收费站。若华盛顿最终用解除封锁和承认伊朗海峡管理权换取通航，伊朗就会证明：即使在海空力量遭到重创后，少量导弹、无人机和海雷仍足以迫使美国让步。\n\n所以特朗普“死磕”的意义，是争取一个看似两全的结果：压低全球能源价格，却不放松对伊朗的经济绞索；减少大规模空袭，却保住美国对海上通道的控制权。\n\n问题是，这个结果比全面封锁或全面开放都更难实现。\n\n美军可以清雷，却命令不了保险公司\n\n特朗普称，最近一周已有24艘船通过霍尔木兹。战前平均每天约有130艘船通行。24艘每周与130艘每天之间的差距说明，美国取得了局部军事控制，却远未恢复商业航运。\n\n原因在于，军方判断“航道可通”和船东判断“这趟生意值得冒险”是两回事。\n\n伊朗不必永久封死海峡。它只需要偶尔布雷、发射无人机或袭击一艘商船，就能让保险公司重新计算风险。7月下旬，霍尔木兹附加战争险已从数周前相当于船体价值的1%—3%，升至7.5%—10%。一艘价值1亿美元的油轮，单次航行对应的附加保费可能达到750万—1000万美元；即便美军护航，货主、船东和船员也未必愿意进入。\n\n这就是这场战争最难解的结构：\n\n• 伊朗没有能力把每一艘船都挡住，却有能力让正常商业通航变得不经济。\n• 美国有能力摧毁阵地、清除海雷，却很难以可承受的成本保证每一艘船安全。\n• 海湾国家需要出货，却不愿让本国港口、油田和城市成为报复目标。\n\n霍尔木兹不需要在地图上关闭。只要战争险、船员安全和航次收益同时过不了关，它在商业上就已经半关闭。\n\n美国缺的不只是一种库存\n\n所谓美国“库存不足”，需要分成两本账。\n\n一本是军火账。美联社援引美国防务官员和北约官员称，美国在欧洲的“爱国者”拦截弹库存已降至极危险水平；美国国防部公开否认存在短缺。CSIS研究人员的估算更激进：伊朗战争可能消耗了约1500枚“爱国者”拦截弹，相当于美国原有库存的65%。这组数字并非美方正式公布，但产能追不上消耗的矛盾已经进入公开争论。\n\n截至7月，美国国防部称战争已耗资375亿美元，并向国会申请671亿美元追加资金，其中210亿美元用于弹药。便宜的无人机、火箭或疑似布雷行动，可以迫使美国使用昂贵拦截弹、舰艇和战机。时间拖得越久，这场仗越会挤压美国在欧洲和亚太方向的战备余量。\n\n另一本是石油账。美国能源信息署预计，美国商业原油库存到2026年底仍将低于2021—2025年五年区间的最低水平。原因包括出口强劲、进口减少和炼厂高负荷运行。美国本身是产油大国，但“产量高”不等于汽柴油价格不会受全球油价和国内库存影响。\n\n两本库存把特朗普夹在中间：停止施压，等于把海峡控制权和谈判筹码交回伊朗；继续高强度交火，又会同时消耗拦截弹、财政和国内低油价空间。转向制裁与有限打击，正是为了降低消耗，但8月底的重新交火说明，经济战本身仍需要军事力量兜底。\n\n长期拉锯，真正受益者不是伊朗\n\n伊朗掌握了让美国难受的杠杆，却不等于它是赢家。美国封锁削弱伊朗出口收入，军事打击造成巨大损失；海峡越乱，伊朗自己的正常贸易同样越难恢复。它获得的是谈判能力，不是经济红利。\n\n长期拉锯重新排列的是四组利益。\n\n对象在拉锯中的位置真正得到或失去什么接下来最该看什么美国、巴西、圭亚那等非海湾产油国相对受益高油价和替代采购抬高出口吸引力；美国上游企业受益，但美国消费者同时付出更高油价美国原油出口、上游资本开支、汽油零售价沙特、阿联酋少受伤，不是纯赢家两国拥有绕过海峡的输油管道。IEA估算，可用替代能力合计约350万—550万桶/日，但远低于战前海峡近2000万桶/日的总油流延布、富查伊拉装船量，红海安全和管道实际持续输量伊拉克、科威特、卡塔尔和巴林海湾内部受伤更重缺少足够绕行路线，原油或LNG出口高度依赖海峡。卡塔尔LNG受阻还会把压力传向亚洲天然气市场LNG船与油轮通行量、出口设施复产、长期合同履约中国、印度、日本、韩国等亚洲进口国承担主要外部成本2025年霍尔木兹原油约80%流向亚洲，中印合计接收44%；进口成本、炼化价差、航油和物流费用持续承压实际到港量、运费、成品油裂解价差、战略和商业库存军工补库与高风险航运服务商局部受益、风险极高拦截弹、反无人机和补库订单增加；少数愿意承险的船东可获得高运价，但保险、损失和航次锐减会吞掉收益美国追加拨款、扩产交付周期、战争险和实际航次数\n\n对中国市场也要拆开看。中国石油、中国海油等上游业务可能受益于较高的实现油价；中国石化及民营炼化更受原油成本与成品油、化工品价差约束；航空、物流和高耗油制造业承担的则是更直接的成本压力。油价上涨从来不是“中国能源板块整体受益”，而是上游收入、下游利润和居民成本之间的一次再分配。\n\n真正的第一顺位受益者，是那些能够绕开霍尔木兹、向全球提供替代油气的出口国和项目；真正的第一顺位受害者，是没有绕行通道的海湾出口国、依赖进口的亚洲经济体，以及被迫用昂贵武器维持低成本威胁下航道安全的美国自身。\n\n未来一个月：最可能出现的是低烈度、高成本\n\n未来一周，8月底交火会让油价和战争险维持高位，但只要美国与伊朗都没有扩大打击范围，布油未必沿直线继续上涨。最先反应局势的仍是商船数量、载油量和保险报价，而不是双方发布了多少胜利声明。\n\n未来一个月，更可能出现的不是彻底封锁或全面恢复，而是“有限护航、零星袭击、制裁加码、谈判停滞”并存。截至9月1日，可作如下阶段性判断：\n\n未来一个月主观概率局面特征对油价的含义低烈度拉锯延续60%美国有限护航和打击，伊朗保留袭船与布雷威胁，实际通航缓慢增加布油继续保留较高战争溢价，容易因单次事件急涨急跌再次达成局部通航安排25%阿曼、卡塔尔等推动商船安全规则，双方把核与制裁问题暂时后置船流和保险先改善，油价可能早于正式停火回落冲突扩大到港口或能源设施15%报复升级，油轮、港口、油田或美军基地遭到更大规模打击供给风险重新压过需求，油价和运费跳升\n\n这组判断最容易被两类信号推翻：一是连续两周的油气船通行量明显恢复，同时战争险持续下降；二是美国追加大规模军事部署、伊朗袭击能源设施，说明双方准备承受更高成本。\n\n市场过去半年一直在等待一方“赢”。8月底重新交火提醒人们，霍尔木兹更可能进入另一种结局：美国封不住伊朗的低成本威胁，伊朗也扛不起完全关闭海峡的经济代价，双方只能把成本转嫁给船东、进口国、消费者和各自的库存。\n\n布油90美元不是战争胜负的计分牌，而是这场互相否决、无人能完成目标的拉锯每天向世界收取的通行费。\n\n信息来源与口径说明\n\n• 8月底重新交火后布油重上90美元（美联社）\n• 美伊8月底重新交火及双方行动（美联社）\n• 美伊战争六个月后美国目标变化（美联社）\n• 美国“爱国者”拦截弹库存争议（美联社）\n• 伊朗对长期拉锯的判断与风险（美联社）\n• 霍尔木兹出口依赖与替代管道能力（国际能源署）\n• 霍尔木兹运输量（美国能源信息署）\n• 美国能源信息署2026年8月短期能源展望\n• 霍尔木兹战争险和船舶通行数据（标普全球）\n• 美国战争成本与追加拨款结构（Military Times）\n• 文中“选择性通航秩序”“只封伊朗”为基于美国公开军事、封锁和经济施压行动作出的分析判断，不是美方正式政策名称。\n• 情景概率为截至2026年9月1日的主观判断，不构成油价预测或交易建议。",
+   "impact": "",
+   "publish_time": "2026-09-01T12:24:18",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788236384826-%E7%BE%8E%E4%BC%8A%E9%87%8D%E6%96%B0%E4%BA%A4%E7%81%AB%EF%BC%8C%E5%B8%83%E6%B2%B9%E9%87%8D%E4%B8%8A90%E7%BE%8E%E5%85%83.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22858,
+   "title": "社保基金2025年赚3907亿，收益率13.22%：增至上年的4.4倍",
+   "summary": "【一句话判断】社保基金2025年收益率升至13.22%，更重要的变化是已实现收益增至上年的4.4倍，收益构成较2024年更均衡；但公允价值变动仍贡献约一半收益，单年成绩不能被当成普通账户的可复制回报。",
+   "heat": 93.0,
+   "category": "财经",
+   "story": "全国社会保障基金2025年赚了3906.72亿元，投资收益率13.22%，年末资产总额达到3.81万亿元。\n\n三个数字都很亮眼。但这份成绩单里更值得拆开的，不是13.22%高不高，而是3907亿元究竟怎样形成。\n\n其中，已实现收益1922.61亿元，交易性资产公允价值变动1984.11亿元。前者通常包括通过利息、分红、资产处置等方式确认的收益，后者来自以公允价值计量的交易性资产价格变化。两部分几乎各占一半。\n\n与2024年相比，2025年的收益不但更高，构成也更均衡：已实现收益由436.51亿元增加到1922.61亿元，增至原来的4.4倍；公允价值变动占总收益的比例则从80.0%降到50.8%。\n\n13.22%真正有用的启示，不是让普通投资者照抄社保基金的持仓，而是看懂长期资金怎样在市场回调时加仓、在上涨后把一部分账面收益转成已实现收益。\n\n先分清两只“社保基金”\n\n这份年报披露的是全国社会保障基金。它是国家社会保障战略储备基金，主要用于人口老龄化高峰时期养老保险等社会保障支出的补充和调剂，资金来源包括财政拨款、国有资本划转和投资收益。\n\n它不是各省缴存并委托运营的基本养老保险基金，更不是某个参保人的个人账户。\n\n社保基金会此前公布的另一份2025年度报告显示，地方基本养老保险基金当年投资收益率为5.76%。同一个管理机构、不同资金性质、不同投资约束，收益率可以相差一倍以上。\n\n因此，13.22%不能被翻译成“养老金去年普遍赚了13.22%”，更不能拿来和个人账户余额机械比较。这是读这份年报的第一条边界。\n\n收益增加近八成，已实现部分增至4.4倍\n\n把2024年和2025年放在一起，收益结构的变化比单看13.22%更清楚。\n\n指标2024年2025年变化年末资产总额3.32万亿元3.81万亿元+14.6%投资收益额2184.18亿元3906.72亿元+78.9%投资收益率8.10%13.22%+5.12个百分点已实现收益436.51亿元1922.61亿元增至4.4倍公允价值变动1747.67亿元1984.11亿元+13.5%公允价值变动占总收益80.0%50.8%-29.2个百分点\n\n2024年的2184亿元收益中，约八成来自公允价值变动。到了2025年，账面价格上涨仍贡献了近1984亿元，但已实现收益增长得更快。\n\n这说明2025年的高收益并非只有年末市值抬升。部分投资收益已经通过利息、分红、处置或其他确认方式进入当期损益，收益结构比2024年更均衡。\n\n这里也要防止另一种过度解读。已实现收益增加，不等于社保基金在“大规模减仓”；公允价值变动占比下降，也不等于股票仓位下降。年报没有披露足以还原每一类资产买卖和收益贡献的明细，不能从两项会计数字倒推出具体交易方向。\n\n动态加仓是真的，贡献多少仍没有公开答案\n\n社保基金会在年报中明确写道，2025年采取“以进促稳”的配置策略，在资本市场大幅回调时动态加仓股票，并加大科技创新领域投资力度，较好把握了科技创新板块上涨行情；境内外股票投资均取得较好收益。\n\n这段表述可以确认三件事：社保基金并非全年机械持有；市场回调时确实增加了股票投资；科技创新和境外股票是收益来源之一。\n\n但年报没有披露加仓发生在哪些日期、加了多少、科技板块贡献了多少收益，也没有公布完整持仓名单。把13.22%全部归因于“押中科技股”，会把多资产组合写成一笔单边交易。\n\n社保基金还配置债券、银行存款、证券投资基金、股权和股权投资基金等资产。报告同时提到，在债券利率和银行存款报价相对高点增加配置，抓住境外主要国家债券收益率处于历史高位的阶段性机会。13.22%是股票、固定收益、实业投资、现金管理和汇率折算共同作用后的组合结果。\n\n真正值得学习的是“有战略锚，再做战术加仓”，不是把长期资金的年度复盘改写成一张追涨清单。\n\n委托资产和境外资产增长更快\n\n年末资产结构还透露出两处变化。\n\n资产结构2024年2025年变化直接投资资产9485.76亿元，占28.55%10209.23亿元，占26.81%金额+7.6%，占比-1.74个百分点委托投资资产23738.86亿元，占71.45%27874.50亿元，占73.19%金额+17.4%，占比+1.74个百分点境内投资资产28846.36亿元，占86.82%32283.54亿元，占84.77%金额+11.9%，占比-2.05个百分点境外投资资产4378.26亿元，占13.18%5800.19亿元，占15.23%金额+32.5%，占比+2.05个百分点\n\n委托投资主要包括由专业投资管理人运营的境内外股票、债券和证券投资基金；直接投资则包括存款、股权投资、股权基金、转持国有股和指数化股票投资等。\n\n2025年委托资产增长快于直接投资，境外资产增长快于境内资产，说明这两部分在年末总资产中的权重提高了。它们可能来自新增配置、市场上涨和汇率折算等多种因素，年末余额本身不能告诉我们每一种因素贡献了多少。\n\n但对判断长期资金的下一步方向，这两个占比值得连续观察：社保基金是否继续扩大外部专业管理和全球配置，决定了它在国内资本市场之外还能用哪些工具分散风险、获取收益。\n\n普通投资者最该抄的不是持仓，而是四本账\n\n社保基金的期限、规模、资金来源和风险承受能力都与个人不同。普通投资者无法复制它的未上市股权、委托管理和长期资金条件，却可以借这份年报学会四种判断。\n\n以后看到机构高收益时应该检查什么2025年社保基金给出的答案收益有没有真正实现已实现收益与公允价值变动分别是多少各约一半，已实现部分较上年明显提高是押中单一赛道还是组合管理股票、债券、股权、现金和境外资产是否共同贡献年报确认多资产共同运作，无法把收益全部归给科技股加仓是追涨还是再平衡是否有长期配置锚，是否在回调时调整年报明确称在大幅回调时动态加仓股票单年收益能否复制长期年化与单年收益差多少2025年为13.22%，成立以来年均为7.62%\n\n最后一组数字尤其重要。社保基金成立以来年均投资收益率为7.62%，明显低于2025年的13.22%。长期资金也有高收益年、低收益年和亏损年。把一个高收益年份当成未来常态，恰恰违背了长期投资的含义。\n\n未来一年，判断这份成绩单能否延续，可以看三项公开信号：已实现收益能否继续保持较高占比，境外和委托资产权重是否继续提高，新设浙江、江苏、福建（厦门）、湖北、四川等社保科创基金后是否出现可核验的投资和退出成果。\n\n如果未来市场回落导致公允价值变动明显收缩，而已实现收益和长期年均收益仍保持稳定，说明组合的抗波动能力在增强；如果收益重新高度依赖年末市值上涨，13.22%就更接近一个景气年份的高点，而不是可复制的新台阶。\n\n3907亿元是一份漂亮的年度成绩单。真正决定这笔长期资金质量的，却是市场不再配合时，它还能留下多少已实现收益。\n\n信息来源与口径说明\n\n• 全国社会保障基金理事会：《全国社会保障基金2025年度报告》，2026年9月1日。\n• 全国社会保障基金理事会：《全国社会保障基金2024年度报告》，2025年9月30日。\n• 全国社会保障基金理事会：《基本养老保险基金受托运营年度报告（2025年度）》，2026年8月1日。\n• 表中增幅和占比变化根据两份全国社会保障基金年度报告公开数据计算，取一位小数；四舍五入可能产生尾差。\n• 年末资产结构变化同时受到新增资金、投资收益、资产价格和汇率等因素影响，本文不把余额变化单独归因为主动增减仓。\n• 全国社会保障基金年报未披露完整股票持仓和各类资产收益贡献，本文不据此制作具体上市公司“社保基金持仓受益表”。文中内容不构成投资建议。",
+   "impact": "",
+   "publish_time": "2026-09-01T15:34:16",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788247429630-%E7%A4%BE%E4%BF%9D%E5%9F%BA%E9%87%912025%E5%B9%B4%E8%B5%9A3907%E4%BA%BF%E5%85%83.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22819,
+   "title": "中国再投5万亿升级电网：拥抱9亿千瓦新能源和4000万充电设施",
+   "summary": "【一句话判断】新能源大规模接入，AI与电动车推高新增负荷，5万亿元电网投资要解决的不只是远距离送电，还有城市和产业末端能否接得住、调得动。",
+   "heat": 93.0,
+   "category": "科技",
+   "story": "“十五五”期间，全国电网固定资产投资预计达到5万亿元以上，比“十四五”同期增长超过80%。为什么此时要花这么大一笔钱？因为中国的电正在同时改变来源和去向：更多风电、光伏从西部基地和千家万户的屋顶进入电网，AI数据中心与电动车又在另一端制造新的用电高峰。\n\n与5万亿元这个总额一起公布的，还有约15回新增投产的特高压直流通道、西电东送规模超过4.2亿千瓦、6个以上区域电网互济工程，以及约4000万千瓦新增互济能力。到2030年，新型电网还要具备接纳9亿千瓦分布式新能源、支撑超过4000万台充电设施的能力。\n\n5万亿元很大，但它更重要的含义不是多修几条输电线路，而是给正在变化的中国能源和用电结构换一套更强的底座。\n\n这一轮电网建设不是主干网退场、配电网接棒，而是两种任务同时变重：远方的大基地电力仍要靠特高压送出来，分布式新能源、充电桩、储能和算力负荷则要求配电网从“单向送电”变成能感知、能调度、能双向互动的系统。\n\n五万亿元买的不只是更多电线\n\n国家发展改革委、国家能源局提出，到2030年初步建成主干电网和配电网为重要基础、智能微电网为补充的“主配微协同”平台。目标包括接纳9亿千瓦分布式新能源，支撑超过4000万台充电基础设施，并把调度对象从少数大型电厂扩大到分布式光伏、储能、充电设施、虚拟电厂和微电网。\n\n这意味着电网的工作正在从“把电送到”增加到“随时知道谁在发电、谁在用电、谁能调节，并在波动中保持稳定”。\n\n一端，风光大基地仍需要大容量远距离输电，特高压变压器、换流阀、组合电器、断路器等一次设备继续拥有明确工程量。另一端，屋顶光伏、电动车、工商业储能和数据中心集中接入，让中低压配电网承受双向潮流、负荷突变和局部拥塞。没有配电自动化、智能终端、保护控制和数字调度，新增电源与负荷越多，系统反而越难运行。\n\n因此，增量不是简单从“铜和铁”换成“软件”，而是硬件扩容与控制能力同步升级。\n\n一张链条看清资金怎样变成收入\n\n5万亿元是五年期全国电网固定资产投资口径，并不等于已经签出的设备订单，更不等于上市公司可以按同一比例增长。\n\n规划目标 → 工程核准 → 电网招标 → 企业中标 → 设备交付 → 收入确认 → 毛利和现金流\n\n从规划到利润，中间至少有六道门。特高压项目受核准和建设节奏影响；配电网项目数量多、分布散，取决于省级电网和地方改造计划；软件和调度系统还要面对技术标准、存量系统兼容和验收周期。投资额增长可以提高行业需求上限，却不能替企业解决低价竞争、原材料上涨和回款问题。\n\n四类环节，确定性并不相同\n\n环节与观察样本为什么相关已有公开依据当前判断下一步看什么特高压一次设备：特变电工（600089）、平高电气（600312）、中国西电（601179）约15回特高压直流通道需要变压器、开关、组合电器、换流及保护设备特变电工披露2025年直流工程投资同比增长25.7%；平高披露国网、南网中标规模增长一阶工程受益，但受项目核准和招标份额约束新线路核准、设备招标批次、中标金额、交付周期调度与电网自动化：国电南瑞（600406）、许继电气（000400）主配微协同需要调度控制、保护、配电自动化和智能终端国电南瑞披露已落地特高压、配网自动化和新一代用采项目；许继业务覆盖特高压、智能配电、储能和充换电一阶系统能力，收入兑现通常晚于政策发布调度、配网和数字化合同，软件收入与毛利率配电网设备与智能终端：许继电气、平高电气、思源电气（002028）等分布式新能源和充电负荷要求配网扩容、柔性化和可观可控官方文件明确配电网由无源单向网络向有源双向交互系统转变项目多但分散，区域建设节奏差异较大省级配网投资、终端招标、台区改造和回款储能与构网型设备：阳光电源（300274）、宁德时代（300750）等新能源比例提高，需要调节资源和构网能力官方文件支持分布式独立储能、电网替代型储能，并要求多元资源协同调度二阶且有条件，不能把5万亿元全部映射成储能订单容量补偿、辅助服务收益、独立储能招标、利用率充电与车网互动设备到2030年支撑超过4000万台充电基础设施，需配网扩容和智能充放电官方文件要求车、桩、站、网融合并扩大车网互动需求真实，但商业收益取决于利用率和电价机制V2G试点、报装容量、峰谷价差、运营商利用率\n\n这些公司是业务暴露样本，不是买卖名单。判断谁真正吃到投资，首先要区分它卖的是工程必需设备、控制系统，还是围绕政策主题提供可选产品。\n\n最容易被误读的三个地方\n\n第一，5万亿元不是一笔突然出现的新增资金。它是“十五五”五年期全国电网固定资产投资总口径，其中包含国家电网、南方电网及其他电网建设和改造。国家电网此前披露自身“十五五”固定资产投资预计达到4万亿元，比“十四五”增长40%。两个数字口径不同，不能相加成9万亿元。\n\n第二，配电网和智能调度的重要性上升，不代表特高压投资下降。约15回直流通道和4.2亿千瓦西电东送目标说明，主干网仍是最大工程底座。更准确的结构是：主干网解决跨区域输送，配电网解决末端接入，调度系统解决两者同时波动。\n\n第三，储能写进政策不等于所有储能产能都会受益。储能项目能否形成稳定订单和利润，取决于调用频率、容量补偿、辅助服务价格、安全标准和回款机制。只看装机量，容易把低利用率项目也当成高质量需求。\n\n用户真正应该跟踪的三张清单\n\n未来6至12个月，第一张清单是工程核准和招标。重点看新增特高压直流项目是否按计划核准，国家电网、南方电网的一次设备和配网招标金额是否持续增长。规划进入招标，才是产业链从“政策确定性”迈向“订单确定性”。\n\n第二张清单是企业合同与交付。国电南瑞2025年披露新签合同758.68亿元，同比增长14.40%，并列出特高压、配网自动化、调度等项目。今后要继续看合同增速是否转化为收入、毛利和经营现金流。中标很多但回款慢，不能算完整兑现。\n\n第三张清单是配电侧的新指标：分布式新能源可开放容量、配网自动化覆盖率、充电设施报装容量、虚拟电厂接入规模、储能实际调用次数。这些指标比“某公司拥有智能电网概念”更接近真实需求。\n\n当前判断的时间窗是2026年至2030年。对电网资本开支上行的置信度高；对特高压和数字调度成为一阶受益环节的置信度中高；对储能、虚拟电厂和车网互动收入快速兑现的置信度中等，仍需招标和商业机制证明。\n\n5万亿元把行业的需求上限抬高了，真正拉开公司差距的却是另一件事：谁能把规划变成中标，把中标变成交付，再把交付变成有现金流的收入。\n\n信息来源与口径说明\n\n• “十五五”全国电网投资、特高压及互济工程目标（国家能源局转载中电联报告）\n• 《关于促进电网高质量发展的指导意见》（国家发展改革委、国家能源局）\n• 国电南瑞2025年年度报告\n• 许继电气2025年年度报告\n• 平高电气2025年年度报告\n• 特变电工2025年年度报告\n• 阳光电源2025年年度报告\n• 5万亿元为规划期固定资产投资预计值，并非已经确认的设备订单；公司映射依据公开业务结构，后续须由招标、合同、交付、收入和现金流继续验证。",
+   "impact": "",
+   "publish_time": "2026-09-01T12:24:18",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788236283285-%E4%B8%AD%E5%9B%BD%E5%86%8D%E6%8A%955%E4%B8%87%E4%BA%BF%E5%8D%87%E7%BA%A7%E7%94%B5%E7%BD%91.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22752,
+   "title": "QDII额度新增68.4亿美元：基金限购和ETF溢价有了松动条件",
+   "summary": "【一句话判断】新额度增加的是合规海外投资产品的供给能力，未来三个月最该检查基金限购、ETF一级市场份额供给和场内溢价是否同步松动。",
+   "heat": 92.0,
+   "category": "财经",
+   "story": "8月28日，国家外汇管理局更新QDII投资额度审批表。6月末还停留在1761.69亿美元的累计批准额度，升到了1830.09亿美元。\n\n新增的68.4亿美元里，证券基金类拿到37.2亿美元，银行类拿到17.6亿美元，保险类拿到13.6亿美元，信托类没有增加。21财经进一步统计，其中基金公司获得30.4亿美元增量，鑫元基金首次拿到1亿美元QDII额度。\n\n对普通用户来说，这条新闻真正改变的不是海外市场方向，而是境内合规配置海外资产的产品供给。\n\n过去一段时间，一批QDII基金把单日申购上限压到10元，部分产品直接暂停申购；场内跨境ETF则因一级市场份额供给不足、套利受阻等因素出现明显溢价。新额度相当于给机构补充了一批可以用于境外投资的外汇容量，给限购和高溢价留下了松动空间。\n\n但顺序不能写反：额度先到机构，不会自动落到每一只基金；基金放开申购以后，也不保证海外资产上涨。新额度首先修复的是产品供给，不是投资收益。\n\n68.4亿美元分给89家机构，基金公司拿到30.4亿\n\n把外汇局6月末和8月末两份审批表放在一起，增量分布很清楚。\n\n机构类型6月末累计额度8月末累计额度本轮增加占68.4亿增量证券基金类972.8亿美元1010.0亿美元37.2亿美元54.4%银行类292.3亿美元309.9亿美元17.6亿美元25.7%保险类406.43亿美元420.03亿美元13.6亿美元19.9%信托类90.16亿美元90.16亿美元00合计1761.69亿美元1830.09亿美元68.4亿美元100%\n\n普通基金用户最关心证券基金类，因为公募QDII和跨境ETF都要消耗相关机构的额度。21财经根据外汇局表格统计，本轮共有53家证券基金类机构获得37.2亿美元增量，其中基金公司合计增加30.4亿美元。\n\n易方达、华夏、华宝、博时、汇添富、广发、国泰、富国、天弘、景顺长城、华泰柏瑞、万家、创金合信、长城等多家基金公司获得1亿美元增量；南方、银华、鹏华、建信、大成、中银、永赢等机构获得0.8亿美元；工银瑞信、海富通、招商、浦银安盛、中欧等机构获得0.6亿美元。不同机构拿到的增量并不悬殊，说明这轮发放更像一次覆盖面较广的容量补充，而不是把大部分额度集中给少数头部公司。\n\n同时出现了三家首次获批机构：华美银行（中国）、中信银行国际（中国）和鑫元基金。对鑫元基金而言，1亿美元意味着获得了进入QDII产品市场的基础资格；但从资格到产品成立，还要经过投研、系统、产品申报、托管和销售等环节。新玩家入场增加长期供给，短期内却不会立刻改变热门产品的限购状态。\n\n额度先批给机构，产品开放还要过三道门\n\nQDII额度不是直接发给普通投资者，也不是逐只发给基金，更不是一笔直接到账的资金。它先批给基金公司、券商资管、银行、保险等合格机构，再由机构按产品和业务需要进行内部安排。\n\n因此，一笔新增额度要真正改善用户体验，至少要走过三道门。\n\n第一道门是机构分配。拿到增量的基金公司可能优先补给需求最旺、限购最严的老产品，也可能留给正在筹备的新产品。外汇局审批表只告诉我们机构总额度增加了，没有披露每一只基金具体分到多少。\n\n第二道门是产品公告。场外QDII是否提高单日申购上限、是否恢复申购，要以基金公司公告为准。机构获批日期是8月26日，不代表所有产品在8月28日或8月31日已经完成额度划拨和运营调整。\n\n第三道门是实际使用。QDII产品收到申购资金后，还要完成换汇和境外投资。基金经理会考虑市场估值、申赎安排、汇率、交易时差、流动性和投资节奏，不会因为拿到额度就机械地在同一天把资金全部投入海外市场。\n\n这三个层级决定了新闻的正确读法：批准额度是供给上限增加，产品公告才是用户入口变化，实际持仓和规模才说明资金真正出去了。\n\n158只产品仍受限，高溢价ETF最先接受供给检验\n\n21财经援引Wind数据称，截至8月28日，全市场333只QDII产品中，有158只处于暂停申购或大额限购状态，占比超过四成。部分投向美国、韩国等热门市场的产品，单日申购上限已经低至10元。\n\n额度紧张对场外基金和场内ETF的影响不同。\n\n场外QDII最直观的表现是限购。额度增加后，如果基金公司把新增容量分给相关产品，用户最先看到的应该是申购上限从10元提高到100元、1000元或更高，或者暂停申购的产品恢复开放。\n\n场内跨境ETF还多一层价格问题。ETF的市场价格由买卖盘决定，基金份额净值则取决于境外资产。正常情况下，一级市场申购赎回和套利交易会把两者拉近；当基金公司缺少QDII额度、限制一级市场申购时，套利者难以增加ETF份额，高需求就可能把场内价格推到净值之上。\n\n21财经统计，截至8月28日，景顺长城纳指科技ETF（159509）溢价率达到12.25%，嘉实、国泰、广发旗下纳指ETF以及华泰柏瑞中韩半导体ETF（513310）的溢价也超过10%。如果相应基金公司把新增额度分给这些产品，并恢复或扩大一级市场申购，新增份额会增加套利供给，高溢价就有收敛条件。\n\n这里仍要保留边界。ETF溢价还会受到中外交易时差、海外市场休市、盘中标的价格变化、汇率、流动性和投资者情绪影响。额度增加只能修复其中的供给约束，无法保证每只ETF的溢价立即归零。\n\n高溢价ETF最危险的误读，是把高于净值的价格当成指数本身更强。额度恢复后，指数即使不跌，溢价收缩也会让场内价格单独承压。\n\n看机构名单，也要看产品名单\n\n外汇局公布的是机构额度，用户最终买到的却是具体产品。两张名单必须一起看。\n\n对象本轮公开事实更接近什么影响下一步看什么容易高估什么易方达基金累计额度79.6亿美元，本轮增加1亿美元头部跨境产品供给能力继续增加旗下QDII限购公告、新产品和规模变化累计额度第一不代表所有产品都宽松华夏基金累计额度69.5亿美元，本轮增加1亿美元产品布局和容量获得补充热门产品申购上限与ETF份额额度增加不代表海外资产方向判断南方基金累计额度61.6亿美元，本轮增加0.8亿美元存量产品可获得新增容量具体产品分配和恢复申购公告机构额度不能直接换算成单只基金额度景顺长城基金累计额度14.3亿美元，本轮增加1亿美元；纳指科技ETF（159509）被媒体统计为高溢价样本若额度分给相关ETF，一级市场供给最值得观察ETF申购清单、份额变化、折溢价拿到额度不等于溢价马上消失华泰柏瑞基金累计额度17.9亿美元，本轮增加1亿美元；中韩半导体ETF（513310）被列为高溢价样本热门跨境ETF供给可能获得改善一级市场申购、基金份额和溢价半导体行情与产品溢价是两回事嘉实基金累计额度42.4亿美元，本轮表格没有显示新增批准；纳指ETF嘉实（159501）仍被列为高溢价样本本轮直接增量有限，更多取决于原有额度调配产品公告、一级市场申购和溢价所有高溢价产品都会同步受益鑫元基金首次获批1亿美元获得QDII业务起点，短期更偏产品筹备产品申报、成立、募集和实际运作首次获批等于马上出现成熟产品\n\n这张表说明，真正的一阶对象要同时满足三个条件：本轮拿到增量、手里已有需求旺盛的跨境产品、愿意把额度用于扩大申购。只满足其中一个条件，影响都要打折。\n\n未来三个月，依次检查限购、份额和溢价\n\n这轮额度发放的效果，不需要靠猜，可以在未来一至三个月里按顺序检查。\n\n先看基金公告。若一批QDII产品提高每日申购上限或恢复申购，说明机构额度已经开始落到产品。\n\n再看基金份额。若相关场外QDII规模上升、跨境ETF份额持续增加，说明新增入口被真实资金使用，而不是只停留在审批表上。\n\n最后看折溢价。若高溢价ETF的一级市场供给恢复后，场内溢价持续收窄，说明新增额度确实改善了套利机制。若基金仍维持10元限购、ETF份额没有增加、溢价高位反复，那么额度可能被分配给其他产品，或者额度并不是当前供给瓶颈的唯一原因。\n\n1830.09亿美元是合规跨境投资容量的新上限，不是海外市场的涨跌预告。对普通用户最有用的动作，是把“额度新闻”翻译成三张能看到的成绩单：基金限购公告、产品份额变化和ETF折溢价。\n\n这三张表一起松动，新额度才真正从机构名单走到了用户账户。\n\n信息来源与口径说明\n\n• 国家外汇管理局：截至2026年8月末QDII投资额度审批情况表。\n• 国家外汇管理局：截至2026年6月末QDII投资额度审批情况表。本文以两份官方表格计算分类和总量增量。\n• 21财经：新一批QDII额度发放，基金揽30亿美元增量，有新玩家入局。基金公司30.4亿美元、89家机构、产品限购数量及8月28日ETF溢价数据来自该报道及其援引的Wind统计。\n• 产品代码由基金管理人公开产品页或公告核对：景顺长城纳指科技ETF（159509）、嘉实纳指ETF（159501）；中韩半导体ETF代码513310据公开基金资料核对。\n• 额度、限购、基金份额和ETF溢价均会动态变化，产品状态应以基金管理人最新公告、交易所行情和基金定期报告为准。本文不构成任何基金或境外资产的买卖建议。",
+   "impact": "",
+   "publish_time": "2026-09-01T00:40:12",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788194396034-68.4%E4%BA%BF.png",
+   "source": "日知录"
+  },
+  {
+   "id": 22816,
+   "title": "感染重症不再逐个猜病原体：中国批准两款宏基因组检测试剂",
+   "summary": "【一句话判断】两款基于二代测序的病原宏基因组检测试剂获批，分别面向疑难重症呼吸道感染和血流感染。它们能够在一次检测中广泛寻找细菌、病毒和真菌线索，让疑难感染从逐项排查走向全景搜索；最终诊断仍需医生区分感染、定植与污染。",
+   "heat": 92.0,
+   "category": "科技",
+   "story": "一名重症患者高烧、呼吸困难，影像显示肺部感染，抗生素用了几轮，病情仍在恶化。\n\n医生知道身体里很可能藏着一个病原体，却未必知道该先找谁。\n\n细菌培养需要时间，病毒、真菌和少见病原体又要使用不同检测方法。样本有限，病人的时间更有限。传统检验常常像拿着一张嫌疑人名单逐个敲门：先查常见细菌，再查病毒，答案不对就继续扩大范围。\n\n国家药监局近日批准两款基于二代测序技术的病原宏基因组检测试剂上市。一款面向疑难、危重的下呼吸道感染，另一款面向常规方法无法确认病原体的血流感染和脓毒症患者。\n\n它们改变了搜寻方式：医生可以把样本中的遗传物质尽量铺开，一次寻找多类病原体留下的线索。\n\n传统检测先猜名字，宏基因组检测先撒开网\n\n感染诊断的难点，不只在于病原体多。\n\n有些细菌容易培养，有些长得很慢；有些患者在采样前已经使用抗生素，培养阳性率下降；病毒不能用普通细菌培养找到；真菌、非典型病原体和罕见微生物还需要专门方法。\n\nPCR检测速度快、灵敏度高，但通常要提前设计目标。试剂盒准备查甲、乙、丙三种病原体，丁即使出现在样本里，也可能不会被报告。\n\n病原宏基因组测序的思路不同。它提取样本中的核酸，完成测序，再把获得的大量片段与病原数据库比对。检测过程不必事先锁定唯一目标，因此适合病因不明、病原谱复杂、常规检测迟迟找不到答案的患者。\n\n检测方式像在做什么优势主要限制培养等活的微生物在培养基里长出来能进一步做药敏试验，临床价值高慢，部分病原难培养，使用抗菌药后可能受影响靶向PCR按名单精准寻找几个嫌疑对象快、灵敏、成本相对可控必须提前知道要查什么，名单外病原可能遗漏宏基因组测序把样本里的核酸线索广泛扫描后比对一次覆盖细菌、病毒、真菌等多类病原成本、污染控制和结果解读要求高\n\n本次获批的呼吸道试剂检测肺泡灌洗液中的真菌、细菌、非典型病原体和病毒，用于急危重症、免疫功能缺陷患者及疑难下呼吸道感染的辅助诊断。国家药监局称其为全球首款基于宏基因组技术的呼吸道病原体检测试剂。\n\n另一款检测血浆中的细菌和真菌核酸，用于常规方法无法确认病原体的疑似血流感染患者及脓毒症等重症患者，为国内首款用于血流感染的宏基因组检测试剂。\n\n找到一段DNA，还要回答它是不是凶手\n\n宏基因组检测撒开的网更大，也会捞起更多复杂信息。\n\n人的呼吸道并非无菌环境。一个微生物被检出，可能意味着它正在致病，也可能只是长期定植，或者来自采样、实验环境和试剂中的微量污染。部分病原体已经被免疫系统清除，残留核酸仍可能被测序捕捉。\n\n因此，检测报告不能直接替代诊断。\n\n医生还要结合发热、影像、炎症指标、免疫状态、病原体数量、序列覆盖情况和常规检验，判断谁是真正的致病者。必要时还要使用PCR、培养或重新采样进行确认。\n\n血液病患者的专家共识也提醒，病毒检出不等于病毒正在复制；非无菌样本中的微生物，需要区分感染、定植和污染；检测到耐药基因，也不一定代表细菌已经表现出相应耐药性。\n\n这正是宏基因组检测最反常识的地方：它帮医生看见更多，却也要求医生更会判断。\n\n技术解决了“搜索范围太窄”，临床仍要解决“哪条线索真正解释病情”。\n\n从医院自建检测到注册试剂，行业开始有统一尺子\n\n宏基因组测序进入中国医院已有多年。一些大型医院自建流程，一些样本送到第三方实验室完成检测，不同机构使用的样本处理、数据库、阈值和报告规则可能存在差异。\n\n这会带来一个现实问题：同一份样本送到不同实验室，报告内容和判断阈值能否保持一致？\n\n此次两款产品以体外诊断试剂身份获批，意味着监管部门开始用明确的产品注册、性能评价、生产质量和上市后监管要求，把一部分宏基因组检测从高度依赖实验室自建流程的服务，推进为可以标准化管理的诊断产品。\n\n它不会一夜之间统一所有检测，也不会让每家基层医院立刻拥有测序设备。真正改变还要经过医院采购、检验科验证、临床路径建立、人员培训、收费和支付政策等环节。\n\n但门槛已经向前移动：以前人们主要讨论“宏基因组能不能找到病原体”，今后还要比较“哪款试剂检得准、报告稳、周转快，能否真正改变治疗决策”。\n\n重症感染争夺的，往往是最初几十个小时\n\n脓毒症和重症肺部感染的治疗不能等到所有病原学答案齐全才开始。医生往往需要先使用经验性抗感染方案，再根据检测结果调整药物。\n\n病原体找得越慢，广谱抗菌药使用时间可能越长；找错方向，患者可能错过更有针对性的治疗。宏基因组检测最大的临床意义，就在于为常规方法找不到答案的患者尽快缩小范围。\n\n它最适合的是疑难、危重和特殊感染，而非让所有感冒发烧患者都进行昂贵的全景扫描。普通感染已有成熟、快速、便宜的检测路径，盲目扩大使用反而会增加费用和无关信息。\n\n下一步真正值得观察的有三件事：两款产品在多少医院完成准入，报告需要多长时间，检测结果有多大比例真正促使医生调整治疗。\n\n注册证让这项技术获得了一把进入临床标准化应用的钥匙。它最终的价值，要写在患者少走了多少弯路、医生提前多少小时找到病原体，以及抗菌药能否用得更准上。\n\n当重症感染争分夺秒，中国医疗开始给医生配上一张更大的病原体搜索网。\n\n来源与口径说明\n\n• 国家药监局通报：基于二代测序技术的病原宏基因组检测试剂获批上市\n• 呼吸系统感染中宏基因组测序技术临床应用与结果解读专家共识\n• 血液病患者病原诊断中mNGS应用中国专家共识\n• 两款试剂均用于辅助诊断，不能脱离临床表现和其他检查单独确诊感染，也不意味着宏基因组检测适合所有普通感染患者。",
+   "impact": "",
+   "publish_time": "2026-09-01T12:24:18",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788236544266-%E6%84%9F%E6%9F%93%E9%87%8D%E7%97%87%E4%B8%8D%E5%86%8D%E9%80%90%E4%B8%AA%E7%8C%9C%E7%97%85%E5%8E%9F%E4%BD%93.webp",
+   "source": "日知录"
+  },
+  {
+   "id": 22857,
+   "title": "GPT被欧盟纳入超大型搜索引擎监管：AI入口开始承担平台级责任",
+   "summary": "【一句话判断】欧盟把ChatGPT认定为超大型在线搜索引擎，意味着AI问答已从模型产品变成公共信息入口；规模越大，系统性风险评估、内容治理、广告透明和外部监督就越会成为经营成本。",
+   "heat": 92.0,
+   "category": "时政",
+   "story": "欧盟委员会8月31日公布了三组月活数字：ChatGPT为1.591亿，Reddit为5720万，Roblox为4660万。\n\n欧盟《数字服务法》的门槛是4500万月活用户。跨过这条线以后，ChatGPT被指定为“超大型在线搜索引擎”（VLOSE），Reddit和Roblox被指定为“超大型在线平台”（VLOP）。三项服务将在四个月后、即2027年1月前承担额外义务。\n\n这不是一张罚单，也不是欧盟要封禁ChatGPT。真正重要的变化，是欧盟第一次把ChatGPT明确放进与Google Search、Bing相同的“大型信息入口”监管序列。\n\nAI问答已经不再只是一款模型产品。它开始决定亿万用户看到什么、相信什么、点击什么，也因此要为信息传播造成的社会后果承担平台级责任。\n\n1.591亿用户改变了ChatGPT的监管身份\n\n欧盟委员会公布的名单显示，OpenAI申报的1.591亿月活口径对应ChatGPT的在线搜索功能。这个数字是法定门槛的3.5倍，也高于名单中的Bing，但低于Google Search。\n\n规模改变了监管逻辑。\n\n一个小型AI工具生成错误答案，首先是产品质量问题；一个覆盖上亿用户的信息入口持续放大违法内容、虚假信息或对未成年人有害的结果，就会变成社会层面的系统性风险。欧盟因此要求超大型平台和搜索引擎识别、分析并降低四类主要风险：违法内容传播，基本权利受损，选举和公共安全受影响，以及未成年人、公众身心健康受到伤害。\n\n对ChatGPT来说，今后的监管问题不会只停在“模型有没有幻觉”。欧盟还会追问：搜索答案引用了什么来源，排序和推荐如何影响用户，违法内容怎样举报，内容限制能否申诉，未成年人如何保护，重大公共事件期间采取了什么风险措施。\n\n这就是“平台级责任”的含义：监管对象从一次回答，扩展到整套分发、审核、申诉、审计和风险管理机制。\n\nAI法案管模型，数字服务法管入口\n\n欧盟对AI的监管正在形成两层结构。\n\n《人工智能法》主要追问模型和AI系统怎样被开发、部署和标识。通用人工智能模型提供者要准备技术文档、向下游开发者说明能力和局限、遵守版权规则并披露训练内容摘要；部分AI生成内容还要进行机器可读标记。\n\n《数字服务法》追问的则是另一件事：当一项服务拥有巨量用户、成为信息入口以后，它怎样处理传播风险并接受外部监督。\n\n监管层主要对象重点问题对企业最直接的变化欧盟《人工智能法》模型、AI系统及其提供者和部署者技术文档、版权、内容标识、模型安全研发、文档、测试和模型治理投入增加欧盟《数字服务法》面向用户的平台和搜索入口违法内容、未成年人、基本权利、选举与公共安全风险评估、审核申诉、透明报告、外部审计和数据开放能力增加\n\n二者不是重复监管。一个基础模型可以被接入许多产品，而一个拥有巨大影响力的产品入口，也可能同时调用多个模型。模型层解决“能力怎样被生产”，平台层解决“能力怎样抵达社会”。\n\nChatGPT被指定为超大型搜索引擎，说明欧盟已经不再按企业自我描述来理解AI产品，而是按它在用户生活中承担的实际功能来确定责任。\n\n广告刚进入欧洲，透明义务就变成了商业成本\n\n这次指定还有一个不应忽略的时间点。\n\nOpenAI在8月18日宣布把ChatGPT广告扩展到31个欧洲国家，并于8月24日开始上线。免费版和Go版用户会看到广告，Plus、Pro和Enterprise版本暂不展示。OpenAI对广告价值的描述非常直接：用户会在ChatGPT里研究、比较并作出决定。\n\n这正说明AI入口的商业价值与监管责任来自同一件事——它影响决策。\n\n当回答页面开始承载广告，用户就需要知道哪些内容是自然回答、哪些是商业展示、广告由谁投放、为何展示给自己。对超大型服务而言，广告资料库、推荐机制说明和公开透明报告不再只是法律文书，而会进入广告产品、数据系统和销售流程。\n\n因此，欧盟监管增加的不是一笔孤立的法务费用。它会沿着产品设计、内容审核、广告投放、未成年人保护、数据留存、外部研究者访问和危机响应一路传导。\n\n规模越大，单位合规成本未必越高，但合规系统必须更完整。大型平台可以摊薄固定投入，小型出海产品却会在逼近4500万用户门槛时，第一次面对从普通服务到系统重要性入口的成本跳升。\n\n三家公司面对的不是同一道考题\n\n对象监管身份与公开事实真正承压的经营环节接下来要看什么容易误读什么ChatGPT / OpenAIVLOSE；欧盟月活1.591亿；OpenAI为非上市公司搜索答案、来源呈现、风险评估、广告透明、内容治理2027年1月前的风险报告、产品改版、广告资料库和审计安排被指定不等于被认定违法，也不等于欧盟限制所有OpenAI模型Reddit（RDDT）VLOP；欧盟月活5720万社区内容审核、举报申诉、推荐与广告透明欧盟透明报告、内容申诉数据、广告系统调整和执法互动合规成本增加不等于社区流量或广告收入必然下降Roblox（RBLX）VLOP；欧盟月活4660万，刚越过门槛未成年人保护、年龄识别、成瘾设计和内容安全年龄保障措施、青少年账户改版、欧盟用户与付费变化监管重点是儿童安全，不是立即禁止游戏或虚拟经济Google Search、Bing已经是VLOSE，是ChatGPT的监管参照物搜索透明、AI回答质量、选举与公共信息风险欧盟对既有搜索引擎的执法案例和整改要求ChatGPT入列不代表传统搜索的义务突然增加中国AI应用出海欧洲尚不能因本次新闻直接认定为VLOSE或VLOP用户统计、欧盟代表、举报申诉、未成年人和内容风险体系欧盟月活披露、是否接近4500万、是否被正式指定在欧洲可用不等于已经承担超大型服务的额外义务\n\n这张表也给资本市场划出了一条边界：OpenAI不是上市公司，Reddit和Roblox是本次直接对象，Alphabet、微软只是已有监管样本。中国大模型和AI应用得到的是一张出海成本预览表，不是现成的A股“欧盟监管受益链”。\n\n合规成本上升，不能直接翻译成看空平台\n\n大型平台监管有一个容易被忽略的两面性。\n\n一方面，审计、风控、内容治理和数据访问会增加固定成本，也可能约束广告、推荐和未成年人产品设计。另一方面，企业之所以进入超大型服务名单，首先说明它已经获得稀缺的用户规模和入口位置。对能够承担合规成本的头部平台，统一规则还可能提高后来者跨过门槛的难度。\n\n所以，真正有用的判断不是“监管加强等于利空”，而是检查三件事：\n\n1. 合规投入是否开始拖慢产品迭代、广告扩张或欧洲用户增长； 2. 平台是否因内容安全和未成年人保护调整推荐、账户和商业化设计； 3. 欧盟是否从指定身份进一步走向调查、整改承诺、罚款或持续监督。\n\n未来四个月是第一段观察期。若OpenAI陆续公布系统性风险评估、独立审计安排、研究者数据访问机制和广告透明工具，说明ChatGPT正在完成从AI产品到公共信息基础设施的制度转换。若只是补充几份政策页面，产品和治理结构没有明显变化，平台级责任还停留在纸面。\n\n4500万用户是欧盟划下的法律门槛，1.591亿用户则说明ChatGPT早已越过产品试验期。\n\n当AI开始替人搜索、比较和决定，它获得的不只是流量入口，也接过了搜索引擎和平台过去承担的那份公共责任。\n\n信息来源与口径说明\n\n• 欧盟委员会：指定ChatGPT、Reddit和Roblox适用《数字服务法》强化义务，2026年8月31日。\n• 欧盟委员会：VLOP和VLOSE名单及月活数据，截至2026年8月31日。\n• 欧盟委员会：《数字服务法》主要规则。\n• 欧盟委员会：《数字服务法》对平台产品的实际影响。\n• 欧盟委员会：《人工智能法》实施框架。\n• OpenAI：欧盟《数字服务法》合规说明及ChatGPT Search月活口径。\n• OpenAI：ChatGPT广告扩展至欧洲31个市场，2026年8月18日。\n• 欧盟委员会网页目前将三项服务列为正式指定对象，但指定决定全文尚未在名单页公开。本文所称平台级责任，是基于VLOP/VLOSE适用规则作出的制度分析，不代表三家公司已经违法或将必然受到处罚。\n• 文中公司及股票代码用于识别监管对象和观察经营变化，不构成投资建议。",
+   "impact": "",
+   "publish_time": "2026-09-01T15:34:16",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788247694610-ChatGPT%E8%A2%AB%E6%AC%A7%E7%9B%9F%E7%BA%B3%E5%85%A5%E8%B6%85%E5%A4%A7%E5%9E%8B%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E7%9B%91%E7%AE%A1.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22818,
+   "title": "毛竹下山从半小时缩短到2分钟：低空经济先替山里人干起了苦活",
+   "summary": "【一句话判断】广东南雄开始用无人机吊运毛竹，一趟约2分钟，日运量超过10吨，每根运输成本由6元以上降至3元多。低空经济正在山林里率先形成真实收入，替农民接过机器长期到不了的险活和重活。",
+   "heat": 91.0,
+   "category": "科技",
+   "story": "一根毛竹从山上运到山脚，过去要人扛半个小时。\n\n竹子长，山路窄，雨后泥滑。扛竹人把几十斤甚至上百斤的毛竹架在肩上，沿着坡地一点点挪。有些竹林离公路太远，雇人下山的费用甚至会超过竹子本身的收入。\n\n如今，广东南雄的竹农把绳索挂到毛竹上，退到安全位置，旋翼开始加速。无人机吊起两三根竹子，越过树梢飞向山脚，一趟大约2分钟。\n\n它一天能够运走超过10吨毛竹。\n\n城市里关于低空经济的想象，常常从“空中的士”开始。真正率先形成收入的场景，可能朴素得多：一架无人机飞进山里，接过农民肩上最沉、最危险，也最不值钱的一段路。\n\n一根竹子为什么会被困在山上\n\n竹子并不缺市场。\n\n它可以制成竹筷、竹板、竹纤维、家具、纸浆和竹炭，边角料也能继续加工。问题往往出在从采伐点到公路的“最初一公里”。\n\n平原农业可以开进拖拉机和收割机，山地竹林却坡陡、林密、地块分散。为了运走毛竹，大规模修路成本高，还可能破坏植被。索道和轨道适合相对固定、集中的作业区，分散竹林很难处处铺设。\n\n最后，这段运输长期交给人的肩膀。\n\n南雄竹农给出的账很直接：传统运输一根毛竹成本超过6元，无人机吊运降到3元多；一亩竹林可以节省约100元。当地毛竹收购价约每吨620元，运输费用少掉几十元、上百元，就可能决定一片竹林今年还值不值得砍。\n\n下山方式一次作业时间与效率适合场景人工肩扛一人搬运一根一根约半小时，劳动强度和风险高距离短、零散采伐履带运输机最大载重可达约1吨可重复运输，受坡度和通行空间约束坡度较缓、可形成作业通道的竹林轨道运输机最大载重约300公斤路线稳定，需要铺设轨道采伐相对集中、长期经营的山场重载无人机单次吊运2至3根，南雄日运量超10吨一趟约2分钟，跨越陡坡和沟谷山高坡陡、道路难以进入的地段\n\n无人机没有把其他工具全部淘汰。它补的是最难修路、最危险、最缺劳动力的那一段。\n\n低空经济第一次算账，算的是每根竹子省3元\n\n“低空经济”很容易被说成一个宏大概念：飞行汽车、城市空运、无人机物流、低空旅游。\n\n竹林里的算法简单得多。\n\n以前每根毛竹花6元以上运下山，现在花3元多；以前半小时走一趟，现在2分钟飞一趟；以前下雨可能停工，无人机可以抓住短暂的天气窗口连续作业。\n\n这组账解释了技术为什么能够落地。竹农不需要理解飞控算法、电池管理和北斗导航，只需要比较今年能不能少花运输费、多卖几吨竹子。\n\n四川沐川已经提供了更大范围的样本。当地2024年以来推广无人机吊运，新增竹林利用面积15万亩，新增竹原料供应20万吨，带动近2000人就业。无人机只是其中一个环节，却让长期因为采运困难而闲置的竹林重新进入加工链。\n\n这也说明，低空经济真正的市场不只在飞行器本身。\n\n飞手培训、保险、维修、电池补能、作业调度、林区通信和安全规范，都要跟着一架架无人机进入山区。设备卖出去只是一次收入，持续替竹农把货物运下山，才会形成长期服务。\n\n农业机械化开始学会“绕开地面”\n\n中国农业机械化水平不断提高，丘陵山区仍然是最难的一块。\n\n过去解决问题的思路主要是让机器适应地形：把拖拉机做小，把履带做宽，把轨道铺进山里。重载无人机提供了另一条路线——地面实在走不通，就直接越过地形。\n\n国家林草局披露的“空地一体化竹材采运”方案，已经按照坡度安排不同工具：30度以内使用无人履带机，45度以内使用轨道运输机，更陡峭的山地交给最大载重可达200公斤的无人机。\n\n这比单独推广无人机更成熟。因为山林作业没有一种设备可以包办全部路况，真正有效的是给不同坡度、距离和货物选择不同工具。\n\n未来同一套能力还可以搬运水果、茶叶、药材、木材和防火物资，甚至在山火、滑坡和道路中断时运送救援装备。低空经济因此获得了一条最踏实的成长路径：先把真实世界里的重活、险活和急活一件件接过来。\n\n机器飞进山里，闲置资源才真正变成收入\n\n无人机运竹也有成本边界。\n\n大风和强降雨会限制飞行；电池、油料、维护和飞手人工都要花钱；吊运路线必须避开人员、道路和电力设施；竹林过于零散、单次作业量太小，设备调运成本也可能吃掉节省的费用。\n\n因此，真正决定这套模式能否复制的，是一年能完成多少吨有效作业、每吨综合费用能否持续低于人工，以及发生事故时由谁承担责任。\n\n南雄的一天10吨还只是一个村庄里的作业数据，却已经把低空经济从展览馆拉回了土地。\n\n中国拥有大片竹林，也拥有大量山地果园、茶园和经济林。过去，它们中的一部分并非没有产出，而是产出运不出来；并非没有市场，而是到达市场以前就被运输成本吃掉。\n\n当毛竹从半小时的肩扛变成2分钟的飞行，技术改变的不只是一种运输方式。\n\n机器翻过了山，山里的资源才有机会变成农民手里的收入。\n\n来源与口径说明\n\n• 中新网：粤北南雄毛竹“打飞的”出山\n• 国家林草局：“空地一体化竹材采运装备技术与应用”通过评价\n• 国家林草局：浙江推进竹林产业机械化作业\n• 国家林草局：四川沐川无人机搭起竹产业空中走廊\n• 南雄“一趟约2分钟”“日运量超过10吨”“每根成本由6元以上降至3元多”均为当地公开案例数据，不代表所有山地、机型和作业条件下都能达到相同水平。",
+   "impact": "",
+   "publish_time": "2026-09-01T12:25:53",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788236734919-%E6%AF%9B%E7%AB%B9%E4%B8%8B%E5%B1%B1%E4%BB%8E%E5%8D%8A%E5%B0%8F%E6%97%B6%E7%BC%A9%E7%9F%AD%E5%88%B02%E5%88%86%E9%92%9F.jpeg",
+   "source": "日知录"
+  },
+  {
+   "id": 22859,
+   "title": "上半年481.9万人次拿到技能证书：职业培训开始跟真实岗位需求走",
+   "summary": "【一句话判断】越来越多地方正推动职业培训向真实岗位需求靠拢。上半年全国新增取得职业资格或技能等级证书481.9万人次，但证书数量不是就业成绩；订单式培训真正要接受的检验，是岗位匹配率、工资、留任时间和企业是否共同承担成本。",
+   "heat": 88.0,
+   "category": "社会",
+   "story": "一条汽车生产线准备更换数字化设备，企业过去常有两种办法。\n\n第一种，招聘已经熟练掌握新设备的人。问题是市场上可能根本没有这么多人。\n\n第二种，让现有工人边干边学。问题是设备已经进厂，停产一天都要付出成本。\n\n如今，越来越多地方开始探索第三种办法：企业提出岗位、设备和技能需求，人社部门、职业院校和培训机构据此设计课程，把培训向工厂和岗位靠拢，目标是让合格学员更快对接相应岗位。\n\n这就是“订单式”技能培训。\n\n它改变的不只是一份课程表，而是职业教育长期以来最头疼的顺序：过去是学校先教会一批人，再让他们自己寻找工作；现在尝试让岗位先出现，培训再追着岗位走。\n\n企业缺什么，课程才教什么\n\n传统培训容易从现有教师、教材和设备出发。\n\n学校有焊工老师，就继续开焊工班；培训机构有电商课程，就继续教直播。至于当地企业到底缺不缺这些人，结业以后能不能找到工作，往往要等学员拿证后自己验证。\n\n订单式培训倒过来设计。\n\n企业先明确岗位数量、工作内容、使用设备和技能标准；学校和培训机构再拆解课程，安排理论和实操；考核通过后，以对接相应岗位为目标。\n\n传统培训订单式培训从学校已有课程出发从企业真实岗位出发先招生、培训，再寻找就业机会先确认需求，再组织招生和培训结业证书是主要结果上岗、工资和留任才是最终结果教师决定教什么企业、学校和技能标准共同决定学员承担就业不匹配风险政校企共同承担匹配责任\n\n在重庆，智能网联汽车企业把数字化培训搬到生产一线；北京新一批培训目录开始加入生成式人工智能系统应用员、数据治理工程师等岗位；养老护理等民生领域也在按照真实服务需求开发课程。\n\n这些课程放在几年前可能连名字都没有，今天已经对应真实的设备、项目和用工缺口。\n\n481.9万人拿证，不等于481.9万人找到工作\n\n人社部门公布，今年上半年，全国新增取得职业资格或技能等级证书481.9万人次，其中高级工及以上193.6万人次、技师及以上14.1万人次。\n\n这是技能人才队伍扩大的重要数据，却不能直接拿来证明订单式培训已经解决了481.9万人的就业。\n\n原因有三点。\n\n第一，这是“人次”，同一个人可能取得不同等级或不同职业证书。\n\n第二，数据覆盖多种职业资格和技能评价，并不全都来自订单式培训。\n\n第三，拿到证书只能证明完成了某项评价，不能证明已经入职、工资提高或者在岗位上稳定工作。\n\n真正决定政策成败的，不是培训班坐了多少人，而是结业三个月、六个月以后，还有多少人在相应岗位工作。\n\n从2025年至2027年底，国家计划围绕制造业、服务业紧缺技能人才开展大规模培训，其中补贴性培训超过3000万人次。2025年补贴性培训已经超过1100万人次。\n\n规模越大，越要防止培训再次变成一场只数人头、课时和证书的行政任务。\n\n新产业跑得太快，大学专业和工厂岗位都追不上\n\n中国就业市场正在同时出现两种声音。\n\n一边是年轻人觉得工作难找，另一边是企业抱怨熟练技工、设备运维人员和一线技术人员难招。\n\n两种声音并不矛盾。\n\n人工智能、低空经济、新能源汽车、机器人和生物制造迭代很快，一条新生产线投入运行时，学校可能还没有对应专业；等到完整专业建立、教材编完、第一届学生毕业，企业使用的技术路线又可能变了。\n\n养老护理、托育和家政服务面对的是另一种缺口：社会需求巨大，从业者却需要更规范的技能、职业保障和晋升通道。岗位存在，不等于求职者愿意进入；会照护老人，也不等于愿意长期承受低工资和高强度劳动。\n\n订单式短训的作用，是在学历教育和企业即时需求之间搭一座快桥。\n\n它可以把一门三四年的专业拆成小型化、模块化课程，让一名机械工补上数字化设备操作，让一名普通护理员学习失能老人照护，让一名失业青年在几个月内掌握无人机维护或新能源汽车检修。\n\n但这座桥只能解决技能距离，解决不了所有就业问题。\n\n工资太低、工作强度过大、社保不足、城市生活成本太高，再精准的培训也留不住人。企业所谓“招不到人”，有时缺的是技能，有时缺的是愿意接受现有待遇的人。\n\n国家付培训费，企业不能只等着接收现成员工\n\n订单式培训容易出现一个危险倾向：企业把原本应该承担的新员工培训成本，转交给财政和劳动者。\n\n企业提出一批岗位需求，政府出钱培训，学员花时间学习；等培训结束，企业却以订单变化、经验不足或年龄不合适为由减少录用。最终，企业获得了免费的候选人池，学员只多了一张证书。\n\n真正的订单式培训，必须让企业在一开始就承担责任。\n\n• 岗位数量和基本待遇应当尽量明确；\n• 企业应参与课程、实训和考核，不能只提供一个招聘意向；\n• 培训内容要能在行业内迁移，避免只会操作一家企业的一台机器；\n• 企业临时取消岗位，应说明原因并承担相应协调责任；\n• 财政补贴应与就业和留任结果挂钩，不能开班即结算。\n\n上海定向培训政策要求用人单位、培训机构与就业促进部门签订协议，并把补贴与就业结果挂钩：培训对象在定向单位就业后，培训实施机构可以申请80%的补贴；稳定就业满6个月后，才能申请其余20%。深圳允许把企业阶段性生产任务和重大项目上马培训纳入项目，同时推动企业、院校共同建设产业学院。\n\n这些制度的方向很明确：培训不能只有学员签到，还要有企业签字。\n\n判断一场培训有没有用，本文建议半年后看六个结果\n\n证书数量适合在结业仪式上展示，政策效果需要更长期的数据。\n\n下面六项并非全国统一的强制指标，而是检验培训能否真正改善就业的建议性指标。\n\n应公开的结果它能回答什么问题培训后3个月、6个月就业率课程是否真的连接到岗位专业与岗位匹配率学员有没有“学焊工、送外卖”入职工资及半年后工资变化技能是否真正带来增收6个月、12个月留任率岗位是否稳定，企业是否只是短期招人企业承担的培训成本是否把全部用人成本转给财政学员退训和未通过原因课程设计是否适合真实人群\n\n这些指标比“开了多少班、培训多少人、发了多少证”难看，也更接近劳动者的生活。\n\n一次培训真正成功，不是教室里坐满人，而是半年后生产线上仍有人；不是证书印得漂亮，而是工资单发生变化。\n\n中国的技能教育，开始追赶产业变化的速度\n\n订单式培训不是新名词，过去也有校企班、学徒制和定向培养。今天的变化在于，它开始被放进覆盖全国、面向新产业和重点就业群体的大规模行动中。\n\n这背后是一种现实选择。\n\n产业升级不能只购买机器。设备进入工厂以后，要有人安装、调试、操作、维护和改进；人工智能进入企业以后，也要有人把模型接入客服、质检、设计和生产流程。\n\n中国制造业过去依靠庞大的劳动力完成规模扩张，下一阶段要依靠更庞大的技能人才队伍完成效率升级。\n\n对于劳动者，技能也不该只是服从某一家工厂的工具。真正有价值的培训，应当让人拥有更大的职业选择：这家企业订单减少，还能去另一家；一种设备被替换，已有能力可以迁移到新设备；从初级工走向高级工和技师，工资与职业尊严随之提高。\n\n企业把岗位写进订单，学校把岗位拆成课程，国家提供制度和资金支持；最后，劳动者必须在工资单上看见这场改革。\n\n来源与口径说明\n\n• 人力资源社会保障部、财政部：“技能照亮前程”培训行动\n• 中国政府网：开展大规模职业技能提升培训行动的指导意见\n• 中国就业网：上半年新增取得职业资格或技能等级证书481.9万人次\n• 央视网转引：订单式培训在新兴产业和照护领域展开\n• 北京市政府：第二批“技能照亮前程”培训指导目录\n• 上海市人社局：定向培训补贴与就业稳定期规则\n• 深圳市大规模职业技能提升培训实施方案\n• 481.9万人次是全国新增取得职业资格或技能等级证书的总量，并非订单式培训人数，也不能直接等同于新增就业人数。",
+   "impact": "",
+   "publish_time": "2026-09-01T15:34:16",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788247769194-%E5%B2%97%E4%BD%8D%E5%9F%B9%E8%AE%AD.png",
+   "source": "日知录"
+  },
+  {
+   "id": 22751,
+   "title": "180辆重卡给燕矶长江大桥“考试”：7200吨压上桥面测的是什么",
+   "summary": "【一句话判断】180辆单重40吨的重卡参加燕矶长江大桥荷载试验，总重量达到7200吨。工程师并不打算把桥压到破坏，而是让车辆按照计算结果停在关键位置、通过桥面，再用2万多个数据检验真实大桥是否按照设计模型工作。安全的桥梁允许弹性变形，真正的考题是变形是否可控、受力是否准确、卸载后能否按预期恢复。",
+   "heat": 88.0,
+   "category": "科技",
+   "story": "8月30日晚，180辆重型货车开上湖北燕矶长江大桥。\n\n每辆车重40吨，总重量7200吨。车辆沿着上下两层桥面排列，车灯把尚未通车的大桥照得通明。接下来的5天，它们要停在不同位置，也要按照试验工况驶过桥面。\n\n看起来，这像是在问一个最简单的问题：这座桥究竟能扛多重？\n\n工程师真正要检查的，却是另一件事：当7200吨重卡按计划施压时，现实中的桥是否会像设计图纸里的桥一样受力、下沉和振动。\n\n180辆重卡要按计算结果排队\n\n这次荷载试验采用非破坏性方式。所有车辆都要按照计算结果排列，不能为了制造场面随意停放。\n\n试验开始前，工程师已经根据竣工资料建立计算模型，找出最需要检验的桥面位置和结构截面。车辆重量、车距、所在车道、停放位置和通过方式，都要按照试验方案执行。\n\n有时车辆集中在跨中，考验主梁的最大挠度；有时偏向一侧，观察桥梁承受不对称荷载时会怎样扭转；上下两层桥面还要组合加载，检查四根主缆和双层钢桁梁如何分担力量。\n\n180辆货车因此更像一套可以移动的标准砝码。工程师知道每一块“砝码”有多重，也知道它应该让桥的哪个部位产生多大反应。\n\n考试项目重卡怎样行动仪器测什么回答什么问题静载试验停在计算确定的关键位置，逐级加载应变、挠度、塔偏、索力等桥在重压下的受力与变形是否符合设计动载试验按规定工况驶过桥面振动频率、动力响应等车辆跑起来后，桥是否出现异常振动卸载检查重卡驶离或改变布置结构恢复情况及残余变化桥能否按照预期恢复到卸载状态\n\n这次荷载试验动用的车辆数量和总重量，均创下湖北桥梁检测的新规模。车辆能否停准、传感器能否测准、实测曲线能否与计算曲线对上，直接决定这场考试的质量。\n\n一座安全的大桥，本来就会变形\n\n普通人看到桥面下沉，第一反应往往是危险。\n\n工程师的常识恰恰相反：桥梁在车辆、风力和温度变化下产生弹性变形，是设计允许的正常现象。安全从来不等于纹丝不动，而是变形处在计算范围内，受力能够传到预定的结构部位，卸载以后还能按预期恢复。\n\n燕矶长江大桥荷载试验项目负责人介绍，在本次重压工况下，大桥主缆、主梁将下沉3米多。\n\n这个数字听上去惊人，却不能单独判断安全。它必须与设计模型给出的预测值比较。实际下沉多少、不同位置是否同步、索力怎样变化、桥塔有没有产生异常偏移，才组成完整答案。\n\n如果实测值与计算值吻合，说明图纸上的结构已经被准确建成；如果某处明显偏离，就要继续查找施工误差、连接状态、传感器异常或模型假设等原因。\n\n荷载试验真正考的是：大桥能否弯得准确、弯得可控。\n\n静止的货车考力量，跑起来的货车考振动\n\n静载试验结束后，重卡还要跑起来。\n\n车辆在桥面移动时，会产生持续变化的动力作用。路面微小起伏、车辆速度和悬挂系统都会让桥梁出现振动。工程师需要测量大桥的自振特性和动力响应，判断实际结构的刚度、阻尼和振动状态是否达到要求。\n\n这也是为什么试验要持续5天。180辆车要不断变换组合，分别在上层六车道高速公路和下层四车道城市快速路完成多种工况。单靠一次排队、一次通行，测不完一座1860米主跨双层悬索桥。\n\n本次试验还使用了AI可视化指挥系统和4台检测机器人。系统实时显示重卡排列和试验进度，自动采集、处理应力、位移、温度、桥塔偏移等2万多个数据。机器人可以在10分钟内处理并上传246个数据，对2公里外主缆变形的测量误差控制在毫米级，共测试17类关键参数。\n\nAI在这里负责精确调度180辆车、实时汇总海量数据、稳定捕捉远距离细微变形。最终的合格结论仍由设计模型、试验规程和工程判断共同给出。\n\n这座桥为什么需要四根主缆\n\n燕矶长江大桥的考试格外复杂，因为它本身就是一座特殊的桥。\n\n大桥主跨1860米，一跨越过长江；上层是设计时速100公里的六车道高速公路，下层是设计时速80公里的四车道城市快速路。整座主桥采用双层钢桁梁，重量约5.6万吨。\n\n更棘手的限制来自空中。大桥距离鄂州花湖国际机场约5公里，桥塔必须服从航空限高；水面又要为长江航道留下足够空间。主跨很长，桥塔却只能建到184米左右。\n\n普通悬索桥主要依靠两根主缆吊住桥面。燕矶长江大桥采用四根不同垂度的主缆：两组主缆形成不同的下垂曲线，共同分散双层桥面的荷载，提高长跨、低塔条件下的结构稳定性。\n\n这项创新让大桥成为世界首座不同垂度四主缆双层钢桁梁悬索桥，也让荷载传递关系变得更加复杂。上层和下层车辆如何共同作用，四根主缆怎样分工，内外缆的挠度和索力是否符合设计，都必须用真实荷载验证。\n\n通车以前，先给大桥建立一份真实档案\n\n重卡驶离后，大桥还要完成数据分析、工程验收及后续准备，才能正式开放交通。\n\n但这5天测得的应变、挠度、索力、振动和温度数据，会成为大桥投入使用前最重要的一组真实记录。未来进行结构监测时，工程师可以将新的数据与这份初始状态对照，判断变化来自正常使用、环境影响还是结构异常。\n\n燕矶长江大桥计划在2026年年底建成。通车后，黄冈黄州至鄂州花湖国际机场的车程有望从40分钟缩短到15分钟，并为花湖机场增加一条连接高速公路与城市道路的过江通道。\n\n建桥的成绩写在1860米的跨径、四根主缆和5.6万吨钢桁梁上。检测的价值藏在毫米级位移、2万多个数据和一条条实测曲线里。\n\n成熟的工程能力，既敢把大桥跨过长江，也敢在通车前让7200吨重卡把每一道受力关系重新考一遍。\n\n---\n\n来源与口径说明\n\n• 新华网：湖北燕矶长江大桥启动荷载试验\n• 湖北日报：燕矶长江大桥“体检”用上“AI+机器人”\n• 武汉市交通运输局：燕矶长江大桥合龙，为花湖国际机场打通多式联运新通道\n• 交通运输部：《公路桥梁荷载试验规程》英文版发布公告\n• 文中“下沉3米多”沿用荷载试验项目负责人公开表述，指本次重压工况下主缆、主梁的结构变形，不能据此直接推断日常通车状态或桥梁安全结论。",
+   "impact": "",
+   "publish_time": "2026-09-01T00:41:18",
+   "cover": "https://cdn-gongxiao.cjiot.cc/test-vic/1788194466786-180%E8%BE%86%E9%87%8D%E5%8D%A1%E7%BB%99%E7%87%95%E7%9F%B6%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5.png",
+   "source": "日知录"
+  },
+  {
+   "id": 22831,
+   "title": "中国光伏装机超越煤电，成全国第一大装机电源",
+   "summary": "我国光伏发电装机已超越煤电，成为第一大装机电源，但煤电短期仍承担系统安全兜底作用。",
+   "heat": 86.0,
+   "category": "财经",
+   "story": "据媒体报道，中国光伏发电装机规模已超越煤电，跃升为我国第一大装机电源。这一变化被视为我国电力结构转型的重要节点。\n\n需要注意的是，光伏发电成为第一大装机电源，指的是装机容量维度。由于光伏发电受昼夜交替、气象条件和季节变化影响，发电利用小时数仍明显低于煤电。\n\n短期内，煤电仍将是我国电力系统的重要支撑电源，承担调峰、保供和系统安全兜底功能。光伏快速增长同时，也对储能、电网调度、跨区输电和电力市场机制提出更高要求。\n\n近年来，我国新能源装机持续高速增长，光伏产业链在硅料、组件、逆变器和电站建设方面形成规模优势。随着装机占比提高，消纳和稳定性问题会从局部问题变成系统问题。",
+   "impact": "光伏装机超越煤电，说明能源转型进入新阶段，但不等于煤电马上退出。\n\n下一步关键在储能、灵活调节电源和电网建设能否跟上新能源扩张速度。",
+   "publish_time": "2026-09-01T14:17:44",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1788240213260-11.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22811,
+   "title": "苹果CEO库克正式卸任，发文称对用户社区热爱不变",
+   "summary": "北京时间8月31日23时59分，库克在微博发文告别苹果CEO身份，称头衔会变但热爱不会改变。",
+   "heat": 86.0,
+   "category": "科技",
+   "story": "据界面新闻报道，北京时间8月31日23时59分，苹果首席执行官蒂姆·库克在微博发文，表示这是自己担任Apple CEO的最后一天。\n\n库克写道，明天自己的头衔会变，但对Apple社区的热爱永远不会改变，并感谢用户一直陪伴。相关消息发布后，“库克正式卸任苹果CEO”登上热搜。\n\n公开报道显示，库克自2011年起担任苹果CEO，带领苹果完成服务业务扩张、供应链深化和市值增长。继任者普遍被认为将面临人工智能、硬件创新放缓和生态竞争等新压力。\n\n关于接任安排，此前多家外媒曾称，苹果硬件工程高级副总裁约翰·特努斯是热门人选。苹果管理层交接将影响公司产品路线、AI战略和全球供应链布局。",
+   "impact": "库克卸任意味着苹果进入新的管理阶段，外界将重点关注继任者如何补上AI和新硬件叙事。\n\n对中国市场而言，苹果换帅后供应链、渠道和本土竞争策略是否调整，也值得继续观察。",
+   "publish_time": "2026-09-01T09:09:44",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1788223680967-39.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22822,
+   "title": "华为小米荣耀手机集体调价，存储成本上涨传导终端",
+   "summary": "9月1日，华为、小米、荣耀多款手机调价，业内普遍将其与存储成本上涨联系起来。",
+   "heat": 86.0,
+   "category": "科技",
+   "story": "据IT之家9月1日消息，博主@旺仔百事通称，华为Mate 80系列和华为畅享90 Pro Max于当天进行调价。\n\nIT之家还发现，小米17系列、REDMI K90系列等机型也进行了调价。此前小米曾在8月进行过一次调价，本轮多品牌同日调整，引发市场对存储成本上涨的关注。\n\n报道提到，部分机型如12GB+256GB版本价格从5999元调整至更高水平。具体调价幅度因品牌、机型和配置不同而异，消费者购机时仍需以官方商城和渠道实时价格为准。\n\n今年以来，手机、平板、笔记本等“开学数码三件套”价格上涨已明显影响消费决策。上游内存、闪存等核心零部件涨价，会逐步传导到终端厂商定价和促销节奏。",
+   "impact": "多品牌同时调价说明成本压力不再只停留在供应链，而是开始影响普通消费者购买价格。\n\n后续若存储价格继续高位运行，手机厂商可能减少促销力度或调整不同存储版本配置。",
+   "publish_time": "2026-09-01T14:22:11",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1788240188034-02.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22853,
+   "title": "航班管家称8月1120个大陆赴日航班被取消，18条航线停飞",
+   "summary": "航班管家DAST统计显示，8月中国大陆赴日本1120个航班取消，取消率30.1%，18条航线全部取消。",
+   "heat": 86.0,
+   "category": "财经",
+   "story": "据九派新闻援引第一财经报道，航班管家DAST最新统计显示，在暑运后半段的8月，中日航线取消情况仍较明显。\n\n整个8月，中国大陆赴日本共有1120个航班取消，取消率为30.1%。同时，共有18条中日航线在8月取消全部航班。\n\n此前7月数据也显示，中国大陆赴日本航班取消数量为1195个。连续两个月大量航班取消，反映赴日旅游和航空市场需求变化。\n\n今年以来，中国赴日游客数量明显下滑。航线取消既可能与客流下降、航司运力调整有关，也受到中日关系、旅游安全预期和暑运市场结构变化影响。具体原因还需结合航司计划和监管数据判断。",
+   "impact": "赴日航班大量取消会影响旅行社、航司和日本入境旅游市场。\n\n对计划赴日旅客来说，订票前应关注航班稳定性、退改政策和目的地风险提示。",
+   "publish_time": "2026-09-01T14:59:38",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1788245402723-09.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22786,
+   "title": "民进中央原副主席刘宽忍涉案4800余万，法院判刑15年",
+   "summary": "民进中央原副主席刘宽忍受贿、贪污案一审宣判，数罪并罚决定执行有期徒刑15年。",
+   "heat": 86.0,
+   "category": "时政",
+   "story": "据新华社等报道，2026年8月31日，新疆维吾尔自治区乌鲁木齐市中级人民法院一审公开宣判民进中央原副主席、陕西省政协原副主席刘宽忍受贿、贪污案。\n\n法院对刘宽忍以受贿罪判处有期徒刑13年，并处罚金人民币300万元；以贪污罪判处有期徒刑5年，并处罚金人民币50万元，决定执行有期徒刑15年，并处罚金人民币350万元。\n\n法院审理查明，刘宽忍利用职务便利，为有关单位和个人在项目承揽、资金拨付、职务调整等事项上提供帮助，非法收受财物；还利用职务便利侵吞公共财物。涉案金额合计4800余万元。\n\n法院认为，刘宽忍到案后如实供述犯罪事实，主动交代办案机关尚未掌握的大部分受贿事实，认罪悔罪，赃款赃物已全部追缴，依法可从轻处罚。",
+   "impact": "该案再次说明，民主党派和政协系统领导干部同样处在反腐监督范围内。\n\n项目承揽、资金拨付和职务调整等环节，仍是权力寻租高风险点，需要持续完善监督。",
+   "publish_time": "2026-09-01T09:33:22",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1788223639605-14.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22847,
+   "title": "宁波57岁男子听信人工智能抄近道，爬山被困深山获救",
+   "summary": "宁波一名57岁男子爬山迷路后听信AI建议抄近道下山，结果越走越偏、体力耗尽被困深山。",
+   "heat": 86.0,
+   "category": "社会",
+   "story": "据宁波消防、观察者网报道，8月30日下午，宁波市鄞州区一处山域内，一名男子爬山时迷路被困，急需救援。\n\n接警后，消防员根据男子发来的定位上山搜寻。但搜救途中，被困男子电话一度处于无法接通状态，增加了定位和救援难度。\n\n报道称，被困男子57岁，迷路后曾听信AI给出的“抄近道”下山建议，结果越走越偏，最终体力耗尽被困深山。事后，他再询问AI，AI还回复“哈哈，确实”。\n\n消防部门提醒，登山前应规划路线、携带补给和应急装备，不慎迷路应及时拨打110、119求助，不要贸然选择未知路线。AI工具可作参考，但不能替代专业地图、现场路标和救援常识。",
+   "impact": "AI路线建议缺乏对山地环境、体力消耗和实时危险的可靠判断，盲从可能带来安全风险。\n\n户外场景下，导航软件、纸质路线、同伴判断和及时报警，比临时问AI更可靠。",
+   "publish_time": "2026-09-01T14:59:38",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1788245390581-03.jpg",
+   "source": "日知录"
+  },
+  {
+   "id": 22836,
+   "title": "暑期档电影票房124.98亿元收官，功夫女足票房居第一",
+   "summary": "国家电影局统计，2026年暑期档电影票房124.98亿元，放映3851万场，创历史新高。",
+   "heat": 86.0,
+   "category": "娱乐",
+   "story": "据光明网报道，根据国家电影局统计，2026年暑期档电影票房为124.98亿元，放映场次3851万场，创历史新高。\n\n暑期档票房前5名影片分别为《功夫女足》《欢迎来龙餐馆》《八仙！》《蜘蛛侠：崭新之日》《奥德赛》。其中《功夫女足》稳居暑期档票房第一。\n\n另据相关统计，今年暑期档有18部电影票房超过1亿元，其中票房超过10亿元的有4部。国产片与进口片共同支撑市场，体育、餐饮、动画和超级英雄等类型均有代表作品。\n\n暑期档历来是全年电影市场重要档期，学生观影、家庭观影和旅游消费叠加，会显著放大头部影片表现。2026年暑期档创纪录，也说明影院消费仍具恢复动能。",
+   "impact": "暑期档高票房有助于提振院线和影视公司信心，但后续还要看国庆档和贺岁档能否接力。\n\n头部影片之外，中腰部影片的排片和口碑转化仍是行业能否持续复苏的关键。",
+   "publish_time": "2026-09-01T14:12:39",
+   "cover": "https://cdn-gongxiao.cjiot.cc/uploads/1788240224970-16.jpg",
+   "source": "日知录"
+  }
+ ],
+ "xwlb_raw": [
+  {
+   "id": "xwlb-0",
+   "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-1",
+   "title": "习近平出席“上海合作组织+”会议并发表重要讲话",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-2",
+   "title": "央视快评：推动上海合作组织实现更高质量发展",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-3",
+   "title": "习近平会见俄罗斯总统",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-4",
+   "title": "习近平会见乌兹别克斯坦总统",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-5",
+   "title": "习近平会见蒙古国总统",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-6",
+   "title": "彭丽媛出席上海合作组织峰会配偶集体活动",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-7",
+   "title": "习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-8",
+   "title": "习近平在埃及媒体发表署名文章",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-9",
+   "title": "李强会见美中贸易全国委员会董事会代表团",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-10",
+   "title": "光伏发电装机首次超越煤电 成为我国第一大电源",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-11",
+   "title": "全国中小学幼儿园迎来秋季新学期",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-12",
+   "title": "西藏吉隆县泥石流灾害抢险救援工作持续全力推进",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-13",
+   "title": "国内联播快讯",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-14",
+   "title": "第23届中国-东盟博览会将于9月17日—21日在广西南宁举办",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-15",
+   "title": "中共中央宣传部等印发《关于组织开展2026年“全民国防教育月”活动的通知》",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-16",
+   "title": "2026年《开学第一课》今晚在总台央视综合频道播出",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-17",
+   "title": "多国人士积极评价习近平主席在上合组织峰会上的重要讲话 国际人士赞赏中国推动各国共同发展",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-18",
+   "title": "“读懂中国之治”读书分享会特别节目在中吉两国主流媒体同步播出",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-19",
+   "title": "国际联播快讯",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-20",
+   "title": "俄就军演计划向日本驻俄使馆提出交涉",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "xwlb-21",
+   "title": "伊称绝不容忍美利用地区国家对伊侵略",
+   "source": "新闻联播",
+   "date": "2026-09-01"
+  }
+ ]
 }

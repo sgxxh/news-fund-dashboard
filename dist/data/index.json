@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-09-01",
+   "date": "2026-09-02",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 6072.94,
-   "total_earn": -0.91,
-   "today_income": -91.55,
-   "today_income_rate": -1.51,
-   "generated_at": "2026-09-01T03:36:37"
+   "total_money": 6033.77,
+   "total_earn": -90.1,
+   "today_income": -83.87,
+   "today_income_rate": -1.39,
+   "generated_at": "2026-09-02T02:54:46"
+  },
+  {
+   "date": "2026-09-01",
+   "title": "9月1日日知录-超级“初一”一个年级94个班，学校和老师都去哪儿了？",
+   "mood": 22.7,
+   "mood_level": "温和偏多",
+   "news_total": 24,
+   "xwlb_total": 22,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-02T02:54:27"
   },
   {
    "date": "2026-08-31",
@@ -547,6 +560,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-01",
- "updated_at": "2026-09-01T09:39:07"
+ "latest": "2026-09-02",
+ "updated_at": "2026-09-02T02:54:46"
 }

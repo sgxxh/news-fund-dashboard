@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-09-02",
+   "date": "2026-09-03",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 6033.77,
-   "total_earn": -90.1,
-   "today_income": -71.18,
-   "today_income_rate": -1.18,
-   "generated_at": "2026-09-02T02:54:46"
+   "total_money": 6011.59,
+   "total_earn": -162.31,
+   "today_income": -5.04,
+   "today_income_rate": -0.08,
+   "generated_at": "2026-09-03T02:58:49"
+  },
+  {
+   "date": "2026-09-02",
+   "title": "9月2日日知录-义务教育教材完成替换：从“能够解题”走向“解决问题”",
+   "mood": 5.0,
+   "mood_level": "中性",
+   "news_total": 23,
+   "xwlb_total": 22,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-03T02:58:11"
   },
   {
    "date": "2026-09-01",
@@ -560,6 +573,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-02",
- "updated_at": "2026-09-02T09:10:19"
+ "latest": "2026-09-03",
+ "updated_at": "2026-09-03T02:58:49"
 }

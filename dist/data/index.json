@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-09-03",
+   "date": "2026-09-04",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 6011.59,
-   "total_earn": -162.31,
-   "today_income": 1.57,
-   "today_income_rate": 0.03,
-   "generated_at": "2026-09-03T02:58:49"
+   "total_money": 6060.66,
+   "total_earn": -162.51,
+   "today_income": -2.04,
+   "today_income_rate": -0.03,
+   "generated_at": "2026-09-04T02:57:15"
+  },
+  {
+   "date": "2026-09-03",
+   "title": "9月3日日知录-泥石流灾害失联中国公民近百人，与尼方公布数据不同",
+   "mood": 7.4,
+   "mood_level": "中性",
+   "news_total": 22,
+   "xwlb_total": 28,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-04T02:56:59"
   },
   {
    "date": "2026-09-02",
@@ -573,6 +586,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-03",
- "updated_at": "2026-09-03T09:17:49"
+ "latest": "2026-09-04",
+ "updated_at": "2026-09-04T02:57:15"
 }

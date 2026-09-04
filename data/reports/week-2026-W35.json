@@ -1,0 +1,673 @@
+{
+ "key": "2026-W35",
+ "label": "周报",
+ "type": "week",
+ "date_from": "2026-08-24",
+ "date_to": "2026-08-30",
+ "days": 6,
+ "dates": [
+  "2026-08-24",
+  "2026-08-25",
+  "2026-08-26",
+  "2026-08-27",
+  "2026-08-28",
+  "2026-08-30"
+ ],
+ "avg_mood": 3.3,
+ "mood_series": [
+  {
+   "date": "2026-08-24",
+   "mood": -1.1
+  },
+  {
+   "date": "2026-08-25",
+   "mood": 4.0
+  },
+  {
+   "date": "2026-08-26",
+   "mood": -1.2
+  },
+  {
+   "date": "2026-08-27",
+   "mood": -3.9
+  },
+  {
+   "date": "2026-08-28",
+   "mood": 8.6
+  },
+  {
+   "date": "2026-08-30",
+   "mood": 13.3
+  }
+ ],
+ "keywords": [
+  {
+   "word": "服务",
+   "count": 173,
+   "weight": 1.0
+  },
+  {
+   "word": "平台",
+   "count": 155,
+   "weight": 0.896
+  },
+  {
+   "word": "美国",
+   "count": 150,
+   "weight": 0.867
+  },
+  {
+   "word": "能力",
+   "count": 130,
+   "weight": 0.751
+  },
+  {
+   "word": "国家",
+   "count": 120,
+   "weight": 0.694
+  },
+  {
+   "word": "机器人",
+   "count": 113,
+   "weight": 0.653
+  },
+  {
+   "word": "信息",
+   "count": 109,
+   "weight": 0.63
+  },
+  {
+   "word": "系统",
+   "count": 108,
+   "weight": 0.624
+  },
+  {
+   "word": "风险",
+   "count": 99,
+   "weight": 0.572
+  },
+  {
+   "word": "智能",
+   "count": 95,
+   "weight": 0.549
+  },
+  {
+   "word": "交易",
+   "count": 91,
+   "weight": 0.526
+  },
+  {
+   "word": "汽车",
+   "count": 89,
+   "weight": 0.514
+  },
+  {
+   "word": "产品",
+   "count": 89,
+   "weight": 0.514
+  },
+  {
+   "word": "人员",
+   "count": 88,
+   "weight": 0.509
+  },
+  {
+   "word": "设备",
+   "count": 86,
+   "weight": 0.497
+  },
+  {
+   "word": "机构",
+   "count": 85,
+   "weight": 0.491
+  },
+  {
+   "word": "贷款",
+   "count": 85,
+   "weight": 0.491
+  },
+  {
+   "word": "规则",
+   "count": 82,
+   "weight": 0.474
+  },
+  {
+   "word": "模型",
+   "count": 77,
+   "weight": 0.445
+  },
+  {
+   "word": "利润",
+   "count": 74,
+   "weight": 0.428
+  },
+  {
+   "word": "成本",
+   "count": 73,
+   "weight": 0.422
+  },
+  {
+   "word": "影响",
+   "count": 71,
+   "weight": 0.41
+  },
+  {
+   "word": "家庭",
+   "count": 69,
+   "weight": 0.399
+  },
+  {
+   "word": "安全",
+   "count": 67,
+   "weight": 0.387
+  },
+  {
+   "word": "变化",
+   "count": 67,
+   "weight": 0.387
+  },
+  {
+   "word": "城市",
+   "count": 65,
+   "weight": 0.376
+  },
+  {
+   "word": "订单",
+   "count": 63,
+   "weight": 0.364
+  },
+  {
+   "word": "消费者",
+   "count": 62,
+   "weight": 0.358
+  },
+  {
+   "word": "技术",
+   "count": 60,
+   "weight": 0.347
+  },
+  {
+   "word": "政策",
+   "count": 58,
+   "weight": 0.335
+  },
+  {
+   "word": "商品",
+   "count": 56,
+   "weight": 0.324
+  },
+  {
+   "word": "边界",
+   "count": 56,
+   "weight": 0.324
+  },
+  {
+   "word": "网络",
+   "count": 55,
+   "weight": 0.318
+  },
+  {
+   "word": "记录",
+   "count": 53,
+   "weight": 0.306
+  },
+  {
+   "word": "尼泊尔",
+   "count": 52,
+   "weight": 0.301
+  },
+  {
+   "word": "患者",
+   "count": 51,
+   "weight": 0.295
+  },
+  {
+   "word": "数字",
+   "count": 51,
+   "weight": 0.295
+  },
+  {
+   "word": "现场",
+   "count": 50,
+   "weight": 0.289
+  },
+  {
+   "word": "通信",
+   "count": 50,
+   "weight": 0.289
+  },
+  {
+   "word": "管理",
+   "count": 48,
+   "weight": 0.277
+  },
+  {
+   "word": "同比",
+   "count": 47,
+   "weight": 0.272
+  },
+  {
+   "word": "资金",
+   "count": 46,
+   "weight": 0.266
+  },
+  {
+   "word": "调查",
+   "count": 44,
+   "weight": 0.254
+  },
+  {
+   "word": "用户",
+   "count": 43,
+   "weight": 0.249
+  },
+  {
+   "word": "规模",
+   "count": 43,
+   "weight": 0.249
+  },
+  {
+   "word": "商家",
+   "count": 43,
+   "weight": 0.249
+  },
+  {
+   "word": "空间",
+   "count": 41,
+   "weight": 0.237
+  },
+  {
+   "word": "账户",
+   "count": 38,
+   "weight": 0.22
+  },
+  {
+   "word": "特朗普",
+   "count": 37,
+   "weight": 0.214
+  },
+  {
+   "word": "卫星",
+   "count": 37,
+   "weight": 0.214
+  }
+ ],
+ "sectors": [
+  {
+   "sector": "PCB",
+   "avg_score": 71.5,
+   "max_score": 71.5,
+   "min_score": 71.5,
+   "news_count": 4
+  },
+  {
+   "sector": "中证红利低波",
+   "avg_score": 12.4,
+   "max_score": 12.4,
+   "min_score": 12.4,
+   "news_count": 7
+  },
+  {
+   "sector": "中证A500",
+   "avg_score": 9.0,
+   "max_score": 9.0,
+   "min_score": 9.0,
+   "news_count": 10
+  },
+  {
+   "sector": "半导体材料",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "半导体材料设备",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "混债",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "港股创新药",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "纳斯达克100",
+   "avg_score": -24.3,
+   "max_score": -24.3,
+   "min_score": -24.3,
+   "news_count": 6
+  }
+ ],
+ "nav_series": [
+  {
+   "date": "2026-08-28",
+   "total": 5961.95,
+   "earn": -11.9,
+   "today_income": -37.5
+  }
+ ],
+ "holding_change": [
+  {
+   "code": "021000",
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "sector": "纳斯达克100",
+   "money": 1609.39,
+   "weight": 26.99,
+   "earn_pct": 0.59,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "022459",
+   "name": "易方达中证A500ETF联接A",
+   "sector": "中证A500",
+   "money": 1294.14,
+   "weight": 21.71,
+   "earn_pct": 0.86,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "720001",
+   "name": "财通价值动量混合A",
+   "sector": "PCB",
+   "money": 966.19,
+   "weight": 16.21,
+   "earn_pct": -3.38,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "017811",
+   "name": "东方人工智能主题混合C",
+   "sector": "半导体材料设备",
+   "money": 801.2,
+   "weight": 13.44,
+   "earn_pct": 0.15,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "020640",
+   "name": "广发半导体材料设备主题ETF联接C",
+   "sector": "半导体材料",
+   "money": 490.33,
+   "weight": 8.22,
+   "earn_pct": -1.93,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "019671",
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "sector": "港股创新药",
+   "money": 313.88,
+   "weight": 5.26,
+   "earn_pct": 4.63,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "007466",
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "sector": "中证红利低波",
+   "money": 245.73,
+   "weight": 4.12,
+   "earn_pct": -1.41,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "000143",
+   "name": "鹏华双债加利债券A",
+   "sector": "混债",
+   "money": 241.09,
+   "weight": 4.04,
+   "earn_pct": -0.19,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  }
+ ],
+ "advice_consistency": [
+  {
+   "name": "财通价值动量混合A",
+   "dominant": "可考虑加仓",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "可考虑加仓": 1
+   }
+  },
+  {
+   "name": "广发半导体材料设备主题ETF联接C",
+   "dominant": "可考虑加仓",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "可考虑加仓": 1
+   }
+  },
+  {
+   "name": "东方人工智能主题混合C",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "鹏华双债加利债券A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "易方达中证A500ETF联接A",
+   "dominant": "维持观望",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 1
+   }
+  },
+  {
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "dominant": "持有偏谨慎",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏谨慎": 1
+   }
+  }
+ ],
+ "top_events": [
+  {
+   "date": "2026-08-26",
+   "title": "情报预测：美国大概率追加7.5%对华关税，覆盖面可能超过新能源",
+   "heat": 95.0,
+   "sentiment": -9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-30",
+   "title": "中国人半年买走90.9万副智能眼镜：下一关是让用户每天都戴",
+   "heat": 94.0,
+   "sentiment": 9,
+   "category": "科技"
+  },
+  {
+   "date": "2026-08-24",
+   "title": "特朗普1个月交易1051笔：财富机器24小时营业，总统只是兼职？",
+   "heat": 92.0,
+   "sentiment": -9,
+   "category": "时政"
+  },
+  {
+   "date": "2026-08-25",
+   "title": "美国制裁60个伊朗关联对象：真正压力落在中国采购与结算链",
+   "heat": 92.0,
+   "sentiment": -9,
+   "category": "时政"
+  },
+  {
+   "date": "2026-08-28",
+   "title": "非洲将启动自己的信用评级机构：中国力挺，支持金融定价权争夺",
+   "heat": 92.0,
+   "sentiment": -8,
+   "category": "时政"
+  },
+  {
+   "date": "2026-08-28",
+   "title": "6.78万亿数据产业的知识产权账：公共数据开发落到专利和商标",
+   "heat": 95.0,
+   "sentiment": 6,
+   "category": "科技"
+  },
+  {
+   "date": "2026-08-24",
+   "title": "阿里配售7.1亿股募资800亿港元：互联网现金牛向AI新引擎交棒",
+   "heat": 97.0,
+   "sentiment": 5,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-26",
+   "title": "数字产业半年收入20.71万亿：AI正从聊天框走进汽车、家电和工厂",
+   "heat": 94.0,
+   "sentiment": 6,
+   "category": "科技"
+  },
+  {
+   "date": "2026-08-27",
+   "title": "斯威士兰电诈团伙搭出一座高仿真警察局：中国敦促公民尽快撤离",
+   "heat": 94.0,
+   "sentiment": -6,
+   "category": "时政"
+  },
+  {
+   "date": "2026-08-28",
+   "title": "工业利润增速降至17.6%：电子翻倍，制造业“全面复苏”仍是假象",
+   "heat": 90.0,
+   "sentiment": 7,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-26",
+   "title": "小鹏亏损13.4亿元，却给机器人融资超9亿美元：下一张牌是什么",
+   "heat": 95.0,
+   "sentiment": 5,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-27",
+   "title": "成渝汽车产业突破8000亿元：西部不再只负责把车装出来",
+   "heat": 95.0,
+   "sentiment": 5,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-28",
+   "title": "20余城给房贷贴息：政策开始替居民和企业承担部分利息",
+   "heat": 95.0,
+   "sentiment": 5,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-27",
+   "title": "677家上市公司中报出现汇兑损失：人民币升值决定了利润多少",
+   "heat": 94.0,
+   "sentiment": 5,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-30",
+   "title": "美国继续扩大涉伊朗石油、航运和金融制裁：名单涉及中国内地",
+   "heat": 97.0,
+   "sentiment": -4,
+   "category": "时政"
+  },
+  {
+   "date": "2026-08-25",
+   "title": "今日话题｜既然确认无过错，为什么还要让好人赔偿1.9万？",
+   "heat": 96.0,
+   "sentiment": -4,
+   "category": "话题"
+  },
+  {
+   "date": "2026-08-25",
+   "title": "浙江17万名“急救侠”覆盖九成村社：救护车到达前，先派最近的人",
+   "heat": 93.0,
+   "sentiment": 5,
+   "category": "社会"
+  },
+  {
+   "date": "2026-08-27",
+   "title": "今日话题｜星巴克让已消费顾客给带狗者腾座：消费者凭什么候补？",
+   "heat": 96.0,
+   "sentiment": -4,
+   "category": "话题"
+  },
+  {
+   "date": "2026-08-24",
+   "title": "中国汽车出口激增，上半年整车出口超500万辆同比涨65%",
+   "heat": 86.0,
+   "sentiment": 7,
+   "category": "财经"
+  },
+  {
+   "date": "2026-08-25",
+   "title": "道路交通安全法修订草案为自动驾驶设专章：系统违法车企交罚款",
+   "heat": 92.0,
+   "sentiment": -5,
+   "category": "社会"
+  }
+ ],
+ "stats": {
+  "news_total": 137,
+  "xwlb_total": 121
+ },
+ "generated_at": "2026-09-04T02:57:15",
+ "type_label": "周报"
+}

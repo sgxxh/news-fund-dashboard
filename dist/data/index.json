@@ -1,6 +1,32 @@
 {
  "dates": [
   {
+   "date": "2026-09-07",
+   "title": "",
+   "mood": 0,
+   "mood_level": "中性",
+   "news_total": 0,
+   "xwlb_total": 0,
+   "total_money": 6060.7,
+   "total_earn": -212.49,
+   "today_income": 78.08,
+   "today_income_rate": 1.29,
+   "generated_at": "2026-09-07T02:56:32"
+  },
+  {
+   "date": "2026-09-06",
+   "title": "9月6日日知录-被困隧洞11天，中国男子在尼泊尔获救：漫长搜救仍有希望",
+   "mood": 5.8,
+   "mood_level": "中性",
+   "news_total": 26,
+   "xwlb_total": 23,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-07T02:55:40"
+  },
+  {
    "date": "2026-09-04",
    "title": "",
    "mood": 0,
@@ -586,6 +612,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-04",
- "updated_at": "2026-09-04T09:10:59"
+ "latest": "2026-09-07",
+ "updated_at": "2026-09-07T02:56:33"
 }

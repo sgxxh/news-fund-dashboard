@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-09-08",
+   "date": "2026-09-09",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 6179.19,
-   "total_earn": -94.01,
-   "today_income": -17.34,
-   "today_income_rate": -0.28,
-   "generated_at": "2026-09-08T03:05:46"
+   "total_money": 6159.81,
+   "total_earn": -113.37,
+   "today_income": 0.44,
+   "today_income_rate": 0.01,
+   "generated_at": "2026-09-09T03:07:05"
+  },
+  {
+   "date": "2026-09-08",
+   "title": "9月8日日知录-中美AI国战：美国争夺AI定价权，中国让智能铺天盖地",
+   "mood": 7.2,
+   "mood_level": "中性",
+   "news_total": 20,
+   "xwlb_total": 27,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-09T03:06:49"
   },
   {
    "date": "2026-09-07",
@@ -625,6 +638,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-08",
- "updated_at": "2026-09-08T09:13:33"
+ "latest": "2026-09-09",
+ "updated_at": "2026-09-09T03:07:05"
 }

@@ -3,8 +3,8 @@
  "label": "季报",
  "type": "quarter",
  "date_from": "2026-07-19",
- "date_to": "2026-09-09",
- "days": 49,
+ "date_to": "2026-09-10",
+ "days": 50,
  "dates": [
   "2026-07-19",
   "2026-07-20",
@@ -54,9 +54,10 @@
   "2026-09-06",
   "2026-09-07",
   "2026-09-08",
-  "2026-09-09"
+  "2026-09-09",
+  "2026-09-10"
  ],
- "avg_mood": 3.4,
+ "avg_mood": 3.3,
  "mood_series": [
   {
    "date": "2026-07-19",
@@ -252,259 +253,263 @@
   },
   {
    "date": "2026-09-09",
+   "mood": -0.8
+  },
+  {
+   "date": "2026-09-10",
    "mood": 0
   }
  ],
  "keywords": [
   {
    "word": "平台",
-   "count": 1011,
+   "count": 1044,
    "weight": 1.0
   },
   {
    "word": "服务",
-   "count": 937,
-   "weight": 0.927
+   "count": 962,
+   "weight": 0.921
   },
   {
    "word": "美国",
-   "count": 903,
-   "weight": 0.893
+   "count": 946,
+   "weight": 0.906
   },
   {
    "word": "风险",
+   "count": 813,
+   "weight": 0.779
+  },
+  {
+   "word": "成本",
    "count": 790,
-   "weight": 0.781
+   "weight": 0.757
   },
   {
    "word": "能力",
    "count": 775,
-   "weight": 0.767
+   "weight": 0.742
   },
   {
    "word": "国家",
    "count": 775,
-   "weight": 0.767
-  },
-  {
-   "word": "成本",
-   "count": 763,
-   "weight": 0.755
+   "weight": 0.742
   },
   {
    "word": "信息",
-   "count": 683,
-   "weight": 0.676
+   "count": 709,
+   "weight": 0.679
   },
   {
    "word": "产品",
    "count": 623,
-   "weight": 0.616
+   "weight": 0.597
   },
   {
    "word": "安全",
-   "count": 518,
-   "weight": 0.512
+   "count": 544,
+   "weight": 0.521
   },
   {
    "word": "全球",
-   "count": 488,
-   "weight": 0.483
+   "count": 543,
+   "weight": 0.52
   },
   {
    "word": "设备",
-   "count": 485,
-   "weight": 0.48
+   "count": 509,
+   "weight": 0.488
+  },
+  {
+   "word": "程序",
+   "count": 509,
+   "weight": 0.488
   },
   {
    "word": "系统",
-   "count": 484,
-   "weight": 0.479
+   "count": 502,
+   "weight": 0.481
+  },
+  {
+   "word": "微信",
+   "count": 457,
+   "weight": 0.438
+  },
+  {
+   "word": "事儿",
+   "count": 457,
+   "weight": 0.438
   },
   {
    "word": "模型",
    "count": 454,
-   "weight": 0.449
+   "weight": 0.435
+  },
+  {
+   "word": "变化",
+   "count": 452,
+   "weight": 0.433
   },
   {
    "word": "价格",
    "count": 440,
-   "weight": 0.435
+   "weight": 0.421
   },
   {
    "word": "机构",
    "count": 435,
-   "weight": 0.43
-  },
-  {
-   "word": "变化",
-   "count": 414,
-   "weight": 0.409
-  },
-  {
-   "word": "程序",
-   "count": 413,
-   "weight": 0.409
+   "weight": 0.417
   },
   {
    "word": "证明",
+   "count": 413,
+   "weight": 0.396
+  },
+  {
+   "word": "机器人",
+   "count": 400,
+   "weight": 0.383
+  },
+  {
+   "word": "银行",
+   "count": 399,
+   "weight": 0.382
+  },
+  {
+   "word": "影响",
    "count": 382,
-   "weight": 0.378
+   "weight": 0.366
   },
   {
    "word": "日本",
    "count": 380,
-   "weight": 0.376
-  },
-  {
-   "word": "机器人",
-   "count": 379,
-   "weight": 0.375
-  },
-  {
-   "word": "微信",
-   "count": 368,
    "weight": 0.364
   },
   {
-   "word": "事儿",
+   "word": "汽车",
    "count": 368,
-   "weight": 0.364
-  },
-  {
-   "word": "银行",
-   "count": 366,
-   "weight": 0.362
-  },
-  {
-   "word": "影响",
-   "count": 362,
-   "weight": 0.358
+   "weight": 0.352
   },
   {
    "word": "孩子",
    "count": 356,
-   "weight": 0.352
-  },
-  {
-   "word": "汽车",
-   "count": 348,
-   "weight": 0.344
+   "weight": 0.341
   },
   {
    "word": "订单",
-   "count": 329,
+   "count": 354,
+   "weight": 0.339
+  },
+  {
+   "word": "技术",
+   "count": 342,
+   "weight": 0.328
+  },
+  {
+   "word": "城市",
+   "count": 339,
    "weight": 0.325
   },
   {
    "word": "人员",
    "count": 327,
-   "weight": 0.323
+   "weight": 0.313
   },
   {
    "word": "调查",
    "count": 324,
-   "weight": 0.32
-  },
-  {
-   "word": "技术",
-   "count": 319,
-   "weight": 0.316
+   "weight": 0.31
   },
   {
    "word": "数字",
    "count": 318,
-   "weight": 0.315
+   "weight": 0.305
   },
   {
-   "word": "城市",
-   "count": 316,
-   "weight": 0.313
+   "word": "政策",
+   "count": 314,
+   "weight": 0.301
+  },
+  {
+   "word": "规则",
+   "count": 307,
+   "weight": 0.294
   },
   {
    "word": "消费者",
    "count": 306,
-   "weight": 0.303
+   "weight": 0.293
   },
   {
    "word": "管理",
    "count": 303,
-   "weight": 0.3
+   "weight": 0.29
   },
   {
    "word": "家庭",
    "count": 301,
-   "weight": 0.298
-  },
-  {
-   "word": "政策",
-   "count": 291,
    "weight": 0.288
   },
   {
    "word": "资金",
    "count": 289,
-   "weight": 0.286
+   "weight": 0.277
   },
   {
    "word": "出口",
    "count": 287,
-   "weight": 0.284
-  },
-  {
-   "word": "规则",
-   "count": 286,
-   "weight": 0.283
+   "weight": 0.275
   },
   {
    "word": "交易",
    "count": 283,
-   "weight": 0.28
+   "weight": 0.271
   },
   {
    "word": "投资",
    "count": 275,
-   "weight": 0.272
+   "weight": 0.263
   },
   {
    "word": "利润",
    "count": 254,
-   "weight": 0.251
+   "weight": 0.243
   },
   {
    "word": "用户",
    "count": 251,
-   "weight": 0.248
+   "weight": 0.24
+  },
+  {
+   "word": "消费",
+   "count": 245,
+   "weight": 0.235
+  },
+  {
+   "word": "基金",
+   "count": 238,
+   "weight": 0.228
   },
   {
    "word": "客户",
    "count": 235,
-   "weight": 0.232
+   "weight": 0.225
   },
   {
    "word": "同比",
    "count": 235,
-   "weight": 0.232
+   "weight": 0.225
+  },
+  {
+   "word": "整理",
+   "count": 230,
+   "weight": 0.22
   },
   {
    "word": "芯片",
    "count": 229,
-   "weight": 0.227
-  },
-  {
-   "word": "消费",
-   "count": 227,
-   "weight": 0.225
-  },
-  {
-   "word": "记录",
-   "count": 218,
-   "weight": 0.216
-  },
-  {
-   "word": "基金",
-   "count": 213,
-   "weight": 0.211
+   "weight": 0.219
   }
  ],
  "sectors": [
@@ -591,10 +596,10 @@
    "today_income": -48.57
   },
   {
-   "date": "2026-09-09",
-   "total": 6159.81,
-   "earn": -113.37,
-   "today_income": 0.44
+   "date": "2026-09-10",
+   "total": 6150.3,
+   "earn": -122.89,
+   "today_income": -9.44
   }
  ],
  "holding_change": [
@@ -602,81 +607,81 @@
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
-   "money": 1905.69,
-   "weight": 30.94,
-   "earn_pct": 0.3,
-   "money_delta": 794.27,
-   "earn_pct_delta": -0.74
+   "money": 1903.7,
+   "weight": 30.95,
+   "earn_pct": 0.19,
+   "money_delta": 792.28,
+   "earn_pct_delta": -0.85
   },
   {
    "code": "022459",
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
-   "money": 1276.66,
-   "weight": 20.73,
-   "earn_pct": -0.5,
-   "money_delta": -32.41,
-   "earn_pct_delta": -2.52
+   "money": 1279.62,
+   "weight": 20.81,
+   "earn_pct": -0.27,
+   "money_delta": -29.45,
+   "earn_pct_delta": -2.29
   },
   {
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 979.14,
-   "weight": 15.9,
-   "earn_pct": -2.09,
-   "money_delta": -16.31,
-   "earn_pct_delta": -3.06
+   "money": 982.45,
+   "weight": 15.97,
+   "earn_pct": -1.75,
+   "money_delta": -13.0,
+   "earn_pct_delta": -2.72
   },
   {
    "code": "017811",
    "name": "东方人工智能主题混合C",
    "sector": "半导体材料设备",
-   "money": 743.97,
-   "weight": 12.08,
-   "earn_pct": -7.0,
-   "money_delta": 743.97,
-   "earn_pct_delta": -7.0
+   "money": 737.19,
+   "weight": 11.99,
+   "earn_pct": -7.85,
+   "money_delta": 737.19,
+   "earn_pct_delta": -7.85
   },
   {
    "code": "020640",
    "name": "广发半导体材料设备主题ETF联接C",
    "sector": "半导体材料",
-   "money": 456.81,
-   "weight": 7.42,
-   "earn_pct": -8.64,
-   "money_delta": 456.81,
-   "earn_pct_delta": -8.64
+   "money": 453.97,
+   "weight": 7.38,
+   "earn_pct": -9.21,
+   "money_delta": 453.97,
+   "earn_pct_delta": -9.21
   },
   {
    "code": "019671",
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "港股创新药",
-   "money": 308.02,
-   "weight": 5.0,
-   "earn_pct": 2.67,
-   "money_delta": 6.19,
-   "earn_pct_delta": 2.06
+   "money": 302.72,
+   "weight": 4.92,
+   "earn_pct": 0.91,
+   "money_delta": 0.89,
+   "earn_pct_delta": 0.3
   },
   {
    "code": "007466",
    "name": "华泰柏瑞中证红利低波动ETF联接A",
    "sector": "中证红利低波",
-   "money": 249.04,
-   "weight": 4.04,
-   "earn_pct": 0.22,
-   "money_delta": 8.69,
-   "earn_pct_delta": 3.79
+   "money": 249.8,
+   "weight": 4.06,
+   "earn_pct": 0.52,
+   "money_delta": 9.45,
+   "earn_pct_delta": 4.09
   },
   {
    "code": "000143",
    "name": "鹏华双债加利债券A",
    "sector": "混债",
-   "money": 240.48,
-   "weight": 3.9,
-   "earn_pct": -0.44,
-   "money_delta": -0.86,
-   "earn_pct_delta": -0.35
+   "money": 240.85,
+   "weight": 3.92,
+   "earn_pct": -0.29,
+   "money_delta": -0.49,
+   "earn_pct_delta": -0.2
   }
  ],
  "advice_consistency": [
@@ -908,9 +913,9 @@
   }
  ],
  "stats": {
-  "news_total": 964,
-  "xwlb_total": 1022
+  "news_total": 986,
+  "xwlb_total": 1049
  },
- "generated_at": "2026-09-09T03:07:05",
+ "generated_at": "2026-09-10T03:07:33",
  "type_label": "季报"
 }

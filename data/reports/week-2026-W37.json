@@ -3,14 +3,15 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-09-07",
- "date_to": "2026-09-09",
- "days": 3,
+ "date_to": "2026-09-10",
+ "days": 4,
  "dates": [
   "2026-09-07",
   "2026-09-08",
-  "2026-09-09"
+  "2026-09-09",
+  "2026-09-10"
  ],
- "avg_mood": 3.1,
+ "avg_mood": 2.1,
  "mood_series": [
   {
    "date": "2026-09-07",
@@ -22,259 +23,263 @@
   },
   {
    "date": "2026-09-09",
+   "mood": -0.8
+  },
+  {
+   "date": "2026-09-10",
    "mood": 0
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 180,
+   "count": 276,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 174,
-   "weight": 0.967
+   "count": 263,
+   "weight": 0.953
   },
   {
    "word": "事儿",
-   "count": 174,
-   "weight": 0.967
+   "count": 263,
+   "weight": 0.953
   },
   {
    "word": "整理",
-   "count": 86,
-   "weight": 0.478
+   "count": 131,
+   "weight": 0.475
   },
   {
    "word": "信息",
-   "count": 85,
-   "weight": 0.472
+   "count": 111,
+   "weight": 0.402
   },
   {
    "word": "服务",
-   "count": 71,
-   "weight": 0.394
+   "count": 96,
+   "weight": 0.348
+  },
+  {
+   "word": "成本",
+   "count": 89,
+   "weight": 0.322
   },
   {
    "word": "风险",
+   "count": 88,
+   "weight": 0.319
+  },
+  {
+   "word": "核心",
+   "count": 87,
+   "weight": 0.315
+  },
+  {
+   "word": "变化",
+   "count": 77,
+   "weight": 0.279
+  },
+  {
+   "word": "设备",
+   "count": 75,
+   "weight": 0.272
+  },
+  {
+   "word": "全球",
+   "count": 74,
+   "weight": 0.268
+  },
+  {
+   "word": "证明",
+   "count": 69,
+   "weight": 0.25
+  },
+  {
+   "word": "安全",
+   "count": 68,
+   "weight": 0.246
+  },
+  {
+   "word": "美国",
+   "count": 68,
+   "weight": 0.246
+  },
+  {
+   "word": "银行",
+   "count": 67,
+   "weight": 0.243
+  },
+  {
+   "word": "版权",
+   "count": 66,
+   "weight": 0.239
+  },
+  {
+   "word": "商业用途",
    "count": 65,
-   "weight": 0.361
+   "weight": 0.236
+  },
+  {
+   "word": "正文",
+   "count": 65,
+   "weight": 0.236
   },
   {
    "word": "机构",
    "count": 64,
-   "weight": 0.356
+   "weight": 0.232
   },
   {
-   "word": "成本",
-   "count": 62,
-   "weight": 0.344
+   "word": "汽车",
+   "count": 55,
+   "weight": 0.199
   },
   {
-   "word": "核心",
-   "count": 61,
-   "weight": 0.339
+   "word": "技术",
+   "count": 53,
+   "weight": 0.192
   },
   {
    "word": "芯片",
    "count": 52,
-   "weight": 0.289
-  },
-  {
-   "word": "设备",
-   "count": 51,
-   "weight": 0.283
+   "weight": 0.188
   },
   {
    "word": "模型",
    "count": 50,
-   "weight": 0.278
+   "weight": 0.181
   },
   {
    "word": "投资",
    "count": 49,
-   "weight": 0.272
+   "weight": 0.178
+  },
+  {
+   "word": "经营",
+   "count": 47,
+   "weight": 0.17
   },
   {
    "word": "日本",
    "count": 45,
-   "weight": 0.25
+   "weight": 0.163
   },
   {
    "word": "管理",
    "count": 44,
-   "weight": 0.244
-  },
-  {
-   "word": "版权",
-   "count": 44,
-   "weight": 0.244
+   "weight": 0.159
   },
   {
    "word": "能力",
    "count": 44,
-   "weight": 0.244
+   "weight": 0.159
   },
   {
    "word": "价格",
    "count": 44,
-   "weight": 0.244
-  },
-  {
-   "word": "商业用途",
-   "count": 43,
-   "weight": 0.239
-  },
-  {
-   "word": "正文",
-   "count": 43,
-   "weight": 0.239
-  },
-  {
-   "word": "安全",
-   "count": 42,
-   "weight": 0.233
+   "weight": 0.159
   },
   {
    "word": "国家",
    "count": 41,
-   "weight": 0.228
+   "weight": 0.149
+  },
+  {
+   "word": "影响",
+   "count": 41,
+   "weight": 0.149
   },
   {
    "word": "资产",
    "count": 41,
-   "weight": 0.228
+   "weight": 0.149
+  },
+  {
+   "word": "宁德",
+   "count": 41,
+   "weight": 0.149
   },
   {
    "word": "算力",
    "count": 41,
-   "weight": 0.228
+   "weight": 0.149
+  },
+  {
+   "word": "系统",
+   "count": 41,
+   "weight": 0.149
+  },
+  {
+   "word": "工厂",
+   "count": 41,
+   "weight": 0.149
+  },
+  {
+   "word": "火星",
+   "count": 41,
+   "weight": 0.149
+  },
+  {
+   "word": "职业",
+   "count": 40,
+   "weight": 0.145
   },
   {
    "word": "资本",
    "count": 39,
-   "weight": 0.217
-  },
-  {
-   "word": "变化",
-   "count": 39,
-   "weight": 0.217
+   "weight": 0.141
   },
   {
    "word": "产品",
    "count": 39,
-   "weight": 0.217
+   "weight": 0.141
   },
   {
-   "word": "证明",
-   "count": 38,
-   "weight": 0.211
+   "word": "政策",
+   "count": 39,
+   "weight": 0.141
+  },
+  {
+   "word": "车辆",
+   "count": 39,
+   "weight": 0.141
   },
   {
    "word": "客户",
    "count": 38,
-   "weight": 0.211
-  },
-  {
-   "word": "汽车",
-   "count": 35,
-   "weight": 0.194
-  },
-  {
-   "word": "银行",
-   "count": 34,
-   "weight": 0.189
+   "weight": 0.138
   },
   {
    "word": "素数",
    "count": 34,
-   "weight": 0.189
+   "weight": 0.123
+  },
+  {
+   "word": "平台",
+   "count": 33,
+   "weight": 0.12
   },
   {
    "word": "利润",
    "count": 32,
-   "weight": 0.178
-  },
-  {
-   "word": "技术",
-   "count": 30,
-   "weight": 0.167
+   "weight": 0.116
   },
   {
    "word": "卫星",
    "count": 30,
-   "weight": 0.167
+   "weight": 0.109
   },
   {
    "word": "华为",
    "count": 30,
-   "weight": 0.167
+   "weight": 0.109
   },
   {
    "word": "患者",
    "count": 30,
-   "weight": 0.167
-  },
-  {
-   "word": "手机",
-   "count": 28,
-   "weight": 0.156
-  },
-  {
-   "word": "资金",
-   "count": 27,
-   "weight": 0.15
-  },
-  {
-   "word": "规模",
-   "count": 27,
-   "weight": 0.15
-  },
-  {
-   "word": "日元",
-   "count": 27,
-   "weight": 0.15
-  },
-  {
-   "word": "数据中心",
-   "count": 25,
-   "weight": 0.139
-  },
-  {
-   "word": "麒麟",
-   "count": 25,
-   "weight": 0.139
-  },
-  {
-   "word": "美国",
-   "count": 25,
-   "weight": 0.139
-  },
-  {
-   "word": "运河",
-   "count": 25,
-   "weight": 0.139
-  },
-  {
-   "word": "欧洲",
-   "count": 25,
-   "weight": 0.139
-  },
-  {
-   "word": "星团",
-   "count": 24,
-   "weight": 0.133
-  },
-  {
-   "word": "药店",
-   "count": 24,
-   "weight": 0.133
-  },
-  {
-   "word": "门店",
-   "count": 24,
-   "weight": 0.133
+   "weight": 0.109
   }
  ],
  "sectors": [
@@ -337,10 +342,10 @@
  ],
  "nav_series": [
   {
-   "date": "2026-09-09",
-   "total": 6159.81,
-   "earn": -113.37,
-   "today_income": 0.44
+   "date": "2026-09-10",
+   "total": 6150.3,
+   "earn": -122.89,
+   "today_income": -9.44
   }
  ],
  "holding_change": [
@@ -348,9 +353,9 @@
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
-   "money": 1905.69,
-   "weight": 30.94,
-   "earn_pct": 0.3,
+   "money": 1903.7,
+   "weight": 30.95,
+   "earn_pct": 0.19,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -358,9 +363,9 @@
    "code": "022459",
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
-   "money": 1276.66,
-   "weight": 20.73,
-   "earn_pct": -0.5,
+   "money": 1279.62,
+   "weight": 20.81,
+   "earn_pct": -0.27,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -368,9 +373,9 @@
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 979.14,
-   "weight": 15.9,
-   "earn_pct": -2.09,
+   "money": 982.45,
+   "weight": 15.97,
+   "earn_pct": -1.75,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -378,9 +383,9 @@
    "code": "017811",
    "name": "东方人工智能主题混合C",
    "sector": "半导体材料设备",
-   "money": 743.97,
-   "weight": 12.08,
-   "earn_pct": -7.0,
+   "money": 737.19,
+   "weight": 11.99,
+   "earn_pct": -7.85,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -388,9 +393,9 @@
    "code": "020640",
    "name": "广发半导体材料设备主题ETF联接C",
    "sector": "半导体材料",
-   "money": 456.81,
-   "weight": 7.42,
-   "earn_pct": -8.64,
+   "money": 453.97,
+   "weight": 7.38,
+   "earn_pct": -9.21,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -398,9 +403,9 @@
    "code": "019671",
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "港股创新药",
-   "money": 308.02,
-   "weight": 5.0,
-   "earn_pct": 2.67,
+   "money": 302.72,
+   "weight": 4.92,
+   "earn_pct": 0.91,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -408,9 +413,9 @@
    "code": "007466",
    "name": "华泰柏瑞中证红利低波动ETF联接A",
    "sector": "中证红利低波",
-   "money": 249.04,
-   "weight": 4.04,
-   "earn_pct": 0.22,
+   "money": 249.8,
+   "weight": 4.06,
+   "earn_pct": 0.52,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -418,9 +423,9 @@
    "code": "000143",
    "name": "鹏华双债加利债券A",
    "sector": "混债",
-   "money": 240.48,
-   "weight": 3.9,
-   "earn_pct": -0.44,
+   "money": 240.85,
+   "weight": 3.92,
+   "earn_pct": -0.29,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   }
@@ -437,17 +442,7 @@
    }
   },
   {
-   "name": "广发港股创新药ETF联接(QDII)C",
-   "dominant": "持有偏乐观",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "持有偏乐观": 1
-   }
-  },
-  {
-   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "name": "东方人工智能主题混合C",
    "dominant": "持有偏乐观",
    "days": 1,
    "total_days": 1,
@@ -467,7 +462,7 @@
    }
   },
   {
-   "name": "东方人工智能主题混合C",
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
    "dominant": "持有偏乐观",
    "days": 1,
    "total_days": 1,
@@ -487,7 +482,17 @@
    }
   },
   {
-   "name": "南方纳斯达克100指数发起(QDII)I",
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "易方达中证A500ETF联接A",
    "dominant": "持有偏谨慎",
    "days": 1,
    "total_days": 1,
@@ -497,7 +502,7 @@
    }
   },
   {
-   "name": "易方达中证A500ETF联接A",
+   "name": "南方纳斯达克100指数发起(QDII)I",
    "dominant": "持有偏谨慎",
    "days": 1,
    "total_days": 1,
@@ -523,6 +528,13 @@
    "category": "财经"
   },
   {
+   "date": "2026-09-09",
+   "title": "今日纪事｜董建华逝世：香港回归后的许多“第一次”有了历史背影",
+   "heat": 100.0,
+   "sentiment": -7,
+   "category": "纪事"
+  },
+  {
    "date": "2026-09-08",
    "title": "490亿个分子里筛出一款新药：中国首款AI参与研发的原创药获批",
    "heat": 94.0,
@@ -535,6 +547,13 @@
    "heat": 96.0,
    "sentiment": 5,
    "category": "科技"
+  },
+  {
+   "date": "2026-09-09",
+   "title": "来源：微信小程序「晓事儿」｜全球最大主权基金拟减持近800亿美元美债：安全资产也要重算收益",
+   "heat": 95.0,
+   "sentiment": -5,
+   "category": "财经"
   },
   {
    "date": "2026-09-07",
@@ -558,17 +577,31 @@
    "category": "财经"
   },
   {
+   "date": "2026-09-09",
+   "title": "一公里挤着近20家黑加油点：“新能源”招牌下的劣质柴油牵出三省",
+   "heat": 96.0,
+   "sentiment": -4,
+   "category": "社会"
+  },
+  {
    "date": "2026-09-08",
    "title": "来源：微信小程序「晓事儿」｜AI可以换脸、拟声和开车，责任不能凭空消失：最高法首次划线",
    "heat": 98.0,
    "sentiment": -3,
    "category": "社会"
+  },
+  {
+   "date": "2026-09-09",
+   "title": "中国25个城市群进入全球创新百强：宁德冲到创新密度全球第三",
+   "heat": 93.0,
+   "sentiment": 4,
+   "category": "科技"
   }
  ],
  "stats": {
-  "news_total": 43,
-  "xwlb_total": 54
+  "news_total": 65,
+  "xwlb_total": 81
  },
- "generated_at": "2026-09-09T03:07:05",
+ "generated_at": "2026-09-10T03:07:33",
  "type_label": "周报"
 }

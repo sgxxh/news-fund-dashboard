@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-09-10",
+   "date": "2026-09-11",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 6150.3,
-   "total_earn": -122.89,
-   "today_income": -18.08,
-   "today_income_rate": -0.29,
-   "generated_at": "2026-09-10T03:07:33"
+   "total_money": 6130.74,
+   "total_earn": -142.45,
+   "today_income": -114.7,
+   "today_income_rate": -1.87,
+   "generated_at": "2026-09-11T03:03:10"
+  },
+  {
+   "date": "2026-09-10",
+   "title": "9月10日日知录-全球65岁以上人口首次超过0-5岁：社会默认设置变了",
+   "mood": 0.5,
+   "mood_level": "中性",
+   "news_total": 22,
+   "xwlb_total": 28,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-11T03:02:50"
   },
   {
    "date": "2026-09-09",
@@ -651,6 +664,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-10",
- "updated_at": "2026-09-10T09:15:39"
+ "latest": "2026-09-11",
+ "updated_at": "2026-09-11T03:03:11"
 }

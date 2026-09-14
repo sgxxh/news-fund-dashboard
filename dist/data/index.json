@@ -1,6 +1,32 @@
 {
  "dates": [
   {
+   "date": "2026-09-14",
+   "title": "",
+   "mood": 0,
+   "mood_level": "中性",
+   "news_total": 0,
+   "xwlb_total": 0,
+   "total_money": 6084.44,
+   "total_earn": -188.75,
+   "today_income": 26.29,
+   "today_income_rate": 0.43,
+   "generated_at": "2026-09-14T03:25:12"
+  },
+  {
+   "date": "2026-09-13",
+   "title": "9月13日日知录-中组部会同四部门修订5个行业事业单位领导人管理办法",
+   "mood": -11.1,
+   "mood_level": "中性",
+   "news_total": 22,
+   "xwlb_total": 23,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-14T03:24:54"
+  },
+  {
    "date": "2026-09-11",
    "title": "",
    "mood": 0,
@@ -664,6 +690,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-11",
- "updated_at": "2026-09-11T09:14:16"
+ "latest": "2026-09-14",
+ "updated_at": "2026-09-14T03:25:12"
 }

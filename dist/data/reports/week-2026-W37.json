@@ -3,16 +3,17 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-09-07",
- "date_to": "2026-09-11",
- "days": 5,
+ "date_to": "2026-09-13",
+ "days": 6,
  "dates": [
   "2026-09-07",
   "2026-09-08",
   "2026-09-09",
   "2026-09-10",
-  "2026-09-11"
+  "2026-09-11",
+  "2026-09-13"
  ],
- "avg_mood": 1.8,
+ "avg_mood": -0.4,
  "mood_series": [
   {
    "date": "2026-09-07",
@@ -33,258 +34,262 @@
   {
    "date": "2026-09-11",
    "mood": 0
+  },
+  {
+   "date": "2026-09-13",
+   "mood": -11.1
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 377,
+   "count": 472,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 352,
-   "weight": 0.934
+   "count": 442,
+   "weight": 0.936
   },
   {
    "word": "事儿",
-   "count": 352,
+   "count": 441,
    "weight": 0.934
   },
   {
    "word": "整理",
-   "count": 175,
-   "weight": 0.464
+   "count": 220,
+   "weight": 0.466
   },
   {
    "word": "信息",
-   "count": 171,
-   "weight": 0.454
+   "count": 204,
+   "weight": 0.432
   },
   {
    "word": "服务",
-   "count": 118,
-   "weight": 0.313
-  },
-  {
-   "word": "核心",
-   "count": 114,
-   "weight": 0.302
+   "count": 148,
+   "weight": 0.314
   },
   {
    "word": "成本",
-   "count": 112,
-   "weight": 0.297
+   "count": 147,
+   "weight": 0.311
+  },
+  {
+   "word": "核心",
+   "count": 143,
+   "weight": 0.303
   },
   {
    "word": "风险",
-   "count": 102,
-   "weight": 0.271
+   "count": 134,
+   "weight": 0.284
+  },
+  {
+   "word": "安全",
+   "count": 132,
+   "weight": 0.28
   },
   {
    "word": "美国",
-   "count": 102,
-   "weight": 0.271
+   "count": 125,
+   "weight": 0.265
+  },
+  {
+   "word": "国家",
+   "count": 124,
+   "weight": 0.263
+  },
+  {
+   "word": "产品",
+   "count": 124,
+   "weight": 0.263
+  },
+  {
+   "word": "正文",
+   "count": 112,
+   "weight": 0.237
+  },
+  {
+   "word": "版权",
+   "count": 111,
+   "weight": 0.235
+  },
+  {
+   "word": "商业用途",
+   "count": 109,
+   "weight": 0.231
+  },
+  {
+   "word": "技术",
+   "count": 109,
+   "weight": 0.231
+  },
+  {
+   "word": "基金",
+   "count": 108,
+   "weight": 0.229
+  },
+  {
+   "word": "机构",
+   "count": 106,
+   "weight": 0.225
+  },
+  {
+   "word": "管理",
+   "count": 101,
+   "weight": 0.214
   },
   {
    "word": "全球",
    "count": 100,
-   "weight": 0.265
+   "weight": 0.212
   },
   {
    "word": "设备",
    "count": 95,
-   "weight": 0.252
+   "weight": 0.201
   },
   {
-   "word": "正文",
+   "word": "变化",
+   "count": 94,
+   "weight": 0.199
+  },
+  {
+   "word": "投资",
+   "count": 93,
+   "weight": 0.197
+  },
+  {
+   "word": "平台",
    "count": 90,
-   "weight": 0.239
+   "weight": 0.191
   },
   {
-   "word": "版权",
+   "word": "能力",
    "count": 89,
-   "weight": 0.236
-  },
-  {
-   "word": "安全",
-   "count": 88,
-   "weight": 0.233
-  },
-  {
-   "word": "商业用途",
-   "count": 87,
-   "weight": 0.231
+   "weight": 0.189
   },
   {
    "word": "模型",
    "count": 85,
-   "weight": 0.225
+   "weight": 0.18
   },
   {
-   "word": "机构",
-   "count": 84,
-   "weight": 0.223
-  },
-  {
-   "word": "产品",
+   "word": "政府",
    "count": 81,
-   "weight": 0.215
-  },
-  {
-   "word": "技术",
-   "count": 81,
-   "weight": 0.215
-  },
-  {
-   "word": "变化",
-   "count": 77,
-   "weight": 0.204
-  },
-  {
-   "word": "国家",
-   "count": 76,
-   "weight": 0.202
+   "weight": 0.172
   },
   {
    "word": "工厂",
    "count": 73,
-   "weight": 0.194
-  },
-  {
-   "word": "管理",
-   "count": 72,
-   "weight": 0.191
+   "weight": 0.155
   },
   {
    "word": "汽车",
    "count": 71,
-   "weight": 0.188
-  },
-  {
-   "word": "平台",
-   "count": 71,
-   "weight": 0.188
-  },
-  {
-   "word": "投资",
-   "count": 69,
-   "weight": 0.183
+   "weight": 0.15
   },
   {
    "word": "证明",
    "count": 69,
-   "weight": 0.183
+   "weight": 0.146
   },
   {
    "word": "银行",
    "count": 67,
-   "weight": 0.178
+   "weight": 0.142
+  },
+  {
+   "word": "规模",
+   "count": 67,
+   "weight": 0.142
   },
   {
    "word": "经营",
    "count": 65,
-   "weight": 0.172
-  },
-  {
-   "word": "能力",
-   "count": 64,
-   "weight": 0.17
+   "weight": 0.138
   },
   {
    "word": "欧洲",
    "count": 63,
-   "weight": 0.167
+   "weight": 0.133
   },
   {
    "word": "资产",
    "count": 62,
-   "weight": 0.164
+   "weight": 0.131
   },
   {
-   "word": "政府",
-   "count": 55,
-   "weight": 0.146
+   "word": "价格",
+   "count": 62,
+   "weight": 0.131
+  },
+  {
+   "word": "规则",
+   "count": 58,
+   "weight": 0.123
+  },
+  {
+   "word": "系统",
+   "count": 57,
+   "weight": 0.121
   },
   {
    "word": "资本",
    "count": 54,
-   "weight": 0.143
+   "weight": 0.114
   },
   {
    "word": "芯片",
    "count": 52,
-   "weight": 0.138
+   "weight": 0.11
+  },
+  {
+   "word": "人口",
+   "count": 52,
+   "weight": 0.11
   },
   {
    "word": "日本",
    "count": 45,
-   "weight": 0.119
+   "weight": 0.095
   },
   {
-   "word": "价格",
-   "count": 44,
-   "weight": 0.117
+   "word": "医保",
+   "count": 43,
+   "weight": 0.091
   },
   {
-   "word": "规模",
-   "count": 42,
-   "weight": 0.111
+   "word": "融资",
+   "count": 43,
+   "weight": 0.091
   },
   {
    "word": "生产",
    "count": 42,
-   "weight": 0.111
+   "weight": 0.089
   },
   {
    "word": "影响",
    "count": 41,
-   "weight": 0.109
+   "weight": 0.087
   },
   {
    "word": "宁德",
    "count": 41,
-   "weight": 0.109
+   "weight": 0.087
   },
   {
    "word": "算力",
    "count": 41,
-   "weight": 0.109
-  },
-  {
-   "word": "系统",
-   "count": 41,
-   "weight": 0.109
+   "weight": 0.087
   },
   {
    "word": "火星",
    "count": 41,
-   "weight": 0.109
-  },
-  {
-   "word": "职业",
-   "count": 40,
-   "weight": 0.106
-  },
-  {
-   "word": "政策",
-   "count": 39,
-   "weight": 0.103
-  },
-  {
-   "word": "车辆",
-   "count": 39,
-   "weight": 0.103
-  },
-  {
-   "word": "景区",
-   "count": 39,
-   "weight": 0.103
-  },
-  {
-   "word": "客户",
-   "count": 38,
-   "weight": 0.101
+   "weight": 0.087
   }
  ],
  "sectors": [
@@ -350,7 +355,7 @@
    "date": "2026-09-11",
    "total": 6130.74,
    "earn": -142.45,
-   "today_income": -114.7
+   "today_income": -42.94
   }
  ],
  "holding_change": [
@@ -554,6 +559,13 @@
    "category": "科技"
   },
   {
+   "date": "2026-09-13",
+   "title": "中国宣布2027年接任金砖主席国：扩员的“全球南方”进入中国时间",
+   "heat": 97.0,
+   "sentiment": -6,
+   "category": "时政"
+  },
+  {
    "date": "2026-09-08",
    "title": "OpenAI把新算力落在马来：AI工厂先争电，再算每次回答的成本",
    "heat": 96.0,
@@ -589,6 +601,13 @@
    "category": "科技"
   },
   {
+   "date": "2026-09-13",
+   "title": "18岁女孩逃到深圳拒绝包办婚姻，父母却雇人跨省把她抓回兰州",
+   "heat": 94.0,
+   "sentiment": -5,
+   "category": "社会"
+  },
+  {
    "date": "2026-09-07",
    "title": "成都发放算力券、模型券和语料券：AI扶持转向为真实使用付费",
    "heat": 93.0,
@@ -617,6 +636,13 @@
    "category": "社会"
   },
   {
+   "date": "2026-09-13",
+   "title": "来源：微信小程序「晓事儿」｜AI写代码后程序员怎么办？工信部要求软件行业稳岗、扩岗和转岗",
+   "heat": 95.0,
+   "sentiment": -4,
+   "category": "时政"
+  },
+  {
    "date": "2026-09-09",
    "title": "中国25个城市群进入全球创新百强：宁德冲到创新密度全球第三",
    "heat": 93.0,
@@ -629,12 +655,19 @@
    "heat": 96.0,
    "sentiment": 3,
    "category": "社会"
+  },
+  {
+   "date": "2026-09-13",
+   "title": "今日纪事｜公交停了以后，老人步行10公里填补公共服务的缺口",
+   "heat": 95.0,
+   "sentiment": -2,
+   "category": "纪事"
   }
  ],
  "stats": {
-  "news_total": 87,
-  "xwlb_total": 109
+  "news_total": 109,
+  "xwlb_total": 132
  },
- "generated_at": "2026-09-11T03:03:11",
+ "generated_at": "2026-09-14T03:25:12",
  "type_label": "周报"
 }

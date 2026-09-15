@@ -3,19 +3,275 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-09-14",
- "date_to": "2026-09-14",
- "days": 1,
+ "date_to": "2026-09-15",
+ "days": 2,
  "dates": [
-  "2026-09-14"
+  "2026-09-14",
+  "2026-09-15"
  ],
- "avg_mood": 0.0,
+ "avg_mood": 11.2,
  "mood_series": [
   {
    "date": "2026-09-14",
+   "mood": 22.4
+  },
+  {
+   "date": "2026-09-15",
    "mood": 0
   }
  ],
- "keywords": [],
+ "keywords": [
+  {
+   "word": "程序",
+   "count": 97,
+   "weight": 1.0
+  },
+  {
+   "word": "微信",
+   "count": 90,
+   "weight": 0.928
+  },
+  {
+   "word": "事儿",
+   "count": 89,
+   "weight": 0.918
+  },
+  {
+   "word": "整理",
+   "count": 45,
+   "weight": 0.464
+  },
+  {
+   "word": "信息",
+   "count": 43,
+   "weight": 0.443
+  },
+  {
+   "word": "能力",
+   "count": 40,
+   "weight": 0.412
+  },
+  {
+   "word": "标准",
+   "count": 37,
+   "weight": 0.381
+  },
+  {
+   "word": "国家",
+   "count": 35,
+   "weight": 0.361
+  },
+  {
+   "word": "工资",
+   "count": 35,
+   "weight": 0.361
+  },
+  {
+   "word": "数字",
+   "count": 34,
+   "weight": 0.351
+  },
+  {
+   "word": "Token",
+   "count": 32,
+   "weight": 0.33
+  },
+  {
+   "word": "最低工资",
+   "count": 32,
+   "weight": 0.33
+  },
+  {
+   "word": "系统",
+   "count": 29,
+   "weight": 0.299
+  },
+  {
+   "word": "核心",
+   "count": 28,
+   "weight": 0.289
+  },
+  {
+   "word": "模型",
+   "count": 28,
+   "weight": 0.289
+  },
+  {
+   "word": "安全",
+   "count": 27,
+   "weight": 0.278
+  },
+  {
+   "word": "成本",
+   "count": 27,
+   "weight": 0.278
+  },
+  {
+   "word": "交易",
+   "count": 27,
+   "weight": 0.278
+  },
+  {
+   "word": "学历",
+   "count": 26,
+   "weight": 0.268
+  },
+  {
+   "word": "服务",
+   "count": 25,
+   "weight": 0.258
+  },
+  {
+   "word": "工厂",
+   "count": 25,
+   "weight": 0.258
+  },
+  {
+   "word": "统一",
+   "count": 24,
+   "weight": 0.247
+  },
+  {
+   "word": "正文",
+   "count": 23,
+   "weight": 0.237
+  },
+  {
+   "word": "投资",
+   "count": 23,
+   "weight": 0.237
+  },
+  {
+   "word": "订单",
+   "count": 23,
+   "weight": 0.237
+  },
+  {
+   "word": "条件",
+   "count": 23,
+   "weight": 0.237
+  },
+  {
+   "word": "版权",
+   "count": 22,
+   "weight": 0.227
+  },
+  {
+   "word": "商业用途",
+   "count": 22,
+   "weight": 0.227
+  },
+  {
+   "word": "设备",
+   "count": 22,
+   "weight": 0.227
+  },
+  {
+   "word": "网络",
+   "count": 21,
+   "weight": 0.216
+  },
+  {
+   "word": "风险",
+   "count": 21,
+   "weight": 0.216
+  },
+  {
+   "word": "物流",
+   "count": 21,
+   "weight": 0.216
+  },
+  {
+   "word": "供应商",
+   "count": 21,
+   "weight": 0.216
+  },
+  {
+   "word": "深圳",
+   "count": 21,
+   "weight": 0.216
+  },
+  {
+   "word": "变化",
+   "count": 20,
+   "weight": 0.206
+  },
+  {
+   "word": "规则",
+   "count": 20,
+   "weight": 0.206
+  },
+  {
+   "word": "平台",
+   "count": 20,
+   "weight": 0.206
+  },
+  {
+   "word": "价值",
+   "count": 19,
+   "weight": 0.196
+  },
+  {
+   "word": "岗位",
+   "count": 19,
+   "weight": 0.196
+  },
+  {
+   "word": "检查",
+   "count": 19,
+   "weight": 0.196
+  },
+  {
+   "word": "管道",
+   "count": 19,
+   "weight": 0.196
+  },
+  {
+   "word": "超级稻",
+   "count": 19,
+   "weight": 0.196
+  },
+  {
+   "word": "人类",
+   "count": 18,
+   "weight": 0.186
+  },
+  {
+   "word": "规划",
+   "count": 18,
+   "weight": 0.186
+  },
+  {
+   "word": "规模",
+   "count": 18,
+   "weight": 0.186
+  },
+  {
+   "word": "汽车",
+   "count": 18,
+   "weight": 0.186
+  },
+  {
+   "word": "记录",
+   "count": 18,
+   "weight": 0.186
+  },
+  {
+   "word": "部门",
+   "count": 18,
+   "weight": 0.186
+  },
+  {
+   "word": "农村",
+   "count": 18,
+   "weight": 0.186
+  },
+  {
+   "word": "工业",
+   "count": 18,
+   "weight": 0.186
+  }
+ ],
  "sectors": [
   {
    "sector": "PCB",
@@ -33,20 +289,6 @@
   },
   {
    "sector": "中证红利低波",
-   "avg_score": 0.0,
-   "max_score": 0.0,
-   "min_score": 0.0,
-   "news_count": 0
-  },
-  {
-   "sector": "半导体材料",
-   "avg_score": 0.0,
-   "max_score": 0.0,
-   "min_score": 0.0,
-   "news_count": 0
-  },
-  {
-   "sector": "半导体材料设备",
    "avg_score": 0.0,
    "max_score": 0.0,
    "min_score": 0.0,
@@ -76,10 +318,10 @@
  ],
  "nav_series": [
   {
-   "date": "2026-09-14",
-   "total": 6084.44,
-   "earn": -188.75,
-   "today_income": 26.29
+   "date": "2026-09-15",
+   "total": 5377.58,
+   "earn": -49.36,
+   "today_income": -1.57
   }
  ],
  "holding_change": [
@@ -87,19 +329,9 @@
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
-   "money": 1877.78,
-   "weight": 30.86,
-   "earn_pct": -1.17,
-   "money_delta": 0.0,
-   "earn_pct_delta": 0.0
-  },
-  {
-   "code": "022459",
-   "name": "易方达中证A500ETF联接A",
-   "sector": "中证A500",
-   "money": 1259.58,
-   "weight": 20.7,
-   "earn_pct": -1.83,
+   "money": 1893.57,
+   "weight": 35.21,
+   "earn_pct": -0.34,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -107,29 +339,19 @@
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 997.84,
-   "weight": 16.4,
-   "earn_pct": -0.22,
+   "money": 1440.35,
+   "weight": 26.78,
+   "earn_pct": -0.92,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
   {
-   "code": "017811",
-   "name": "东方人工智能主题混合C",
-   "sector": "半导体材料设备",
-   "money": 723.55,
-   "weight": 11.89,
-   "earn_pct": -9.56,
-   "money_delta": 0.0,
-   "earn_pct_delta": 0.0
-  },
-  {
-   "code": "020640",
-   "name": "广发半导体材料设备ETF联接C",
-   "sector": "半导体材料",
-   "money": 446.83,
-   "weight": 7.34,
-   "earn_pct": -10.63,
+   "code": "022459",
+   "name": "易方达中证A500ETF联接A",
+   "sector": "中证A500",
+   "money": 1252.83,
+   "weight": 23.3,
+   "earn_pct": -2.36,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -137,9 +359,9 @@
    "code": "019671",
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "港股创新药",
-   "money": 290.37,
-   "weight": 4.77,
-   "earn_pct": -3.21,
+   "money": 301.47,
+   "weight": 5.61,
+   "earn_pct": 0.49,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -147,9 +369,9 @@
    "code": "007466",
    "name": "华泰柏瑞中证红利低波ETF联接A",
    "sector": "中证红利低波",
-   "money": 248.47,
-   "weight": 4.08,
-   "earn_pct": -0.01,
+   "money": 249.34,
+   "weight": 4.64,
+   "earn_pct": 0.34,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -158,7 +380,7 @@
    "name": "鹏华双债加利债券A",
    "sector": "混债",
    "money": 240.02,
-   "weight": 3.94,
+   "weight": 4.46,
    "earn_pct": -0.63,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
@@ -166,27 +388,7 @@
  ],
  "advice_consistency": [
   {
-   "name": "广发半导体材料设备ETF联接C",
-   "dominant": "持有偏乐观",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "持有偏乐观": 1
-   }
-  },
-  {
-   "name": "财通价值动量混合A",
-   "dominant": "持有偏乐观",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "持有偏乐观": 1
-   }
-  },
-  {
-   "name": "东方人工智能主题混合C",
+   "name": "广发港股创新药ETF联接(QDII)C",
    "dominant": "持有偏乐观",
    "days": 1,
    "total_days": 1,
@@ -216,23 +418,23 @@
    }
   },
   {
-   "name": "广发港股创新药ETF联接(QDII)C",
-   "dominant": "持有偏乐观",
+   "name": "财通价值动量混合A",
+   "dominant": "维持观望",
    "days": 1,
    "total_days": 1,
    "ratio": 100,
    "detail": {
-    "持有偏乐观": 1
+    "维持观望": 1
    }
   },
   {
    "name": "易方达中证A500ETF联接A",
-   "dominant": "持有偏谨慎",
+   "dominant": "维持观望",
    "days": 1,
    "total_days": 1,
    "ratio": 100,
    "detail": {
-    "持有偏谨慎": 1
+    "维持观望": 1
    }
   },
   {
@@ -246,11 +448,40 @@
    }
   }
  ],
- "top_events": [],
+ "top_events": [
+  {
+   "date": "2026-09-14",
+   "title": "政府开始落实“鼓励民间投资”：发改委公开释放156亿36个项目",
+   "heat": 99.0,
+   "sentiment": 7,
+   "category": "财经"
+  },
+  {
+   "date": "2026-09-14",
+   "title": "中国再建2万公里油气长输管道：县域供气背后是全国调峰能力",
+   "heat": 94.0,
+   "sentiment": 8,
+   "category": "财经"
+  },
+  {
+   "date": "2026-09-14",
+   "title": "来源：微信小程序「晓事儿」｜农村网购已经突破3万亿元：数字乡村下一步不只帮农民卖货",
+   "heat": 94.0,
+   "sentiment": 5,
+   "category": "时政"
+  },
+  {
+   "date": "2026-09-14",
+   "title": "今日纪事｜三大巨头同时喊AI刹车：我们会走进《黑客帝国》吗？",
+   "heat": 99.0,
+   "sentiment": 3,
+   "category": "纪事"
+  }
+ ],
  "stats": {
-  "news_total": 0,
-  "xwlb_total": 0
+  "news_total": 22,
+  "xwlb_total": 27
  },
- "generated_at": "2026-09-14T03:25:12",
+ "generated_at": "2026-09-15T03:26:24",
  "type_label": "周报"
 }

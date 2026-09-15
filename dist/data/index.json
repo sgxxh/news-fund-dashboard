@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-09-14",
+   "date": "2026-09-15",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 6084.44,
-   "total_earn": -188.75,
-   "today_income": 9.92,
-   "today_income_rate": 0.16,
-   "generated_at": "2026-09-14T03:25:12"
+   "total_money": 5377.58,
+   "total_earn": -49.36,
+   "today_income": -1.57,
+   "today_income_rate": -0.03,
+   "generated_at": "2026-09-15T03:26:23"
+  },
+  {
+   "date": "2026-09-14",
+   "title": "9月14日日知录-账上有钱却拖着小企业不给付款？五部门将联合约谈",
+   "mood": 22.4,
+   "mood_level": "温和偏多",
+   "news_total": 22,
+   "xwlb_total": 27,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-15T03:26:06"
   },
   {
    "date": "2026-09-13",
@@ -690,6 +703,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-14",
- "updated_at": "2026-09-14T10:11:10"
+ "latest": "2026-09-15",
+ "updated_at": "2026-09-15T03:26:24"
 }

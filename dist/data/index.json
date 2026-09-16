@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-09-15",
+   "date": "2026-09-16",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 5377.58,
-   "total_earn": -49.36,
-   "today_income": -18.71,
-   "today_income_rate": -0.35,
-   "generated_at": "2026-09-15T03:26:23"
+   "total_money": 5358.98,
+   "total_earn": -67.97,
+   "today_income": 30.66,
+   "today_income_rate": 0.57,
+   "generated_at": "2026-09-16T03:22:33"
+  },
+  {
+   "date": "2026-09-15",
+   "title": "9月15日日知录-工业增长5.2%，失业率升至5.3%：机器热了消费还是冷",
+   "mood": 19.0,
+   "mood_level": "温和偏多",
+   "news_total": 22,
+   "xwlb_total": 25,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-16T03:22:14"
   },
   {
    "date": "2026-09-14",
@@ -703,6 +716,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-15",
- "updated_at": "2026-09-15T09:40:59"
+ "latest": "2026-09-16",
+ "updated_at": "2026-09-16T03:22:33"
 }

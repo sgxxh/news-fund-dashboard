@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-09-16",
+   "date": "2026-09-17",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 5358.98,
-   "total_earn": -67.97,
-   "today_income": 27.84,
-   "today_income_rate": 0.52,
-   "generated_at": "2026-09-16T03:22:33"
+   "total_money": 5394.93,
+   "total_earn": -32.02,
+   "today_income": -22.38,
+   "today_income_rate": -0.41,
+   "generated_at": "2026-09-17T03:28:12"
+  },
+  {
+   "date": "2026-09-16",
+   "title": "9月16日日知录-社保缴费新基数公布：工资没变，谁的到手收入会减少",
+   "mood": 2.8,
+   "mood_level": "中性",
+   "news_total": 23,
+   "xwlb_total": 27,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-17T03:27:54"
   },
   {
    "date": "2026-09-15",
@@ -716,6 +729,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-16",
- "updated_at": "2026-09-16T09:34:56"
+ "latest": "2026-09-17",
+ "updated_at": "2026-09-17T03:28:12"
 }

@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-09-17",
+   "date": "2026-09-18",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 5394.93,
-   "total_earn": -32.02,
-   "today_income": -28.24,
-   "today_income_rate": -0.52,
-   "generated_at": "2026-09-17T03:28:12"
+   "total_money": 5372.39,
+   "total_earn": -54.55,
+   "today_income": 72.47,
+   "today_income_rate": 1.35,
+   "generated_at": "2026-09-18T03:14:17"
+  },
+  {
+   "date": "2026-09-17",
+   "title": "9月17日日知录-美联储三年多来首次加息：高通胀压住白宫降息诉求",
+   "mood": 3.7,
+   "mood_level": "中性",
+   "news_total": 23,
+   "xwlb_total": 26,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-18T03:14:01"
   },
   {
    "date": "2026-09-16",
@@ -729,6 +742,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-17",
- "updated_at": "2026-09-17T09:43:11"
+ "latest": "2026-09-18",
+ "updated_at": "2026-09-18T03:14:17"
 }

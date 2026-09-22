@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-09-21",
+   "date": "2026-09-22",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 5458.32,
-   "total_earn": 31.37,
-   "today_income": 39.48,
-   "today_income_rate": 0.72,
-   "generated_at": "2026-09-21T03:22:07"
+   "total_money": 5490.05,
+   "total_earn": 63.12,
+   "today_income": 65.53,
+   "today_income_rate": 1.19,
+   "generated_at": "2026-09-22T03:21:09"
+  },
+  {
+   "date": "2026-09-21",
+   "title": "9月21日日知录-全国前8个月税收增长5.9%：其中股票成交贡献了多少？",
+   "mood": 7.9,
+   "mood_level": "中性",
+   "news_total": 23,
+   "xwlb_total": 28,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-22T03:20:53"
   },
   {
    "date": "2026-09-20",
@@ -768,6 +781,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-21",
- "updated_at": "2026-09-21T10:16:49"
+ "latest": "2026-09-22",
+ "updated_at": "2026-09-22T03:21:09"
 }

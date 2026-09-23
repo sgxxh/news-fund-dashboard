@@ -3,11 +3,12 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-09-21",
- "date_to": "2026-09-22",
- "days": 2,
+ "date_to": "2026-09-23",
+ "days": 3,
  "dates": [
   "2026-09-21",
-  "2026-09-22"
+  "2026-09-22",
+  "2026-09-23"
  ],
  "avg_mood": 4.0,
  "mood_series": [
@@ -17,259 +18,263 @@
   },
   {
    "date": "2026-09-22",
+   "mood": 4.2
+  },
+  {
+   "date": "2026-09-23",
    "mood": 0
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 112,
+   "count": 208,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 93,
-   "weight": 0.83
+   "count": 186,
+   "weight": 0.894
   },
   {
    "word": "事儿",
-   "count": 93,
-   "weight": 0.83
+   "count": 182,
+   "weight": 0.875
+  },
+  {
+   "word": "整理",
+   "count": 95,
+   "weight": 0.457
+  },
+  {
+   "word": "信息",
+   "count": 84,
+   "weight": 0.404
+  },
+  {
+   "word": "成本",
+   "count": 82,
+   "weight": 0.394
+  },
+  {
+   "word": "模型",
+   "count": 71,
+   "weight": 0.341
+  },
+  {
+   "word": "系统",
+   "count": 70,
+   "weight": 0.337
+  },
+  {
+   "word": "产品",
+   "count": 65,
+   "weight": 0.312
+  },
+  {
+   "word": "能力",
+   "count": 62,
+   "weight": 0.298
+  },
+  {
+   "word": "变化",
+   "count": 62,
+   "weight": 0.298
+  },
+  {
+   "word": "价格",
+   "count": 59,
+   "weight": 0.284
+  },
+  {
+   "word": "研究",
+   "count": 58,
+   "weight": 0.279
+  },
+  {
+   "word": "设备",
+   "count": 55,
+   "weight": 0.264
   },
   {
    "word": "银行",
    "count": 53,
-   "weight": 0.473
+   "weight": 0.255
   },
   {
-   "word": "整理",
-   "count": 46,
-   "weight": 0.411
-  },
-  {
-   "word": "信息",
-   "count": 43,
-   "weight": 0.384
-  },
-  {
-   "word": "价格",
-   "count": 41,
-   "weight": 0.366
-  },
-  {
-   "word": "系统",
-   "count": 39,
-   "weight": 0.348
-  },
-  {
-   "word": "产品",
-   "count": 39,
-   "weight": 0.348
-  },
-  {
-   "word": "成本",
-   "count": 38,
-   "weight": 0.339
-  },
-  {
-   "word": "国家",
-   "count": 37,
-   "weight": 0.33
-  },
-  {
-   "word": "用电",
-   "count": 33,
-   "weight": 0.295
-  },
-  {
-   "word": "消费者",
-   "count": 32,
-   "weight": 0.286
-  },
-  {
-   "word": "日本",
-   "count": 32,
-   "weight": 0.286
-  },
-  {
-   "word": "医院",
-   "count": 30,
-   "weight": 0.268
-  },
-  {
-   "word": "能力",
-   "count": 29,
-   "weight": 0.259
-  },
-  {
-   "word": "联合国",
-   "count": 28,
-   "weight": 0.25
-  },
-  {
-   "word": "税收",
-   "count": 28,
-   "weight": 0.25
-  },
-  {
-   "word": "彩礼",
-   "count": 28,
+   "word": "服务",
+   "count": 52,
    "weight": 0.25
   },
   {
    "word": "核心",
-   "count": 27,
-   "weight": 0.241
+   "count": 50,
+   "weight": 0.24
   },
   {
-   "word": "研究",
-   "count": 27,
-   "weight": 0.241
+   "word": "规则",
+   "count": 50,
+   "weight": 0.24
+  },
+  {
+   "word": "平台",
+   "count": 50,
+   "weight": 0.24
+  },
+  {
+   "word": "版权",
+   "count": 45,
+   "weight": 0.216
+  },
+  {
+   "word": "商业用途",
+   "count": 45,
+   "weight": 0.216
+  },
+  {
+   "word": "正文",
+   "count": 45,
+   "weight": 0.216
+  },
+  {
+   "word": "风险",
+   "count": 44,
+   "weight": 0.212
+  },
+  {
+   "word": "安全",
+   "count": 44,
+   "weight": 0.212
+  },
+  {
+   "word": "利润",
+   "count": 43,
+   "weight": 0.207
+  },
+  {
+   "word": "国家",
+   "count": 37,
+   "weight": 0.178
+  },
+  {
+   "word": "影响",
+   "count": 37,
+   "weight": 0.178
+  },
+  {
+   "word": "用电",
+   "count": 33,
+   "weight": 0.159
+  },
+  {
+   "word": "基金",
+   "count": 33,
+   "weight": 0.159
+  },
+  {
+   "word": "消费者",
+   "count": 32,
+   "weight": 0.154
+  },
+  {
+   "word": "日本",
+   "count": 32,
+   "weight": 0.154
+  },
+  {
+   "word": "海洋",
+   "count": 32,
+   "weight": 0.154
+  },
+  {
+   "word": "用户",
+   "count": 31,
+   "weight": 0.149
+  },
+  {
+   "word": "医院",
+   "count": 30,
+   "weight": 0.144
+  },
+  {
+   "word": "客户",
+   "count": 30,
+   "weight": 0.144
+  },
+  {
+   "word": "患者",
+   "count": 29,
+   "weight": 0.139
+  },
+  {
+   "word": "联合国",
+   "count": 28,
+   "weight": 0.135
+  },
+  {
+   "word": "税收",
+   "count": 28,
+   "weight": 0.135
+  },
+  {
+   "word": "彩礼",
+   "count": 28,
+   "weight": 0.135
+  },
+  {
+   "word": "电池",
+   "count": 28,
+   "weight": 0.135
   },
   {
    "word": "未成年人",
    "count": 27,
-   "weight": 0.241
-  },
-  {
-   "word": "变化",
-   "count": 26,
-   "weight": 0.232
+   "weight": 0.13
   },
   {
    "word": "案件",
    "count": 26,
-   "weight": 0.232
+   "weight": 0.125
   },
   {
    "word": "DNA",
    "count": 26,
-   "weight": 0.232
+   "weight": 0.125
+  },
+  {
+   "word": "订单",
+   "count": 26,
+   "weight": 0.125
   },
   {
    "word": "人民币",
    "count": 25,
-   "weight": 0.223
+   "weight": 0.12
   },
   {
    "word": "门诊",
    "count": 25,
-   "weight": 0.223
+   "weight": 0.12
   },
   {
    "word": "利率",
    "count": 25,
-   "weight": 0.223
+   "weight": 0.12
   },
   {
-   "word": "规则",
-   "count": 24,
-   "weight": 0.214
+   "word": "技术",
+   "count": 25,
+   "weight": 0.12
+  },
+  {
+   "word": "预测",
+   "count": 25,
+   "weight": 0.12
   },
   {
    "word": "粮食",
    "count": 24,
-   "weight": 0.214
-  },
-  {
-   "word": "设备",
-   "count": 24,
-   "weight": 0.214
-  },
-  {
-   "word": "淡水",
-   "count": 24,
-   "weight": 0.214
-  },
-  {
-   "word": "版权",
-   "count": 23,
-   "weight": 0.205
-  },
-  {
-   "word": "商业用途",
-   "count": 23,
-   "weight": 0.205
-  },
-  {
-   "word": "正文",
-   "count": 23,
-   "weight": 0.205
-  },
-  {
-   "word": "制氢",
-   "count": 23,
-   "weight": 0.205
-  },
-  {
-   "word": "家庭",
-   "count": 22,
-   "weight": 0.196
-  },
-  {
-   "word": "事实",
-   "count": 21,
-   "weight": 0.188
-  },
-  {
-   "word": "海水",
-   "count": 21,
-   "weight": 0.188
-  },
-  {
-   "word": "监管",
-   "count": 20,
-   "weight": 0.179
-  },
-  {
-   "word": "利润",
-   "count": 20,
-   "weight": 0.179
-  },
-  {
-   "word": "材料",
-   "count": 20,
-   "weight": 0.179
-  },
-  {
-   "word": "生产",
-   "count": 20,
-   "weight": 0.179
-  },
-  {
-   "word": "影响",
-   "count": 19,
-   "weight": 0.17
-  },
-  {
-   "word": "分子",
-   "count": 19,
-   "weight": 0.17
-  },
-  {
-   "word": "风险",
-   "count": 18,
-   "weight": 0.161
-  },
-  {
-   "word": "安全",
-   "count": 18,
-   "weight": 0.161
-  },
-  {
-   "word": "服务",
-   "count": 18,
-   "weight": 0.161
-  },
-  {
-   "word": "事件",
-   "count": 17,
-   "weight": 0.152
-  },
-  {
-   "word": "调整",
-   "count": 17,
-   "weight": 0.152
+   "weight": 0.115
   }
  ],
  "sectors": [
@@ -318,10 +323,10 @@
  ],
  "nav_series": [
   {
-   "date": "2026-09-22",
-   "total": 5490.05,
-   "earn": 63.12,
-   "today_income": 65.53
+   "date": "2026-09-23",
+   "total": 5521.27,
+   "earn": 94.32,
+   "today_income": 14.46
   }
  ],
  "holding_change": [
@@ -329,9 +334,9 @@
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
-   "money": 1904.2,
-   "weight": 34.68,
-   "earn_pct": 0.22,
+   "money": 1954.71,
+   "weight": 35.4,
+   "earn_pct": 2.88,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -339,9 +344,9 @@
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 1500.41,
-   "weight": 27.33,
-   "earn_pct": 3.21,
+   "money": 1482.35,
+   "weight": 26.85,
+   "earn_pct": 1.97,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -349,9 +354,9 @@
    "code": "022459",
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
-   "money": 1277.47,
-   "weight": 23.27,
-   "earn_pct": -0.44,
+   "money": 1278.5,
+   "weight": 23.16,
+   "earn_pct": -0.36,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -359,19 +364,19 @@
    "code": "019671",
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "港股创新药",
-   "money": 319.03,
-   "weight": 5.81,
-   "earn_pct": 6.34,
+   "money": 317.29,
+   "weight": 5.75,
+   "earn_pct": 5.76,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
   {
    "code": "007466",
-   "name": "华泰柏瑞中证红利低波ETF联接A",
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
    "sector": "中证红利低波",
-   "money": 245.06,
-   "weight": 4.46,
-   "earn_pct": -1.38,
+   "money": 245.14,
+   "weight": 4.44,
+   "earn_pct": -1.35,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -379,9 +384,9 @@
    "code": "000143",
    "name": "鹏华双债加利债券A",
    "sector": "混债",
-   "money": 243.88,
-   "weight": 4.44,
-   "earn_pct": 0.96,
+   "money": 243.28,
+   "weight": 4.41,
+   "earn_pct": 0.72,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   }
@@ -389,12 +394,12 @@
  "advice_consistency": [
   {
    "name": "广发港股创新药ETF联接(QDII)C",
-   "dominant": "可考虑加仓",
+   "dominant": "持有偏乐观",
    "days": 1,
    "total_days": 1,
    "ratio": 100,
    "detail": {
-    "可考虑加仓": 1
+    "持有偏乐观": 1
    }
   },
   {
@@ -408,7 +413,7 @@
    }
   },
   {
-   "name": "华泰柏瑞中证红利低波ETF联接A",
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
    "dominant": "持有偏乐观",
    "days": 1,
    "total_days": 1,
@@ -419,16 +424,6 @@
   },
   {
    "name": "财通价值动量混合A",
-   "dominant": "维持观望",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "维持观望": 1
-   }
-  },
-  {
-   "name": "易方达中证A500ETF联接A",
    "dominant": "维持观望",
    "days": 1,
    "total_days": 1,
@@ -439,12 +434,22 @@
   },
   {
    "name": "南方纳斯达克100指数发起(QDII)I",
-   "dominant": "持有偏谨慎",
+   "dominant": "维持观望",
    "days": 1,
    "total_days": 1,
    "ratio": 100,
    "detail": {
-    "持有偏谨慎": 1
+    "维持观望": 1
+   }
+  },
+  {
+   "name": "易方达中证A500ETF联接A",
+   "dominant": "维持观望",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 1
    }
   }
  ],
@@ -455,6 +460,34 @@
    "heat": 96.0,
    "sentiment": -10,
    "category": "时政"
+  },
+  {
+   "date": "2026-09-22",
+   "title": "央行向15家外资机构表态：国内借钱仍便宜，跨境投资还要更方便",
+   "heat": 88.0,
+   "sentiment": 11,
+   "category": "时政"
+  },
+  {
+   "date": "2026-09-22",
+   "title": "38家A股公司率先披露业绩：AI产业链跨过收入关，利润兑现更难",
+   "heat": 95.0,
+   "sentiment": 7,
+   "category": "科技"
+  },
+  {
+   "date": "2026-09-22",
+   "title": "来源：微信小程序「晓事儿」｜AI幻觉“差点引发一场战争”：美军飞机已经升空，目标为中国商船",
+   "heat": 97.0,
+   "sentiment": -6,
+   "category": "科技"
+  },
+  {
+   "date": "2026-09-22",
+   "title": "旅游演艺全年票房174亿，增长6.43%：是谁在为“我在现场”付费？",
+   "heat": 94.0,
+   "sentiment": 7,
+   "category": "财经"
   },
   {
    "date": "2026-09-21",
@@ -479,9 +512,9 @@
   }
  ],
  "stats": {
-  "news_total": 23,
-  "xwlb_total": 28
+  "news_total": 45,
+  "xwlb_total": 54
  },
- "generated_at": "2026-09-22T03:21:09",
+ "generated_at": "2026-09-23T03:22:32",
  "type_label": "周报"
 }

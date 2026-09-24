@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-09-23",
+   "date": "2026-09-24",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 5521.27,
-   "total_earn": 94.32,
-   "today_income": 2.52,
-   "today_income_rate": 0.05,
-   "generated_at": "2026-09-23T03:22:32"
+   "total_money": 5523.88,
+   "total_earn": 96.94,
+   "today_income": -79.68,
+   "today_income_rate": -1.44,
+   "generated_at": "2026-09-24T03:11:44"
+  },
+  {
+   "date": "2026-09-23",
+   "title": "9月23日日知录-国家向十大行业数据孤岛动手：汽车医院和金融共享数据",
+   "mood": 4.9,
+   "mood_level": "中性",
+   "news_total": 23,
+   "xwlb_total": 28,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-24T03:11:12"
   },
   {
    "date": "2026-09-22",
@@ -794,6 +807,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-23",
- "updated_at": "2026-09-23T09:37:37"
+ "latest": "2026-09-24",
+ "updated_at": "2026-09-24T03:11:45"
 }

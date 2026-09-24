@@ -3,8 +3,8 @@
  "label": "月报",
  "type": "month",
  "date_from": "2026-09-01",
- "date_to": "2026-09-23",
- "days": 20,
+ "date_to": "2026-09-24",
+ "days": 21,
  "dates": [
   "2026-09-01",
   "2026-09-02",
@@ -25,7 +25,8 @@
   "2026-09-20",
   "2026-09-21",
   "2026-09-22",
-  "2026-09-23"
+  "2026-09-23",
+  "2026-09-24"
  ],
  "avg_mood": 5.2,
  "mood_series": [
@@ -107,259 +108,263 @@
   },
   {
    "date": "2026-09-23",
+   "mood": 4.9
+  },
+  {
+   "date": "2026-09-24",
    "mood": 0
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 1360,
+   "count": 1456,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 1277,
-   "weight": 0.939
+   "count": 1371,
+   "weight": 0.942
   },
   {
    "word": "事儿",
-   "count": 1266,
-   "weight": 0.931
+   "count": 1359,
+   "weight": 0.933
   },
   {
    "word": "整理",
-   "count": 643,
+   "count": 689,
    "weight": 0.473
   },
   {
    "word": "信息",
-   "count": 622,
-   "weight": 0.457
+   "count": 671,
+   "weight": 0.461
   },
   {
    "word": "服务",
-   "count": 525,
-   "weight": 0.386
+   "count": 547,
+   "weight": 0.376
   },
   {
    "word": "成本",
-   "count": 492,
-   "weight": 0.362
+   "count": 523,
+   "weight": 0.359
   },
   {
    "word": "平台",
-   "count": 489,
-   "weight": 0.36
-  },
-  {
-   "word": "核心",
-   "count": 398,
-   "weight": 0.293
-  },
-  {
-   "word": "能力",
-   "count": 394,
-   "weight": 0.29
-  },
-  {
-   "word": "风险",
-   "count": 390,
-   "weight": 0.287
+   "count": 512,
+   "weight": 0.352
   },
   {
    "word": "国家",
-   "count": 387,
-   "weight": 0.285
+   "count": 430,
+   "weight": 0.295
+  },
+  {
+   "word": "核心",
+   "count": 429,
+   "weight": 0.295
+  },
+  {
+   "word": "风险",
+   "count": 416,
+   "weight": 0.286
+  },
+  {
+   "word": "能力",
+   "count": 412,
+   "weight": 0.283
   },
   {
    "word": "产品",
-   "count": 379,
-   "weight": 0.279
+   "count": 396,
+   "weight": 0.272
+  },
+  {
+   "word": "系统",
+   "count": 386,
+   "weight": 0.265
   },
   {
    "word": "美国",
    "count": 359,
-   "weight": 0.264
+   "weight": 0.247
+  },
+  {
+   "word": "变化",
+   "count": 358,
+   "weight": 0.246
   },
   {
    "word": "设备",
    "count": 354,
-   "weight": 0.26
+   "weight": 0.243
   },
   {
    "word": "模型",
    "count": 348,
-   "weight": 0.256
-  },
-  {
-   "word": "系统",
-   "count": 343,
-   "weight": 0.252
-  },
-  {
-   "word": "变化",
-   "count": 341,
-   "weight": 0.251
-  },
-  {
-   "word": "安全",
-   "count": 323,
-   "weight": 0.237
+   "weight": 0.239
   },
   {
    "word": "版权",
-   "count": 319,
+   "count": 342,
    "weight": 0.235
   },
   {
    "word": "正文",
-   "count": 317,
-   "weight": 0.233
+   "count": 340,
+   "weight": 0.234
   },
   {
    "word": "商业用途",
-   "count": 313,
-   "weight": 0.23
+   "count": 336,
+   "weight": 0.231
+  },
+  {
+   "word": "安全",
+   "count": 323,
+   "weight": 0.222
   },
   {
    "word": "价格",
    "count": 286,
-   "weight": 0.21
+   "weight": 0.196
   },
   {
    "word": "基金",
    "count": 259,
-   "weight": 0.19
+   "weight": 0.178
   },
   {
    "word": "银行",
    "count": 258,
-   "weight": 0.19
+   "weight": 0.177
   },
   {
    "word": "全球",
    "count": 227,
-   "weight": 0.167
+   "weight": 0.156
   },
   {
    "word": "投资",
    "count": 226,
-   "weight": 0.166
+   "weight": 0.155
   },
   {
    "word": "规则",
    "count": 225,
-   "weight": 0.165
+   "weight": 0.155
+  },
+  {
+   "word": "管理",
+   "count": 209,
+   "weight": 0.144
   },
   {
    "word": "患者",
    "count": 206,
-   "weight": 0.151
+   "weight": 0.141
+  },
+  {
+   "word": "技术",
+   "count": 206,
+   "weight": 0.141
   },
   {
    "word": "证明",
    "count": 203,
-   "weight": 0.149
+   "weight": 0.139
   },
   {
    "word": "机构",
    "count": 195,
-   "weight": 0.143
+   "weight": 0.134
   },
   {
-   "word": "管理",
-   "count": 195,
-   "weight": 0.143
-  },
-  {
-   "word": "技术",
-   "count": 186,
-   "weight": 0.137
+   "word": "影响",
+   "count": 190,
+   "weight": 0.13
   },
   {
    "word": "汽车",
    "count": 179,
-   "weight": 0.132
+   "weight": 0.123
   },
   {
    "word": "医院",
    "count": 177,
-   "weight": 0.13
+   "weight": 0.122
+  },
+  {
+   "word": "规模",
+   "count": 174,
+   "weight": 0.12
   },
   {
    "word": "资金",
    "count": 170,
-   "weight": 0.125
-  },
-  {
-   "word": "影响",
-   "count": 167,
-   "weight": 0.123
+   "weight": 0.117
   },
   {
    "word": "利润",
    "count": 166,
-   "weight": 0.122
+   "weight": 0.114
   },
   {
    "word": "交易",
    "count": 163,
-   "weight": 0.12
+   "weight": 0.112
   },
   {
    "word": "经营",
    "count": 161,
-   "weight": 0.118
-  },
-  {
-   "word": "规模",
-   "count": 158,
-   "weight": 0.116
+   "weight": 0.111
   },
   {
    "word": "医保",
    "count": 152,
-   "weight": 0.112
+   "weight": 0.104
   },
   {
    "word": "订单",
    "count": 151,
-   "weight": 0.111
+   "weight": 0.104
   },
   {
    "word": "电池",
    "count": 146,
-   "weight": 0.107
+   "weight": 0.1
+  },
+  {
+   "word": "数字",
+   "count": 145,
+   "weight": 0.1
+  },
+  {
+   "word": "材料",
+   "count": 142,
+   "weight": 0.098
   },
   {
    "word": "家庭",
    "count": 137,
-   "weight": 0.101
+   "weight": 0.094
   },
   {
-   "word": "数字",
+   "word": "记录",
    "count": 132,
-   "weight": 0.097
+   "weight": 0.091
   },
   {
    "word": "用户",
    "count": 127,
-   "weight": 0.093
+   "weight": 0.087
   },
   {
    "word": "网络",
    "count": 124,
-   "weight": 0.091
-  },
-  {
-   "word": "标准",
-   "count": 120,
-   "weight": 0.088
-  },
-  {
-   "word": "材料",
-   "count": 119,
-   "weight": 0.087
+   "weight": 0.085
   }
  ],
  "sectors": [
@@ -440,10 +445,10 @@
    "today_income": 84.62
   },
   {
-   "date": "2026-09-23",
-   "total": 5521.27,
-   "earn": 94.32,
-   "today_income": 14.46
+   "date": "2026-09-24",
+   "total": 5523.88,
+   "earn": 96.94,
+   "today_income": -79.68
   }
  ],
  "holding_change": [
@@ -451,61 +456,61 @@
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
-   "money": 1954.71,
-   "weight": 35.4,
-   "earn_pct": 2.88,
-   "money_delta": 122.57,
-   "earn_pct_delta": 3.85
+   "money": 1969.25,
+   "weight": 35.65,
+   "earn_pct": 3.64,
+   "money_delta": 137.11,
+   "earn_pct_delta": 4.61
   },
   {
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 1482.35,
-   "weight": 26.85,
-   "earn_pct": 1.97,
-   "money_delta": 544.1,
-   "earn_pct_delta": 8.14
+   "money": 1478.62,
+   "weight": 26.77,
+   "earn_pct": 1.71,
+   "money_delta": 540.37,
+   "earn_pct_delta": 7.88
   },
   {
    "code": "022459",
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
-   "money": 1278.5,
-   "weight": 23.16,
-   "earn_pct": -0.36,
-   "money_delta": 3.07,
-   "earn_pct_delta": 0.24
+   "money": 1271.24,
+   "weight": 23.01,
+   "earn_pct": -0.92,
+   "money_delta": -4.19,
+   "earn_pct_delta": -0.32
   },
   {
    "code": "019671",
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "港股创新药",
-   "money": 317.29,
+   "money": 317.45,
    "weight": 5.75,
-   "earn_pct": 5.76,
-   "money_delta": 8.04,
-   "earn_pct_delta": 2.68
+   "earn_pct": 5.82,
+   "money_delta": 8.2,
+   "earn_pct_delta": 2.74
   },
   {
    "code": "007466",
    "name": "华泰柏瑞中证红利低波动ETF联接A",
    "sector": "中证红利低波",
-   "money": 245.14,
-   "weight": 4.44,
-   "earn_pct": -1.35,
-   "money_delta": -2.86,
-   "earn_pct_delta": -1.15
+   "money": 244.09,
+   "weight": 4.42,
+   "earn_pct": -1.77,
+   "money_delta": -3.91,
+   "earn_pct_delta": -1.57
   },
   {
    "code": "000143",
    "name": "鹏华双债加利债券A",
    "sector": "混债",
-   "money": 243.28,
-   "weight": 4.41,
-   "earn_pct": 0.72,
-   "money_delta": 2.82,
-   "earn_pct_delta": 1.17
+   "money": 243.23,
+   "weight": 4.4,
+   "earn_pct": 0.7,
+   "money_delta": 2.77,
+   "earn_pct_delta": 1.15
   }
  ],
  "advice_consistency": [
@@ -624,6 +629,13 @@
    "category": "财经"
   },
   {
+   "date": "2026-09-23",
+   "title": "一句“七天内重开海峡”让油价跌破98美元：市场先于和平协议下注",
+   "heat": 94.0,
+   "sentiment": -10,
+   "category": "财经"
+  },
+  {
    "date": "2026-09-15",
    "title": "前8个月住户贷款减少1.03万亿：降息后，中国家庭还是不愿借钱",
    "heat": 99.0,
@@ -727,19 +739,12 @@
    "heat": 95.0,
    "sentiment": 8,
    "category": "财经"
-  },
-  {
-   "date": "2026-09-16",
-   "title": "张一鸣身家破1050亿美元：字节的广告现金流托起AI估值",
-   "heat": 95.0,
-   "sentiment": 8,
-   "category": "财经"
   }
  ],
  "stats": {
-  "news_total": 360,
-  "xwlb_total": 411
+  "news_total": 383,
+  "xwlb_total": 439
  },
- "generated_at": "2026-09-23T03:22:32",
+ "generated_at": "2026-09-24T03:11:44",
  "type_label": "月报"
 }

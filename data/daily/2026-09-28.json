@@ -8,12 +8,12 @@
   "reason": "",
   "summary": {
    "hold_cost": 5426.95,
-   "today_income": -110.96,
-   "today_income_rate": -2.05,
-   "total_money": 5420.19,
-   "total_earn": -6.75,
+   "today_income": -117.65,
+   "today_income_rate": -2.17,
+   "total_money": 5421.27,
+   "total_earn": -5.67,
    "count": 6,
-   "total_earn_pct": -0.12
+   "total_earn_pct": -0.1
   },
   "holdings": [
    {
@@ -21,22 +21,22 @@
     "fund_id": "23918",
     "code": "021000",
     "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 1953.38,
-    "earn": 53.33,
-    "earn_pct": 2.81,
+    "money": 1954.46,
+    "earn": 54.41,
+    "earn_pct": 2.86,
     "share": 830.73,
     "cost": 2.2872,
     "category": 3,
-    "nav": 2.3514,
-    "day_pct": -0.81,
-    "nav_date": "2026-09-23",
-    "est_pct": 0.42,
+    "nav": 2.3527,
+    "day_pct": 0.06,
+    "nav_date": "2026-09-28",
+    "est_pct": 0.06,
     "est_date": "2026-09-24",
     "year_pct": 14.77,
     "sector": "纳斯达克100",
     "sector_pct": 0.42,
     "market_type": "us",
-    "weight": 36.04
+    "weight": 36.05
    },
    {
     "account": "默认",
@@ -96,11 +96,11 @@
     "nav": 1.3843,
     "day_pct": -2.82,
     "nav_date": "2026-09-24",
-    "est_pct": -1.0,
+    "est_pct": -0.86,
     "est_date": "2026-09-28",
     "year_pct": 10.34,
     "sector": "港股创新药",
-    "sector_pct": -1.0,
+    "sector_pct": -0.86,
     "market_type": "hk",
     "weight": 5.69
    },

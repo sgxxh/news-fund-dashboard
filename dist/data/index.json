@@ -1,6 +1,32 @@
 {
  "dates": [
   {
+   "date": "2026-09-28",
+   "title": "",
+   "mood": 0,
+   "mood_level": "中性",
+   "news_total": 0,
+   "xwlb_total": 0,
+   "total_money": 5420.19,
+   "total_earn": -6.75,
+   "today_income": -108.8,
+   "today_income_rate": -2.01,
+   "generated_at": "2026-09-28T03:42:10"
+  },
+  {
+   "date": "2026-09-27",
+   "title": "9月27日日知录-中美“300亿美元”对等降税安排：含小家电与农产品",
+   "mood": -8.3,
+   "mood_level": "中性",
+   "news_total": 24,
+   "xwlb_total": 20,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-28T03:41:43"
+  },
+  {
    "date": "2026-09-25",
    "title": "",
    "mood": 0,
@@ -820,6 +846,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-25",
- "updated_at": "2026-09-25T09:54:07"
+ "latest": "2026-09-28",
+ "updated_at": "2026-09-28T03:42:10"
 }

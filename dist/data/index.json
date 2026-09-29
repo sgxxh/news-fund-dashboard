@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-09-28",
+   "date": "2026-09-29",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 5421.27,
-   "total_earn": -5.67,
-   "today_income": -117.65,
-   "today_income_rate": -2.17,
-   "generated_at": "2026-09-28T03:42:10"
+   "total_money": 5302.56,
+   "total_earn": -124.39,
+   "today_income": 1.53,
+   "today_income_rate": 0.03,
+   "generated_at": "2026-09-29T04:17:50"
+  },
+  {
+   "date": "2026-09-28",
+   "title": "9月28日日知录-中美降税“300亿对300亿”：超90%回到最惠国待遇",
+   "mood": -0.5,
+   "mood_level": "中性",
+   "news_total": 24,
+   "xwlb_total": 29,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-09-29T04:17:21"
   },
   {
    "date": "2026-09-27",
@@ -846,6 +859,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-09-28",
- "updated_at": "2026-09-28T11:18:54"
+ "latest": "2026-09-29",
+ "updated_at": "2026-09-29T04:17:50"
 }

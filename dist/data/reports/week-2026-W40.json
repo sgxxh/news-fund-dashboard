@@ -3,13 +3,14 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-09-28",
- "date_to": "2026-09-29",
- "days": 2,
+ "date_to": "2026-09-30",
+ "days": 3,
  "dates": [
   "2026-09-28",
-  "2026-09-29"
+  "2026-09-29",
+  "2026-09-30"
  ],
- "avg_mood": -0.2,
+ "avg_mood": 5.2,
  "mood_series": [
   {
    "date": "2026-09-28",
@@ -17,259 +18,263 @@
   },
   {
    "date": "2026-09-29",
+   "mood": 16.0
+  },
+  {
+   "date": "2026-09-30",
    "mood": 0
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 106,
+   "count": 205,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 97,
-   "weight": 0.915
+   "count": 195,
+   "weight": 0.951
   },
   {
    "word": "事儿",
-   "count": 97,
-   "weight": 0.915
+   "count": 194,
+   "weight": 0.946
   },
   {
    "word": "银行",
-   "count": 53,
-   "weight": 0.5
+   "count": 104,
+   "weight": 0.507
   },
   {
    "word": "整理",
-   "count": 51,
-   "weight": 0.481
+   "count": 99,
+   "weight": 0.483
+  },
+  {
+   "word": "风险",
+   "count": 95,
+   "weight": 0.463
   },
   {
    "word": "信息",
-   "count": 43,
-   "weight": 0.406
+   "count": 92,
+   "weight": 0.449
+  },
+  {
+   "word": "产品",
+   "count": 81,
+   "weight": 0.395
+  },
+  {
+   "word": "交易",
+   "count": 81,
+   "weight": 0.395
+  },
+  {
+   "word": "成本",
+   "count": 75,
+   "weight": 0.366
+  },
+  {
+   "word": "资金",
+   "count": 73,
+   "weight": 0.356
+  },
+  {
+   "word": "设备",
+   "count": 71,
+   "weight": 0.346
+  },
+  {
+   "word": "客户",
+   "count": 68,
+   "weight": 0.332
+  },
+  {
+   "word": "核心",
+   "count": 67,
+   "weight": 0.327
+  },
+  {
+   "word": "资产",
+   "count": 67,
+   "weight": 0.327
+  },
+  {
+   "word": "安全",
+   "count": 60,
+   "weight": 0.293
+  },
+  {
+   "word": "系统",
+   "count": 59,
+   "weight": 0.288
+  },
+  {
+   "word": "研究",
+   "count": 59,
+   "weight": 0.288
+  },
+  {
+   "word": "证明",
+   "count": 58,
+   "weight": 0.283
+  },
+  {
+   "word": "平台",
+   "count": 58,
+   "weight": 0.283
+  },
+  {
+   "word": "国家",
+   "count": 54,
+   "weight": 0.263
+  },
+  {
+   "word": "电池",
+   "count": 51,
+   "weight": 0.249
+  },
+  {
+   "word": "资本",
+   "count": 51,
+   "weight": 0.249
+  },
+  {
+   "word": "政策",
+   "count": 49,
+   "weight": 0.239
+  },
+  {
+   "word": "版权",
+   "count": 48,
+   "weight": 0.234
+  },
+  {
+   "word": "商业用途",
+   "count": 48,
+   "weight": 0.234
+  },
+  {
+   "word": "正文",
+   "count": 48,
+   "weight": 0.234
+  },
+  {
+   "word": "材料",
+   "count": 44,
+   "weight": 0.215
   },
   {
    "word": "利润",
    "count": 43,
-   "weight": 0.406
+   "weight": 0.21
   },
   {
-   "word": "资金",
+   "word": "网络",
+   "count": 43,
+   "weight": 0.21
+  },
+  {
+   "word": "能力",
+   "count": 43,
+   "weight": 0.21
+  },
+  {
+   "word": "口径",
+   "count": 43,
+   "weight": 0.21
+  },
+  {
+   "word": "服务",
+   "count": 42,
+   "weight": 0.205
+  },
+  {
+   "word": "实际",
    "count": 40,
-   "weight": 0.377
+   "weight": 0.195
+  },
+  {
+   "word": "丰田",
+   "count": 38,
+   "weight": 0.185
   },
   {
    "word": "标准",
    "count": 37,
-   "weight": 0.349
+   "weight": 0.18
   },
   {
-   "word": "设备",
-   "count": 37,
-   "weight": 0.349
+   "word": "技术",
+   "count": 36,
+   "weight": 0.176
+  },
+  {
+   "word": "贷款",
+   "count": 36,
+   "weight": 0.176
   },
   {
    "word": "模型",
    "count": 35,
-   "weight": 0.33
+   "weight": 0.171
   },
   {
-   "word": "系统",
-   "count": 32,
-   "weight": 0.302
+   "word": "科技",
+   "count": 33,
+   "weight": 0.161
   },
   {
    "word": "消费者",
    "count": 32,
-   "weight": 0.302
+   "weight": 0.156
   },
   {
    "word": "医保",
    "count": 32,
-   "weight": 0.302
-  },
-  {
-   "word": "证明",
-   "count": 31,
-   "weight": 0.292
+   "weight": 0.156
   },
   {
    "word": "规则",
    "count": 31,
-   "weight": 0.292
+   "weight": 0.151
   },
   {
-   "word": "产品",
+   "word": "美国",
    "count": 31,
-   "weight": 0.292
+   "weight": 0.151
   },
   {
-   "word": "国家",
-   "count": 29,
-   "weight": 0.274
+   "word": "投资",
+   "count": 31,
+   "weight": 0.151
+  },
+  {
+   "word": "心脏",
+   "count": 31,
+   "weight": 0.151
   },
   {
    "word": "科学",
    "count": 29,
-   "weight": 0.274
+   "weight": 0.141
   },
   {
    "word": "出口",
    "count": 29,
-   "weight": 0.274
+   "weight": 0.141
   },
   {
    "word": "专项",
    "count": 29,
-   "weight": 0.274
+   "weight": 0.141
   },
   {
-   "word": "核心",
-   "count": 28,
-   "weight": 0.264
-  },
-  {
-   "word": "成本",
-   "count": 28,
-   "weight": 0.264
-  },
-  {
-   "word": "安全",
-   "count": 27,
-   "weight": 0.255
-  },
-  {
-   "word": "身份",
-   "count": 27,
-   "weight": 0.255
-  },
-  {
-   "word": "平台",
-   "count": 26,
-   "weight": 0.245
-  },
-  {
-   "word": "资产",
-   "count": 26,
-   "weight": 0.245
-  },
-  {
-   "word": "吉利",
-   "count": 25,
-   "weight": 0.236
-  },
-  {
-   "word": "风险",
-   "count": 25,
-   "weight": 0.236
-  },
-  {
-   "word": "实验",
-   "count": 25,
-   "weight": 0.236
-  },
-  {
-   "word": "版权",
-   "count": 24,
-   "weight": 0.226
-  },
-  {
-   "word": "商业用途",
-   "count": 24,
-   "weight": 0.226
-  },
-  {
-   "word": "正文",
-   "count": 24,
-   "weight": 0.226
-  },
-  {
-   "word": "研究",
-   "count": 24,
-   "weight": 0.226
-  },
-  {
-   "word": "交易",
-   "count": 23,
-   "weight": 0.217
-  },
-  {
-   "word": "网络",
-   "count": 23,
-   "weight": 0.217
-  },
-  {
-   "word": "全部",
-   "count": 23,
-   "weight": 0.217
-  },
-  {
-   "word": "运营",
-   "count": 21,
-   "weight": 0.198
-  },
-  {
-   "word": "商品",
-   "count": 21,
-   "weight": 0.198
-  },
-  {
-   "word": "能力",
-   "count": 20,
-   "weight": 0.189
-  },
-  {
-   "word": "材料",
-   "count": 20,
-   "weight": 0.189
-  },
-  {
-   "word": "服务",
-   "count": 20,
-   "weight": 0.189
-  },
-  {
-   "word": "客户",
-   "count": 20,
-   "weight": 0.189
-  },
-  {
-   "word": "资本金",
-   "count": 20,
-   "weight": 0.189
-  },
-  {
-   "word": "生命",
-   "count": 20,
-   "weight": 0.189
-  },
-  {
-   "word": "能源",
-   "count": 19,
-   "weight": 0.179
-  },
-  {
-   "word": "政策",
-   "count": 19,
-   "weight": 0.179
-  },
-  {
-   "word": "违法",
-   "count": 18,
-   "weight": 0.17
-  },
-  {
-   "word": "人员",
-   "count": 18,
-   "weight": 0.17
-  },
-  {
-   "word": "自动",
-   "count": 18,
-   "weight": 0.17
+   "word": "一汽",
+   "count": 29,
+   "weight": 0.141
   }
  ],
  "sectors": [
@@ -318,10 +323,10 @@
  ],
  "nav_series": [
   {
-   "date": "2026-09-29",
-   "total": 5302.56,
-   "earn": -124.39,
-   "today_income": 1.53
+   "date": "2026-09-30",
+   "total": 5310.73,
+   "earn": -116.21,
+   "today_income": 3.71
   }
  ],
  "holding_change": [
@@ -329,9 +334,9 @@
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
-   "money": 1954.46,
-   "weight": 36.86,
-   "earn_pct": 2.86,
+   "money": 1939.34,
+   "weight": 36.52,
+   "earn_pct": 2.07,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -339,9 +344,9 @@
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 1339.18,
-   "weight": 25.26,
-   "earn_pct": -7.88,
+   "money": 1354.78,
+   "weight": 25.51,
+   "earn_pct": -6.81,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -349,9 +354,9 @@
    "code": "022459",
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
-   "money": 1218.07,
-   "weight": 22.97,
-   "earn_pct": -5.07,
+   "money": 1220.73,
+   "weight": 22.99,
+   "earn_pct": -4.86,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -359,9 +364,9 @@
    "code": "019671",
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "港股创新药",
-   "money": 307.13,
-   "weight": 5.79,
-   "earn_pct": 2.38,
+   "money": 311.99,
+   "weight": 5.87,
+   "earn_pct": 4.0,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -369,9 +374,9 @@
    "code": "007466",
    "name": "华泰柏瑞中证红利低波ETF联接A",
    "sector": "中证红利低波",
-   "money": 244.07,
-   "weight": 4.6,
-   "earn_pct": -1.78,
+   "money": 243.89,
+   "weight": 4.59,
+   "earn_pct": -1.86,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -379,9 +384,9 @@
    "code": "000143",
    "name": "鹏华双债加利债券A",
    "sector": "混债",
-   "money": 239.65,
+   "money": 240.0,
    "weight": 4.52,
-   "earn_pct": -0.79,
+   "earn_pct": -0.64,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   }
@@ -419,6 +424,16 @@
   },
   {
    "name": "财通价值动量混合A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "易方达中证A500ETF联接A",
    "dominant": "维持观望",
    "days": 1,
    "total_days": 1,
@@ -436,25 +451,43 @@
    "detail": {
     "持有偏谨慎": 1
    }
-  },
-  {
-   "name": "易方达中证A500ETF联接A",
-   "dominant": "持有偏谨慎",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "持有偏谨慎": 1
-   }
   }
  ],
  "top_events": [
+  {
+   "date": "2026-09-29",
+   "title": "国常会酝酿增量政策：用好地方债，央企“六张网”建设投入2万亿",
+   "heat": 96.0,
+   "sentiment": 13,
+   "category": "财经"
+  },
+  {
+   "date": "2026-09-29",
+   "title": "国轩高科与大众押注32.22亿欧元：中国电池出海进入重资产交付",
+   "heat": 95.0,
+   "sentiment": 9,
+   "category": "科技"
+  },
   {
    "date": "2026-09-28",
    "title": "中国制造业利润冰火两重天：电子信息利润翻倍，汽车却下降16%",
    "heat": 96.0,
    "sentiment": 8,
    "category": "财经"
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Nature关注中国领跑下一代CAR-T试验：外国患者开始来中国治癌",
+   "heat": 98.0,
+   "sentiment": 6,
+   "category": "科技"
+  },
+  {
+   "date": "2026-09-29",
+   "title": "七部门发布新型电池产业五年规划：全固态电池2030年规模化应用",
+   "heat": 98.0,
+   "sentiment": 5,
+   "category": "科技"
   },
   {
    "date": "2026-09-28",
@@ -479,9 +512,9 @@
   }
  ],
  "stats": {
-  "news_total": 24,
-  "xwlb_total": 29
+  "news_total": 48,
+  "xwlb_total": 57
  },
- "generated_at": "2026-09-29T04:17:50",
+ "generated_at": "2026-09-30T04:02:06",
  "type_label": "周报"
 }

@@ -1,7 +1,7 @@
 {
  "dates": [
   {
-   "date": "2026-10-01",
+   "date": "2026-10-02",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
@@ -11,7 +11,20 @@
    "total_earn": -114.68,
    "today_income": 1.52,
    "today_income_rate": 0.03,
-   "generated_at": "2026-10-01T04:12:24"
+   "generated_at": "2026-10-02T04:06:03"
+  },
+  {
+   "date": "2026-10-01",
+   "title": "10月1日日知录-全国税务行政处罚裁量基准将施行：首违不罚、轻微不罚",
+   "mood": 14.6,
+   "mood_level": "温和偏多",
+   "news_total": 23,
+   "xwlb_total": 17,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-02T04:05:41"
   },
   {
    "date": "2026-09-30",
@@ -885,6 +898,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-01",
- "updated_at": "2026-10-01T11:14:30"
+ "latest": "2026-10-02",
+ "updated_at": "2026-10-02T04:06:04"
 }

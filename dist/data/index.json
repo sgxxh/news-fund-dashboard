@@ -1,6 +1,32 @@
 {
  "dates": [
   {
+   "date": "2026-10-05",
+   "title": "",
+   "mood": 0,
+   "mood_level": "中性",
+   "news_total": 0,
+   "xwlb_total": 0,
+   "total_money": 5312.26,
+   "total_earn": -114.68,
+   "today_income": 1.52,
+   "today_income_rate": 0.03,
+   "generated_at": "2026-10-05T04:06:03"
+  },
+  {
+   "date": "2026-10-04",
+   "title": "10月4日日知录-新能源车主注意：10月5日-6日充电最挤，建议提前补能",
+   "mood": 6.3,
+   "mood_level": "中性",
+   "news_total": 22,
+   "xwlb_total": 20,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-05T04:05:40"
+  },
+  {
    "date": "2026-10-02",
    "title": "",
    "mood": 0,
@@ -898,6 +924,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-02",
- "updated_at": "2026-10-02T10:47:55"
+ "latest": "2026-10-05",
+ "updated_at": "2026-10-05T04:06:03"
 }

@@ -3,13 +3,15 @@
  "label": "月报",
  "type": "month",
  "date_from": "2026-10-01",
- "date_to": "2026-10-02",
- "days": 2,
+ "date_to": "2026-10-05",
+ "days": 4,
  "dates": [
   "2026-10-01",
-  "2026-10-02"
+  "2026-10-02",
+  "2026-10-04",
+  "2026-10-05"
  ],
- "avg_mood": 7.3,
+ "avg_mood": 5.2,
  "mood_series": [
   {
    "date": "2026-10-01",
@@ -18,258 +20,266 @@
   {
    "date": "2026-10-02",
    "mood": 0
+  },
+  {
+   "date": "2026-10-04",
+   "mood": 6.3
+  },
+  {
+   "date": "2026-10-05",
+   "mood": 0
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 107,
+   "count": 198,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 94,
-   "weight": 0.879
+   "count": 184,
+   "weight": 0.929
   },
   {
    "word": "事儿",
-   "count": 93,
-   "weight": 0.869
+   "count": 182,
+   "weight": 0.919
   },
   {
    "word": "整理",
-   "count": 46,
-   "weight": 0.43
+   "count": 93,
+   "weight": 0.47
   },
   {
    "word": "信息",
-   "count": 45,
-   "weight": 0.421
+   "count": 88,
+   "weight": 0.444
   },
   {
    "word": "服务",
+   "count": 82,
+   "weight": 0.414
+  },
+  {
+   "word": "成本",
+   "count": 66,
+   "weight": 0.333
+  },
+  {
+   "word": "核心",
+   "count": 55,
+   "weight": 0.278
+  },
+  {
+   "word": "系统",
+   "count": 51,
+   "weight": 0.258
+  },
+  {
+   "word": "版权",
+   "count": 46,
+   "weight": 0.232
+  },
+  {
+   "word": "商业用途",
    "count": 45,
-   "weight": 0.421
+   "weight": 0.227
+  },
+  {
+   "word": "正文",
+   "count": 45,
+   "weight": 0.227
   },
   {
    "word": "资金",
    "count": 43,
-   "weight": 0.402
+   "weight": 0.217
   },
   {
-   "word": "成本",
-   "count": 43,
-   "weight": 0.402
+   "word": "政策",
+   "count": 42,
+   "weight": 0.212
+  },
+  {
+   "word": "能力",
+   "count": 41,
+   "weight": 0.207
+  },
+  {
+   "word": "条件",
+   "count": 38,
+   "weight": 0.192
   },
   {
    "word": "标准",
    "count": 37,
-   "weight": 0.346
+   "weight": 0.187
   },
   {
    "word": "数字",
    "count": 36,
-   "weight": 0.336
+   "weight": 0.182
   },
   {
    "word": "冰川",
    "count": 36,
-   "weight": 0.336
+   "weight": 0.182
+  },
+  {
+   "word": "工程",
+   "count": 36,
+   "weight": 0.182
+  },
+  {
+   "word": "U23",
+   "count": 35,
+   "weight": 0.177
   },
   {
    "word": "债券",
    "count": 34,
-   "weight": 0.318
+   "weight": 0.172
   },
   {
    "word": "部门",
    "count": 34,
-   "weight": 0.318
+   "weight": 0.172
   },
   {
    "word": "海水",
    "count": 34,
-   "weight": 0.318
+   "weight": 0.172
+  },
+  {
+   "word": "模型",
+   "count": 34,
+   "weight": 0.172
+  },
+  {
+   "word": "小时",
+   "count": 34,
+   "weight": 0.172
+  },
+  {
+   "word": "研究",
+   "count": 33,
+   "weight": 0.167
+  },
+  {
+   "word": "球员",
+   "count": 33,
+   "weight": 0.167
+  },
+  {
+   "word": "景区",
+   "count": 32,
+   "weight": 0.162
+  },
+  {
+   "word": "游客",
+   "count": 31,
+   "weight": 0.157
   },
   {
    "word": "制度",
    "count": 30,
-   "weight": 0.28
+   "weight": 0.152
+  },
+  {
+   "word": "安全",
+   "count": 30,
+   "weight": 0.152
   },
   {
    "word": "船闸",
    "count": 29,
-   "weight": 0.271
-  },
-  {
-   "word": "系统",
-   "count": 27,
-   "weight": 0.252
-  },
-  {
-   "word": "能力",
-   "count": 27,
-   "weight": 0.252
+   "weight": 0.146
   },
   {
    "word": "海洋",
    "count": 27,
-   "weight": 0.252
+   "weight": 0.136
   },
   {
    "word": "评估",
    "count": 27,
-   "weight": 0.252
-  },
-  {
-   "word": "核心",
-   "count": 25,
-   "weight": 0.234
+   "weight": 0.136
   },
   {
    "word": "期限",
    "count": 25,
-   "weight": 0.234
+   "weight": 0.126
   },
   {
    "word": "家庭",
    "count": 25,
-   "weight": 0.234
+   "weight": 0.126
   },
   {
    "word": "消费",
    "count": 25,
-   "weight": 0.234
+   "weight": 0.126
   },
   {
    "word": "芯片",
    "count": 25,
-   "weight": 0.234
-  },
-  {
-   "word": "版权",
-   "count": 24,
-   "weight": 0.224
+   "weight": 0.126
   },
   {
    "word": "国家",
    "count": 24,
-   "weight": 0.224
+   "weight": 0.121
   },
   {
    "word": "工资",
    "count": 24,
-   "weight": 0.224
+   "weight": 0.121
   },
   {
-   "word": "商业用途",
-   "count": 23,
-   "weight": 0.215
-  },
-  {
-   "word": "正文",
-   "count": 23,
-   "weight": 0.215
-  },
-  {
-   "word": "条件",
-   "count": 23,
-   "weight": 0.215
+   "word": "影响",
+   "count": 24,
+   "weight": 0.121
   },
   {
    "word": "机构",
    "count": 23,
-   "weight": 0.215
+   "weight": 0.116
   },
   {
    "word": "销售",
    "count": 23,
-   "weight": 0.215
+   "weight": 0.116
+  },
+  {
+   "word": "调查",
+   "count": 23,
+   "weight": 0.116
+  },
+  {
+   "word": "用户",
+   "count": 23,
+   "weight": 0.116
+  },
+  {
+   "word": "设备",
+   "count": 23,
+   "weight": 0.116
   },
   {
    "word": "规定",
    "count": 22,
-   "weight": 0.206
-  },
-  {
-   "word": "工程",
-   "count": 22,
-   "weight": 0.206
+   "weight": 0.111
   },
   {
    "word": "库存",
    "count": 22,
-   "weight": 0.206
+   "weight": 0.111
   },
   {
    "word": "三峡",
    "count": 22,
-   "weight": 0.206
-  },
-  {
-   "word": "结论",
-   "count": 21,
-   "weight": 0.196
-  },
-  {
-   "word": "工具",
-   "count": 21,
-   "weight": 0.196
-  },
-  {
-   "word": "储备",
-   "count": 21,
-   "weight": 0.196
-  },
-  {
-   "word": "美国",
-   "count": 21,
-   "weight": 0.196
-  },
-  {
-   "word": "发电",
-   "count": 21,
-   "weight": 0.196
-  },
-  {
-   "word": "供热",
-   "count": 21,
-   "weight": 0.196
-  },
-  {
-   "word": "最低工资",
-   "count": 21,
-   "weight": 0.196
-  },
-  {
-   "word": "模型",
-   "count": 20,
-   "weight": 0.187
-  },
-  {
-   "word": "跨境",
-   "count": 20,
-   "weight": 0.187
-  },
-  {
-   "word": "价格",
-   "count": 19,
-   "weight": 0.178
-  },
-  {
-   "word": "政策",
-   "count": 19,
-   "weight": 0.178
-  },
-  {
-   "word": "政府",
-   "count": 19,
-   "weight": 0.178
-  },
-  {
-   "word": "证明",
-   "count": 19,
-   "weight": 0.178
+   "weight": 0.111
   }
  ],
  "sectors": [
@@ -322,6 +332,12 @@
    "total": 5312.26,
    "earn": -114.68,
    "today_income": 1.52
+  },
+  {
+   "date": "2026-10-05",
+   "total": 5312.26,
+   "earn": -114.68,
+   "today_income": 1.52
   }
  ],
  "holding_change": [
@@ -367,7 +383,7 @@
   },
   {
    "code": "007466",
-   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "name": "华泰柏瑞中证红利低波ETF联接A",
    "sector": "中证红利低波",
    "money": 247.31,
    "weight": 4.66,
@@ -390,11 +406,51 @@
   {
    "name": "广发港股创新药ETF联接(QDII)C",
    "dominant": "可考虑加仓",
-   "days": 1,
-   "total_days": 1,
+   "days": 2,
+   "total_days": 2,
    "ratio": 100,
    "detail": {
-    "可考虑加仓": 1
+    "可考虑加仓": 2
+   }
+  },
+  {
+   "name": "鹏华双债加利债券A",
+   "dominant": "持有偏乐观",
+   "days": 2,
+   "total_days": 2,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 2
+   }
+  },
+  {
+   "name": "财通价值动量混合A",
+   "dominant": "维持观望",
+   "days": 2,
+   "total_days": 2,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 2
+   }
+  },
+  {
+   "name": "易方达中证A500ETF联接A",
+   "dominant": "维持观望",
+   "days": 2,
+   "total_days": 2,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 2
+   }
+  },
+  {
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "dominant": "持有偏谨慎",
+   "days": 2,
+   "total_days": 2,
+   "ratio": 100,
+   "detail": {
+    "持有偏谨慎": 2
    }
   },
   {
@@ -408,7 +464,7 @@
    }
   },
   {
-   "name": "鹏华双债加利债券A",
+   "name": "华泰柏瑞中证红利低波ETF联接A",
    "dominant": "持有偏乐观",
    "days": 1,
    "total_days": 1,
@@ -416,39 +472,16 @@
    "detail": {
     "持有偏乐观": 1
    }
-  },
-  {
-   "name": "财通价值动量混合A",
-   "dominant": "维持观望",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "维持观望": 1
-   }
-  },
-  {
-   "name": "易方达中证A500ETF联接A",
-   "dominant": "维持观望",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "维持观望": 1
-   }
-  },
-  {
-   "name": "南方纳斯达克100指数发起(QDII)I",
-   "dominant": "持有偏谨慎",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "持有偏谨慎": 1
-   }
   }
  ],
  "top_events": [
+  {
+   "date": "2026-10-04",
+   "title": "中国代表28国在联合国共同发言，要求取消单边强制措施",
+   "heat": 97.0,
+   "sentiment": -8,
+   "category": "时政"
+  },
   {
    "date": "2026-10-01",
    "title": "央行10月8日拟做1.2万亿买断式逆回购：到期1万亿后，净增多少",
@@ -476,12 +509,33 @@
    "heat": 99.0,
    "sentiment": -3,
    "category": "社会"
+  },
+  {
+   "date": "2026-10-04",
+   "title": "我国5G基站达到519.5万个：流量增长17.3%，电信收入却下降2.2%",
+   "heat": 90.0,
+   "sentiment": 6,
+   "category": "科技"
+  },
+  {
+   "date": "2026-10-04",
+   "title": "中国企业用1200万方疏浚土修复红树林：“废泥”种活了海上森林",
+   "heat": 94.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-04",
+   "title": "东航正式报案并暂停承运涉事旅客：乘务员受辱下跪终于转入法律维权",
+   "heat": 96.0,
+   "sentiment": -3,
+   "category": "社会"
   }
  ],
  "stats": {
-  "news_total": 23,
-  "xwlb_total": 17
+  "news_total": 45,
+  "xwlb_total": 37
  },
- "generated_at": "2026-10-02T04:06:03",
+ "generated_at": "2026-10-05T04:06:03",
  "type_label": "月报"
 }

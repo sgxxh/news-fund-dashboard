@@ -3,16 +3,17 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-09-28",
- "date_to": "2026-10-02",
- "days": 5,
+ "date_to": "2026-10-04",
+ "days": 6,
  "dates": [
   "2026-09-28",
   "2026-09-29",
   "2026-09-30",
   "2026-10-01",
-  "2026-10-02"
+  "2026-10-02",
+  "2026-10-04"
  ],
- "avg_mood": 7.9,
+ "avg_mood": 7.6,
  "mood_series": [
   {
    "date": "2026-09-28",
@@ -33,258 +34,262 @@
   {
    "date": "2026-10-02",
    "mood": 0
+  },
+  {
+   "date": "2026-10-04",
+   "mood": 6.3
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 416,
+   "count": 507,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 386,
-   "weight": 0.928
+   "count": 476,
+   "weight": 0.939
   },
   {
    "word": "事儿",
-   "count": 384,
-   "weight": 0.923
+   "count": 473,
+   "weight": 0.933
   },
   {
    "word": "整理",
-   "count": 194,
-   "weight": 0.466
+   "count": 241,
+   "weight": 0.475
   },
   {
    "word": "信息",
-   "count": 183,
-   "weight": 0.44
+   "count": 226,
+   "weight": 0.446
   },
   {
    "word": "资金",
    "count": 173,
-   "weight": 0.416
+   "weight": 0.341
+  },
+  {
+   "word": "成本",
+   "count": 169,
+   "weight": 0.333
   },
   {
    "word": "风险",
    "count": 165,
-   "weight": 0.397
-  },
-  {
-   "word": "成本",
-   "count": 146,
-   "weight": 0.351
+   "weight": 0.325
   },
   {
    "word": "银行",
-   "count": 138,
-   "weight": 0.332
+   "count": 155,
+   "weight": 0.306
   },
   {
    "word": "核心",
-   "count": 121,
-   "weight": 0.291
+   "count": 151,
+   "weight": 0.298
+  },
+  {
+   "word": "系统",
+   "count": 131,
+   "weight": 0.258
+  },
+  {
+   "word": "政策",
+   "count": 127,
+   "weight": 0.25
+  },
+  {
+   "word": "服务",
+   "count": 124,
+   "weight": 0.245
+  },
+  {
+   "word": "设备",
+   "count": 120,
+   "weight": 0.237
+  },
+  {
+   "word": "产品",
+   "count": 120,
+   "weight": 0.237
+  },
+  {
+   "word": "正文",
+   "count": 119,
+   "weight": 0.235
+  },
+  {
+   "word": "版权",
+   "count": 118,
+   "weight": 0.233
+  },
+  {
+   "word": "商业用途",
+   "count": 117,
+   "weight": 0.231
+  },
+  {
+   "word": "研究",
+   "count": 117,
+   "weight": 0.231
   },
   {
    "word": "平台",
    "count": 114,
-   "weight": 0.274
+   "weight": 0.225
   },
   {
-   "word": "系统",
-   "count": 107,
-   "weight": 0.257
-  },
-  {
-   "word": "产品",
-   "count": 105,
-   "weight": 0.252
+   "word": "安全",
+   "count": 109,
+   "weight": 0.215
   },
   {
    "word": "国家",
    "count": 104,
-   "weight": 0.25
-  },
-  {
-   "word": "政策",
-   "count": 104,
-   "weight": 0.25
-  },
-  {
-   "word": "研究",
-   "count": 103,
-   "weight": 0.248
+   "weight": 0.205
   },
   {
    "word": "贷款",
    "count": 98,
-   "weight": 0.236
+   "weight": 0.193
   },
   {
-   "word": "设备",
-   "count": 97,
-   "weight": 0.233
-  },
-  {
-   "word": "正文",
-   "count": 97,
-   "weight": 0.233
-  },
-  {
-   "word": "版权",
+   "word": "交易",
    "count": 96,
-   "weight": 0.231
-  },
-  {
-   "word": "商业用途",
-   "count": 95,
-   "weight": 0.228
+   "weight": 0.189
   },
   {
    "word": "标准",
    "count": 93,
-   "weight": 0.224
+   "weight": 0.183
+  },
+  {
+   "word": "模型",
+   "count": 91,
+   "weight": 0.179
   },
   {
    "word": "消费者",
    "count": 89,
-   "weight": 0.214
+   "weight": 0.176
   },
   {
-   "word": "服务",
-   "count": 87,
-   "weight": 0.209
+   "word": "能力",
+   "count": 84,
+   "weight": 0.166
   },
   {
-   "word": "交易",
-   "count": 81,
-   "weight": 0.195
-  },
-  {
-   "word": "安全",
-   "count": 79,
-   "weight": 0.19
-  },
-  {
-   "word": "模型",
-   "count": 77,
-   "weight": 0.185
+   "word": "客户",
+   "count": 83,
+   "weight": 0.164
   },
   {
    "word": "证明",
    "count": 77,
-   "weight": 0.185
-  },
-  {
-   "word": "能力",
-   "count": 70,
-   "weight": 0.168
-  },
-  {
-   "word": "客户",
-   "count": 68,
-   "weight": 0.163
+   "weight": 0.152
   },
   {
    "word": "资产",
    "count": 67,
-   "weight": 0.161
+   "weight": 0.132
   },
   {
    "word": "材料",
    "count": 63,
-   "weight": 0.151
+   "weight": 0.124
+  },
+  {
+   "word": "条件",
+   "count": 62,
+   "weight": 0.122
   },
   {
    "word": "工具",
    "count": 60,
-   "weight": 0.144
+   "weight": 0.118
   },
   {
    "word": "投资",
    "count": 60,
-   "weight": 0.144
+   "weight": 0.118
   },
   {
    "word": "实际",
    "count": 59,
-   "weight": 0.142
+   "weight": 0.116
+  },
+  {
+   "word": "网络",
+   "count": 58,
+   "weight": 0.114
   },
   {
    "word": "规则",
    "count": 55,
-   "weight": 0.132
+   "weight": 0.108
   },
   {
    "word": "数字",
    "count": 54,
-   "weight": 0.13
+   "weight": 0.107
   },
   {
    "word": "科技",
    "count": 53,
-   "weight": 0.127
+   "weight": 0.105
   },
   {
    "word": "家庭",
    "count": 53,
-   "weight": 0.127
+   "weight": 0.105
   },
   {
    "word": "美国",
    "count": 52,
-   "weight": 0.125
+   "weight": 0.103
   },
   {
    "word": "电池",
    "count": 51,
-   "weight": 0.123
+   "weight": 0.101
   },
   {
    "word": "资本",
    "count": 51,
-   "weight": 0.123
+   "weight": 0.101
   },
   {
    "word": "变化",
    "count": 51,
-   "weight": 0.123
+   "weight": 0.101
   },
   {
    "word": "订单",
    "count": 50,
-   "weight": 0.12
+   "weight": 0.099
   },
   {
    "word": "销售",
    "count": 49,
-   "weight": 0.118
+   "weight": 0.097
   },
   {
    "word": "商品",
    "count": 48,
-   "weight": 0.115
+   "weight": 0.095
   },
   {
    "word": "全部",
    "count": 47,
-   "weight": 0.113
+   "weight": 0.093
   },
   {
    "word": "患者",
    "count": 47,
-   "weight": 0.113
-  },
-  {
-   "word": "条件",
-   "count": 47,
-   "weight": 0.113
-  },
-  {
-   "word": "生产",
-   "count": 44,
-   "weight": 0.106
+   "weight": 0.093
   }
  ],
  "sectors": [
@@ -486,6 +491,13 @@
    "category": "科技"
   },
   {
+   "date": "2026-10-04",
+   "title": "中国代表28国在联合国共同发言，要求取消单边强制措施",
+   "heat": 97.0,
+   "sentiment": -8,
+   "category": "时政"
+  },
+  {
    "date": "2026-09-28",
    "title": "中国制造业利润冰火两重天：电子信息利润翻倍，汽车却下降16%",
    "heat": 96.0,
@@ -575,12 +587,33 @@
    "heat": 99.0,
    "sentiment": -3,
    "category": "社会"
+  },
+  {
+   "date": "2026-10-04",
+   "title": "我国5G基站达到519.5万个：流量增长17.3%，电信收入却下降2.2%",
+   "heat": 90.0,
+   "sentiment": 6,
+   "category": "科技"
+  },
+  {
+   "date": "2026-10-04",
+   "title": "中国企业用1200万方疏浚土修复红树林：“废泥”种活了海上森林",
+   "heat": 94.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-04",
+   "title": "东航正式报案并暂停承运涉事旅客：乘务员受辱下跪终于转入法律维权",
+   "heat": 96.0,
+   "sentiment": -3,
+   "category": "社会"
   }
  ],
  "stats": {
-  "news_total": 95,
-  "xwlb_total": 91
+  "news_total": 117,
+  "xwlb_total": 111
  },
- "generated_at": "2026-10-02T04:06:03",
+ "generated_at": "2026-10-05T04:06:03",
  "type_label": "周报"
 }

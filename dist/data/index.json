@@ -1,7 +1,7 @@
 {
  "dates": [
   {
-   "date": "2026-10-05",
+   "date": "2026-10-06",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
@@ -11,7 +11,20 @@
    "total_earn": -114.68,
    "today_income": 1.52,
    "today_income_rate": 0.03,
-   "generated_at": "2026-10-05T04:06:03"
+   "generated_at": "2026-10-06T04:55:01"
+  },
+  {
+   "date": "2026-10-05",
+   "title": "10月5日日知录-商圈客流增3.4%、营业额增5.3%：国庆长假消费去了哪儿？",
+   "mood": 0.9,
+   "mood_level": "中性",
+   "news_total": 21,
+   "xwlb_total": 19,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-06T04:54:40"
   },
   {
    "date": "2026-10-04",
@@ -924,6 +937,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-05",
- "updated_at": "2026-10-05T11:54:41"
+ "latest": "2026-10-06",
+ "updated_at": "2026-10-06T04:55:01"
 }

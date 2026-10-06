@@ -3,15 +3,16 @@
  "label": "月报",
  "type": "month",
  "date_from": "2026-10-01",
- "date_to": "2026-10-05",
- "days": 4,
+ "date_to": "2026-10-06",
+ "days": 5,
  "dates": [
   "2026-10-01",
   "2026-10-02",
   "2026-10-04",
-  "2026-10-05"
+  "2026-10-05",
+  "2026-10-06"
  ],
- "avg_mood": 5.2,
+ "avg_mood": 4.4,
  "mood_series": [
   {
    "date": "2026-10-01",
@@ -27,259 +28,263 @@
   },
   {
    "date": "2026-10-05",
+   "mood": 0.9
+  },
+  {
+   "date": "2026-10-06",
    "mood": 0
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 198,
+   "count": 288,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 184,
-   "weight": 0.929
+   "count": 269,
+   "weight": 0.934
   },
   {
    "word": "事儿",
-   "count": 182,
-   "weight": 0.919
-  },
-  {
-   "word": "整理",
-   "count": 93,
-   "weight": 0.47
-  },
-  {
-   "word": "信息",
-   "count": 88,
-   "weight": 0.444
+   "count": 268,
+   "weight": 0.931
   },
   {
    "word": "服务",
-   "count": 82,
-   "weight": 0.414
+   "count": 155,
+   "weight": 0.538
+  },
+  {
+   "word": "信息",
+   "count": 142,
+   "weight": 0.493
+  },
+  {
+   "word": "整理",
+   "count": 141,
+   "weight": 0.49
   },
   {
    "word": "成本",
-   "count": 66,
-   "weight": 0.333
+   "count": 90,
+   "weight": 0.312
   },
   {
    "word": "核心",
-   "count": 55,
-   "weight": 0.278
+   "count": 82,
+   "weight": 0.285
+  },
+  {
+   "word": "版权",
+   "count": 67,
+   "weight": 0.233
+  },
+  {
+   "word": "正文",
+   "count": 67,
+   "weight": 0.233
+  },
+  {
+   "word": "商业用途",
+   "count": 66,
+   "weight": 0.229
+  },
+  {
+   "word": "能力",
+   "count": 64,
+   "weight": 0.222
+  },
+  {
+   "word": "游客",
+   "count": 64,
+   "weight": 0.222
+  },
+  {
+   "word": "平台",
+   "count": 59,
+   "weight": 0.205
+  },
+  {
+   "word": "用户",
+   "count": 52,
+   "weight": 0.181
+  },
+  {
+   "word": "数字",
+   "count": 51,
+   "weight": 0.177
   },
   {
    "word": "系统",
    "count": 51,
-   "weight": 0.258
+   "weight": 0.177
   },
   {
-   "word": "版权",
-   "count": 46,
-   "weight": 0.232
+   "word": "景区",
+   "count": 50,
+   "weight": 0.174
   },
   {
-   "word": "商业用途",
+   "word": "产品",
+   "count": 50,
+   "weight": 0.174
+  },
+  {
+   "word": "风险",
+   "count": 48,
+   "weight": 0.167
+  },
+  {
+   "word": "安全",
+   "count": 48,
+   "weight": 0.167
+  },
+  {
+   "word": "消费",
+   "count": 47,
+   "weight": 0.163
+  },
+  {
+   "word": "价格",
    "count": 45,
-   "weight": 0.227
-  },
-  {
-   "word": "正文",
-   "count": 45,
-   "weight": 0.227
+   "weight": 0.156
   },
   {
    "word": "资金",
    "count": 43,
-   "weight": 0.217
+   "weight": 0.149
+  },
+  {
+   "word": "家庭",
+   "count": 43,
+   "weight": 0.149
   },
   {
    "word": "政策",
    "count": 42,
-   "weight": 0.212
+   "weight": 0.146
   },
   {
-   "word": "能力",
+   "word": "政府",
+   "count": 42,
+   "weight": 0.146
+  },
+  {
+   "word": "影响",
    "count": 41,
-   "weight": 0.207
+   "weight": 0.142
+  },
+  {
+   "word": "二氧化碳",
+   "count": 39,
+   "weight": 0.135
   },
   {
    "word": "条件",
    "count": 38,
-   "weight": 0.192
+   "weight": 0.132
+  },
+  {
+   "word": "设备",
+   "count": 38,
+   "weight": 0.132
   },
   {
    "word": "标准",
    "count": 37,
-   "weight": 0.187
-  },
-  {
-   "word": "数字",
-   "count": 36,
-   "weight": 0.182
+   "weight": 0.128
   },
   {
    "word": "冰川",
    "count": 36,
-   "weight": 0.182
+   "weight": 0.125
   },
   {
    "word": "工程",
    "count": 36,
-   "weight": 0.182
+   "weight": 0.125
+  },
+  {
+   "word": "证明",
+   "count": 36,
+   "weight": 0.125
   },
   {
    "word": "U23",
    "count": 35,
-   "weight": 0.177
+   "weight": 0.122
   },
   {
    "word": "债券",
    "count": 34,
-   "weight": 0.172
+   "weight": 0.118
   },
   {
    "word": "部门",
    "count": 34,
-   "weight": 0.172
+   "weight": 0.118
   },
   {
    "word": "海水",
    "count": 34,
-   "weight": 0.172
+   "weight": 0.118
   },
   {
    "word": "模型",
    "count": 34,
-   "weight": 0.172
+   "weight": 0.118
   },
   {
    "word": "小时",
    "count": 34,
-   "weight": 0.172
+   "weight": 0.118
   },
   {
    "word": "研究",
    "count": 33,
-   "weight": 0.167
+   "weight": 0.115
   },
   {
    "word": "球员",
    "count": 33,
-   "weight": 0.167
+   "weight": 0.115
   },
   {
-   "word": "景区",
-   "count": 32,
-   "weight": 0.162
-  },
-  {
-   "word": "游客",
-   "count": 31,
-   "weight": 0.157
+   "word": "基金",
+   "count": 33,
+   "weight": 0.115
   },
   {
    "word": "制度",
    "count": 30,
-   "weight": 0.152
+   "weight": 0.104
   },
   {
-   "word": "安全",
+   "word": "记录",
    "count": 30,
-   "weight": 0.152
+   "weight": 0.104
+  },
+  {
+   "word": "医院",
+   "count": 30,
+   "weight": 0.104
   },
   {
    "word": "船闸",
    "count": 29,
-   "weight": 0.146
+   "weight": 0.101
+  },
+  {
+   "word": "品牌",
+   "count": 29,
+   "weight": 0.101
   },
   {
    "word": "海洋",
    "count": 27,
-   "weight": 0.136
-  },
-  {
-   "word": "评估",
-   "count": 27,
-   "weight": 0.136
-  },
-  {
-   "word": "期限",
-   "count": 25,
-   "weight": 0.126
-  },
-  {
-   "word": "家庭",
-   "count": 25,
-   "weight": 0.126
-  },
-  {
-   "word": "消费",
-   "count": 25,
-   "weight": 0.126
-  },
-  {
-   "word": "芯片",
-   "count": 25,
-   "weight": 0.126
-  },
-  {
-   "word": "国家",
-   "count": 24,
-   "weight": 0.121
-  },
-  {
-   "word": "工资",
-   "count": 24,
-   "weight": 0.121
-  },
-  {
-   "word": "影响",
-   "count": 24,
-   "weight": 0.121
-  },
-  {
-   "word": "机构",
-   "count": 23,
-   "weight": 0.116
-  },
-  {
-   "word": "销售",
-   "count": 23,
-   "weight": 0.116
-  },
-  {
-   "word": "调查",
-   "count": 23,
-   "weight": 0.116
-  },
-  {
-   "word": "用户",
-   "count": 23,
-   "weight": 0.116
-  },
-  {
-   "word": "设备",
-   "count": 23,
-   "weight": 0.116
-  },
-  {
-   "word": "规定",
-   "count": 22,
-   "weight": 0.111
-  },
-  {
-   "word": "库存",
-   "count": 22,
-   "weight": 0.111
-  },
-  {
-   "word": "三峡",
-   "count": 22,
-   "weight": 0.111
+   "weight": 0.094
   }
  ],
  "sectors": [
@@ -334,7 +339,7 @@
    "today_income": 1.52
   },
   {
-   "date": "2026-10-05",
+   "date": "2026-10-06",
    "total": 5312.26,
    "earn": -114.68,
    "today_income": 1.52
@@ -476,6 +481,13 @@
  ],
  "top_events": [
   {
+   "date": "2026-10-05",
+   "title": "全球粮食丰产同时粮价上涨：G20只对“粮食武器化”达成了共识",
+   "heat": 100.0,
+   "sentiment": -15,
+   "category": "时政"
+  },
+  {
    "date": "2026-10-04",
    "title": "中国代表28国在联合国共同发言，要求取消单边强制措施",
    "heat": 97.0,
@@ -483,10 +495,31 @@
    "category": "时政"
   },
   {
+   "date": "2026-10-05",
+   "title": "首套房贷最高可省5万：这不是“劳斯莱斯券”，但真能用的家庭也不多",
+   "heat": 100.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-05",
+   "title": "商圈客流增3.4%、营业额增5.3%：国庆消费多出来的钱去了哪里？",
+   "heat": 91.0,
+   "sentiment": 7,
+   "category": "财经"
+  },
+  {
    "date": "2026-10-01",
    "title": "央行10月8日拟做1.2万亿买断式逆回购：到期1万亿后，净增多少",
    "heat": 99.0,
    "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-05",
+   "title": "鸿蒙智行9月交付下降29%：问界只是放大器，其他“四界”未能接力",
+   "heat": 96.0,
+   "sentiment": 5,
    "category": "财经"
   },
   {
@@ -533,9 +566,9 @@
   }
  ],
  "stats": {
-  "news_total": 45,
-  "xwlb_total": 37
+  "news_total": 66,
+  "xwlb_total": 56
  },
- "generated_at": "2026-10-05T04:06:03",
+ "generated_at": "2026-10-06T04:55:01",
  "type_label": "月报"
 }

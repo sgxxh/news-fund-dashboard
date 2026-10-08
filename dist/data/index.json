@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-10-07",
-   "title": "",
-   "mood": 0,
-   "mood_level": "中性",
-   "news_total": 0,
+   "date": "2026-10-08",
+   "title": "10月8日日知录-养老消费券惠及246万人：异地可申领，但不能直接提现",
+   "mood": 26.4,
+   "mood_level": "温和偏多",
+   "news_total": 15,
    "xwlb_total": 0,
    "total_money": 5312.26,
    "total_earn": -114.68,
-   "today_income": 1.52,
-   "today_income_rate": 0.03,
-   "generated_at": "2026-10-07T04:21:41"
+   "today_income": -31.94,
+   "today_income_rate": -0.6,
+   "generated_at": "2026-10-08T04:33:21"
+  },
+  {
+   "date": "2026-10-07",
+   "title": "10月7日日知录-对冲基金规模增至13万亿美元：市场踩踏可能从美债开始",
+   "mood": -7.0,
+   "mood_level": "中性",
+   "news_total": 24,
+   "xwlb_total": 20,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-08T04:32:55"
   },
   {
    "date": "2026-10-06",
@@ -950,6 +963,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-07",
- "updated_at": "2026-10-07T11:24:55"
+ "latest": "2026-10-08",
+ "updated_at": "2026-10-08T04:33:22"
 }

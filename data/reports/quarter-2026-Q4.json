@@ -3,17 +3,18 @@
  "label": "季报",
  "type": "quarter",
  "date_from": "2026-10-01",
- "date_to": "2026-10-07",
- "days": 6,
+ "date_to": "2026-10-08",
+ "days": 7,
  "dates": [
   "2026-10-01",
   "2026-10-02",
   "2026-10-04",
   "2026-10-05",
   "2026-10-06",
-  "2026-10-07"
+  "2026-10-07",
+  "2026-10-08"
  ],
- "avg_mood": 4.0,
+ "avg_mood": 6.2,
  "mood_series": [
   {
    "date": "2026-10-01",
@@ -37,282 +38,286 @@
   },
   {
    "date": "2026-10-07",
-   "mood": 0
+   "mood": -7.0
+  },
+  {
+   "date": "2026-10-08",
+   "mood": 26.4
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 389,
+   "count": 554,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 362,
-   "weight": 0.931
+   "count": 522,
+   "weight": 0.942
   },
   {
    "word": "事儿",
-   "count": 361,
-   "weight": 0.928
+   "count": 519,
+   "weight": 0.937
   },
   {
    "word": "服务",
-   "count": 221,
-   "weight": 0.568
+   "count": 272,
+   "weight": 0.491
   },
   {
    "word": "整理",
-   "count": 187,
-   "weight": 0.481
-  },
-  {
-   "word": "信息",
-   "count": 186,
+   "count": 265,
    "weight": 0.478
   },
   {
+   "word": "信息",
+   "count": 238,
+   "weight": 0.43
+  },
+  {
    "word": "成本",
-   "count": 132,
-   "weight": 0.339
+   "count": 208,
+   "weight": 0.375
   },
   {
    "word": "核心",
-   "count": 112,
-   "weight": 0.288
+   "count": 157,
+   "weight": 0.283
   },
   {
-   "word": "能力",
-   "count": 100,
-   "weight": 0.257
+   "word": "价格",
+   "count": 149,
+   "weight": 0.269
   },
   {
    "word": "产品",
-   "count": 92,
-   "weight": 0.237
-  },
-  {
-   "word": "平台",
-   "count": 91,
-   "weight": 0.234
-  },
-  {
-   "word": "版权",
-   "count": 90,
-   "weight": 0.231
-  },
-  {
-   "word": "正文",
-   "count": 90,
-   "weight": 0.231
-  },
-  {
-   "word": "商业用途",
-   "count": 89,
-   "weight": 0.229
+   "count": 144,
+   "weight": 0.26
   },
   {
    "word": "风险",
-   "count": 83,
-   "weight": 0.213
+   "count": 139,
+   "weight": 0.251
+  },
+  {
+   "word": "能力",
+   "count": 135,
+   "weight": 0.244
+  },
+  {
+   "word": "版权",
+   "count": 134,
+   "weight": 0.242
+  },
+  {
+   "word": "平台",
+   "count": 132,
+   "weight": 0.238
+  },
+  {
+   "word": "正文",
+   "count": 129,
+   "weight": 0.233
+  },
+  {
+   "word": "商业用途",
+   "count": 128,
+   "weight": 0.231
+  },
+  {
+   "word": "家庭",
+   "count": 106,
+   "weight": 0.191
   },
   {
    "word": "数字",
-   "count": 81,
-   "weight": 0.208
+   "count": 104,
+   "weight": 0.188
+  },
+  {
+   "word": "基金",
+   "count": 100,
+   "weight": 0.181
   },
   {
    "word": "政府",
-   "count": 81,
-   "weight": 0.208
+   "count": 99,
+   "weight": 0.179
+  },
+  {
+   "word": "影响",
+   "count": 97,
+   "weight": 0.175
+  },
+  {
+   "word": "全球",
+   "count": 97,
+   "weight": 0.175
+  },
+  {
+   "word": "设备",
+   "count": 86,
+   "weight": 0.155
+  },
+  {
+   "word": "资金",
+   "count": 85,
+   "weight": 0.153
+  },
+  {
+   "word": "学校",
+   "count": 82,
+   "weight": 0.148
   },
   {
    "word": "安全",
    "count": 80,
-   "weight": 0.206
+   "weight": 0.144
+  },
+  {
+   "word": "变化",
+   "count": 79,
+   "weight": 0.143
   },
   {
    "word": "用户",
    "count": 75,
-   "weight": 0.193
+   "weight": 0.135
+  },
+  {
+   "word": "研究",
+   "count": 72,
+   "weight": 0.13
+  },
+  {
+   "word": "消费",
+   "count": 71,
+   "weight": 0.128
+  },
+  {
+   "word": "美国",
+   "count": 71,
+   "weight": 0.128
   },
   {
    "word": "系统",
    "count": 70,
-   "weight": 0.18
+   "weight": 0.126
   },
   {
-   "word": "价格",
-   "count": 67,
-   "weight": 0.172
-  },
-  {
-   "word": "全球",
-   "count": 66,
-   "weight": 0.17
-  },
-  {
-   "word": "家庭",
-   "count": 65,
-   "weight": 0.167
+   "word": "技术",
+   "count": 69,
+   "weight": 0.125
   },
   {
    "word": "政策",
    "count": 65,
-   "weight": 0.167
+   "weight": 0.117
   },
   {
    "word": "游客",
    "count": 64,
-   "weight": 0.165
+   "weight": 0.116
   },
   {
-   "word": "影响",
-   "count": 63,
-   "weight": 0.162
+   "word": "旅客",
+   "count": 60,
+   "weight": 0.108
   },
   {
-   "word": "设备",
-   "count": 62,
-   "weight": 0.159
+   "word": "规模",
+   "count": 58,
+   "weight": 0.105
   },
   {
-   "word": "技术",
-   "count": 57,
-   "weight": 0.147
-  },
-  {
-   "word": "研究",
+   "word": "海水",
    "count": 56,
-   "weight": 0.144
+   "weight": 0.101
+  },
+  {
+   "word": "条件",
+   "count": 54,
+   "weight": 0.097
+  },
+  {
+   "word": "工程",
+   "count": 54,
+   "weight": 0.097
+  },
+  {
+   "word": "交易",
+   "count": 51,
+   "weight": 0.092
+  },
+  {
+   "word": "债券",
+   "count": 50,
+   "weight": 0.09
   },
   {
    "word": "景区",
    "count": 50,
-   "weight": 0.129
+   "weight": 0.09
   },
   {
-   "word": "美国",
-   "count": 48,
-   "weight": 0.123
+   "word": "国家",
+   "count": 49,
+   "weight": 0.088
   },
   {
-   "word": "消费",
+   "word": "规则",
+   "count": 49,
+   "weight": 0.088
+  },
+  {
+   "word": "评估",
    "count": 47,
-   "weight": 0.121
+   "weight": 0.085
+  },
+  {
+   "word": "机构",
+   "count": 47,
+   "weight": 0.085
   },
   {
    "word": "订单",
    "count": 47,
-   "weight": 0.121
+   "weight": 0.085
   },
   {
-   "word": "旅客",
+   "word": "ETF",
+   "count": 46,
+   "weight": 0.083
+  },
+  {
+   "word": "压力",
    "count": 44,
-   "weight": 0.113
-  },
-  {
-   "word": "资金",
-   "count": 43,
-   "weight": 0.111
-  },
-  {
-   "word": "调查",
-   "count": 43,
-   "weight": 0.111
-  },
-  {
-   "word": "案件",
-   "count": 41,
-   "weight": 0.105
-  },
-  {
-   "word": "变化",
-   "count": 40,
-   "weight": 0.103
-  },
-  {
-   "word": "二氧化碳",
-   "count": 39,
-   "weight": 0.1
-  },
-  {
-   "word": "条件",
-   "count": 38,
-   "weight": 0.098
-  },
-  {
-   "word": "标准",
-   "count": 37,
-   "weight": 0.095
-  },
-  {
-   "word": "专利",
-   "count": 37,
-   "weight": 0.095
-  },
-  {
-   "word": "冰川",
-   "count": 36,
-   "weight": 0.093
-  },
-  {
-   "word": "工程",
-   "count": 36,
-   "weight": 0.093
-  },
-  {
-   "word": "证明",
-   "count": 36,
-   "weight": 0.093
-  },
-  {
-   "word": "U23",
-   "count": 35,
-   "weight": 0.09
-  },
-  {
-   "word": "债券",
-   "count": 34,
-   "weight": 0.087
-  },
-  {
-   "word": "部门",
-   "count": 34,
-   "weight": 0.087
-  },
-  {
-   "word": "海水",
-   "count": 34,
-   "weight": 0.087
-  },
-  {
-   "word": "模型",
-   "count": 34,
-   "weight": 0.087
+   "weight": 0.079
   }
  ],
  "sectors": [
   {
    "sector": "PCB",
-   "avg_score": 0.0,
-   "max_score": 0.0,
+   "avg_score": 35.9,
+   "max_score": 71.7,
    "min_score": 0.0,
-   "news_count": 0
-  },
-  {
-   "sector": "中证A500",
-   "avg_score": 0.0,
-   "max_score": 0.0,
-   "min_score": 0.0,
-   "news_count": 0
+   "news_count": 5
   },
   {
    "sector": "中证红利低波",
-   "avg_score": 0.0,
-   "max_score": 0.0,
+   "avg_score": 22.5,
+   "max_score": 45.0,
    "min_score": 0.0,
-   "news_count": 0
+   "news_count": 6
+  },
+  {
+   "sector": "中证A500",
+   "avg_score": 15.3,
+   "max_score": 30.7,
+   "min_score": 0.0,
+   "news_count": 8
   },
   {
    "sector": "混债",
@@ -334,6 +339,13 @@
    "max_score": 0.0,
    "min_score": 0.0,
    "news_count": 0
+  },
+  {
+   "sector": "纳指",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
   }
  ],
  "nav_series": [
@@ -344,17 +356,17 @@
    "today_income": 1.52
   },
   {
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "total": 5312.26,
    "earn": -114.68,
-   "today_income": 1.52
+   "today_income": -31.94
   }
  ],
  "holding_change": [
   {
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
-   "sector": "纳斯达克100",
+   "sector": "纳指",
    "money": 1943.49,
    "weight": 36.58,
    "earn_pct": 2.29,
@@ -393,7 +405,7 @@
   },
   {
    "code": "007466",
-   "name": "华泰柏瑞中证红利低波ETF联接A",
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
    "sector": "中证红利低波",
    "money": 247.31,
    "weight": 4.66,
@@ -434,16 +446,6 @@
    }
   },
   {
-   "name": "财通价值动量混合A",
-   "dominant": "维持观望",
-   "days": 2,
-   "total_days": 2,
-   "ratio": 100,
-   "detail": {
-    "维持观望": 2
-   }
-  },
-  {
    "name": "易方达中证A500ETF联接A",
    "dominant": "维持观望",
    "days": 2,
@@ -467,20 +469,22 @@
    "name": "华泰柏瑞中证红利低波动ETF联接A",
    "dominant": "持有偏乐观",
    "days": 1,
-   "total_days": 1,
-   "ratio": 100,
+   "total_days": 2,
+   "ratio": 50,
    "detail": {
-    "持有偏乐观": 1
+    "持有偏乐观": 1,
+    "可考虑加仓": 1
    }
   },
   {
-   "name": "华泰柏瑞中证红利低波ETF联接A",
-   "dominant": "持有偏乐观",
+   "name": "财通价值动量混合A",
+   "dominant": "维持观望",
    "days": 1,
-   "total_days": 1,
-   "ratio": 100,
+   "total_days": 2,
+   "ratio": 50,
    "detail": {
-    "持有偏乐观": 1
+    "维持观望": 1,
+    "可考虑加仓": 1
    }
   }
  ],
@@ -491,6 +495,13 @@
    "heat": 100.0,
    "sentiment": -15,
    "category": "时政"
+  },
+  {
+   "date": "2026-10-07",
+   "title": "对冲基金规模增至13万亿美元：市场踩踏可能从美债开始冲击全球",
+   "heat": 99.0,
+   "sentiment": -12,
+   "category": "财经"
   },
   {
    "date": "2026-10-06",
@@ -507,6 +518,13 @@
    "category": "时政"
   },
   {
+   "date": "2026-10-07",
+   "title": "前三季度水利投资7950亿：完成万亿目标要看新开工12项重大工程",
+   "heat": 94.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
    "date": "2026-10-06",
    "title": "房租翻倍，逼出一场提前大选！西班牙住房危机为何能撼动政府？",
    "heat": 96.0,
@@ -514,11 +532,25 @@
    "category": "时政"
   },
   {
+   "date": "2026-10-08",
+   "title": "三星三季度利润107万亿增长782%：AI把存储芯片变成利润中心",
+   "heat": 98.0,
+   "sentiment": 7,
+   "category": "科技"
+  },
+  {
    "date": "2026-10-06",
    "title": "法德推动欧盟启动贸易反制：欧洲内部压力正在抬高对华市场门槛",
    "heat": 91.0,
    "sentiment": -9,
    "category": "时政"
+  },
+  {
+   "date": "2026-10-07",
+   "title": "美国贸易逆差重回1056亿美元：AI设备进口冲淡了关税承诺",
+   "heat": 97.0,
+   "sentiment": 6,
+   "category": "财经"
   },
   {
    "date": "2026-10-05",
@@ -532,6 +564,20 @@
    "title": "商圈客流增3.4%、营业额增5.3%：国庆消费多出来的钱去了哪里？",
    "heat": 91.0,
    "sentiment": 7,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "美联储欲再加息、印度四年首次加息：高油价把亚洲拖回紧缩周期",
+   "heat": 97.0,
+   "sentiment": 5,
+   "category": "时政"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "恒生科技指数从30只扩到50只：多了20家公司，只分到一成权重",
+   "heat": 94.0,
+   "sentiment": 6,
    "category": "财经"
   },
   {
@@ -556,6 +602,20 @@
    "category": "科技"
   },
   {
+   "date": "2026-10-07",
+   "title": "来源：微信小程序「晓事儿」｜派拉蒙吞下华纳兄弟：好莱坞五大变四大，决定拍什么的人更少了",
+   "heat": 98.0,
+   "sentiment": -4,
+   "category": "娱乐"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "美国拟给OPT加收7万美元：留学生留美，可能先被学校拒绝推荐",
+   "heat": 95.0,
+   "sentiment": -5,
+   "category": "社会"
+  },
+  {
    "date": "2026-10-01",
    "title": "DeepSeek联手华为补国产AI软件短板：替代英伟达不能只靠芯片",
    "heat": 97.0,
@@ -568,40 +628,12 @@
    "heat": 97.0,
    "sentiment": 4,
    "category": "科技"
-  },
-  {
-   "date": "2026-10-01",
-   "title": "两项新规生效：后备兵员储备制度与儿童座椅电子标准分别管什么",
-   "heat": 99.0,
-   "sentiment": -3,
-   "category": "社会"
-  },
-  {
-   "date": "2026-10-04",
-   "title": "我国5G基站达到519.5万个：流量增长17.3%，电信收入却下降2.2%",
-   "heat": 90.0,
-   "sentiment": 6,
-   "category": "科技"
-  },
-  {
-   "date": "2026-10-04",
-   "title": "中国企业用1200万方疏浚土修复红树林：“废泥”种活了海上森林",
-   "heat": 94.0,
-   "sentiment": 4,
-   "category": "财经"
-  },
-  {
-   "date": "2026-10-04",
-   "title": "东航正式报案并暂停承运涉事旅客：乘务员受辱下跪终于转入法律维权",
-   "heat": 96.0,
-   "sentiment": -3,
-   "category": "社会"
   }
  ],
  "stats": {
-  "news_total": 89,
-  "xwlb_total": 77
+  "news_total": 128,
+  "xwlb_total": 97
  },
- "generated_at": "2026-10-07T04:21:41",
+ "generated_at": "2026-10-08T04:33:21",
  "type_label": "季报"
 }

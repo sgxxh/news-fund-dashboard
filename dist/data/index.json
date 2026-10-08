@@ -7,10 +7,10 @@
    "mood_level": "温和偏多",
    "news_total": 15,
    "xwlb_total": 0,
-   "total_money": 5312.26,
-   "total_earn": -114.68,
-   "today_income": -59.95,
-   "today_income_rate": -1.13,
+   "total_money": 5297.07,
+   "total_earn": -129.87,
+   "today_income": -66.86,
+   "today_income_rate": -1.26,
    "generated_at": "2026-10-08T04:33:21"
   },
   {
@@ -964,5 +964,5 @@
   }
  ],
  "latest": "2026-10-08",
- "updated_at": "2026-10-08T08:06:46"
+ "updated_at": "2026-10-08T11:40:39"
 }

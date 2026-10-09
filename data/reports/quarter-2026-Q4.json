@@ -1,0 +1,651 @@
+{
+ "key": "2026-Q4",
+ "label": "季报",
+ "type": "quarter",
+ "date_from": "2026-10-01",
+ "date_to": "2026-10-09",
+ "days": 8,
+ "dates": [
+  "2026-10-01",
+  "2026-10-02",
+  "2026-10-04",
+  "2026-10-05",
+  "2026-10-06",
+  "2026-10-07",
+  "2026-10-08",
+  "2026-10-09"
+ ],
+ "avg_mood": 3.0,
+ "mood_series": [
+  {
+   "date": "2026-10-01",
+   "mood": 14.6
+  },
+  {
+   "date": "2026-10-02",
+   "mood": 0
+  },
+  {
+   "date": "2026-10-04",
+   "mood": 6.3
+  },
+  {
+   "date": "2026-10-05",
+   "mood": 0.9
+  },
+  {
+   "date": "2026-10-06",
+   "mood": 2.2
+  },
+  {
+   "date": "2026-10-07",
+   "mood": -7.0
+  },
+  {
+   "date": "2026-10-08",
+   "mood": 7.3
+  },
+  {
+   "date": "2026-10-09",
+   "mood": 0
+  }
+ ],
+ "keywords": [
+  {
+   "word": "程序",
+   "count": 590,
+   "weight": 1.0
+  },
+  {
+   "word": "微信",
+   "count": 557,
+   "weight": 0.944
+  },
+  {
+   "word": "事儿",
+   "count": 554,
+   "weight": 0.939
+  },
+  {
+   "word": "服务",
+   "count": 296,
+   "weight": 0.502
+  },
+  {
+   "word": "整理",
+   "count": 282,
+   "weight": 0.478
+  },
+  {
+   "word": "信息",
+   "count": 257,
+   "weight": 0.436
+  },
+  {
+   "word": "成本",
+   "count": 213,
+   "weight": 0.361
+  },
+  {
+   "word": "核心",
+   "count": 170,
+   "weight": 0.288
+  },
+  {
+   "word": "平台",
+   "count": 158,
+   "weight": 0.268
+  },
+  {
+   "word": "风险",
+   "count": 155,
+   "weight": 0.263
+  },
+  {
+   "word": "价格",
+   "count": 153,
+   "weight": 0.259
+  },
+  {
+   "word": "能力",
+   "count": 151,
+   "weight": 0.256
+  },
+  {
+   "word": "产品",
+   "count": 144,
+   "weight": 0.244
+  },
+  {
+   "word": "版权",
+   "count": 143,
+   "weight": 0.242
+  },
+  {
+   "word": "商业用途",
+   "count": 137,
+   "weight": 0.232
+  },
+  {
+   "word": "正文",
+   "count": 137,
+   "weight": 0.232
+  },
+  {
+   "word": "家庭",
+   "count": 129,
+   "weight": 0.219
+  },
+  {
+   "word": "数字",
+   "count": 121,
+   "weight": 0.205
+  },
+  {
+   "word": "全球",
+   "count": 112,
+   "weight": 0.19
+  },
+  {
+   "word": "基金",
+   "count": 106,
+   "weight": 0.18
+  },
+  {
+   "word": "影响",
+   "count": 105,
+   "weight": 0.178
+  },
+  {
+   "word": "政府",
+   "count": 99,
+   "weight": 0.168
+  },
+  {
+   "word": "系统",
+   "count": 91,
+   "weight": 0.154
+  },
+  {
+   "word": "变化",
+   "count": 89,
+   "weight": 0.151
+  },
+  {
+   "word": "资金",
+   "count": 88,
+   "weight": 0.149
+  },
+  {
+   "word": "设备",
+   "count": 86,
+   "weight": 0.146
+  },
+  {
+   "word": "学校",
+   "count": 85,
+   "weight": 0.144
+  },
+  {
+   "word": "技术",
+   "count": 81,
+   "weight": 0.137
+  },
+  {
+   "word": "安全",
+   "count": 80,
+   "weight": 0.136
+  },
+  {
+   "word": "消费",
+   "count": 78,
+   "weight": 0.132
+  },
+  {
+   "word": "材料",
+   "count": 78,
+   "weight": 0.132
+  },
+  {
+   "word": "用户",
+   "count": 75,
+   "weight": 0.127
+  },
+  {
+   "word": "条件",
+   "count": 73,
+   "weight": 0.124
+  },
+  {
+   "word": "研究",
+   "count": 72,
+   "weight": 0.122
+  },
+  {
+   "word": "工程",
+   "count": 71,
+   "weight": 0.12
+  },
+  {
+   "word": "美国",
+   "count": 71,
+   "weight": 0.12
+  },
+  {
+   "word": "债券",
+   "count": 70,
+   "weight": 0.119
+  },
+  {
+   "word": "规模",
+   "count": 67,
+   "weight": 0.114
+  },
+  {
+   "word": "交易",
+   "count": 66,
+   "weight": 0.112
+  },
+  {
+   "word": "政策",
+   "count": 65,
+   "weight": 0.11
+  },
+  {
+   "word": "游客",
+   "count": 64,
+   "weight": 0.108
+  },
+  {
+   "word": "证明",
+   "count": 61,
+   "weight": 0.103
+  },
+  {
+   "word": "旅客",
+   "count": 60,
+   "weight": 0.102
+  },
+  {
+   "word": "机构",
+   "count": 59,
+   "weight": 0.1
+  },
+  {
+   "word": "规则",
+   "count": 59,
+   "weight": 0.1
+  },
+  {
+   "word": "海水",
+   "count": 56,
+   "weight": 0.095
+  },
+  {
+   "word": "评估",
+   "count": 50,
+   "weight": 0.085
+  },
+  {
+   "word": "景区",
+   "count": 50,
+   "weight": 0.085
+  },
+  {
+   "word": "国家",
+   "count": 49,
+   "weight": 0.083
+  },
+  {
+   "word": "医院",
+   "count": 48,
+   "weight": 0.081
+  }
+ ],
+ "sectors": [
+  {
+   "sector": "PCB",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "中证A500",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "中证红利低波",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "混债",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "港股创新药",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "纳斯达克100",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "固收+",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "纳指",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  }
+ ],
+ "nav_series": [
+  {
+   "date": "2026-10-02",
+   "total": 5312.26,
+   "earn": -114.68,
+   "today_income": 1.52
+  },
+  {
+   "date": "2026-10-09",
+   "total": 5229.1,
+   "earn": -197.83,
+   "today_income": -87.16
+  }
+ ],
+ "holding_change": [
+  {
+   "code": "021000",
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "sector": "纳指",
+   "money": 1946.15,
+   "weight": 37.22,
+   "earn_pct": 2.43,
+   "money_delta": 2.66,
+   "earn_pct_delta": 0.14
+  },
+  {
+   "code": "720001",
+   "name": "财通价值动量混合A",
+   "sector": "PCB",
+   "money": 1283.34,
+   "weight": 24.54,
+   "earn_pct": -11.72,
+   "money_delta": -51.82,
+   "earn_pct_delta": -3.56
+  },
+  {
+   "code": "022459",
+   "name": "易方达中证A500ETF联接A",
+   "sector": "中证A500",
+   "money": 1205.49,
+   "weight": 23.05,
+   "earn_pct": -6.05,
+   "money_delta": -17.59,
+   "earn_pct_delta": -1.37
+  },
+  {
+   "code": "019671",
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "sector": "港股创新药",
+   "money": 305.82,
+   "weight": 5.85,
+   "earn_pct": 1.94,
+   "money_delta": -17.85,
+   "earn_pct_delta": -5.95
+  },
+  {
+   "code": "007466",
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "sector": "中证红利低波",
+   "money": 249.98,
+   "weight": 4.78,
+   "earn_pct": 0.6,
+   "money_delta": 2.67,
+   "earn_pct_delta": 1.08
+  },
+  {
+   "code": "000143",
+   "name": "鹏华双债加利债券A",
+   "sector": "固收+",
+   "money": 238.32,
+   "weight": 4.56,
+   "earn_pct": -1.34,
+   "money_delta": -1.23,
+   "earn_pct_delta": -0.51
+  }
+ ],
+ "advice_consistency": [
+  {
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "dominant": "持有偏乐观",
+   "days": 2,
+   "total_days": 2,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 2
+   }
+  },
+  {
+   "name": "鹏华双债加利债券A",
+   "dominant": "持有偏乐观",
+   "days": 2,
+   "total_days": 2,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 2
+   }
+  },
+  {
+   "name": "财通价值动量混合A",
+   "dominant": "维持观望",
+   "days": 2,
+   "total_days": 2,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 2
+   }
+  },
+  {
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "dominant": "持有偏谨慎",
+   "days": 2,
+   "total_days": 2,
+   "ratio": 100,
+   "detail": {
+    "持有偏谨慎": 2
+   }
+  },
+  {
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "dominant": "可考虑加仓",
+   "days": 1,
+   "total_days": 2,
+   "ratio": 50,
+   "detail": {
+    "可考虑加仓": 1,
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "易方达中证A500ETF联接A",
+   "dominant": "维持观望",
+   "days": 1,
+   "total_days": 2,
+   "ratio": 50,
+   "detail": {
+    "维持观望": 1,
+    "持有偏谨慎": 1
+   }
+  }
+ ],
+ "top_events": [
+  {
+   "date": "2026-10-05",
+   "title": "全球粮食丰产同时粮价上涨：G20只对“粮食武器化”达成了共识",
+   "heat": 100.0,
+   "sentiment": -15,
+   "category": "时政"
+  },
+  {
+   "date": "2026-10-07",
+   "title": "对冲基金规模增至13万亿美元：市场踩踏可能从美债开始冲击全球",
+   "heat": 99.0,
+   "sentiment": -12,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-06",
+   "title": "中国9月大宗商品价格同比涨22.9%：稳增长要先过原材料涨价关",
+   "heat": 92.0,
+   "sentiment": 10,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-04",
+   "title": "中国代表28国在联合国共同发言，要求取消单边强制措施",
+   "heat": 97.0,
+   "sentiment": -8,
+   "category": "时政"
+  },
+  {
+   "date": "2026-10-07",
+   "title": "前三季度水利投资7950亿：完成万亿目标要看新开工12项重大工程",
+   "heat": 94.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-06",
+   "title": "房租翻倍，逼出一场提前大选！西班牙住房危机为何能撼动政府？",
+   "heat": 96.0,
+   "sentiment": -8,
+   "category": "时政"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "三星三季度利润107万亿增长782%：AI把存储芯片变成利润中心",
+   "heat": 98.0,
+   "sentiment": 7,
+   "category": "科技"
+  },
+  {
+   "date": "2026-10-06",
+   "title": "法德推动欧盟启动贸易反制：欧洲内部压力正在抬高对华市场门槛",
+   "heat": 91.0,
+   "sentiment": -9,
+   "category": "时政"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "最高法等发布十个欠款调解案例：中小企业回血不能只靠“打官司”",
+   "heat": 96.0,
+   "sentiment": -7,
+   "category": "时政"
+  },
+  {
+   "date": "2026-10-07",
+   "title": "美国贸易逆差重回1056亿美元：AI设备进口冲淡了关税承诺",
+   "heat": 97.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-05",
+   "title": "首套房贷最高可省5万：这不是“劳斯莱斯券”，但真能用的家庭也不多",
+   "heat": 100.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-05",
+   "title": "商圈客流增3.4%、营业额增5.3%：国庆消费多出来的钱去了哪里？",
+   "heat": 91.0,
+   "sentiment": 7,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "美联储欲再加息、印度四年首次加息：高油价把亚洲拖回紧缩周期",
+   "heat": 97.0,
+   "sentiment": 5,
+   "category": "时政"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "恒生科技指数从30只扩到50只：多了20家公司，只分到一成权重",
+   "heat": 94.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-01",
+   "title": "央行10月8日拟做1.2万亿买断式逆回购：到期1万亿后，净增多少",
+   "heat": 99.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-05",
+   "title": "鸿蒙智行9月交付下降29%：问界只是放大器，其他“四界”未能接力",
+   "heat": 96.0,
+   "sentiment": 5,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-06",
+   "title": "诺贝尔医学奖揭晓：研究绿藻追光帮人类找到了大脑的“因果开关”",
+   "heat": 98.0,
+   "sentiment": 4,
+   "category": "科技"
+  },
+  {
+   "date": "2026-10-07",
+   "title": "来源：微信小程序「晓事儿」｜派拉蒙吞下华纳兄弟：好莱坞五大变四大，决定拍什么的人更少了",
+   "heat": 98.0,
+   "sentiment": -4,
+   "category": "娱乐"
+  },
+  {
+   "date": "2026-10-01",
+   "title": "DeepSeek联手华为补国产AI软件短板：替代英伟达不能只靠芯片",
+   "heat": 97.0,
+   "sentiment": 4,
+   "category": "科技"
+  },
+  {
+   "date": "2026-10-01",
+   "title": "瑞士冰川一年消失5.5%：今天多出来的融水，会变成明天缺少的水",
+   "heat": 97.0,
+   "sentiment": 4,
+   "category": "科技"
+  }
+ ],
+ "stats": {
+  "news_total": 137,
+  "xwlb_total": 125
+ },
+ "generated_at": "2026-10-09T04:36:47",
+ "type_label": "季报"
+}

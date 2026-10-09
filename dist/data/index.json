@@ -1,17 +1,30 @@
 {
  "dates": [
   {
+   "date": "2026-10-09",
+   "title": "",
+   "mood": 0,
+   "mood_level": "中性",
+   "news_total": 0,
+   "xwlb_total": 0,
+   "total_money": 5229.1,
+   "total_earn": -197.83,
+   "today_income": -87.16,
+   "today_income_rate": -1.67,
+   "generated_at": "2026-10-09T04:36:47"
+  },
+  {
    "date": "2026-10-08",
    "title": "10月8日日知录-养老消费券惠及246万人：异地可申领，但不能直接提现",
-   "mood": 26.4,
-   "mood_level": "温和偏多",
-   "news_total": 15,
-   "xwlb_total": 0,
-   "total_money": 5297.07,
-   "total_earn": -129.87,
-   "today_income": -66.86,
-   "today_income_rate": -1.26,
-   "generated_at": "2026-10-08T04:33:21"
+   "mood": 7.3,
+   "mood_level": "中性",
+   "news_total": 24,
+   "xwlb_total": 28,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-09T04:36:26"
   },
   {
    "date": "2026-10-07",
@@ -963,6 +976,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-08",
- "updated_at": "2026-10-08T11:40:39"
+ "latest": "2026-10-09",
+ "updated_at": "2026-10-09T04:36:47"
 }

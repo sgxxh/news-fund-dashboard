@@ -8,12 +8,12 @@
   "reason": "",
   "summary": {
    "hold_cost": 5426.95,
-   "today_income": -27.93,
-   "today_income_rate": -0.53,
-   "total_money": 5229.1,
-   "total_earn": -197.83,
+   "today_income": -23.26,
+   "today_income_rate": -0.44,
+   "total_money": 5204.46,
+   "total_earn": -222.48,
    "count": 6,
-   "total_earn_pct": -3.65
+   "total_earn_pct": -4.1
   },
   "holdings": [
    {
@@ -21,44 +21,44 @@
     "fund_id": "23918",
     "code": "021000",
     "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 1946.15,
-    "earn": 46.11,
-    "earn_pct": 2.43,
+    "money": 1965.76,
+    "earn": 65.71,
+    "earn_pct": 3.46,
     "share": 830.73,
     "cost": 2.2872,
     "category": 3,
-    "nav": 2.3427,
-    "day_pct": 0.14,
-    "nav_date": "2026-09-30",
-    "est_pct": 1.05,
+    "nav": 2.3663,
+    "day_pct": 1.01,
+    "nav_date": "2026-10-09",
+    "est_pct": 1.01,
     "est_date": "2026-10-08",
     "year_pct": 14.34,
     "sector": "纳指",
     "sector_pct": 1.05,
     "market_type": "us",
-    "weight": 37.22
+    "weight": 37.77
    },
    {
     "account": "默认",
     "fund_id": "138",
     "code": "720001",
     "name": "财通价值动量混合A",
-    "money": 1283.34,
-    "earn": -170.4,
-    "earn_pct": -11.72,
+    "money": 1239.38,
+    "earn": -214.36,
+    "earn_pct": -14.75,
     "share": 98.13,
     "cost": 14.8145,
     "category": 1,
-    "nav": 13.078,
-    "day_pct": -3.88,
-    "nav_date": "2026-10-08",
-    "est_pct": -3.84,
+    "nav": 12.63,
+    "day_pct": -3.43,
+    "nav_date": "2026-10-09",
+    "est_pct": -3.43,
     "est_date": "2026-10-09",
     "year_pct": 58.98,
     "sector": "PCB",
     "sector_pct": -3.54,
     "market_type": "ch",
-    "weight": 24.54
+    "weight": 23.81
    },
    {
     "account": "默认",
@@ -80,29 +80,29 @@
     "sector": "中证A500",
     "sector_pct": 0.17,
     "market_type": "ch",
-    "weight": 23.05
+    "weight": 23.16
    },
    {
     "account": "默认",
     "fund_id": "22504",
     "code": "019671",
     "name": "广发港股创新药ETF联接(QDII)C",
-    "money": 305.82,
-    "earn": 5.82,
-    "earn_pct": 1.94,
+    "money": 305.53,
+    "earn": 5.53,
+    "earn_pct": 1.84,
     "share": 222.85,
     "cost": 1.34619699,
     "category": 6,
-    "nav": 1.3723,
-    "day_pct": -5.52,
-    "nav_date": "2026-10-08",
-    "est_pct": -0.15,
+    "nav": 1.371,
+    "day_pct": -0.09,
+    "nav_date": "2026-10-09",
+    "est_pct": -0.09,
     "est_date": "2026-10-09",
     "year_pct": 9.38,
     "sector": "港股创新药",
     "sector_pct": -0.15,
     "market_type": "hk",
-    "weight": 5.85
+    "weight": 5.87
    },
    {
     "account": "默认",
@@ -124,7 +124,7 @@
     "sector": "中证红利低波",
     "sector_pct": -0.25,
     "market_type": "ch",
-    "weight": 4.78
+    "weight": 4.8
    },
    {
     "account": "默认",
@@ -146,7 +146,7 @@
     "sector": "固收+",
     "sector_pct": -0.04,
     "market_type": "ch",
-    "weight": 4.56
+    "weight": 4.58
    }
   ],
   "index": []

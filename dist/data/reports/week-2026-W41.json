@@ -3,16 +3,17 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-10-05",
- "date_to": "2026-10-09",
- "days": 5,
+ "date_to": "2026-10-11",
+ "days": 6,
  "dates": [
   "2026-10-05",
   "2026-10-06",
   "2026-10-07",
   "2026-10-08",
-  "2026-10-09"
+  "2026-10-09",
+  "2026-10-11"
  ],
- "avg_mood": 0.7,
+ "avg_mood": 1.0,
  "mood_series": [
   {
    "date": "2026-10-05",
@@ -33,258 +34,262 @@
   {
    "date": "2026-10-09",
    "mood": 0
+  },
+  {
+   "date": "2026-10-11",
+   "mood": 2.5
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 392,
+   "count": 498,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 373,
-   "weight": 0.952
+   "count": 463,
+   "weight": 0.93
   },
   {
    "word": "事儿",
-   "count": 372,
-   "weight": 0.949
+   "count": 461,
+   "weight": 0.926
   },
   {
    "word": "服务",
-   "count": 214,
-   "weight": 0.546
+   "count": 261,
+   "weight": 0.524
   },
   {
    "word": "整理",
-   "count": 189,
-   "weight": 0.482
+   "count": 235,
+   "weight": 0.472
   },
   {
    "word": "信息",
-   "count": 169,
-   "weight": 0.431
+   "count": 228,
+   "weight": 0.458
   },
   {
    "word": "成本",
-   "count": 147,
-   "weight": 0.375
+   "count": 202,
+   "weight": 0.406
   },
   {
    "word": "平台",
-   "count": 139,
-   "weight": 0.355
-  },
-  {
-   "word": "风险",
-   "count": 138,
-   "weight": 0.352
-  },
-  {
-   "word": "价格",
-   "count": 134,
-   "weight": 0.342
+   "count": 199,
+   "weight": 0.4
   },
   {
    "word": "产品",
-   "count": 129,
-   "weight": 0.329
+   "count": 170,
+   "weight": 0.341
+  },
+  {
+   "word": "风险",
+   "count": 166,
+   "weight": 0.333
+  },
+  {
+   "word": "价格",
+   "count": 163,
+   "weight": 0.327
+  },
+  {
+   "word": "基金",
+   "count": 155,
+   "weight": 0.311
   },
   {
    "word": "核心",
+   "count": 137,
+   "weight": 0.275
+  },
+  {
+   "word": "家庭",
+   "count": 133,
+   "weight": 0.267
+  },
+  {
+   "word": "版权",
+   "count": 119,
+   "weight": 0.239
+  },
+  {
+   "word": "正文",
    "count": 115,
-   "weight": 0.293
+   "weight": 0.231
+  },
+  {
+   "word": "商业用途",
+   "count": 115,
+   "weight": 0.231
+  },
+  {
+   "word": "影响",
+   "count": 113,
+   "weight": 0.227
   },
   {
    "word": "全球",
    "count": 112,
-   "weight": 0.286
+   "weight": 0.225
+  },
+  {
+   "word": "学校",
+   "count": 112,
+   "weight": 0.225
   },
   {
    "word": "能力",
    "count": 110,
-   "weight": 0.281
+   "weight": 0.221
   },
   {
-   "word": "基金",
-   "count": 106,
-   "weight": 0.27
+   "word": "材料",
+   "count": 96,
+   "weight": 0.193
   },
   {
-   "word": "家庭",
-   "count": 104,
-   "weight": 0.265
+   "word": "变化",
+   "count": 93,
+   "weight": 0.187
   },
   {
-   "word": "版权",
-   "count": 97,
-   "weight": 0.247
-  },
-  {
-   "word": "正文",
-   "count": 92,
-   "weight": 0.235
-  },
-  {
-   "word": "商业用途",
-   "count": 92,
-   "weight": 0.235
-  },
-  {
-   "word": "学校",
-   "count": 85,
-   "weight": 0.217
+   "word": "规则",
+   "count": 86,
+   "weight": 0.173
   },
   {
    "word": "数字",
    "count": 85,
-   "weight": 0.217
-  },
-  {
-   "word": "影响",
-   "count": 81,
-   "weight": 0.207
-  },
-  {
-   "word": "技术",
-   "count": 81,
-   "weight": 0.207
-  },
-  {
-   "word": "政府",
-   "count": 80,
-   "weight": 0.204
-  },
-  {
-   "word": "材料",
-   "count": 78,
-   "weight": 0.199
-  },
-  {
-   "word": "变化",
-   "count": 71,
-   "weight": 0.181
-  },
-  {
-   "word": "规模",
-   "count": 67,
    "weight": 0.171
   },
   {
    "word": "设备",
-   "count": 63,
+   "count": 83,
+   "weight": 0.167
+  },
+  {
+   "word": "技术",
+   "count": 81,
+   "weight": 0.163
+  },
+  {
+   "word": "政府",
+   "count": 80,
    "weight": 0.161
   },
   {
-   "word": "规则",
+   "word": "用户",
+   "count": 76,
+   "weight": 0.153
+  },
+  {
+   "word": "订单",
+   "count": 72,
+   "weight": 0.145
+  },
+  {
+   "word": "安全",
+   "count": 70,
+   "weight": 0.141
+  },
+  {
+   "word": "医院",
+   "count": 68,
+   "weight": 0.137
+  },
+  {
+   "word": "规模",
+   "count": 67,
+   "weight": 0.135
+  },
+  {
+   "word": "证明",
+   "count": 64,
+   "weight": 0.129
+  },
+  {
+   "word": "投资",
    "count": 59,
-   "weight": 0.151
+   "weight": 0.118
+  },
+  {
+   "word": "机构",
+   "count": 58,
+   "weight": 0.116
+  },
+  {
+   "word": "系统",
+   "count": 57,
+   "weight": 0.114
+  },
+  {
+   "word": "欧洲",
+   "count": 56,
+   "weight": 0.112
+  },
+  {
+   "word": "出口",
+   "count": 54,
+   "weight": 0.108
   },
   {
    "word": "消费",
    "count": 53,
-   "weight": 0.135
+   "weight": 0.106
   },
   {
-   "word": "用户",
-   "count": 52,
-   "weight": 0.133
+   "word": "条件",
+   "count": 53,
+   "weight": 0.106
   },
   {
    "word": "交易",
    "count": 51,
-   "weight": 0.13
+   "weight": 0.102
   },
   {
-   "word": "安全",
+   "word": "管理",
+   "count": 51,
+   "weight": 0.102
+  },
+  {
+   "word": "压力",
    "count": 50,
-   "weight": 0.128
+   "weight": 0.1
   },
   {
    "word": "美国",
    "count": 50,
-   "weight": 0.128
-  },
-  {
-   "word": "医院",
-   "count": 48,
-   "weight": 0.122
-  },
-  {
-   "word": "订单",
-   "count": 47,
-   "weight": 0.12
+   "weight": 0.1
   },
   {
    "word": "ETF",
    "count": 46,
-   "weight": 0.117
+   "weight": 0.092
+  },
+  {
+   "word": "住房",
+   "count": 45,
+   "weight": 0.09
   },
   {
    "word": "资金",
    "count": 45,
-   "weight": 0.115
-  },
-  {
-   "word": "证明",
-   "count": 42,
-   "weight": 0.107
+   "weight": 0.09
   },
   {
    "word": "旅客",
    "count": 42,
-   "weight": 0.107
+   "weight": 0.084
   },
   {
-   "word": "学生",
+   "word": "人员",
    "count": 42,
-   "weight": 0.107
-  },
-  {
-   "word": "案件",
-   "count": 41,
-   "weight": 0.105
-  },
-  {
-   "word": "系统",
-   "count": 40,
-   "weight": 0.102
-  },
-  {
-   "word": "投资",
-   "count": 40,
-   "weight": 0.102
-  },
-  {
-   "word": "研究",
-   "count": 39,
-   "weight": 0.099
-  },
-  {
-   "word": "专利",
-   "count": 37,
-   "weight": 0.094
-  },
-  {
-   "word": "机构",
-   "count": 36,
-   "weight": 0.092
-  },
-  {
-   "word": "债券",
-   "count": 36,
-   "weight": 0.092
-  },
-  {
-   "word": "工程",
-   "count": 35,
-   "weight": 0.089
-  },
-  {
-   "word": "条件",
-   "count": 35,
-   "weight": 0.089
+   "weight": 0.084
   }
  ],
  "sectors": [
@@ -334,9 +339,9 @@
  "nav_series": [
   {
    "date": "2026-10-09",
-   "total": 5229.1,
-   "earn": -197.83,
-   "today_income": -87.16
+   "total": 5204.46,
+   "earn": -222.48,
+   "today_income": -23.26
   }
  ],
  "holding_change": [
@@ -344,9 +349,9 @@
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳指",
-   "money": 1946.15,
-   "weight": 37.22,
-   "earn_pct": 2.43,
+   "money": 1965.76,
+   "weight": 37.77,
+   "earn_pct": 3.46,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -354,9 +359,9 @@
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 1283.34,
-   "weight": 24.54,
-   "earn_pct": -11.72,
+   "money": 1239.38,
+   "weight": 23.81,
+   "earn_pct": -14.75,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -365,7 +370,7 @@
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
    "money": 1205.49,
-   "weight": 23.05,
+   "weight": 23.16,
    "earn_pct": -6.05,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
@@ -374,9 +379,9 @@
    "code": "019671",
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "港股创新药",
-   "money": 305.82,
-   "weight": 5.85,
-   "earn_pct": 1.94,
+   "money": 305.53,
+   "weight": 5.87,
+   "earn_pct": 1.84,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -385,7 +390,7 @@
    "name": "华泰柏瑞中证红利低波动ETF联接A",
    "sector": "中证红利低波",
    "money": 249.98,
-   "weight": 4.78,
+   "weight": 4.8,
    "earn_pct": 0.6,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
@@ -395,7 +400,7 @@
    "name": "鹏华双债加利债券A",
    "sector": "固收+",
    "money": 238.32,
-   "weight": 4.56,
+   "weight": 4.58,
    "earn_pct": -1.34,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
@@ -563,6 +568,13 @@
    "category": "财经"
   },
   {
+   "date": "2026-10-11",
+   "title": "美军在阿曼湾击伤商船、也门逼近曼德海峡：两条航道同燃战火",
+   "heat": 99.0,
+   "sentiment": -4,
+   "category": "时政"
+  },
+  {
    "date": "2026-10-06",
    "title": "诺贝尔医学奖揭晓：研究绿藻追光帮人类找到了大脑的“因果开关”",
    "heat": 98.0,
@@ -575,12 +587,33 @@
    "heat": 98.0,
    "sentiment": -4,
    "category": "娱乐"
+  },
+  {
+   "date": "2026-10-11",
+   "title": "两款新能源无人驾驶拖拉机在东北首次下田：作业成本降三分之二",
+   "heat": 90.0,
+   "sentiment": 6,
+   "category": "科技"
+  },
+  {
+   "date": "2026-10-11",
+   "title": "食品安全法拟增设学校和网络食品专节：两条责任链落到每一顿饭",
+   "heat": 98.0,
+   "sentiment": -3,
+   "category": "时政"
+  },
+  {
+   "date": "2026-10-11",
+   "title": "太仓口岸9个月出口108万辆汽车：公铁水联运把中国车送到168国家",
+   "heat": 95.0,
+   "sentiment": 4,
+   "category": "财经"
   }
  ],
  "stats": {
-  "news_total": 92,
-  "xwlb_total": 88
+  "news_total": 114,
+  "xwlb_total": 111
  },
- "generated_at": "2026-10-09T04:36:47",
+ "generated_at": "2026-10-12T04:22:41",
  "type_label": "周报"
 }

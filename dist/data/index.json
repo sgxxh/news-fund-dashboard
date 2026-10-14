@@ -1,7 +1,7 @@
 {
  "dates": [
   {
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
@@ -9,9 +9,22 @@
    "xwlb_total": 0,
    "total_money": 5144.03,
    "total_earn": -282.91,
-   "today_income": -6.14,
-   "today_income_rate": -0.12,
-   "generated_at": "2026-10-13T05:31:29"
+   "today_income": -16.47,
+   "today_income_rate": -0.32,
+   "generated_at": "2026-10-14T03:34:36"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "10月13日日知录-IMF上调全球经济增速到3.1%、中国降至4.5%：AI成关键",
+   "mood": 12.7,
+   "mood_level": "温和偏多",
+   "news_total": 22,
+   "xwlb_total": 17,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-14T03:33:58"
   },
   {
    "date": "2026-10-12",
@@ -1015,6 +1028,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-13",
- "updated_at": "2026-10-13T12:16:31"
+ "latest": "2026-10-14",
+ "updated_at": "2026-10-14T03:34:36"
 }

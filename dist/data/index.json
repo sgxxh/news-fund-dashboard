@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 5144.03,
-   "total_earn": -282.91,
-   "today_income": -55.02,
-   "today_income_rate": -1.07,
-   "generated_at": "2026-10-14T03:34:36"
+   "total_money": 5087.08,
+   "total_earn": -339.86,
+   "today_income": -104.39,
+   "today_income_rate": -2.05,
+   "generated_at": "2026-10-15T03:14:33"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "10月14日日知录-9月PPI上涨5.0%、CPI上涨0.9%：涨价尚未传到居民消费",
+   "mood": 8.4,
+   "mood_level": "中性",
+   "news_total": 21,
+   "xwlb_total": 27,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-15T03:13:59"
   },
   {
    "date": "2026-10-13",
@@ -1028,6 +1041,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-14",
- "updated_at": "2026-10-14T09:49:41"
+ "latest": "2026-10-15",
+ "updated_at": "2026-10-15T03:14:33"
 }

@@ -1,0 +1,586 @@
+{
+ "key": "2026-W42",
+ "label": "周报",
+ "type": "week",
+ "date_from": "2026-10-12",
+ "date_to": "2026-10-16",
+ "days": 5,
+ "dates": [
+  "2026-10-12",
+  "2026-10-13",
+  "2026-10-14",
+  "2026-10-15",
+  "2026-10-16"
+ ],
+ "avg_mood": 6.4,
+ "mood_series": [
+  {
+   "date": "2026-10-12",
+   "mood": 5.9
+  },
+  {
+   "date": "2026-10-13",
+   "mood": 12.7
+  },
+  {
+   "date": "2026-10-14",
+   "mood": 8.4
+  },
+  {
+   "date": "2026-10-15",
+   "mood": 5.0
+  },
+  {
+   "date": "2026-10-16",
+   "mood": 0
+  }
+ ],
+ "keywords": [
+  {
+   "word": "程序",
+   "count": 377,
+   "weight": 1.0
+  },
+  {
+   "word": "微信",
+   "count": 360,
+   "weight": 0.955
+  },
+  {
+   "word": "事儿",
+   "count": 352,
+   "weight": 0.934
+  },
+  {
+   "word": "银行",
+   "count": 243,
+   "weight": 0.645
+  },
+  {
+   "word": "服务",
+   "count": 236,
+   "weight": 0.626
+  },
+  {
+   "word": "产品",
+   "count": 198,
+   "weight": 0.525
+  },
+  {
+   "word": "整理",
+   "count": 185,
+   "weight": 0.491
+  },
+  {
+   "word": "信息",
+   "count": 180,
+   "weight": 0.477
+  },
+  {
+   "word": "成本",
+   "count": 151,
+   "weight": 0.401
+  },
+  {
+   "word": "风险",
+   "count": 150,
+   "weight": 0.398
+  },
+  {
+   "word": "资金",
+   "count": 139,
+   "weight": 0.369
+  },
+  {
+   "word": "机构",
+   "count": 128,
+   "weight": 0.34
+  },
+  {
+   "word": "价格",
+   "count": 124,
+   "weight": 0.329
+  },
+  {
+   "word": "核心",
+   "count": 117,
+   "weight": 0.31
+  },
+  {
+   "word": "平台",
+   "count": 114,
+   "weight": 0.302
+  },
+  {
+   "word": "影响",
+   "count": 105,
+   "weight": 0.279
+  },
+  {
+   "word": "变化",
+   "count": 104,
+   "weight": 0.276
+  },
+  {
+   "word": "客户",
+   "count": 102,
+   "weight": 0.271
+  },
+  {
+   "word": "政策",
+   "count": 88,
+   "weight": 0.233
+  },
+  {
+   "word": "版权",
+   "count": 87,
+   "weight": 0.231
+  },
+  {
+   "word": "商业用途",
+   "count": 87,
+   "weight": 0.231
+  },
+  {
+   "word": "正文",
+   "count": 87,
+   "weight": 0.231
+  },
+  {
+   "word": "设备",
+   "count": 86,
+   "weight": 0.228
+  },
+  {
+   "word": "系统",
+   "count": 82,
+   "weight": 0.218
+  },
+  {
+   "word": "能力",
+   "count": 76,
+   "weight": 0.202
+  },
+  {
+   "word": "投资",
+   "count": 74,
+   "weight": 0.196
+  },
+  {
+   "word": "证明",
+   "count": 71,
+   "weight": 0.188
+  },
+  {
+   "word": "用户",
+   "count": 71,
+   "weight": 0.188
+  },
+  {
+   "word": "管理",
+   "count": 70,
+   "weight": 0.186
+  },
+  {
+   "word": "实际",
+   "count": 68,
+   "weight": 0.18
+  },
+  {
+   "word": "出口",
+   "count": 65,
+   "weight": 0.172
+  },
+  {
+   "word": "国家",
+   "count": 65,
+   "weight": 0.172
+  },
+  {
+   "word": "消费",
+   "count": 64,
+   "weight": 0.17
+  },
+  {
+   "word": "资产",
+   "count": 60,
+   "weight": 0.159
+  },
+  {
+   "word": "交易",
+   "count": 57,
+   "weight": 0.151
+  },
+  {
+   "word": "消费者",
+   "count": 56,
+   "weight": 0.149
+  },
+  {
+   "word": "贷款",
+   "count": 56,
+   "weight": 0.149
+  },
+  {
+   "word": "条件",
+   "count": 54,
+   "weight": 0.143
+  },
+  {
+   "word": "证书",
+   "count": 52,
+   "weight": 0.138
+  },
+  {
+   "word": "家庭",
+   "count": 52,
+   "weight": 0.138
+  },
+  {
+   "word": "利率",
+   "count": 52,
+   "weight": 0.138
+  },
+  {
+   "word": "任务",
+   "count": 52,
+   "weight": 0.138
+  },
+  {
+   "word": "模型",
+   "count": 51,
+   "weight": 0.135
+  },
+  {
+   "word": "销售",
+   "count": 50,
+   "weight": 0.133
+  },
+  {
+   "word": "订单",
+   "count": 50,
+   "weight": 0.133
+  },
+  {
+   "word": "业务",
+   "count": 48,
+   "weight": 0.127
+  },
+  {
+   "word": "Visa",
+   "count": 48,
+   "weight": 0.127
+  },
+  {
+   "word": "利润",
+   "count": 47,
+   "weight": 0.125
+  },
+  {
+   "word": "同比",
+   "count": 47,
+   "weight": 0.125
+  },
+  {
+   "word": "材料",
+   "count": 45,
+   "weight": 0.119
+  }
+ ],
+ "sectors": [
+  {
+   "sector": "PCB",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "中证A500",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "中证红利低波",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "固收+",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "港股创新药",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "纳斯达克100",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  }
+ ],
+ "nav_series": [
+  {
+   "date": "2026-10-16",
+   "total": 4982.34,
+   "earn": -444.61,
+   "today_income": 20.13
+  }
+ ],
+ "holding_change": [
+  {
+   "code": "021000",
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "sector": "纳斯达克100",
+   "money": 1914.75,
+   "weight": 38.43,
+   "earn_pct": 0.77,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "022459",
+   "name": "易方达中证A500ETF联接A",
+   "sector": "中证A500",
+   "money": 1155.29,
+   "weight": 23.19,
+   "earn_pct": -9.96,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "720001",
+   "name": "财通价值动量混合A",
+   "sector": "PCB",
+   "money": 1141.06,
+   "weight": 22.9,
+   "earn_pct": -21.51,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "019671",
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "sector": "港股创新药",
+   "money": 286.76,
+   "weight": 5.76,
+   "earn_pct": -4.41,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "007466",
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "sector": "中证红利低波",
+   "money": 250.81,
+   "weight": 5.03,
+   "earn_pct": 0.93,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "000143",
+   "name": "鹏华双债加利债券A",
+   "sector": "固收+",
+   "money": 233.67,
+   "weight": 4.69,
+   "earn_pct": -3.26,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  }
+ ],
+ "advice_consistency": [
+  {
+   "name": "鹏华双债加利债券A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "财通价值动量混合A",
+   "dominant": "维持观望",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 1
+   }
+  },
+  {
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "dominant": "持有偏谨慎",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏谨慎": 1
+   }
+  },
+  {
+   "name": "易方达中证A500ETF联接A",
+   "dominant": "持有偏谨慎",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏谨慎": 1
+   }
+  }
+ ],
+ "top_events": [
+  {
+   "date": "2026-10-14",
+   "title": "前三季度集成电路出口增长99.1%：全球算力扩张拉动芯片和存储",
+   "heat": 97.0,
+   "sentiment": 10,
+   "category": "科技"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "来源：微信小程序「晓事儿」｜不再只说“稳健”了！银行理财量化回撤：明确告诉你“10万可能亏多少”",
+   "heat": 97.0,
+   "sentiment": -10,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "国资委部署医药创新和应急保障：对央企健康产业提三项能力要求",
+   "heat": 95.0,
+   "sentiment": 10,
+   "category": "时政"
+  },
+  {
+   "date": "2026-10-12",
+   "title": "今日纪事｜1.7%的国债也被哄抢到秒光，是整个社会对风险的报价",
+   "heat": 95.0,
+   "sentiment": 9,
+   "category": "纪事"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "9月PPI上涨5.0%、CPI上涨0.9%：上游涨价尚未普遍传到居民消费",
+   "heat": 99.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-12",
+   "title": "东百3.16亿收购亏损光芯片公司：764%增值押注未来3年1.5亿利润",
+   "heat": 94.0,
+   "sentiment": 7,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "IMF上调全球经济增速到3.1%、中国降至4.5%：成在AI风险也在AI",
+   "heat": 98.0,
+   "sentiment": 5,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "Visa获准筹备境内清算机构：万事开业难，更难的是重建受理网络",
+   "heat": 98.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "部分中小银行买债被限速：居民存款、贷款和理财将受什么影响？",
+   "heat": 95.0,
+   "sentiment": -5,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-12",
+   "title": "AI正在参与贷款审核和政务办事：但企业不能给自己发“安全证”",
+   "heat": 88.0,
+   "sentiment": -7,
+   "category": "时政"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "600万银行代销资管产品亏损获赔66万：银行没欺骗赔了也有责任",
+   "heat": 94.0,
+   "sentiment": -5,
+   "category": "时政"
+  },
+  {
+   "date": "2026-10-12",
+   "title": "宜信暴雷被立案侦查：“15年零违约”招牌失守，警方公布3种报案方式",
+   "heat": 99.0,
+   "sentiment": -3,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Visa筹备人民币银行卡清算机构：外籍来华支付的本地通道开始搭建",
+   "heat": 90.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "四季度地方债要赶1.5万亿进度：能否落到好项目？先解决三个错配",
+   "heat": 98.0,
+   "sentiment": 3,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "9月社融增速降至7.1%、央行续作7000亿：钱不缺，但是“生意不热”",
+   "heat": 98.0,
+   "sentiment": 3,
+   "category": "财经"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "中国生成式AI用户突破7亿：两年从18%升到50%，AI进入日常工作",
+   "heat": 96.0,
+   "sentiment": 3,
+   "category": "科技"
+  }
+ ],
+ "stats": {
+  "news_total": 87,
+  "xwlb_total": 97
+ },
+ "generated_at": "2026-10-16T03:10:12",
+ "type_label": "周报"
+}

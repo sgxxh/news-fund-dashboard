@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 5087.08,
-   "total_earn": -339.86,
-   "today_income": -108.93,
-   "today_income_rate": -2.14,
-   "generated_at": "2026-10-15T03:14:33"
+   "total_money": 4982.34,
+   "total_earn": -444.61,
+   "today_income": 20.13,
+   "today_income_rate": 0.4,
+   "generated_at": "2026-10-16T03:10:12"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "10月15日日知录-中国严审干部档案：县乡换届前先查清“三龄两历一身份”",
+   "mood": 5.0,
+   "mood_level": "中性",
+   "news_total": 23,
+   "xwlb_total": 29,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-16T03:09:58"
   },
   {
    "date": "2026-10-14",
@@ -1041,6 +1054,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-15",
- "updated_at": "2026-10-15T09:30:31"
+ "latest": "2026-10-16",
+ "updated_at": "2026-10-16T03:10:12"
 }

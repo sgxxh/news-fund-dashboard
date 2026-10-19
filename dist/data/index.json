@@ -1,6 +1,32 @@
 {
  "dates": [
   {
+   "date": "2026-10-19",
+   "title": "",
+   "mood": 0,
+   "mood_level": "中性",
+   "news_total": 0,
+   "xwlb_total": 0,
+   "total_money": 4967.92,
+   "total_earn": -458.27,
+   "today_income": -58.05,
+   "today_income_rate": -1.17,
+   "generated_at": "2026-10-19T03:17:52"
+  },
+  {
+   "date": "2026-10-18",
+   "title": "10月18日日知录-最高可达两亿的低空经济补贴踩刹车：请靠订单飞下去",
+   "mood": 3.1,
+   "mood_level": "中性",
+   "news_total": 22,
+   "xwlb_total": 30,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-19T03:17:37"
+  },
+  {
    "date": "2026-10-16",
    "title": "",
    "mood": 0,
@@ -1054,6 +1080,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-16",
- "updated_at": "2026-10-16T09:23:19"
+ "latest": "2026-10-19",
+ "updated_at": "2026-10-19T03:17:52"
 }

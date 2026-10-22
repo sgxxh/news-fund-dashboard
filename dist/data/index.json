@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 4930.29,
-   "total_earn": -495.9,
-   "today_income": -4.92,
-   "today_income_rate": -0.1,
-   "generated_at": "2026-10-21T03:21:13"
+   "total_money": 4930.91,
+   "total_earn": -495.27,
+   "today_income": -62.01,
+   "today_income_rate": -1.26,
+   "generated_at": "2026-10-22T03:19:51"
+  },
+  {
+   "date": "2026-10-21",
+   "title": "10月21日日知录-中国的数据底座！三大运营商、两大电网打造国家数据集团",
+   "mood": 15.8,
+   "mood_level": "温和偏多",
+   "news_total": 21,
+   "xwlb_total": 28,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-22T03:19:27"
   },
   {
    "date": "2026-10-20",
@@ -1106,6 +1119,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-21",
- "updated_at": "2026-10-21T09:43:57"
+ "latest": "2026-10-22",
+ "updated_at": "2026-10-22T03:19:52"
 }

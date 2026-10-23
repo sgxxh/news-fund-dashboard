@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-10-22",
+   "date": "2026-10-23",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 4930.91,
-   "total_earn": -495.27,
-   "today_income": -84.73,
-   "today_income_rate": -1.72,
-   "generated_at": "2026-10-22T03:19:51"
+   "total_money": 4850.93,
+   "total_earn": -575.25,
+   "today_income": -124.42,
+   "today_income_rate": -2.56,
+   "generated_at": "2026-10-23T03:25:27"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "10月22日日知录-地方政府密集尝试提前还债，已有四省先行",
+   "mood": 0.5,
+   "mood_level": "中性",
+   "news_total": 22,
+   "xwlb_total": 20,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-23T03:24:45"
   },
   {
    "date": "2026-10-21",
@@ -1119,6 +1132,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-22",
- "updated_at": "2026-10-22T09:44:06"
+ "latest": "2026-10-23",
+ "updated_at": "2026-10-23T03:25:28"
 }

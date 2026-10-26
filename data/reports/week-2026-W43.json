@@ -3,16 +3,17 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-10-19",
- "date_to": "2026-10-23",
- "days": 5,
+ "date_to": "2026-10-25",
+ "days": 6,
  "dates": [
   "2026-10-19",
   "2026-10-20",
   "2026-10-21",
   "2026-10-22",
-  "2026-10-23"
+  "2026-10-23",
+  "2026-10-25"
  ],
- "avg_mood": 7.4,
+ "avg_mood": 5.8,
  "mood_series": [
   {
    "date": "2026-10-19",
@@ -33,258 +34,262 @@
   {
    "date": "2026-10-23",
    "mood": 0
+  },
+  {
+   "date": "2026-10-25",
+   "mood": -2.4
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 383,
+   "count": 468,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 354,
-   "weight": 0.924
+   "count": 435,
+   "weight": 0.929
   },
   {
    "word": "事儿",
-   "count": 352,
-   "weight": 0.919
+   "count": 433,
+   "weight": 0.925
   },
   {
    "word": "信息",
-   "count": 239,
-   "weight": 0.624
+   "count": 276,
+   "weight": 0.59
   },
   {
    "word": "平台",
-   "count": 209,
-   "weight": 0.546
+   "count": 226,
+   "weight": 0.483
+  },
+  {
+   "word": "整理",
+   "count": 216,
+   "weight": 0.462
   },
   {
    "word": "产品",
    "count": 192,
-   "weight": 0.501
-  },
-  {
-   "word": "整理",
-   "count": 175,
-   "weight": 0.457
+   "weight": 0.41
   },
   {
    "word": "服务",
-   "count": 155,
-   "weight": 0.405
+   "count": 175,
+   "weight": 0.374
   },
   {
    "word": "机构",
-   "count": 129,
-   "weight": 0.337
-  },
-  {
-   "word": "规则",
-   "count": 104,
-   "weight": 0.272
-  },
-  {
-   "word": "核心",
-   "count": 100,
-   "weight": 0.261
+   "count": 151,
+   "weight": 0.323
   },
   {
    "word": "成本",
-   "count": 100,
-   "weight": 0.261
+   "count": 129,
+   "weight": 0.276
+  },
+  {
+   "word": "规则",
+   "count": 125,
+   "weight": 0.267
+  },
+  {
+   "word": "核心",
+   "count": 123,
+   "weight": 0.263
   },
   {
    "word": "国家",
-   "count": 97,
-   "weight": 0.253
+   "count": 123,
+   "weight": 0.263
   },
   {
    "word": "资金",
-   "count": 93,
-   "weight": 0.243
+   "count": 115,
+   "weight": 0.246
   },
   {
    "word": "影响",
-   "count": 90,
-   "weight": 0.235
+   "count": 113,
+   "weight": 0.241
   },
   {
    "word": "版权",
-   "count": 89,
-   "weight": 0.232
+   "count": 110,
+   "weight": 0.235
   },
   {
    "word": "价格",
-   "count": 88,
-   "weight": 0.23
+   "count": 107,
+   "weight": 0.229
   },
   {
    "word": "商业用途",
-   "count": 87,
-   "weight": 0.227
+   "count": 107,
+   "weight": 0.229
   },
   {
    "word": "正文",
-   "count": 87,
-   "weight": 0.227
+   "count": 107,
+   "weight": 0.229
+  },
+  {
+   "word": "技术",
+   "count": 106,
+   "weight": 0.226
+  },
+  {
+   "word": "系统",
+   "count": 103,
+   "weight": 0.22
+  },
+  {
+   "word": "条件",
+   "count": 99,
+   "weight": 0.212
+  },
+  {
+   "word": "实际",
+   "count": 98,
+   "weight": 0.209
+  },
+  {
+   "word": "交易",
+   "count": 95,
+   "weight": 0.203
+  },
+  {
+   "word": "变化",
+   "count": 90,
+   "weight": 0.192
   },
   {
    "word": "基金",
    "count": 87,
-   "weight": 0.227
+   "weight": 0.186
   },
   {
    "word": "管理",
    "count": 85,
-   "weight": 0.222
+   "weight": 0.182
   },
   {
    "word": "能力",
    "count": 83,
-   "weight": 0.217
+   "weight": 0.177
   },
   {
-   "word": "技术",
-   "count": 81,
-   "weight": 0.211
-  },
-  {
-   "word": "系统",
-   "count": 79,
-   "weight": 0.206
+   "word": "风险",
+   "count": 83,
+   "weight": 0.177
   },
   {
    "word": "设备",
    "count": 78,
-   "weight": 0.204
+   "weight": 0.167
+  },
+  {
+   "word": "研究",
+   "count": 77,
+   "weight": 0.165
   },
   {
    "word": "记录",
    "count": 75,
-   "weight": 0.196
+   "weight": 0.16
   },
   {
-   "word": "交易",
-   "count": 71,
-   "weight": 0.185
-  },
-  {
-   "word": "条件",
+   "word": "投资",
    "count": 70,
-   "weight": 0.183
+   "weight": 0.15
   },
   {
-   "word": "实际",
-   "count": 70,
-   "weight": 0.183
-  },
-  {
-   "word": "变化",
-   "count": 67,
-   "weight": 0.175
+   "word": "车辆",
+   "count": 68,
+   "weight": 0.145
   },
   {
    "word": "人民币",
    "count": 65,
-   "weight": 0.17
-  },
-  {
-   "word": "风险",
-   "count": 64,
-   "weight": 0.167
+   "weight": 0.139
   },
   {
    "word": "科技",
    "count": 64,
-   "weight": 0.167
+   "weight": 0.137
   },
   {
    "word": "范围",
    "count": 61,
-   "weight": 0.159
+   "weight": 0.13
   },
   {
    "word": "政府",
    "count": 60,
-   "weight": 0.157
+   "weight": 0.128
   },
   {
    "word": "消费",
    "count": 59,
-   "weight": 0.154
+   "weight": 0.126
+  },
+  {
+   "word": "人口",
+   "count": 57,
+   "weight": 0.122
   },
   {
    "word": "政策",
    "count": 55,
-   "weight": 0.144
+   "weight": 0.118
   },
   {
    "word": "医保",
    "count": 54,
-   "weight": 0.141
+   "weight": 0.115
+  },
+  {
+   "word": "模型",
+   "count": 54,
+   "weight": 0.115
   },
   {
    "word": "居民",
    "count": 52,
-   "weight": 0.136
+   "weight": 0.111
+  },
+  {
+   "word": "客户",
+   "count": 51,
+   "weight": 0.109
   },
   {
    "word": "同比",
    "count": 50,
-   "weight": 0.131
-  },
-  {
-   "word": "研究",
-   "count": 50,
-   "weight": 0.131
+   "weight": 0.107
   },
   {
    "word": "用户",
    "count": 50,
-   "weight": 0.131
+   "weight": 0.107
   },
   {
    "word": "消费者",
    "count": 48,
-   "weight": 0.125
+   "weight": 0.103
+  },
+  {
+   "word": "销售",
+   "count": 47,
+   "weight": 0.1
   },
   {
    "word": "家庭",
    "count": 47,
-   "weight": 0.123
-  },
-  {
-   "word": "规定",
-   "count": 46,
-   "weight": 0.12
-  },
-  {
-   "word": "学校",
-   "count": 44,
-   "weight": 0.115
-  },
-  {
-   "word": "标准",
-   "count": 44,
-   "weight": 0.115
-  },
-  {
-   "word": "投资",
-   "count": 43,
-   "weight": 0.112
-  },
-  {
-   "word": "账号",
-   "count": 42,
-   "weight": 0.11
-  },
-  {
-   "word": "文件",
-   "count": 41,
-   "weight": 0.107
+   "weight": 0.1
   }
  ],
  "sectors": [
@@ -336,7 +341,7 @@
    "date": "2026-10-23",
    "total": 4850.93,
    "earn": -575.25,
-   "today_income": -124.42
+   "today_income": -22.76
   }
  ],
  "holding_change": [
@@ -479,6 +484,13 @@
    "category": "财经"
   },
   {
+   "date": "2026-10-25",
+   "title": "胡塞袭击从油田打到了机场：沙特的石油后路和商业门户一起承压",
+   "heat": 98.0,
+   "sentiment": -8,
+   "category": "时政"
+  },
+  {
    "date": "2026-10-22",
    "title": "八部门部署产业基础五年任务：关键零部件、材料和软件要过应用关",
    "heat": 96.0,
@@ -563,6 +575,13 @@
    "category": "社会"
   },
   {
+   "date": "2026-10-25",
+   "title": "苏州现房项目定金原则上不超3%：认购也要网签备案、钱进监管账户",
+   "heat": 92.0,
+   "sentiment": -5,
+   "category": "时政"
+  },
+  {
    "date": "2026-10-22",
    "title": "自然灾害损失只有约一成由保险承担：其余风险仍压在家庭和财政上",
    "heat": 94.0,
@@ -570,17 +589,31 @@
    "category": "财经"
   },
   {
+   "date": "2026-10-25",
+   "title": "强制国标征求意见稿拟限定“小蓝灯”：L2车辆禁用，L3及以上可选装",
+   "heat": 88.0,
+   "sentiment": -6,
+   "category": "时政"
+  },
+  {
    "date": "2026-10-22",
    "title": "公司欠薪、345万进入执行：舆论应追资金去向，不应审判13岁女儿",
    "heat": 94.0,
    "sentiment": -3,
    "category": "社会"
+  },
+  {
+   "date": "2026-10-25",
+   "title": "话题| 只发过普通生活照，为什么也会成为色情黄谣的主角和受害者",
+   "heat": 96.0,
+   "sentiment": -2,
+   "category": "话题"
   }
  ],
  "stats": {
-  "news_total": 87,
-  "xwlb_total": 96
+  "news_total": 107,
+  "xwlb_total": 117
  },
- "generated_at": "2026-10-23T03:25:27",
+ "generated_at": "2026-10-26T03:15:23",
  "type_label": "周报"
 }

@@ -1,6 +1,32 @@
 {
  "dates": [
   {
+   "date": "2026-10-26",
+   "title": "",
+   "mood": 0,
+   "mood_level": "中性",
+   "news_total": 0,
+   "xwlb_total": 0,
+   "total_money": 4828.95,
+   "total_earn": -597.23,
+   "today_income": -80.11,
+   "today_income_rate": -1.66,
+   "generated_at": "2026-10-26T03:15:23"
+  },
+  {
+   "date": "2026-10-25",
+   "title": "10月25日日知录-302.5万人参与国考！85比1背后有5种不同人数口径",
+   "mood": -2.4,
+   "mood_level": "中性",
+   "news_total": 20,
+   "xwlb_total": 21,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-26T03:15:07"
+  },
+  {
    "date": "2026-10-23",
    "title": "",
    "mood": 0,
@@ -1132,6 +1158,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-23",
- "updated_at": "2026-10-23T09:39:52"
+ "latest": "2026-10-26",
+ "updated_at": "2026-10-26T03:15:23"
 }

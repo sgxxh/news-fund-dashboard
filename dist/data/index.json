@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-10-27",
-   "title": "",
-   "mood": 0,
+   "date": "2026-10-28",
+   "title": "10月28日日知录-多省把就业容量写进“十五五”：重大项目与岗位挂钩",
+   "mood": 10.5,
    "mood_level": "中性",
-   "news_total": 0,
+   "news_total": 22,
    "xwlb_total": 0,
-   "total_money": 4763.42,
-   "total_earn": -662.75,
-   "today_income": -38.52,
-   "today_income_rate": -0.81,
-   "generated_at": "2026-10-27T03:44:54"
+   "total_money": 4727.74,
+   "total_earn": -698.45,
+   "today_income": 77.83,
+   "today_income_rate": 1.65,
+   "generated_at": "2026-10-28T04:01:08"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "10月27日日知录-中纪委：前三季度处分68万人，省部级及以上干部73人",
+   "mood": 6.3,
+   "mood_level": "中性",
+   "news_total": 25,
+   "xwlb_total": 24,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-28T04:00:43"
   },
   {
    "date": "2026-10-26",
@@ -1171,6 +1184,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-27",
- "updated_at": "2026-10-27T10:07:14"
+ "latest": "2026-10-28",
+ "updated_at": "2026-10-28T04:01:09"
 }

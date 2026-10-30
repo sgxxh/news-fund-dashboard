@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
    "news_total": 0,
    "xwlb_total": 0,
-   "total_money": 4811.54,
-   "total_earn": -614.66,
-   "today_income": -77.1,
-   "today_income_rate": -1.6,
-   "generated_at": "2026-10-29T04:25:10"
+   "total_money": 4731.77,
+   "total_earn": -694.42,
+   "today_income": -46.55,
+   "today_income_rate": -0.98,
+   "generated_at": "2026-10-30T04:25:04"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "10月29日日知录-中国多路海军在西太“来去自如”，对罗斯福号形成“包夹”",
+   "mood": 12.8,
+   "mood_level": "温和偏多",
+   "news_total": 24,
+   "xwlb_total": 17,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-10-30T04:24:36"
   },
   {
    "date": "2026-10-28",
@@ -1197,6 +1210,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-10-29",
- "updated_at": "2026-10-29T11:10:57"
+ "latest": "2026-10-30",
+ "updated_at": "2026-10-30T04:25:04"
 }

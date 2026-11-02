@@ -479,7 +479,7 @@
    "date": "2026-10-30",
    "total": 4731.77,
    "earn": -694.42,
-   "today_income": -46.55
+   "today_income": -104.78
   }
  ],
  "holding_change": [
@@ -756,6 +756,6 @@
   "news_total": 471,
   "xwlb_total": 481
  },
- "generated_at": "2026-10-30T04:25:04",
+ "generated_at": "2026-11-02T04:28:59",
  "type_label": "月报"
 }

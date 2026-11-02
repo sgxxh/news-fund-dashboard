@@ -1,0 +1,482 @@
+{
+ "key": "2026-W45",
+ "label": "周报",
+ "type": "week",
+ "date_from": "2026-11-02",
+ "date_to": "2026-11-02",
+ "days": 1,
+ "dates": [
+  "2026-11-02"
+ ],
+ "avg_mood": 14.9,
+ "mood_series": [
+  {
+   "date": "2026-11-02",
+   "mood": 14.9
+  }
+ ],
+ "keywords": [
+  {
+   "word": "程序",
+   "count": 79,
+   "weight": 1.0
+  },
+  {
+   "word": "微信",
+   "count": 70,
+   "weight": 0.886
+  },
+  {
+   "word": "事儿",
+   "count": 69,
+   "weight": 0.873
+  },
+  {
+   "word": "风险",
+   "count": 35,
+   "weight": 0.443
+  },
+  {
+   "word": "整理",
+   "count": 34,
+   "weight": 0.43
+  },
+  {
+   "word": "利润",
+   "count": 31,
+   "weight": 0.392
+  },
+  {
+   "word": "信息",
+   "count": 30,
+   "weight": 0.38
+  },
+  {
+   "word": "服务",
+   "count": 29,
+   "weight": 0.367
+  },
+  {
+   "word": "文物",
+   "count": 29,
+   "weight": 0.367
+  },
+  {
+   "word": "公告",
+   "count": 26,
+   "weight": 0.329
+  },
+  {
+   "word": "机构",
+   "count": 25,
+   "weight": 0.316
+  },
+  {
+   "word": "系统",
+   "count": 25,
+   "weight": 0.316
+  },
+  {
+   "word": "检测",
+   "count": 24,
+   "weight": 0.304
+  },
+  {
+   "word": "影响",
+   "count": 23,
+   "weight": 0.291
+  },
+  {
+   "word": "工具",
+   "count": 22,
+   "weight": 0.278
+  },
+  {
+   "word": "核心",
+   "count": 21,
+   "weight": 0.266
+  },
+  {
+   "word": "标准",
+   "count": 21,
+   "weight": 0.266
+  },
+  {
+   "word": "流动性",
+   "count": 21,
+   "weight": 0.266
+  },
+  {
+   "word": "价格",
+   "count": 21,
+   "weight": 0.266
+  },
+  {
+   "word": "位点",
+   "count": 19,
+   "weight": 0.241
+  },
+  {
+   "word": "国家",
+   "count": 19,
+   "weight": 0.241
+  },
+  {
+   "word": "人员",
+   "count": 18,
+   "weight": 0.228
+  },
+  {
+   "word": "资产",
+   "count": 18,
+   "weight": 0.228
+  },
+  {
+   "word": "任务",
+   "count": 18,
+   "weight": 0.228
+  },
+  {
+   "word": "会议",
+   "count": 18,
+   "weight": 0.228
+  },
+  {
+   "word": "符号",
+   "count": 18,
+   "weight": 0.228
+  },
+  {
+   "word": "版权",
+   "count": 17,
+   "weight": 0.215
+  },
+  {
+   "word": "商业用途",
+   "count": 17,
+   "weight": 0.215
+  },
+  {
+   "word": "正文",
+   "count": 17,
+   "weight": 0.215
+  },
+  {
+   "word": "实际",
+   "count": 17,
+   "weight": 0.215
+  },
+  {
+   "word": "变化",
+   "count": 17,
+   "weight": 0.215
+  },
+  {
+   "word": "现金流",
+   "count": 17,
+   "weight": 0.215
+  },
+  {
+   "word": "安全",
+   "count": 17,
+   "weight": 0.215
+  },
+  {
+   "word": "成本",
+   "count": 17,
+   "weight": 0.215
+  },
+  {
+   "word": "产品",
+   "count": 16,
+   "weight": 0.203
+  },
+  {
+   "word": "消费",
+   "count": 16,
+   "weight": 0.203
+  },
+  {
+   "word": "资金",
+   "count": 16,
+   "weight": 0.203
+  },
+  {
+   "word": "融资",
+   "count": 16,
+   "weight": 0.203
+  },
+  {
+   "word": "https",
+   "count": 16,
+   "weight": 0.203
+  },
+  {
+   "word": "净利润",
+   "count": 16,
+   "weight": 0.203
+  },
+  {
+   "word": "上海",
+   "count": 16,
+   "weight": 0.203
+  },
+  {
+   "word": "模式",
+   "count": 16,
+   "weight": 0.203
+  },
+  {
+   "word": "资料",
+   "count": 15,
+   "weight": 0.19
+  },
+  {
+   "word": "口径",
+   "count": 15,
+   "weight": 0.19
+  },
+  {
+   "word": "股东",
+   "count": 15,
+   "weight": 0.19
+  },
+  {
+   "word": "卫星",
+   "count": 15,
+   "weight": 0.19
+  },
+  {
+   "word": "社会",
+   "count": 15,
+   "weight": 0.19
+  },
+  {
+   "word": "环境",
+   "count": 14,
+   "weight": 0.177
+  },
+  {
+   "word": "管理",
+   "count": 14,
+   "weight": 0.177
+  },
+  {
+   "word": "能力",
+   "count": 14,
+   "weight": 0.177
+  }
+ ],
+ "sectors": [
+  {
+   "sector": "PCB",
+   "avg_score": 25.0,
+   "max_score": 25.0,
+   "min_score": 25.0,
+   "news_count": 7
+  },
+  {
+   "sector": "中证A500",
+   "avg_score": 11.3,
+   "max_score": 11.3,
+   "min_score": 11.3,
+   "news_count": 9
+  },
+  {
+   "sector": "纳斯达克100",
+   "avg_score": 0.9,
+   "max_score": 0.9,
+   "min_score": 0.9,
+   "news_count": 7
+  },
+  {
+   "sector": "固收+",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "港股创新药",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "中证红利低波",
+   "avg_score": -4.8,
+   "max_score": -4.8,
+   "min_score": -4.8,
+   "news_count": 7
+  }
+ ],
+ "nav_series": [
+  {
+   "date": "2026-11-02",
+   "total": 4623.84,
+   "earn": -802.33,
+   "today_income": -36.2
+  }
+ ],
+ "holding_change": [
+  {
+   "code": "021000",
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "sector": "纳斯达克100",
+   "money": 1878.03,
+   "weight": 40.62,
+   "earn_pct": -1.16,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "022459",
+   "name": "易方达中证A500ETF联接A",
+   "sector": "中证A500",
+   "money": 1100.48,
+   "weight": 23.8,
+   "earn_pct": -14.23,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "720001",
+   "name": "财通价值动量混合A",
+   "sector": "PCB",
+   "money": 890.04,
+   "weight": 19.25,
+   "earn_pct": -38.78,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "019671",
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "sector": "港股创新药",
+   "money": 272.84,
+   "weight": 5.9,
+   "earn_pct": -9.05,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "007466",
+   "name": "华泰柏瑞中证红利低波ETF联接A",
+   "sector": "中证红利低波",
+   "money": 256.03,
+   "weight": 5.54,
+   "earn_pct": 3.35,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "000143",
+   "name": "鹏华双债加利债券A",
+   "sector": "固收+",
+   "money": 226.42,
+   "weight": 4.9,
+   "earn_pct": -6.26,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  }
+ ],
+ "advice_consistency": [
+  {
+   "name": "华泰柏瑞中证红利低波ETF联接A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "财通价值动量混合A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "鹏华双债加利债券A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "dominant": "维持观望",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 1
+   }
+  },
+  {
+   "name": "易方达中证A500ETF联接A",
+   "dominant": "持有偏谨慎",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏谨慎": 1
+   }
+  },
+  {
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "dominant": "持有偏谨慎",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏谨慎": 1
+   }
+  }
+ ],
+ "top_events": [
+  {
+   "date": "2026-11-02",
+   "title": "沪市前三季净利润4.01万亿元：长鑫科技放大科创板增速",
+   "heat": 86.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "央行为债市赎回潮设互换便利：救急资金进场，理财净值照样波动",
+   "heat": 90.0,
+   "sentiment": -6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "A股分红回购达融资额2.7倍：股东回报增加，要分清分红与借钱回购",
+   "heat": 90.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "傅成玉退休11年后被查：官方尚未披露具体问题",
+   "heat": 90.0,
+   "sentiment": -4,
+   "category": "时政"
+  }
+ ],
+ "stats": {
+  "news_total": 17,
+  "xwlb_total": 0
+ },
+ "generated_at": "2026-11-02T04:28:59",
+ "type_label": "周报"
+}

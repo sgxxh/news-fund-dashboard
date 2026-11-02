@@ -3,16 +3,17 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-10-26",
- "date_to": "2026-10-30",
- "days": 5,
+ "date_to": "2026-11-01",
+ "days": 6,
  "dates": [
   "2026-10-26",
   "2026-10-27",
   "2026-10-28",
   "2026-10-29",
-  "2026-10-30"
+  "2026-10-30",
+  "2026-11-01"
  ],
- "avg_mood": 6.2,
+ "avg_mood": 6.1,
  "mood_series": [
   {
    "date": "2026-10-26",
@@ -33,258 +34,262 @@
   {
    "date": "2026-10-30",
    "mood": 0
+  },
+  {
+   "date": "2026-11-01",
+   "mood": 5.8
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 408,
+   "count": 516,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 391,
-   "weight": 0.958
+   "count": 488,
+   "weight": 0.946
   },
   {
    "word": "事儿",
-   "count": 388,
-   "weight": 0.951
+   "count": 485,
+   "weight": 0.94
   },
   {
    "word": "信息",
-   "count": 212,
-   "weight": 0.52
+   "count": 264,
+   "weight": 0.512
   },
   {
    "word": "整理",
-   "count": 196,
-   "weight": 0.48
+   "count": 245,
+   "weight": 0.475
+  },
+  {
+   "word": "服务",
+   "count": 245,
+   "weight": 0.475
   },
   {
    "word": "银行",
    "count": 177,
-   "weight": 0.434
-  },
-  {
-   "word": "服务",
-   "count": 162,
-   "weight": 0.397
-  },
-  {
-   "word": "平台",
-   "count": 148,
-   "weight": 0.363
+   "weight": 0.343
   },
   {
    "word": "机构",
-   "count": 122,
-   "weight": 0.299
+   "count": 175,
+   "weight": 0.339
+  },
+  {
+   "word": "平台",
+   "count": 174,
+   "weight": 0.337
   },
   {
    "word": "风险",
-   "count": 122,
-   "weight": 0.299
+   "count": 152,
+   "weight": 0.295
+  },
+  {
+   "word": "人员",
+   "count": 150,
+   "weight": 0.291
+  },
+  {
+   "word": "影响",
+   "count": 146,
+   "weight": 0.283
+  },
+  {
+   "word": "成本",
+   "count": 145,
+   "weight": 0.281
+  },
+  {
+   "word": "核心",
+   "count": 142,
+   "weight": 0.275
+  },
+  {
+   "word": "产品",
+   "count": 133,
+   "weight": 0.258
+  },
+  {
+   "word": "变化",
+   "count": 126,
+   "weight": 0.244
+  },
+  {
+   "word": "版权",
+   "count": 121,
+   "weight": 0.234
+  },
+  {
+   "word": "商业用途",
+   "count": 121,
+   "weight": 0.234
+  },
+  {
+   "word": "正文",
+   "count": 121,
+   "weight": 0.234
   },
   {
    "word": "价格",
    "count": 119,
-   "weight": 0.292
-  },
-  {
-   "word": "影响",
-   "count": 118,
-   "weight": 0.289
+   "weight": 0.231
   },
   {
    "word": "数字",
    "count": 118,
-   "weight": 0.289
+   "weight": 0.229
   },
   {
-   "word": "成本",
-   "count": 116,
-   "weight": 0.284
+   "word": "能力",
+   "count": 118,
+   "weight": 0.229
   },
   {
-   "word": "核心",
-   "count": 116,
-   "weight": 0.284
+   "word": "管理",
+   "count": 109,
+   "weight": 0.211
   },
   {
    "word": "单位",
    "count": 107,
-   "weight": 0.262
+   "weight": 0.207
   },
   {
    "word": "资金",
    "count": 104,
-   "weight": 0.255
+   "weight": 0.202
   },
   {
-   "word": "变化",
-   "count": 98,
-   "weight": 0.24
+   "word": "规则",
+   "count": 104,
+   "weight": 0.202
   },
   {
-   "word": "版权",
+   "word": "消费者",
    "count": 97,
-   "weight": 0.238
+   "weight": 0.188
   },
   {
-   "word": "商业用途",
-   "count": 97,
-   "weight": 0.238
-  },
-  {
-   "word": "正文",
-   "count": 97,
-   "weight": 0.238
-  },
-  {
-   "word": "产品",
+   "word": "设备",
    "count": 92,
-   "weight": 0.225
+   "weight": 0.178
   },
   {
-   "word": "能力",
-   "count": 88,
-   "weight": 0.216
+   "word": "记录",
+   "count": 90,
+   "weight": 0.174
+  },
+  {
+   "word": "研究",
+   "count": 87,
+   "weight": 0.169
+  },
+  {
+   "word": "消费",
+   "count": 86,
+   "weight": 0.167
   },
   {
    "word": "国家",
    "count": 85,
-   "weight": 0.208
+   "weight": 0.165
   },
   {
-   "word": "人员",
+   "word": "订单",
+   "count": 85,
+   "weight": 0.165
+  },
+  {
+   "word": "城市",
+   "count": 83,
+   "weight": 0.161
+  },
+  {
+   "word": "安全",
    "count": 81,
-   "weight": 0.199
+   "weight": 0.157
+  },
+  {
+   "word": "系统",
+   "count": 80,
+   "weight": 0.155
+  },
+  {
+   "word": "投资",
+   "count": 80,
+   "weight": 0.155
   },
   {
    "word": "家庭",
    "count": 78,
-   "weight": 0.191
+   "weight": 0.151
   },
   {
    "word": "融资",
    "count": 77,
-   "weight": 0.189
-  },
-  {
-   "word": "管理",
-   "count": 71,
-   "weight": 0.174
+   "weight": 0.149
   },
   {
    "word": "资产",
    "count": 70,
-   "weight": 0.172
+   "weight": 0.136
   },
   {
-   "word": "规则",
-   "count": 69,
-   "weight": 0.169
-  },
-  {
-   "word": "研究",
-   "count": 67,
-   "weight": 0.164
-  },
-  {
-   "word": "消费者",
-   "count": 66,
-   "weight": 0.162
-  },
-  {
-   "word": "城市",
-   "count": 64,
-   "weight": 0.157
-  },
-  {
-   "word": "消费",
-   "count": 62,
-   "weight": 0.152
+   "word": "统一",
+   "count": 59,
+   "weight": 0.114
   },
   {
    "word": "贷款",
    "count": 59,
-   "weight": 0.145
-  },
-  {
-   "word": "投资",
-   "count": 57,
-   "weight": 0.14
+   "weight": 0.114
   },
   {
    "word": "个人",
    "count": 56,
-   "weight": 0.137
+   "weight": 0.109
   },
   {
    "word": "岗位",
    "count": 56,
-   "weight": 0.137
+   "weight": 0.109
   },
   {
    "word": "政策",
    "count": 56,
-   "weight": 0.137
+   "weight": 0.109
   },
   {
    "word": "资料",
    "count": 55,
-   "weight": 0.135
+   "weight": 0.107
   },
   {
    "word": "卫星",
    "count": 54,
-   "weight": 0.132
+   "weight": 0.105
   },
   {
    "word": "身份",
    "count": 54,
-   "weight": 0.132
+   "weight": 0.105
   },
   {
-   "word": "记录",
+   "word": "标准",
+   "count": 54,
+   "weight": 0.105
+  },
+  {
+   "word": "老人",
    "count": 53,
-   "weight": 0.13
-  },
-  {
-   "word": "政府",
-   "count": 52,
-   "weight": 0.127
-  },
-  {
-   "word": "系统",
-   "count": 51,
-   "weight": 0.125
-  },
-  {
-   "word": "实际",
-   "count": 49,
-   "weight": 0.12
-  },
-  {
-   "word": "交易",
-   "count": 49,
-   "weight": 0.12
-  },
-  {
-   "word": "资本",
-   "count": 46,
-   "weight": 0.113
-  },
-  {
-   "word": "安全",
-   "count": 46,
-   "weight": 0.113
-  },
-  {
-   "word": "出口",
-   "count": 45,
-   "weight": 0.11
+   "weight": 0.103
   }
  ],
  "sectors": [
@@ -336,7 +341,7 @@
    "date": "2026-10-30",
    "total": 4731.77,
    "earn": -694.42,
-   "today_income": -46.55
+   "today_income": -104.78
   }
  ],
  "holding_change": [
@@ -493,6 +498,13 @@
    "category": "科技"
   },
   {
+   "date": "2026-11-01",
+   "title": "伊朗称4艘油轮驶入“未经许可航线”后触雷：霍尔木兹航道争夺升级",
+   "heat": 96.0,
+   "sentiment": -9,
+   "category": "时政"
+  },
+  {
    "date": "2026-10-27",
    "title": "来源：微信小程序「晓事儿」｜长三角前三季度外贸增长20.3%：高技术产品贡献超四成出口增量",
    "heat": 93.0,
@@ -503,6 +515,13 @@
    "date": "2026-10-27",
    "title": "中国旅游消费转向“高频、精算”：出游人次增加6.2%，每趟少花36元",
    "heat": 91.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "制造业PMI降到49.3：小企业先感到冷，电子与高端装备仍在扩张",
+   "heat": 90.0,
    "sentiment": 9,
    "category": "财经"
   },
@@ -542,6 +561,13 @@
    "category": "财经"
   },
   {
+   "date": "2026-11-01",
+   "title": "四川游客玩“大摆荡”坠亡：现场无防坠措施，多环节监管全部漏掉",
+   "heat": 96.0,
+   "sentiment": -5,
+   "category": "社会"
+  },
+  {
    "date": "2026-10-29",
    "title": "“卖脸兼职”把人脸授权写进协议：签字也不能永久使用和任意转授权",
    "heat": 92.0,
@@ -563,6 +589,13 @@
    "category": "财经"
   },
   {
+   "date": "2026-11-01",
+   "title": "全国税务处罚裁量基准今起统一：收到处罚告知书，先核对五件事",
+   "heat": 98.0,
+   "sentiment": -3,
+   "category": "时政"
+  },
+  {
    "date": "2026-10-26",
    "title": "乌干达要求返国公民自费隔离21天：跨境防疫的费用该由谁承担？",
    "heat": 91.0,
@@ -578,9 +611,9 @@
   }
  ],
  "stats": {
-  "news_total": 96,
-  "xwlb_total": 89
+  "news_total": 120,
+  "xwlb_total": 99
  },
- "generated_at": "2026-10-30T04:25:04",
+ "generated_at": "2026-11-02T04:28:59",
  "type_label": "周报"
 }

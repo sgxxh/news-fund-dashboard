@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-11-02",
-   "title": "11月2日日知录-",
-   "mood": 14.9,
-   "mood_level": "温和偏多",
-   "news_total": 17,
+   "date": "2026-11-03",
+   "title": "",
+   "mood": 0,
+   "mood_level": "中性",
+   "news_total": 0,
    "xwlb_total": 0,
    "total_money": 4565.67,
    "total_earn": -860.5,
-   "today_income": -58.16,
-   "today_income_rate": -1.26,
-   "generated_at": "2026-11-02T04:28:59"
+   "today_income": -103.61,
+   "today_income_rate": -2.27,
+   "generated_at": "2026-11-03T05:23:41"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "11月2日日知录-70城二手房价仅上海同比上涨：连续两月创近6年新高",
+   "mood": 8.8,
+   "mood_level": "中性",
+   "news_total": 24,
+   "xwlb_total": 26,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-11-03T05:23:07"
   },
   {
    "date": "2026-11-01",
@@ -1236,6 +1249,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-11-02",
- "updated_at": "2026-11-02T12:56:52"
+ "latest": "2026-11-03",
+ "updated_at": "2026-11-03T05:23:41"
 }

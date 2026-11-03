@@ -3,291 +3,296 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-11-02",
- "date_to": "2026-11-02",
- "days": 1,
+ "date_to": "2026-11-03",
+ "days": 2,
  "dates": [
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-03"
  ],
- "avg_mood": 14.9,
+ "avg_mood": 4.4,
  "mood_series": [
   {
    "date": "2026-11-02",
-   "mood": 14.9
+   "mood": 8.8
+  },
+  {
+   "date": "2026-11-03",
+   "mood": 0
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 79,
+   "count": 125,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 70,
-   "weight": 0.886
+   "count": 98,
+   "weight": 0.784
   },
   {
    "word": "事儿",
-   "count": 69,
-   "weight": 0.873
-  },
-  {
-   "word": "风险",
-   "count": 35,
-   "weight": 0.443
-  },
-  {
-   "word": "整理",
-   "count": 34,
-   "weight": 0.43
-  },
-  {
-   "word": "利润",
-   "count": 31,
-   "weight": 0.392
+   "count": 97,
+   "weight": 0.776
   },
   {
    "word": "信息",
-   "count": 30,
-   "weight": 0.38
+   "count": 69,
+   "weight": 0.552
+  },
+  {
+   "word": "银行",
+   "count": 63,
+   "weight": 0.504
+  },
+  {
+   "word": "整理",
+   "count": 50,
+   "weight": 0.4
+  },
+  {
+   "word": "利润",
+   "count": 50,
+   "weight": 0.4
+  },
+  {
+   "word": "风险",
+   "count": 43,
+   "weight": 0.344
+  },
+  {
+   "word": "学校",
+   "count": 42,
+   "weight": 0.336
   },
   {
    "word": "服务",
-   "count": 29,
-   "weight": 0.367
+   "count": 41,
+   "weight": 0.328
   },
   {
-   "word": "文物",
-   "count": 29,
-   "weight": 0.367
-  },
-  {
-   "word": "公告",
-   "count": 26,
-   "weight": 0.329
-  },
-  {
-   "word": "机构",
-   "count": 25,
-   "weight": 0.316
-  },
-  {
-   "word": "系统",
-   "count": 25,
-   "weight": 0.316
-  },
-  {
-   "word": "检测",
-   "count": 24,
-   "weight": 0.304
+   "word": "成本",
+   "count": 40,
+   "weight": 0.32
   },
   {
    "word": "影响",
-   "count": 23,
-   "weight": 0.291
+   "count": 37,
+   "weight": 0.296
   },
   {
-   "word": "工具",
-   "count": 22,
-   "weight": 0.278
+   "word": "同比",
+   "count": 37,
+   "weight": 0.296
+  },
+  {
+   "word": "客户",
+   "count": 33,
+   "weight": 0.264
+  },
+  {
+   "word": "机构",
+   "count": 32,
+   "weight": 0.256
+  },
+  {
+   "word": "平台",
+   "count": 29,
+   "weight": 0.232
   },
   {
    "word": "核心",
-   "count": 21,
-   "weight": 0.266
+   "count": 28,
+   "weight": 0.224
+  },
+  {
+   "word": "公告",
+   "count": 28,
+   "weight": 0.224
+  },
+  {
+   "word": "教育",
+   "count": 27,
+   "weight": 0.216
+  },
+  {
+   "word": "系统",
+   "count": 27,
+   "weight": 0.216
+  },
+  {
+   "word": "价格",
+   "count": 27,
+   "weight": 0.216
+  },
+  {
+   "word": "变化",
+   "count": 26,
+   "weight": 0.208
+  },
+  {
+   "word": "普通",
+   "count": 26,
+   "weight": 0.208
+  },
+  {
+   "word": "检测",
+   "count": 26,
+   "weight": 0.208
+  },
+  {
+   "word": "资产",
+   "count": 26,
+   "weight": 0.208
+  },
+  {
+   "word": "评估",
+   "count": 25,
+   "weight": 0.2
+  },
+  {
+   "word": "资金",
+   "count": 25,
+   "weight": 0.2
+  },
+  {
+   "word": "贷款",
+   "count": 25,
+   "weight": 0.2
+  },
+  {
+   "word": "版权",
+   "count": 24,
+   "weight": 0.192
+  },
+  {
+   "word": "商业用途",
+   "count": 24,
+   "weight": 0.192
+  },
+  {
+   "word": "正文",
+   "count": 24,
+   "weight": 0.192
+  },
+  {
+   "word": "人员",
+   "count": 24,
+   "weight": 0.192
+  },
+  {
+   "word": "存款",
+   "count": 24,
+   "weight": 0.192
+  },
+  {
+   "word": "实际",
+   "count": 23,
+   "weight": 0.184
   },
   {
    "word": "标准",
+   "count": 23,
+   "weight": 0.184
+  },
+  {
+   "word": "工具",
+   "count": 23,
+   "weight": 0.184
+  },
+  {
+   "word": "净利润",
+   "count": 23,
+   "weight": 0.184
+  },
+  {
+   "word": "文物",
+   "count": 22,
+   "weight": 0.176
+  },
+  {
+   "word": "资源",
+   "count": 22,
+   "weight": 0.176
+  },
+  {
+   "word": "审查",
    "count": 21,
-   "weight": 0.266
+   "weight": 0.168
+  },
+  {
+   "word": "经营",
+   "count": 21,
+   "weight": 0.168
+  },
+  {
+   "word": "国家",
+   "count": 21,
+   "weight": 0.168
   },
   {
    "word": "流动性",
    "count": 21,
-   "weight": 0.266
-  },
-  {
-   "word": "价格",
-   "count": 21,
-   "weight": 0.266
-  },
-  {
-   "word": "位点",
-   "count": 19,
-   "weight": 0.241
-  },
-  {
-   "word": "国家",
-   "count": 19,
-   "weight": 0.241
-  },
-  {
-   "word": "人员",
-   "count": 18,
-   "weight": 0.228
-  },
-  {
-   "word": "资产",
-   "count": 18,
-   "weight": 0.228
-  },
-  {
-   "word": "任务",
-   "count": 18,
-   "weight": 0.228
+   "weight": 0.168
   },
   {
    "word": "会议",
-   "count": 18,
-   "weight": 0.228
+   "count": 20,
+   "weight": 0.16
   },
   {
-   "word": "符号",
-   "count": 18,
-   "weight": 0.228
-  },
-  {
-   "word": "版权",
-   "count": 17,
-   "weight": 0.215
-  },
-  {
-   "word": "商业用途",
-   "count": 17,
-   "weight": 0.215
-  },
-  {
-   "word": "正文",
-   "count": 17,
-   "weight": 0.215
-  },
-  {
-   "word": "实际",
-   "count": 17,
-   "weight": 0.215
-  },
-  {
-   "word": "变化",
-   "count": 17,
-   "weight": 0.215
-  },
-  {
-   "word": "现金流",
-   "count": 17,
-   "weight": 0.215
-  },
-  {
-   "word": "安全",
-   "count": 17,
-   "weight": 0.215
-  },
-  {
-   "word": "成本",
-   "count": 17,
-   "weight": 0.215
+   "word": "记录",
+   "count": 20,
+   "weight": 0.16
   },
   {
    "word": "产品",
-   "count": 16,
-   "weight": 0.203
+   "count": 20,
+   "weight": 0.16
   },
   {
    "word": "消费",
-   "count": 16,
-   "weight": 0.203
+   "count": 20,
+   "weight": 0.16
   },
   {
-   "word": "资金",
-   "count": 16,
-   "weight": 0.203
-  },
-  {
-   "word": "融资",
-   "count": 16,
-   "weight": 0.203
-  },
-  {
-   "word": "https",
-   "count": 16,
-   "weight": 0.203
-  },
-  {
-   "word": "净利润",
-   "count": 16,
-   "weight": 0.203
+   "word": "任务",
+   "count": 20,
+   "weight": 0.16
   },
   {
    "word": "上海",
-   "count": 16,
-   "weight": 0.203
-  },
-  {
-   "word": "模式",
-   "count": 16,
-   "weight": 0.203
-  },
-  {
-   "word": "资料",
-   "count": 15,
-   "weight": 0.19
-  },
-  {
-   "word": "口径",
-   "count": 15,
-   "weight": 0.19
-  },
-  {
-   "word": "股东",
-   "count": 15,
-   "weight": 0.19
-  },
-  {
-   "word": "卫星",
-   "count": 15,
-   "weight": 0.19
-  },
-  {
-   "word": "社会",
-   "count": 15,
-   "weight": 0.19
-  },
-  {
-   "word": "环境",
-   "count": 14,
-   "weight": 0.177
+   "count": 20,
+   "weight": 0.16
   },
   {
    "word": "管理",
-   "count": 14,
-   "weight": 0.177
-  },
-  {
-   "word": "能力",
-   "count": 14,
-   "weight": 0.177
+   "count": 19,
+   "weight": 0.152
   }
  ],
  "sectors": [
   {
    "sector": "PCB",
-   "avg_score": 25.0,
-   "max_score": 25.0,
-   "min_score": 25.0,
-   "news_count": 7
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
   },
   {
    "sector": "中证A500",
-   "avg_score": 11.3,
-   "max_score": 11.3,
-   "min_score": 11.3,
-   "news_count": 9
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
   },
   {
-   "sector": "纳斯达克100",
-   "avg_score": 0.9,
-   "max_score": 0.9,
-   "min_score": 0.9,
-   "news_count": 7
+   "sector": "中证红利低波",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
   },
   {
    "sector": "固收+",
@@ -304,19 +309,19 @@
    "news_count": 0
   },
   {
-   "sector": "中证红利低波",
-   "avg_score": -4.8,
-   "max_score": -4.8,
-   "min_score": -4.8,
-   "news_count": 7
+   "sector": "纳斯达克100",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
   }
  ],
  "nav_series": [
   {
-   "date": "2026-11-02",
-   "total": 4623.84,
-   "earn": -802.33,
-   "today_income": -36.2
+   "date": "2026-11-03",
+   "total": 4565.67,
+   "earn": -860.5,
+   "today_income": -103.61
   }
  ],
  "holding_change": [
@@ -324,9 +329,9 @@
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
-   "money": 1878.03,
-   "weight": 40.62,
-   "earn_pct": -1.16,
+   "money": 1815.64,
+   "weight": 39.77,
+   "earn_pct": -4.44,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -334,9 +339,9 @@
    "code": "022459",
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
-   "money": 1100.48,
-   "weight": 23.8,
-   "earn_pct": -14.23,
+   "money": 1111.63,
+   "weight": 24.35,
+   "earn_pct": -13.36,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -344,9 +349,9 @@
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 890.04,
-   "weight": 19.25,
-   "earn_pct": -38.78,
+   "money": 885.03,
+   "weight": 19.38,
+   "earn_pct": -39.12,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -354,9 +359,9 @@
    "code": "019671",
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "港股创新药",
-   "money": 272.84,
-   "weight": 5.9,
-   "earn_pct": -9.05,
+   "money": 272.03,
+   "weight": 5.96,
+   "earn_pct": -9.32,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -364,9 +369,9 @@
    "code": "007466",
    "name": "华泰柏瑞中证红利低波ETF联接A",
    "sector": "中证红利低波",
-   "money": 256.03,
-   "weight": 5.54,
-   "earn_pct": 3.35,
+   "money": 254.6,
+   "weight": 5.58,
+   "earn_pct": 2.77,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -374,9 +379,9 @@
    "code": "000143",
    "name": "鹏华双债加利债券A",
    "sector": "固收+",
-   "money": 226.42,
-   "weight": 4.9,
-   "earn_pct": -6.26,
+   "money": 226.74,
+   "weight": 4.97,
+   "earn_pct": -6.13,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   }
@@ -393,16 +398,6 @@
    }
   },
   {
-   "name": "财通价值动量混合A",
-   "dominant": "持有偏乐观",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "持有偏乐观": 1
-   }
-  },
-  {
    "name": "鹏华双债加利债券A",
    "dominant": "持有偏乐观",
    "days": 1,
@@ -414,6 +409,16 @@
   },
   {
    "name": "广发港股创新药ETF联接(QDII)C",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "财通价值动量混合A",
    "dominant": "维持观望",
    "days": 1,
    "total_days": 1,
@@ -446,6 +451,13 @@
  "top_events": [
   {
    "date": "2026-11-02",
+   "title": "70城二手房价仅上海同比上涨：成交连续两月创近六年同期新高",
+   "heat": 84.0,
+   "sentiment": 11,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-02",
    "title": "沪市前三季净利润4.01万亿元：长鑫科技放大科创板增速",
    "heat": 86.0,
    "sentiment": 9,
@@ -464,19 +476,12 @@
    "heat": 90.0,
    "sentiment": 6,
    "category": "财经"
-  },
-  {
-   "date": "2026-11-02",
-   "title": "傅成玉退休11年后被查：官方尚未披露具体问题",
-   "heat": 90.0,
-   "sentiment": -4,
-   "category": "时政"
   }
  ],
  "stats": {
-  "news_total": 17,
-  "xwlb_total": 0
+  "news_total": 24,
+  "xwlb_total": 26
  },
- "generated_at": "2026-11-02T04:28:59",
+ "generated_at": "2026-11-03T05:23:41",
  "type_label": "周报"
 }

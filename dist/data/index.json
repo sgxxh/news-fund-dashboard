@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-11-04",
-   "title": "",
-   "mood": 0,
+   "date": "2026-11-05",
+   "title": "11月5日日知录-弹弹弹！福建舰入列一周年，这四个瞬间足以载入史册",
+   "mood": 9.8,
    "mood_level": "中性",
-   "news_total": 0,
+   "news_total": 21,
    "xwlb_total": 0,
    "total_money": 4605.99,
    "total_earn": -820.19,
-   "today_income": 144.76,
-   "today_income_rate": 3.24,
-   "generated_at": "2026-11-04T04:52:29"
+   "today_income": 6.32,
+   "today_income_rate": 0.14,
+   "generated_at": "2026-11-05T05:09:10"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "11月4日日知录-全国放心消费平台上线：商家推诿可投诉举报",
+   "mood": 5.9,
+   "mood_level": "中性",
+   "news_total": 22,
+   "xwlb_total": 28,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-11-05T05:08:49"
   },
   {
    "date": "2026-11-03",
@@ -1262,6 +1275,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-11-04",
- "updated_at": "2026-11-04T12:39:54"
+ "latest": "2026-11-05",
+ "updated_at": "2026-11-05T05:09:10"
 }

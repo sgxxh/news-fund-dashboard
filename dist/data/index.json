@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-11-05",
-   "title": "11月5日日知录-弹弹弹！福建舰入列一周年，这四个瞬间足以载入史册",
-   "mood": 9.8,
-   "mood_level": "中性",
-   "news_total": 21,
+   "date": "2026-11-06",
+   "title": "11月6日日知录-43胜1负！美国AI基建股遭血洗，纳指一日蒸发2.5万亿美元",
+   "mood": 25.9,
+   "mood_level": "温和偏多",
+   "news_total": 25,
    "xwlb_total": 0,
    "total_money": 4625.39,
    "total_earn": -800.05,
-   "today_income": 20.14,
-   "today_income_rate": 0.44,
-   "generated_at": "2026-11-05T05:09:10"
+   "today_income": -178.33,
+   "today_income_rate": -3.86,
+   "generated_at": "2026-11-06T05:09:10"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "11月5日日知录-弹弹弹！福建舰入列一周年，这四个瞬间足以载入史册",
+   "mood": 8.5,
+   "mood_level": "中性",
+   "news_total": 21,
+   "xwlb_total": 23,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-11-06T05:08:46"
   },
   {
    "date": "2026-11-04",
@@ -1275,6 +1288,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-11-05",
- "updated_at": "2026-11-05T12:50:26"
+ "latest": "2026-11-06",
+ "updated_at": "2026-11-06T05:09:10"
 }

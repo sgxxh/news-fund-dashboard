@@ -1,154 +1,13 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T05:09:10",
+ "generated_at": "2026-11-06T05:08:46",
  "session": "auto",
  "digest_title": "11月5日日知录-弹弹弹！福建舰入列一周年，这四个瞬间足以载入史册",
  "funds": {
-  "ok": true,
-  "reason": "",
-  "summary": {
-   "hold_cost": 5425.44,
-   "today_income": 20.14,
-   "today_income_rate": 0.44,
-   "total_money": 4625.39,
-   "total_earn": -800.05,
-   "count": 6,
-   "total_earn_pct": -14.75
-  },
-  "holdings": [
-   {
-    "account": "默认",
-    "fund_id": "23918",
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 1819.88,
-    "earn": -80.17,
-    "earn_pct": -4.22,
-    "share": 830.73,
-    "cost": 2.2872,
-    "category": 3,
-    "nav": 2.1907,
-    "day_pct": 0.92,
-    "nav_date": "2026-11-05",
-    "est_pct": 0.92,
-    "est_date": "2026-11-04",
-    "year_pct": 5.95,
-    "sector": "纳斯达克100",
-    "sector_pct": 0.91,
-    "market_type": "us",
-    "weight": 39.35
-   },
-   {
-    "account": "默认",
-    "fund_id": "25645",
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "money": 1145.98,
-    "earn": -137.11,
-    "earn_pct": -10.69,
-    "share": 1022.47,
-    "cost": 1.2549,
-    "category": 3,
-    "nav": 1.1208,
-    "day_pct": 0.68,
-    "nav_date": "2026-11-05",
-    "est_pct": 0.68,
-    "est_date": "2026-11-05",
-    "year_pct": -9.57,
-    "sector": "中证A500",
-    "sector_pct": 0.73,
-    "market_type": "ch",
-    "weight": 24.78
-   },
-   {
-    "account": "默认",
-    "fund_id": "138",
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "money": 883.76,
-    "earn": -569.99,
-    "earn_pct": -39.21,
-    "share": 98.13,
-    "cost": 14.8145,
-    "category": 1,
-    "nav": 9.006,
-    "day_pct": -1.41,
-    "nav_date": "2026-11-05",
-    "est_pct": -1.41,
-    "est_date": "2026-11-05",
-    "year_pct": 11.05,
-    "sector": "PCB",
-    "sector_pct": -2.09,
-    "market_type": "ch",
-    "weight": 19.11
-   },
-   {
-    "account": "默认",
-    "fund_id": "22504",
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "money": 296.1,
-    "earn": -3.9,
-    "earn_pct": -1.3,
-    "share": 222.85,
-    "cost": 1.34619699,
-    "category": 6,
-    "nav": 1.3287,
-    "day_pct": 3.52,
-    "nav_date": "2026-11-05",
-    "est_pct": 3.52,
-    "est_date": "2026-11-05",
-    "year_pct": 2.3,
-    "sector": "港股创新药",
-    "sector_pct": 3.72,
-    "market_type": "hk",
-    "weight": 6.4
-   },
-   {
-    "account": "默认",
-    "fund_id": "5773",
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波动ETF联接A",
-    "money": 250.81,
-    "earn": 3.81,
-    "earn_pct": 1.54,
-    "share": 150.67,
-    "cost": 1.6392938,
-    "category": 3,
-    "nav": 1.6646,
-    "day_pct": -0.85,
-    "nav_date": "2026-11-05",
-    "est_pct": -0.85,
-    "est_date": "2026-11-05",
-    "year_pct": 4.77,
-    "sector": "中证红利低波",
-    "sector_pct": -0.87,
-    "market_type": "ch",
-    "weight": 5.42
-   },
-   {
-    "account": "默认",
-    "fund_id": "11353",
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "money": 228.86,
-    "earn": -12.69,
-    "earn_pct": -5.25,
-    "share": 109.78,
-    "cost": 2.20030971,
-    "category": 2,
-    "nav": 2.0847,
-    "day_pct": 0.22,
-    "nav_date": "2026-11-05",
-    "est_pct": 0.22,
-    "est_date": "2026-11-05",
-    "year_pct": 0.44,
-    "sector": "固收+",
-    "sector_pct": 0.05,
-    "market_type": "ch",
-    "weight": 4.95
-   }
-  ],
+  "ok": false,
+  "reason": "HISTORICAL_NO_SNAPSHOT",
+  "summary": {},
+  "holdings": [],
   "index": []
  },
  "analysis": {
@@ -160,8 +19,8 @@
    },
    {
     "word": "服务",
-    "count": 112,
-    "weight": 0.966
+    "count": 113,
+    "weight": 0.974
    },
    {
     "word": "程序",
@@ -180,8 +39,8 @@
    },
    {
     "word": "成本",
-    "count": 56,
-    "weight": 0.483
+    "count": 57,
+    "weight": 0.491
    },
    {
     "word": "银行",
@@ -384,6 +243,11 @@
     "weight": 0.181
    },
    {
+    "word": "进口",
+    "count": 21,
+    "weight": 0.181
+   },
+   {
     "word": "管理",
     "count": 21,
     "weight": 0.181
@@ -394,17 +258,17 @@
     "weight": 0.172
    },
    {
+    "word": "全球",
+    "count": 20,
+    "weight": 0.172
+   },
+   {
     "word": "安全",
     "count": 20,
     "weight": 0.172
    },
    {
     "word": "期限",
-    "count": 20,
-    "weight": 0.172
-   },
-   {
-    "word": "进口",
     "count": 20,
     "weight": 0.172
    },
@@ -429,11 +293,6 @@
     "weight": 0.172
    },
    {
-    "word": "全球",
-    "count": 19,
-    "weight": 0.164
-   },
-   {
     "word": "变化",
     "count": 19,
     "weight": 0.164
@@ -454,408 +313,22 @@
     "weight": 0.164
    }
   ],
-  "market_mood": 9.8,
+  "market_mood": 8.5,
   "market_mood_level": "中性",
-  "sector_impacts": {
-   "PCB": {
-    "sector": "PCB",
-    "news_count": 9,
-    "score": 61.3,
-    "level": "偏多",
-    "drivers": [
-     {
-      "title": "前9个月服务贸易增长8.5%：出口跑赢进口，逆差继续收窄",
-      "sentiment": 9,
-      "heat": 88.0,
-      "hits": [
-       "增长",
-       "上涨",
-       "扩大",
-       "创新"
-      ]
-     },
-     {
-      "title": "道指暴涨1569点、中概股涨3.49%：资金同时撤出油价与AI硬件",
-      "sentiment": 6,
-      "heat": 93.0,
-      "hits": [
-       "上涨",
-       "涨幅",
-       "扩大",
-       "盈利"
-      ]
-     },
-     {
-      "title": "字节和OpenAI投资人押注云蝶科技机器人：4000家企业客户被看好",
-      "sentiment": 4,
-      "heat": 89.0,
-      "hits": [
-       "扩大",
-       "签约",
-       "盈利",
-       "合作"
-      ]
-     },
-     {
-      "title": "35.2万全球买家涌入广交会创新高：中国制造底色还在，成色看回款",
-      "sentiment": 4,
-      "heat": 87.0,
-      "hits": [
-       "增长",
-       "新高",
-       "创新",
-       "订单"
-      ]
-     }
-    ]
-   },
-   "中证A500": {
-    "sector": "中证A500",
-    "news_count": 16,
-    "score": 10.0,
-    "level": "中性",
-    "drivers": [
-     {
-      "title": "来源：微信小程序「晓事儿」｜多款中低风险理财净值回撤，部分产品收益转负：风险终于被看见",
-      "sentiment": -11,
-      "heat": 94.0,
-      "hits": [
-       "开放",
-       "下跌",
-       "亏损",
-       "风险"
-      ]
-     },
-     {
-      "title": "民主党夺回国会两院，布油暴跌8.7%：市场给伊朗战争退出明码标价",
-      "sentiment": -9,
-      "heat": 98.0,
-      "hits": [
-       "扩大",
-       "宽松",
-       "下跌",
-       "风险"
-      ]
-     },
-     {
-      "title": "前9个月服务贸易增长8.5%：出口跑赢进口，逆差继续收窄",
-      "sentiment": 9,
-      "heat": 88.0,
-      "hits": [
-       "增长",
-       "上涨",
-       "扩大",
-       "创新"
-      ]
-     },
-     {
-      "title": "央行把回购增持再贷款利率降至1%：上市公司借钱回购的通道扩容",
-      "sentiment": 7,
-      "heat": 96.0,
-      "hits": [
-       "扩大",
-       "支持",
-       "获批",
-       "上市"
-      ]
-     }
-    ]
-   },
-   "中证红利低波": {
-    "sector": "中证红利低波",
-    "news_count": 10,
-    "score": -3.8,
-    "level": "中性",
-    "drivers": [
-     {
-      "title": "来源：微信小程序「晓事儿」｜多款中低风险理财净值回撤，部分产品收益转负：风险终于被看见",
-      "sentiment": -11,
-      "heat": 94.0,
-      "hits": [
-       "开放",
-       "下跌",
-       "亏损",
-       "风险"
-      ]
-     },
-     {
-      "title": "民主党夺回国会两院，布油暴跌8.7%：市场给伊朗战争退出明码标价",
-      "sentiment": -9,
-      "heat": 98.0,
-      "hits": [
-       "扩大",
-       "宽松",
-       "下跌",
-       "风险"
-      ]
-     },
-     {
-      "title": "前9个月服务贸易增长8.5%：出口跑赢进口，逆差继续收窄",
-      "sentiment": 9,
-      "heat": 88.0,
-      "hits": [
-       "增长",
-       "上涨",
-       "扩大",
-       "创新"
-      ]
-     },
-     {
-      "title": "央行把回购增持再贷款利率降至1%：上市公司借钱回购的通道扩容",
-      "sentiment": 7,
-      "heat": 96.0,
-      "hits": [
-       "扩大",
-       "支持",
-       "获批",
-       "上市"
-      ]
-     }
-    ]
-   },
-   "固收+": {
-    "sector": "固收+",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "港股创新药": {
-    "sector": "港股创新药",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "纳斯达克100": {
-    "sector": "纳斯达克100",
-    "news_count": 6,
-    "score": -13.4,
-    "level": "温和偏空",
-    "drivers": [
-     {
-      "title": "民主党夺回国会两院，布油暴跌8.7%：市场给伊朗战争退出明码标价",
-      "sentiment": -9,
-      "heat": 98.0,
-      "hits": [
-       "扩大",
-       "宽松",
-       "下跌",
-       "风险"
-      ]
-     },
-     {
-      "title": "道指暴涨1569点、中概股涨3.49%：资金同时撤出油价与AI硬件",
-      "sentiment": 6,
-      "heat": 93.0,
-      "hits": [
-       "上涨",
-       "涨幅",
-       "扩大",
-       "盈利"
-      ]
-     },
-     {
-      "title": "欧元区通胀升至4%：12月加息取决于能源涨价会不会传导到工资",
-      "sentiment": -3,
-      "heat": 92.0,
-      "hits": [
-       "增长",
-       "上涨",
-       "涨幅",
-       "扩大"
-      ]
-     },
-     {
-      "title": "美企2027年欧元债或达900亿：AI巨头成主力，欧洲长期资金拥挤",
-      "sentiment": 3,
-      "heat": 91.0,
-      "hits": [
-       "增长",
-       "支持",
-       "回购",
-       "强劲"
-      ]
-     }
-    ]
-   }
-  },
-  "advices": [
-   {
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "sector": "PCB",
-    "weight": 19.46,
-    "tiny": false,
-    "earn_pct": -38.34,
-    "day_pct": 9.45,
-    "year_pct": 11.05,
-    "news_score": 61.3,
-    "news_count": 9,
-    "news_level": "偏多",
-    "momentum": 54.6,
-    "deviation": -16.8,
-    "total_score": 51.7,
-    "action": "可考虑加仓",
-    "reason": "板块命中 9 条相关新闻，消息面偏多；中期动量向上；浮亏 -38.3%，关注补仓成本"
-   },
-   {
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "sector": "港股创新药",
-    "weight": 6.21,
-    "tiny": false,
-    "earn_pct": -4.66,
-    "day_pct": 8.14,
-    "year_pct": 2.3,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 35.1,
-    "deviation": 62.7,
-    "total_score": 23.1,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量向上；仓位占比 6.2% 偏低"
-   },
-   {
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "sector": "固收+",
-    "weight": 4.96,
-    "tiny": false,
-    "earn_pct": -5.46,
-    "day_pct": 1.56,
-    "year_pct": 0.44,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": 15.4,
-    "deviation": 70.2,
-    "total_score": 18.7,
-    "action": "持有偏乐观",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 5.0% 偏低"
-   },
-   {
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波动ETF联接A",
-    "sector": "中证红利低波",
-    "weight": 5.51,
-    "tiny": false,
-    "earn_pct": 2.41,
-    "day_pct": -0.51,
-    "year_pct": 4.77,
-    "news_score": -3.8,
-    "news_count": 10,
-    "news_level": "中性",
-    "momentum": 6.0,
-    "deviation": 66.9,
-    "total_score": 13.3,
-    "action": "持有偏乐观",
-    "reason": "板块命中 10 条相关新闻，消息面中性；动量中性；仓位占比 5.5% 偏低"
-   },
-   {
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "sector": "中证A500",
-    "weight": 24.71,
-    "tiny": false,
-    "earn_pct": -11.29,
-    "day_pct": 2.88,
-    "year_pct": -9.57,
-    "news_score": 10.0,
-    "news_count": 16,
-    "news_level": "中性",
-    "momentum": 0.7,
-    "deviation": -48.3,
-    "total_score": -4.4,
-    "action": "维持观望",
-    "reason": "板块命中 16 条相关新闻，消息面中性；动量中性；仓位占比 24.7% 偏集中；浮亏 -11.3%，关注补仓成本"
-   },
-   {
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "sector": "纳斯达克100",
-    "weight": 39.15,
-    "tiny": false,
-    "earn_pct": -5.09,
-    "day_pct": 0.65,
-    "year_pct": 5.95,
-    "news_score": -13.4,
-    "news_count": 6,
-    "news_level": "温和偏空",
-    "momentum": 20.1,
-    "deviation": -100,
-    "total_score": -20.7,
-    "action": "持有偏谨慎",
-    "reason": "板块命中 6 条相关新闻，消息面温和偏空；动量中性；仓位占比 39.1% 偏集中"
-   }
-  ],
-  "forecast": [
-   {
-    "sector": "PCB",
-    "bias": "看多",
-    "prob": 68,
-    "confidence": "高",
-    "news_count": 9,
-    "blend": 50.9,
-    "note": "消息面 +61 / 中期动量 +35"
-   },
-   {
-    "sector": "中证红利低波",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "高",
-    "news_count": 10,
-    "blend": 4.0,
-    "note": "消息面 -4 / 中期动量 +16"
-   },
-   {
-    "sector": "港股创新药",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 3.1,
-    "note": "消息面 +0 / 中期动量 +8"
-   },
-   {
-    "sector": "固收+",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": 0.6,
-    "note": "消息面 +0 / 中期动量 +1"
-   },
-   {
-    "sector": "纳斯达克100",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "高",
-    "news_count": 6,
-    "blend": -0.2,
-    "note": "消息面 -13 / 中期动量 +20"
-   },
-   {
-    "sector": "中证A500",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "高",
-    "news_count": 16,
-    "blend": -6.3,
-    "note": "消息面 +10 / 中期动量 -31"
-   }
-  ],
+  "sector_impacts": {},
+  "advices": [],
+  "forecast": [],
   "category_dist": {
    "财经": 11,
    "时政": 6,
    "科技": 3,
-   "社会": 1
+   "社会": 1,
+   "新闻联播": 23
   },
   "top_news": [
    {
     "id": 27937,
-    "title": "来源：微信小程序「晓事儿」｜多款中低风险理财净值回撤，部分产品收益转负：风险终于被看见",
+    "title": "多款中低风险理财净值回撤，部分产品收益转负：风险终于被看见",
     "summary": "据微信小程序「晓事儿」整理，本条新闻的核心信息是：【一句话判断】近期部分R1、R2产品日收益转负。风险等级只完成了第一层筛选，投资者还要核对底层资产、持有期限和赎回条件。\n\n版权内容来自微信小程序「晓事儿」。正常展示、引用或转载时，必须注明来源。未经授权禁止转载、复制、改编或用于商业用途。\n来源：微信小程序「晓事儿」",
     "category": "财经",
     "heat": 94.0,
@@ -892,7 +365,7 @@
    },
    {
     "id": 27940,
-    "title": "民主党夺回国会两院，布油暴跌8.7%：市场给伊朗战争退出明码标价",
+    "title": "来源：微信小程序「晓事儿」｜民主党夺回国会两院，布油暴跌8.7%：市场给伊朗战争退出明码标价",
     "summary": "据微信小程序「晓事儿」整理，本条新闻的核心信息是：【一句话判断】这轮油价大跌主要撤掉的是战争继续升级的概率，而非现实供应突然宽松；民主党国会能够提高战争的政治和财政成本，却不能替总统签署停战协议。\n\n版权内容来自微信小程序「晓事儿」。正常展示、引用或转载时，必须注明来源。未经授权禁止转载、复制、改编或用于商业用途。\n来源：微信小程序「晓事儿」",
     "category": "财经",
     "heat": 98.0,
@@ -1333,7 +806,7 @@
   "scored_news": [
    {
     "id": 27940,
-    "title": "民主党夺回国会两院，布油暴跌8.7%：市场给伊朗战争退出明码标价",
+    "title": "来源：微信小程序「晓事儿」｜民主党夺回国会两院，布油暴跌8.7%：市场给伊朗战争退出明码标价",
     "summary": "据微信小程序「晓事儿」整理，本条新闻的核心信息是：【一句话判断】这轮油价大跌主要撤掉的是战争继续升级的概率，而非现实供应突然宽松；民主党国会能够提高战争的政治和财政成本，却不能替总统签署停战协议。\n\n版权内容来自微信小程序「晓事儿」。正常展示、引用或转载时，必须注明来源。未经授权禁止转载、复制、改编或用于商业用途。\n来源：微信小程序「晓事儿」",
     "category": "财经",
     "heat": 98.0,
@@ -1461,7 +934,7 @@
    },
    {
     "id": 27937,
-    "title": "来源：微信小程序「晓事儿」｜多款中低风险理财净值回撤，部分产品收益转负：风险终于被看见",
+    "title": "多款中低风险理财净值回撤，部分产品收益转负：风险终于被看见",
     "summary": "据微信小程序「晓事儿」整理，本条新闻的核心信息是：【一句话判断】近期部分R1、R2产品日收益转负。风险等级只完成了第一层筛选，投资者还要核对底层资产、持有期限和赎回条件。\n\n版权内容来自微信小程序「晓事儿」。正常展示、引用或转载时，必须注明来源。未经授权禁止转载、复制、改编或用于商业用途。\n来源：微信小程序「晓事儿」",
     "category": "财经",
     "heat": 94.0,
@@ -2083,21 +1556,349 @@
     "publish_time": "2026-11-05T11:23:43",
     "source": "日知录",
     "story_len": 2310
+   },
+   {
+    "id": "xwlb-0",
+    "title": "【学习贯彻党的二十届五中全会精神】严字当头 实干为要 把学习成效转化为干事创业的强大动力",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "成效"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-1",
+    "title": "李强会见全国应急管理系统先进模范和中国消防忠诚卫士表彰大会代表",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-2",
+    "title": "赵乐际同全国人大常委会会议列席代表座谈",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-3",
+    "title": "第六届国际道教论坛在中国杭州开幕 王沪宁致信祝贺",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-4",
+    "title": "丁薛祥出席第九届中国国际进口博览会开幕式并会见与会外方政要",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-5",
+    "title": "【学习贯彻党的二十届五中全会精神】中央宣讲团在各地各部门宣讲党的二十届五中全会精神",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-6",
+    "title": "我国秋粮丰收成定局",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "丰收"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-7",
+    "title": "今年前9个月我国服务进出口同比增长8.5%",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 2,
+    "sent_hits": [
+     "增长"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-8",
+    "title": "第九届进博会虹桥国际经济论坛举行多场分论坛",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证A500",
+      "hits": [
+       "经济"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-9",
+    "title": "国内联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-10",
+    "title": "2026年世界互联网大会乌镇峰会闭幕",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-11",
+    "title": "近百个可再生能源合作项目惠及非洲多国",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-12",
+    "title": "我国三项档案文献遗产入选《世界记忆亚太地区名录》",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-13",
+    "title": "普速旅客列车车次变更自11月25日起实施",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-14",
+    "title": "2027年军队文职人员公开招考今天开始报名",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-15",
+    "title": "国内海拔最高超超临界火电项目1号机组投产",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 2,
+    "sent_hits": [
+     "投产"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-16",
+    "title": "全国“巾帼普法基层行”示范活动在云南昆明举行",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-17",
+    "title": "2026中国广播电视精品创作大会开幕",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-18",
+    "title": "“中国之治与世界发展”全球对话会在多国举行",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-19",
+    "title": "伊朗最高领袖称美中期选举结果不会改变美敌意 美总统承认对伊朗开战影响共和党选情",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-20",
+    "title": "国际联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-21",
+    "title": "欧佩克报告称原油运输及保险成本飙升",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "保险"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-22",
+    "title": "欧元区10月通胀率达4.0% 为三年来新高",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 2,
+    "sent_hits": [
+     "新高",
+     "通胀"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
    }
   ],
   "stats": {
    "news_total": 21,
-   "xwlb_total": 0,
-   "scored_total": 21,
-   "pos": 11,
+   "xwlb_total": 23,
+   "scored_total": 44,
+   "pos": 17,
    "neg": 7,
-   "neutral": 3
+   "neutral": 20
   }
  },
  "news_raw": [
   {
    "id": 27940,
-   "title": "民主党夺回国会两院，布油暴跌8.7%：市场给伊朗战争退出明码标价",
+   "title": "来源：微信小程序「晓事儿」｜民主党夺回国会两院，布油暴跌8.7%：市场给伊朗战争退出明码标价",
    "summary": "据微信小程序「晓事儿」整理，本条新闻的核心信息是：【一句话判断】这轮油价大跌主要撤掉的是战争继续升级的概率，而非现实供应突然宽松；民主党国会能够提高战争的政治和财政成本，却不能替总统签署停战协议。\n\n版权内容来自微信小程序「晓事儿」。正常展示、引用或转载时，必须注明来源。未经授权禁止转载、复制、改编或用于商业用途。\n来源：微信小程序「晓事儿」",
    "heat": 98.0,
    "category": "财经",
@@ -2145,7 +1946,7 @@
   },
   {
    "id": 27937,
-   "title": "来源：微信小程序「晓事儿」｜多款中低风险理财净值回撤，部分产品收益转负：风险终于被看见",
+   "title": "多款中低风险理财净值回撤，部分产品收益转负：风险终于被看见",
    "summary": "据微信小程序「晓事儿」整理，本条新闻的核心信息是：【一句话判断】近期部分R1、R2产品日收益转负。风险等级只完成了第一层筛选，投资者还要核对底层资产、持有期限和赎回条件。\n\n版权内容来自微信小程序「晓事儿」。正常展示、引用或转载时，必须注明来源。未经授权禁止转载、复制、改编或用于商业用途。\n来源：微信小程序「晓事儿」",
    "heat": 94.0,
    "category": "财经",
@@ -2348,5 +2149,144 @@
    "source": "日知录"
   }
  ],
- "xwlb_raw": []
+ "xwlb_raw": [
+  {
+   "id": "xwlb-0",
+   "title": "【学习贯彻党的二十届五中全会精神】严字当头 实干为要 把学习成效转化为干事创业的强大动力",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-1",
+   "title": "李强会见全国应急管理系统先进模范和中国消防忠诚卫士表彰大会代表",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-2",
+   "title": "赵乐际同全国人大常委会会议列席代表座谈",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-3",
+   "title": "第六届国际道教论坛在中国杭州开幕 王沪宁致信祝贺",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-4",
+   "title": "丁薛祥出席第九届中国国际进口博览会开幕式并会见与会外方政要",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-5",
+   "title": "【学习贯彻党的二十届五中全会精神】中央宣讲团在各地各部门宣讲党的二十届五中全会精神",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-6",
+   "title": "我国秋粮丰收成定局",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-7",
+   "title": "今年前9个月我国服务进出口同比增长8.5%",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-8",
+   "title": "第九届进博会虹桥国际经济论坛举行多场分论坛",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-9",
+   "title": "国内联播快讯",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-10",
+   "title": "2026年世界互联网大会乌镇峰会闭幕",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-11",
+   "title": "近百个可再生能源合作项目惠及非洲多国",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-12",
+   "title": "我国三项档案文献遗产入选《世界记忆亚太地区名录》",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-13",
+   "title": "普速旅客列车车次变更自11月25日起实施",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-14",
+   "title": "2027年军队文职人员公开招考今天开始报名",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-15",
+   "title": "国内海拔最高超超临界火电项目1号机组投产",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-16",
+   "title": "全国“巾帼普法基层行”示范活动在云南昆明举行",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-17",
+   "title": "2026中国广播电视精品创作大会开幕",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-18",
+   "title": "“中国之治与世界发展”全球对话会在多国举行",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-19",
+   "title": "伊朗最高领袖称美中期选举结果不会改变美敌意 美总统承认对伊朗开战影响共和党选情",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-20",
+   "title": "国际联播快讯",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-21",
+   "title": "欧佩克报告称原油运输及保险成本飙升",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "xwlb-22",
+   "title": "欧元区10月通胀率达4.0% 为三年来新高",
+   "source": "新闻联播",
+   "date": "2026-11-05"
+  }
+ ]
 }

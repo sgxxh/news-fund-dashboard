@@ -1,0 +1,614 @@
+{
+ "key": "2026-W45",
+ "label": "周报",
+ "type": "week",
+ "date_from": "2026-11-02",
+ "date_to": "2026-11-06",
+ "days": 5,
+ "dates": [
+  "2026-11-02",
+  "2026-11-03",
+  "2026-11-04",
+  "2026-11-05",
+  "2026-11-06"
+ ],
+ "avg_mood": 14.0,
+ "mood_series": [
+  {
+   "date": "2026-11-02",
+   "mood": 8.8
+  },
+  {
+   "date": "2026-11-03",
+   "mood": 21.1
+  },
+  {
+   "date": "2026-11-04",
+   "mood": 5.9
+  },
+  {
+   "date": "2026-11-05",
+   "mood": 8.5
+  },
+  {
+   "date": "2026-11-06",
+   "mood": 25.9
+  }
+ ],
+ "keywords": [
+  {
+   "word": "程序",
+   "count": 542,
+   "weight": 1.0
+  },
+  {
+   "word": "微信",
+   "count": 477,
+   "weight": 0.88
+  },
+  {
+   "word": "事儿",
+   "count": 473,
+   "weight": 0.873
+  },
+  {
+   "word": "服务",
+   "count": 337,
+   "weight": 0.622
+  },
+  {
+   "word": "银行",
+   "count": 294,
+   "weight": 0.542
+  },
+  {
+   "word": "信息",
+   "count": 278,
+   "weight": 0.513
+  },
+  {
+   "word": "成本",
+   "count": 245,
+   "weight": 0.452
+  },
+  {
+   "word": "整理",
+   "count": 239,
+   "weight": 0.441
+  },
+  {
+   "word": "产品",
+   "count": 216,
+   "weight": 0.399
+  },
+  {
+   "word": "资金",
+   "count": 213,
+   "weight": 0.393
+  },
+  {
+   "word": "风险",
+   "count": 163,
+   "weight": 0.301
+  },
+  {
+   "word": "机构",
+   "count": 146,
+   "weight": 0.269
+  },
+  {
+   "word": "平台",
+   "count": 144,
+   "weight": 0.266
+  },
+  {
+   "word": "学校",
+   "count": 141,
+   "weight": 0.26
+  },
+  {
+   "word": "核心",
+   "count": 138,
+   "weight": 0.255
+  },
+  {
+   "word": "客户",
+   "count": 136,
+   "weight": 0.251
+  },
+  {
+   "word": "利率",
+   "count": 130,
+   "weight": 0.24
+  },
+  {
+   "word": "价格",
+   "count": 126,
+   "weight": 0.232
+  },
+  {
+   "word": "版权",
+   "count": 121,
+   "weight": 0.223
+  },
+  {
+   "word": "政策",
+   "count": 121,
+   "weight": 0.223
+  },
+  {
+   "word": "变化",
+   "count": 118,
+   "weight": 0.218
+  },
+  {
+   "word": "正文",
+   "count": 118,
+   "weight": 0.218
+  },
+  {
+   "word": "商业用途",
+   "count": 117,
+   "weight": 0.216
+  },
+  {
+   "word": "融资",
+   "count": 107,
+   "weight": 0.197
+  },
+  {
+   "word": "管理",
+   "count": 102,
+   "weight": 0.188
+  },
+  {
+   "word": "资产",
+   "count": 99,
+   "weight": 0.183
+  },
+  {
+   "word": "实际",
+   "count": 99,
+   "weight": 0.183
+  },
+  {
+   "word": "出口",
+   "count": 97,
+   "weight": 0.179
+  },
+  {
+   "word": "影响",
+   "count": 96,
+   "weight": 0.177
+  },
+  {
+   "word": "订单",
+   "count": 94,
+   "weight": 0.173
+  },
+  {
+   "word": "存款",
+   "count": 87,
+   "weight": 0.161
+  },
+  {
+   "word": "系统",
+   "count": 84,
+   "weight": 0.155
+  },
+  {
+   "word": "国家",
+   "count": 83,
+   "weight": 0.153
+  },
+  {
+   "word": "利润",
+   "count": 82,
+   "weight": 0.151
+  },
+  {
+   "word": "贷款",
+   "count": 76,
+   "weight": 0.14
+  },
+  {
+   "word": "能力",
+   "count": 76,
+   "weight": 0.14
+  },
+  {
+   "word": "用户",
+   "count": 73,
+   "weight": 0.135
+  },
+  {
+   "word": "人员",
+   "count": 72,
+   "weight": 0.133
+  },
+  {
+   "word": "消费",
+   "count": 69,
+   "weight": 0.127
+  },
+  {
+   "word": "安全",
+   "count": 68,
+   "weight": 0.125
+  },
+  {
+   "word": "医保",
+   "count": 67,
+   "weight": 0.124
+  },
+  {
+   "word": "债券",
+   "count": 66,
+   "weight": 0.122
+  },
+  {
+   "word": "全球",
+   "count": 63,
+   "weight": 0.116
+  },
+  {
+   "word": "数字",
+   "count": 62,
+   "weight": 0.114
+  },
+  {
+   "word": "央行",
+   "count": 62,
+   "weight": 0.114
+  },
+  {
+   "word": "交易",
+   "count": 61,
+   "weight": 0.113
+  },
+  {
+   "word": "设备",
+   "count": 61,
+   "weight": 0.113
+  },
+  {
+   "word": "证明",
+   "count": 61,
+   "weight": 0.113
+  },
+  {
+   "word": "欧元",
+   "count": 58,
+   "weight": 0.107
+  },
+  {
+   "word": "景区",
+   "count": 58,
+   "weight": 0.107
+  }
+ ],
+ "sectors": [
+  {
+   "sector": "中证A500",
+   "avg_score": 39.3,
+   "max_score": 39.3,
+   "min_score": 39.3,
+   "news_count": 17
+  },
+  {
+   "sector": "中证红利低波",
+   "avg_score": 35.3,
+   "max_score": 35.3,
+   "min_score": 35.3,
+   "news_count": 13
+  },
+  {
+   "sector": "纳斯达克100",
+   "avg_score": 10.2,
+   "max_score": 10.2,
+   "min_score": 10.2,
+   "news_count": 6
+  },
+  {
+   "sector": "PCB",
+   "avg_score": 9.4,
+   "max_score": 9.4,
+   "min_score": 9.4,
+   "news_count": 8
+  },
+  {
+   "sector": "固收+",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  },
+  {
+   "sector": "港股创新药",
+   "avg_score": 0.0,
+   "max_score": 0.0,
+   "min_score": 0.0,
+   "news_count": 0
+  }
+ ],
+ "nav_series": [
+  {
+   "date": "2026-11-06",
+   "total": 4625.39,
+   "earn": -800.05,
+   "today_income": -178.33
+  }
+ ],
+ "holding_change": [
+  {
+   "code": "021000",
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "sector": "纳斯达克100",
+   "money": 1819.88,
+   "weight": 39.35,
+   "earn_pct": -4.22,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "022459",
+   "name": "易方达中证A500ETF联接A",
+   "sector": "中证A500",
+   "money": 1145.98,
+   "weight": 24.78,
+   "earn_pct": -10.69,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "720001",
+   "name": "财通价值动量混合A",
+   "sector": "PCB",
+   "money": 883.76,
+   "weight": 19.11,
+   "earn_pct": -39.21,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "019671",
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "sector": "港股创新药",
+   "money": 296.1,
+   "weight": 6.4,
+   "earn_pct": -1.3,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "007466",
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "sector": "中证红利低波",
+   "money": 250.81,
+   "weight": 5.42,
+   "earn_pct": 1.54,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  },
+  {
+   "code": "000143",
+   "name": "鹏华双债加利债券A",
+   "sector": "固收+",
+   "money": 228.86,
+   "weight": 4.95,
+   "earn_pct": -5.25,
+   "money_delta": 0.0,
+   "earn_pct_delta": 0.0
+  }
+ ],
+ "advice_consistency": [
+  {
+   "name": "华泰柏瑞中证红利低波动ETF联接A",
+   "dominant": "可考虑加仓",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "可考虑加仓": 1
+   }
+  },
+  {
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "鹏华双债加利债券A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "易方达中证A500ETF联接A",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
+  {
+   "name": "财通价值动量混合A",
+   "dominant": "维持观望",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 1
+   }
+  },
+  {
+   "name": "南方纳斯达克100指数发起(QDII)I",
+   "dominant": "维持观望",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "维持观望": 1
+   }
+  }
+ ],
+ "top_events": [
+  {
+   "date": "2026-11-03",
+   "title": "六大新兴产业从6万亿冲向10万亿：芯片和储能先跑，低空还在铺路",
+   "heat": 94.0,
+   "sentiment": 12,
+   "category": "科技"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "多款中低风险理财净值回撤，部分产品收益转负：风险终于被看见",
+   "heat": 94.0,
+   "sentiment": -11,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "8000亿元政策资金全部投完：11.59万亿元项目要靠开工和订单兑现",
+   "heat": 99.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "来源：微信小程序「晓事儿」｜民主党夺回国会两院，布油暴跌8.7%：市场给伊朗战争退出明码标价",
+   "heat": 98.0,
+   "sentiment": -9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "回购贷款利率降至1%、护盘式回购拟扩围：A股稳市工具开始常态化",
+   "heat": 91.0,
+   "sentiment": 11,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "中国灵巧手销量预计1年增2.6倍：订单先到上游，规模商用仍卡成本",
+   "heat": 92.0,
+   "sentiment": 10,
+   "category": "科技"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "三大氢能城市群亮出施工表：1.84万辆车、203座站只是第一道考题",
+   "heat": 94.0,
+   "sentiment": 9,
+   "category": "科技"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "中国移动采购2万张AI卡建“超节点”：算力竞争从单卡转向整套系统",
+   "heat": 96.0,
+   "sentiment": 8,
+   "category": "科技"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "一年新增社融33万亿元：流动性继续充裕，资金去向管得更细",
+   "heat": 94.0,
+   "sentiment": 8,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "70城二手房价仅上海同比上涨：成交连续两月创近六年同期新高",
+   "heat": 84.0,
+   "sentiment": 11,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "共享电动车配了头盔却没人敢戴：合格、清洁、可正常使用才算尽责",
+   "heat": 93.0,
+   "sentiment": -8,
+   "category": "社会"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "央行把回购增持再贷款利率降至1%：上市公司借钱回购的通道扩容",
+   "heat": 96.0,
+   "sentiment": 7,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "前9个月服务贸易增长8.5%：出口跑赢进口，逆差继续收窄",
+   "heat": 88.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "央行首次投放5410亿元隔夜资金：银行每天借钱的基准变了",
+   "heat": 99.0,
+   "sentiment": 5,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "沪市前三季净利润4.01万亿元：长鑫科技放大科创板增速",
+   "heat": 86.0,
+   "sentiment": 9,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "10年期国债收益率跌破1.6%：非银资金拉长久期，回撤风险也被放大",
+   "heat": 91.0,
+   "sentiment": 7,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "来源：微信小程序「晓事儿」｜外汇便利化拟于2027年全国推广：外贸企业收款和轧差结算将少跑手续",
+   "heat": 98.0,
+   "sentiment": 4,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "央行为债市赎回潮设互换便利：救急资金进场，理财净值照样波动",
+   "heat": 90.0,
+   "sentiment": -6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "A股分红回购达融资额2.7倍：股东回报增加，要分清分红与借钱回购",
+   "heat": 90.0,
+   "sentiment": 6,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "美国数据中心限制案43胜1负：AI基建股遭血洗，纳指蒸发2.5万亿美元",
+   "heat": 98.0,
+   "sentiment": 3,
+   "category": "财经"
+  }
+ ],
+ "stats": {
+  "news_total": 117,
+  "xwlb_total": 96
+ },
+ "generated_at": "2026-11-06T05:09:10",
+ "type_label": "周报"
+}

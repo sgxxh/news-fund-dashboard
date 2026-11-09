@@ -1,6 +1,32 @@
 {
  "dates": [
   {
+   "date": "2026-11-09",
+   "title": "",
+   "mood": 0,
+   "mood_level": "中性",
+   "news_total": 0,
+   "xwlb_total": 0,
+   "total_money": 4444.35,
+   "total_earn": -981.09,
+   "today_income": 53.46,
+   "today_income_rate": 1.2,
+   "generated_at": "2026-11-09T04:42:06"
+  },
+  {
+   "date": "2026-11-08",
+   "title": "11月8日日知录-国务院推进服务类社会救助：困难家庭需要一张办理图",
+   "mood": -2.3,
+   "mood_level": "中性",
+   "news_total": 24,
+   "xwlb_total": 21,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-11-09T04:41:49"
+  },
+  {
    "date": "2026-11-06",
    "title": "11月6日日知录-43胜1负！美国AI基建股遭血洗，纳指一日蒸发2.5万亿美元",
    "mood": 25.9,
@@ -1288,6 +1314,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-11-06",
- "updated_at": "2026-11-06T12:33:54"
+ "latest": "2026-11-09",
+ "updated_at": "2026-11-09T04:42:06"
 }

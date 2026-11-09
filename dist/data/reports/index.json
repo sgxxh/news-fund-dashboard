@@ -1,13 +1,22 @@
 {
  "week": [
   {
+   "key": "2026-W46",
+   "label": "周报",
+   "date_from": "2026-11-09",
+   "date_to": "2026-11-09",
+   "days": 1,
+   "avg_mood": 0.0,
+   "news_total": 0
+  },
+  {
    "key": "2026-W45",
    "label": "周报",
    "date_from": "2026-11-02",
-   "date_to": "2026-11-06",
-   "days": 5,
-   "avg_mood": 14.0,
-   "news_total": 117
+   "date_to": "2026-11-08",
+   "days": 6,
+   "avg_mood": 11.3,
+   "news_total": 141
   },
   {
    "key": "2026-W44",
@@ -159,10 +168,10 @@
    "key": "2026-11",
    "label": "月报",
    "date_from": "2026-11-01",
-   "date_to": "2026-11-06",
-   "days": 6,
-   "avg_mood": 12.7,
-   "news_total": 141
+   "date_to": "2026-11-09",
+   "days": 8,
+   "avg_mood": 9.2,
+   "news_total": 165
   },
   {
    "key": "2026-10",
@@ -206,10 +215,10 @@
    "key": "2026-Q4",
    "label": "季报",
    "date_from": "2026-10-01",
-   "date_to": "2026-11-06",
-   "days": 32,
-   "avg_mood": 6.4,
-   "news_total": 612
+   "date_to": "2026-11-09",
+   "days": 34,
+   "avg_mood": 5.9,
+   "news_total": 636
   },
   {
    "key": "2026-Q3",

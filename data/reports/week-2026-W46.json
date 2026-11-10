@@ -3,19 +3,275 @@
  "label": "周报",
  "type": "week",
  "date_from": "2026-11-09",
- "date_to": "2026-11-09",
- "days": 1,
+ "date_to": "2026-11-10",
+ "days": 2,
  "dates": [
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-10"
  ],
- "avg_mood": 0.0,
+ "avg_mood": -7.6,
  "mood_series": [
   {
    "date": "2026-11-09",
+   "mood": -15.2
+  },
+  {
+   "date": "2026-11-10",
    "mood": 0
   }
  ],
- "keywords": [],
+ "keywords": [
+  {
+   "word": "程序",
+   "count": 90,
+   "weight": 1.0
+  },
+  {
+   "word": "微信",
+   "count": 85,
+   "weight": 0.944
+  },
+  {
+   "word": "事儿",
+   "count": 85,
+   "weight": 0.944
+  },
+  {
+   "word": "整理",
+   "count": 43,
+   "weight": 0.478
+  },
+  {
+   "word": "信息",
+   "count": 38,
+   "weight": 0.422
+  },
+  {
+   "word": "服务",
+   "count": 34,
+   "weight": 0.378
+  },
+  {
+   "word": "价格",
+   "count": 34,
+   "weight": 0.378
+  },
+  {
+   "word": "卫星",
+   "count": 34,
+   "weight": 0.378
+  },
+  {
+   "word": "平台",
+   "count": 33,
+   "weight": 0.367
+  },
+  {
+   "word": "骑手",
+   "count": 33,
+   "weight": 0.367
+  },
+  {
+   "word": "黄金",
+   "count": 33,
+   "weight": 0.367
+  },
+  {
+   "word": "日元",
+   "count": 31,
+   "weight": 0.344
+  },
+  {
+   "word": "美国",
+   "count": 30,
+   "weight": 0.333
+  },
+  {
+   "word": "风险",
+   "count": 29,
+   "weight": 0.322
+  },
+  {
+   "word": "调查",
+   "count": 28,
+   "weight": 0.311
+  },
+  {
+   "word": "规定",
+   "count": 28,
+   "weight": 0.311
+  },
+  {
+   "word": "成本",
+   "count": 28,
+   "weight": 0.311
+  },
+  {
+   "word": "管理",
+   "count": 27,
+   "weight": 0.3
+  },
+  {
+   "word": "产品",
+   "count": 26,
+   "weight": 0.289
+  },
+  {
+   "word": "央行",
+   "count": 25,
+   "weight": 0.278
+  },
+  {
+   "word": "核心",
+   "count": 24,
+   "weight": 0.267
+  },
+  {
+   "word": "正文",
+   "count": 23,
+   "weight": 0.256
+  },
+  {
+   "word": "安全",
+   "count": 23,
+   "weight": 0.256
+  },
+  {
+   "word": "黄仁勋",
+   "count": 23,
+   "weight": 0.256
+  },
+  {
+   "word": "陨石",
+   "count": 23,
+   "weight": 0.256
+  },
+  {
+   "word": "影响",
+   "count": 22,
+   "weight": 0.244
+  },
+  {
+   "word": "实际",
+   "count": 22,
+   "weight": 0.244
+  },
+  {
+   "word": "日本",
+   "count": 22,
+   "weight": 0.244
+  },
+  {
+   "word": "版权",
+   "count": 21,
+   "weight": 0.233
+  },
+  {
+   "word": "商业用途",
+   "count": 21,
+   "weight": 0.233
+  },
+  {
+   "word": "无法",
+   "count": 21,
+   "weight": 0.233
+  },
+  {
+   "word": "条件",
+   "count": 20,
+   "weight": 0.222
+  },
+  {
+   "word": "研究",
+   "count": 20,
+   "weight": 0.222
+  },
+  {
+   "word": "终端",
+   "count": 20,
+   "weight": 0.222
+  },
+  {
+   "word": "船舶",
+   "count": 20,
+   "weight": 0.222
+  },
+  {
+   "word": "结论",
+   "count": 19,
+   "weight": 0.211
+  },
+  {
+   "word": "部门",
+   "count": 19,
+   "weight": 0.211
+  },
+  {
+   "word": "政策",
+   "count": 19,
+   "weight": 0.211
+  },
+  {
+   "word": "国家",
+   "count": 19,
+   "weight": 0.211
+  },
+  {
+   "word": "机构",
+   "count": 19,
+   "weight": 0.211
+  },
+  {
+   "word": "学生",
+   "count": 19,
+   "weight": 0.211
+  },
+  {
+   "word": "设备",
+   "count": 18,
+   "weight": 0.2
+  },
+  {
+   "word": "检查",
+   "count": 18,
+   "weight": 0.2
+  },
+  {
+   "word": "媒体",
+   "count": 18,
+   "weight": 0.2
+  },
+  {
+   "word": "标准",
+   "count": 18,
+   "weight": 0.2
+  },
+  {
+   "word": "机制",
+   "count": 18,
+   "weight": 0.2
+  },
+  {
+   "word": "收费",
+   "count": 18,
+   "weight": 0.2
+  },
+  {
+   "word": "贷款",
+   "count": 18,
+   "weight": 0.2
+  },
+  {
+   "word": "现场",
+   "count": 17,
+   "weight": 0.189
+  },
+  {
+   "word": "融资",
+   "count": 17,
+   "weight": 0.189
+  }
+ ],
  "sectors": [
   {
    "sector": "PCB",
@@ -62,10 +318,10 @@
  ],
  "nav_series": [
   {
-   "date": "2026-11-09",
-   "total": 4444.35,
-   "earn": -981.09,
-   "today_income": 53.46
+   "date": "2026-11-10",
+   "total": 4477.83,
+   "earn": -947.6,
+   "today_income": 89.33
   }
  ],
  "holding_change": [
@@ -73,9 +329,9 @@
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
-   "money": 1707.9,
-   "weight": 38.43,
-   "earn_pct": -10.11,
+   "money": 1730.24,
+   "weight": 38.64,
+   "earn_pct": -8.94,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -83,9 +339,9 @@
    "code": "022459",
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
-   "money": 1126.97,
-   "weight": 25.36,
-   "earn_pct": -12.17,
+   "money": 1126.15,
+   "weight": 25.15,
+   "earn_pct": -12.23,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -93,9 +349,9 @@
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 839.01,
+   "money": 845.59,
    "weight": 18.88,
-   "earn_pct": -42.29,
+   "earn_pct": -41.83,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -103,9 +359,9 @@
    "code": "019671",
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "港股创新药",
-   "money": 289.73,
-   "weight": 6.52,
-   "earn_pct": -3.42,
+   "money": 293.65,
+   "weight": 6.56,
+   "earn_pct": -2.12,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -113,9 +369,9 @@
    "code": "007466",
    "name": "华泰柏瑞中证红利低波ETF联接A",
    "sector": "中证红利低波",
-   "money": 253.35,
-   "weight": 5.7,
-   "earn_pct": 2.58,
+   "money": 254.36,
+   "weight": 5.68,
+   "earn_pct": 2.98,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   },
@@ -123,14 +379,24 @@
    "code": "000143",
    "name": "鹏华双债加利债券A",
    "sector": "固收+",
-   "money": 227.39,
-   "weight": 5.12,
-   "earn_pct": -5.86,
+   "money": 227.84,
+   "weight": 5.09,
+   "earn_pct": -5.68,
    "money_delta": 0.0,
    "earn_pct_delta": 0.0
   }
  ],
  "advice_consistency": [
+  {
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "dominant": "持有偏乐观",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏乐观": 1
+   }
+  },
   {
    "name": "华泰柏瑞中证红利低波ETF联接A",
    "dominant": "持有偏乐观",
@@ -149,16 +415,6 @@
    "ratio": 100,
    "detail": {
     "持有偏乐观": 1
-   }
-  },
-  {
-   "name": "广发港股创新药ETF联接(QDII)C",
-   "dominant": "维持观望",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "维持观望": 1
    }
   },
   {
@@ -169,16 +425,6 @@
    "ratio": 100,
    "detail": {
     "维持观望": 1
-   }
-  },
-  {
-   "name": "易方达中证A500ETF联接A",
-   "dominant": "持有偏谨慎",
-   "days": 1,
-   "total_days": 1,
-   "ratio": 100,
-   "detail": {
-    "持有偏谨慎": 1
    }
   },
   {
@@ -190,13 +436,52 @@
    "detail": {
     "持有偏谨慎": 1
    }
+  },
+  {
+   "name": "易方达中证A500ETF联接A",
+   "dominant": "持有偏谨慎",
+   "days": 1,
+   "total_days": 1,
+   "ratio": 100,
+   "detail": {
+    "持有偏谨慎": 1
+   }
   }
  ],
- "top_events": [],
+ "top_events": [
+  {
+   "date": "2026-11-09",
+   "title": "黄仁勋为何自曝婚外情：宁可认下出轨，也要摆脱“叛国”嫌疑",
+   "heat": 96.0,
+   "sentiment": -8,
+   "category": "科技"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "日本三天买入日元15.4万亿：套息交易多了一道政策风险",
+   "heat": 94.0,
+   "sentiment": -7,
+   "category": "财经"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "纪事| 中国47岁外卖骑手冯建明在墨尔本遇害：送餐路上的最后一夜",
+   "heat": 95.0,
+   "sentiment": -6,
+   "category": "纪事"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "中国连续公布两项对美经贸安排：24%加征关税和船舶港务费继续暂停",
+   "heat": 90.0,
+   "sentiment": -7,
+   "category": "时政"
+  }
+ ],
  "stats": {
-  "news_total": 0,
-  "xwlb_total": 0
+  "news_total": 21,
+  "xwlb_total": 21
  },
- "generated_at": "2026-11-09T04:42:06",
+ "generated_at": "2026-11-10T05:58:18",
  "type_label": "周报"
 }

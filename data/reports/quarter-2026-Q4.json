@@ -3,8 +3,8 @@
  "label": "季报",
  "type": "quarter",
  "date_from": "2026-10-01",
- "date_to": "2026-11-09",
- "days": 34,
+ "date_to": "2026-11-10",
+ "days": 35,
  "dates": [
   "2026-10-01",
   "2026-10-02",
@@ -39,9 +39,10 @@
   "2026-11-05",
   "2026-11-06",
   "2026-11-08",
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-10"
  ],
- "avg_mood": 5.9,
+ "avg_mood": 5.3,
  "mood_series": [
   {
    "date": "2026-10-01",
@@ -177,259 +178,263 @@
   },
   {
    "date": "2026-11-09",
+   "mood": -15.2
+  },
+  {
+   "date": "2026-11-10",
    "mood": 0
   }
  ],
  "keywords": [
   {
    "word": "程序",
-   "count": 2796,
+   "count": 2886,
    "weight": 1.0
   },
   {
    "word": "微信",
-   "count": 2593,
-   "weight": 0.927
+   "count": 2678,
+   "weight": 0.928
   },
   {
    "word": "事儿",
-   "count": 2572,
-   "weight": 0.92
+   "count": 2657,
+   "weight": 0.921
   },
   {
    "word": "服务",
-   "count": 1526,
-   "weight": 0.546
+   "count": 1560,
+   "weight": 0.541
   },
   {
    "word": "信息",
-   "count": 1422,
-   "weight": 0.509
+   "count": 1460,
+   "weight": 0.506
   },
   {
    "word": "整理",
-   "count": 1311,
+   "count": 1354,
    "weight": 0.469
   },
   {
    "word": "成本",
-   "count": 1008,
-   "weight": 0.361
+   "count": 1036,
+   "weight": 0.359
   },
   {
    "word": "产品",
-   "count": 993,
-   "weight": 0.355
+   "count": 1019,
+   "weight": 0.353
   },
   {
    "word": "平台",
-   "count": 925,
-   "weight": 0.331
+   "count": 958,
+   "weight": 0.332
   },
   {
    "word": "风险",
-   "count": 804,
-   "weight": 0.288
+   "count": 833,
+   "weight": 0.289
+  },
+  {
+   "word": "核心",
+   "count": 782,
+   "weight": 0.271
   },
   {
    "word": "银行",
    "count": 778,
-   "weight": 0.278
-  },
-  {
-   "word": "核心",
-   "count": 758,
-   "weight": 0.271
+   "weight": 0.27
   },
   {
    "word": "机构",
-   "count": 737,
-   "weight": 0.264
+   "count": 756,
+   "weight": 0.262
   },
   {
    "word": "价格",
-   "count": 689,
-   "weight": 0.246
+   "count": 723,
+   "weight": 0.251
+  },
+  {
+   "word": "影响",
+   "count": 684,
+   "weight": 0.237
   },
   {
    "word": "资金",
    "count": 680,
-   "weight": 0.243
-  },
-  {
-   "word": "影响",
-   "count": 662,
-   "weight": 0.237
+   "weight": 0.236
   },
   {
    "word": "版权",
-   "count": 652,
+   "count": 673,
    "weight": 0.233
   },
   {
    "word": "正文",
-   "count": 644,
-   "weight": 0.23
+   "count": 667,
+   "weight": 0.231
   },
   {
    "word": "商业用途",
-   "count": 638,
+   "count": 659,
    "weight": 0.228
   },
   {
    "word": "变化",
-   "count": 603,
-   "weight": 0.216
+   "count": 619,
+   "weight": 0.214
   },
   {
    "word": "能力",
    "count": 564,
-   "weight": 0.202
+   "weight": 0.195
   },
   {
    "word": "设备",
-   "count": 488,
+   "count": 506,
    "weight": 0.175
   },
   {
    "word": "管理",
-   "count": 474,
-   "weight": 0.17
+   "count": 501,
+   "weight": 0.174
   },
   {
    "word": "系统",
    "count": 457,
-   "weight": 0.163
+   "weight": 0.158
   },
   {
    "word": "规则",
    "count": 451,
-   "weight": 0.161
+   "weight": 0.156
   },
   {
    "word": "国家",
+   "count": 445,
+   "weight": 0.154
+  },
+  {
+   "word": "政策",
    "count": 426,
-   "weight": 0.152
+   "weight": 0.148
   },
   {
    "word": "家庭",
    "count": 419,
-   "weight": 0.15
-  },
-  {
-   "word": "政策",
-   "count": 407,
-   "weight": 0.146
+   "weight": 0.145
   },
   {
    "word": "消费",
    "count": 397,
-   "weight": 0.142
+   "weight": 0.138
+  },
+  {
+   "word": "实际",
+   "count": 397,
+   "weight": 0.138
   },
   {
    "word": "人员",
    "count": 383,
-   "weight": 0.137
+   "weight": 0.133
   },
   {
-   "word": "实际",
-   "count": 375,
-   "weight": 0.134
+   "word": "安全",
+   "count": 370,
+   "weight": 0.128
+  },
+  {
+   "word": "交易",
+   "count": 369,
+   "weight": 0.128
+  },
+  {
+   "word": "学校",
+   "count": 368,
+   "weight": 0.128
   },
   {
    "word": "订单",
    "count": 364,
-   "weight": 0.13
+   "weight": 0.126
   },
   {
    "word": "记录",
    "count": 362,
-   "weight": 0.129
+   "weight": 0.125
   },
   {
-   "word": "交易",
-   "count": 353,
-   "weight": 0.126
-  },
-  {
-   "word": "学校",
-   "count": 351,
-   "weight": 0.126
+   "word": "条件",
+   "count": 359,
+   "weight": 0.124
   },
   {
    "word": "数字",
    "count": 348,
-   "weight": 0.124
-  },
-  {
-   "word": "安全",
-   "count": 347,
-   "weight": 0.124
+   "weight": 0.121
   },
   {
    "word": "客户",
    "count": 346,
-   "weight": 0.124
+   "weight": 0.12
   },
   {
    "word": "出口",
    "count": 346,
-   "weight": 0.124
-  },
-  {
-   "word": "条件",
-   "count": 339,
-   "weight": 0.121
+   "weight": 0.12
   },
   {
    "word": "投资",
    "count": 338,
-   "weight": 0.121
+   "weight": 0.117
+  },
+  {
+   "word": "研究",
+   "count": 328,
+   "weight": 0.114
   },
   {
    "word": "基金",
    "count": 323,
-   "weight": 0.116
+   "weight": 0.112
+  },
+  {
+   "word": "证明",
+   "count": 318,
+   "weight": 0.11
   },
   {
    "word": "用户",
    "count": 313,
-   "weight": 0.112
-  },
-  {
-   "word": "研究",
-   "count": 308,
-   "weight": 0.11
-  },
-  {
-   "word": "证明",
-   "count": 303,
    "weight": 0.108
   },
   {
    "word": "资产",
-   "count": 283,
-   "weight": 0.101
+   "count": 299,
+   "weight": 0.104
   },
   {
    "word": "技术",
    "count": 275,
-   "weight": 0.098
+   "weight": 0.095
   },
   {
    "word": "消费者",
    "count": 272,
-   "weight": 0.097
+   "weight": 0.094
   },
   {
    "word": "政府",
    "count": 270,
-   "weight": 0.097
+   "weight": 0.094
   },
   {
-   "word": "规模",
-   "count": 259,
-   "weight": 0.093
+   "word": "融资",
+   "count": 265,
+   "weight": 0.092
   }
  ],
  "sectors": [
@@ -528,10 +533,10 @@
    "today_income": -184.8
   },
   {
-   "date": "2026-11-09",
-   "total": 4444.35,
-   "earn": -981.09,
-   "today_income": 53.46
+   "date": "2026-11-10",
+   "total": 4477.83,
+   "earn": -947.6,
+   "today_income": 89.33
   }
  ],
  "holding_change": [
@@ -539,61 +544,61 @@
    "code": "021000",
    "name": "南方纳斯达克100指数发起(QDII)I",
    "sector": "纳斯达克100",
-   "money": 1707.9,
-   "weight": 38.43,
-   "earn_pct": -10.11,
-   "money_delta": -235.59,
-   "earn_pct_delta": -12.4
+   "money": 1730.24,
+   "weight": 38.64,
+   "earn_pct": -8.94,
+   "money_delta": -213.25,
+   "earn_pct_delta": -11.23
   },
   {
    "code": "022459",
    "name": "易方达中证A500ETF联接A",
    "sector": "中证A500",
-   "money": 1126.97,
-   "weight": 25.36,
-   "earn_pct": -12.17,
-   "money_delta": -96.11,
-   "earn_pct_delta": -7.49
+   "money": 1126.15,
+   "weight": 25.15,
+   "earn_pct": -12.23,
+   "money_delta": -96.93,
+   "earn_pct_delta": -7.55
   },
   {
    "code": "720001",
    "name": "财通价值动量混合A",
    "sector": "PCB",
-   "money": 839.01,
+   "money": 845.59,
    "weight": 18.88,
-   "earn_pct": -42.29,
-   "money_delta": -496.15,
-   "earn_pct_delta": -34.13
+   "earn_pct": -41.83,
+   "money_delta": -489.57,
+   "earn_pct_delta": -33.67
   },
   {
    "code": "019671",
    "name": "广发港股创新药ETF联接(QDII)C",
    "sector": "港股创新药",
-   "money": 289.73,
-   "weight": 6.52,
-   "earn_pct": -3.42,
-   "money_delta": -33.94,
-   "earn_pct_delta": -11.31
+   "money": 293.65,
+   "weight": 6.56,
+   "earn_pct": -2.12,
+   "money_delta": -30.02,
+   "earn_pct_delta": -10.01
   },
   {
    "code": "007466",
    "name": "华泰柏瑞中证红利低波ETF联接A",
    "sector": "中证红利低波",
-   "money": 253.35,
-   "weight": 5.7,
-   "earn_pct": 2.58,
-   "money_delta": 6.04,
-   "earn_pct_delta": 3.06
+   "money": 254.36,
+   "weight": 5.68,
+   "earn_pct": 2.98,
+   "money_delta": 7.05,
+   "earn_pct_delta": 3.46
   },
   {
    "code": "000143",
    "name": "鹏华双债加利债券A",
    "sector": "固收+",
-   "money": 227.39,
-   "weight": 5.12,
-   "earn_pct": -5.86,
-   "money_delta": -12.16,
-   "earn_pct_delta": -5.03
+   "money": 227.84,
+   "weight": 5.09,
+   "earn_pct": -5.68,
+   "money_delta": -11.71,
+   "earn_pct_delta": -4.85
   }
  ],
  "advice_consistency": [
@@ -615,6 +620,18 @@
    "ratio": 100,
    "detail": {
     "维持观望": 7
+   }
+  },
+  {
+   "name": "广发港股创新药ETF联接(QDII)C",
+   "dominant": "持有偏乐观",
+   "days": 5,
+   "total_days": 7,
+   "ratio": 71,
+   "detail": {
+    "可考虑加仓": 1,
+    "持有偏乐观": 5,
+    "维持观望": 1
    }
   },
   {
@@ -648,18 +665,6 @@
    "ratio": 71,
    "detail": {
     "持有偏谨慎": 5,
-    "维持观望": 2
-   }
-  },
-  {
-   "name": "广发港股创新药ETF联接(QDII)C",
-   "dominant": "持有偏乐观",
-   "days": 4,
-   "total_days": 7,
-   "ratio": 57,
-   "detail": {
-    "可考虑加仓": 1,
-    "持有偏乐观": 4,
     "维持观望": 2
    }
   },
@@ -817,9 +822,9 @@
   }
  ],
  "stats": {
-  "news_total": 636,
-  "xwlb_total": 608
+  "news_total": 657,
+  "xwlb_total": 629
  },
- "generated_at": "2026-11-09T04:42:06",
+ "generated_at": "2026-11-10T05:58:18",
  "type_label": "季报"
 }

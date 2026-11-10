@@ -1,7 +1,7 @@
 {
  "dates": [
   {
-   "date": "2026-11-09",
+   "date": "2026-11-10",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
@@ -9,9 +9,22 @@
    "xwlb_total": 0,
    "total_money": 4477.83,
    "total_earn": -947.6,
-   "today_income": 33.48,
-   "today_income_rate": 0.75,
-   "generated_at": "2026-11-09T04:42:06"
+   "today_income": 89.33,
+   "today_income_rate": 1.99,
+   "generated_at": "2026-11-10T05:58:17"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "11月9日日知录-黄仁勋自曝婚外情：宁可认下出轨，也要摆脱“叛国”嫌疑",
+   "mood": -15.2,
+   "mood_level": "温和偏空",
+   "news_total": 21,
+   "xwlb_total": 21,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-11-10T05:57:43"
   },
   {
    "date": "2026-11-08",
@@ -1314,6 +1327,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-11-09",
- "updated_at": "2026-11-09T13:28:34"
+ "latest": "2026-11-10",
+ "updated_at": "2026-11-10T05:58:18"
 }

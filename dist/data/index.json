@@ -1,7 +1,7 @@
 {
  "dates": [
   {
-   "date": "2026-11-10",
+   "date": "2026-11-11",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
@@ -9,9 +9,22 @@
    "xwlb_total": 0,
    "total_money": 4562.33,
    "total_earn": -863.09,
-   "today_income": 84.51,
-   "today_income_rate": 1.89,
-   "generated_at": "2026-11-10T05:58:17"
+   "today_income": -4.14,
+   "today_income_rate": -0.09,
+   "generated_at": "2026-11-11T04:45:03"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "11月10日日知录-中国首次在加拿大发行人民币绿色国债：40亿打开北美入口",
+   "mood": 0.2,
+   "mood_level": "中性",
+   "news_total": 22,
+   "xwlb_total": 23,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-11-11T04:44:19"
   },
   {
    "date": "2026-11-09",
@@ -1327,6 +1340,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-11-10",
- "updated_at": "2026-11-10T13:08:29"
+ "latest": "2026-11-11",
+ "updated_at": "2026-11-11T04:45:04"
 }

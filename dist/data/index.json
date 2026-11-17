@@ -1,7 +1,7 @@
 {
  "dates": [
   {
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
@@ -9,9 +9,22 @@
    "xwlb_total": 0,
    "total_money": 4438.28,
    "total_earn": -987.17,
-   "today_income": -117.05,
-   "today_income_rate": -2.57,
-   "generated_at": "2026-11-16T04:47:19"
+   "today_income": -88.92,
+   "today_income_rate": -2.0,
+   "generated_at": "2026-11-17T06:35:38"
+  },
+  {
+   "date": "2026-11-16",
+   "title": "11月16日日知录-7个省级市场监管部门与8家平台签署协议帮平台小店降费",
+   "mood": 11.0,
+   "mood_level": "中性",
+   "news_total": 26,
+   "xwlb_total": 26,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-11-17T06:34:38"
   },
   {
    "date": "2026-11-15",
@@ -1392,6 +1405,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-11-16",
- "updated_at": "2026-11-16T13:13:34"
+ "latest": "2026-11-17",
+ "updated_at": "2026-11-17T06:35:38"
 }

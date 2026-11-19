@@ -1,7 +1,7 @@
 {
  "dates": [
   {
-   "date": "2026-11-18",
+   "date": "2026-11-19",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
@@ -9,9 +9,22 @@
    "xwlb_total": 0,
    "total_money": 4381.69,
    "total_earn": -1043.75,
-   "today_income": 14.18,
-   "today_income_rate": 0.32,
-   "generated_at": "2026-11-18T05:56:45"
+   "today_income": 5.55,
+   "today_income_rate": 0.13,
+   "generated_at": "2026-11-19T05:56:20"
+  },
+  {
+   "date": "2026-11-18",
+   "title": "11月18日日知录-黄仁勋想重返英伟达遭无情拒绝：18万份签名请愿也不行",
+   "mood": -2.4,
+   "mood_level": "中性",
+   "news_total": 23,
+   "xwlb_total": 21,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-11-19T05:56:01"
   },
   {
    "date": "2026-11-17",
@@ -1418,6 +1431,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-11-18",
- "updated_at": "2026-11-18T13:32:47"
+ "latest": "2026-11-19",
+ "updated_at": "2026-11-19T05:56:21"
 }

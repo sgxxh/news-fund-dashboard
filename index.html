@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,maximum-scale=1,user-scalable=no">
+<title>新闻·基金工作台</title>
+<meta name="description" content="每日新闻汇总、市场影响推理与基金仓位分析工作台">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#1a2b4c">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="新闻基金台">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="tb-left">
+    <div class="logo">新闻·基金工作台</div>
+    <div class="tb-sub" id="tbSub">加载中…</div>
+  </div>
+  <div class="tb-right">
+    <button class="icon-btn" id="btnEye" title="显示/隐藏金额" aria-label="显示或隐藏金额">
+      <svg viewBox="0 0 24 24" width="20" height="20"><path id="eyePath" fill="currentColor"
+        d="M12 5c-7 0-10 7-10 7s3 7 10 7 10-7 10-7-3-7-10-7zm0 12a5 5 0 110-10 5 5 0 010 10zm0-2.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5z"/></svg>
+    </button>
+    <button class="icon-btn" id="btnRefresh" title="刷新数据" aria-label="刷新">
+      <svg viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor"
+        d="M12 5V2L8 6l4 4V7a5 5 0 11-5 5H5a7 7 0 107-7z"/></svg>
+    </button>
+    <span class="live-pill" id="livePill"></span>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button class="tab active" data-view="overview">概览</button>
+  <button class="tab" data-view="news">新闻</button>
+  <button class="tab" data-view="words">高频词</button>
+  <button class="tab" data-view="funds">基金</button>
+  <button class="tab" data-view="reports">报告</button>
+</nav>
+
+<div class="datebar">
+  <button class="dnav" id="prevDay" aria-label="前一天">‹</button>
+  <select id="dateSel" class="date-sel"></select>
+  <button class="dnav" id="nextDay" aria-label="后一天">›</button>
+  <span class="badge" id="sessionBadge"></span>
+</div>
+
+<main id="main">
+  <div class="loading" id="loading"><div class="spinner"></div><span>正在载入数据…</span></div>
+</main>
+
+<footer class="foot">
+  <p class="disclaimer">本工作台的板块传导、仓位建议与走势预判均由公开新闻 + 持仓数据经规则模型推理得出，
+  仅作信息整理与研究参考，<b>不构成任何投资建议</b>。市场有风险，决策请独立判断。</p>
+  <p class="foot-meta" id="footMeta"></p>
+</footer>
+
+<div id="modalRoot"></div>
+
+<script src="js/app.js"></script>
+</body>
+</html>

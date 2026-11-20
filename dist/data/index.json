@@ -1,7 +1,7 @@
 {
  "dates": [
   {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "title": "",
    "mood": 0,
    "mood_level": "中性",
@@ -9,9 +9,22 @@
    "xwlb_total": 0,
    "total_money": 4390.47,
    "total_earn": -1034.96,
-   "today_income": 8.78,
-   "today_income_rate": 0.2,
-   "generated_at": "2026-11-19T05:56:20"
+   "today_income": -102.75,
+   "today_income_rate": -2.34,
+   "generated_at": "2026-11-20T05:45:06"
+  },
+  {
+   "date": "2026-11-19",
+   "title": "11月19日日知录-10月青年失业率降至17.2%：一周只工作一小时也叫就业",
+   "mood": 14.8,
+   "mood_level": "温和偏多",
+   "news_total": 24,
+   "xwlb_total": 21,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-11-20T05:44:42"
   },
   {
    "date": "2026-11-18",
@@ -1431,6 +1444,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-11-19",
- "updated_at": "2026-11-19T13:59:54"
+ "latest": "2026-11-20",
+ "updated_at": "2026-11-20T05:45:06"
 }

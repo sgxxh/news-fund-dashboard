@@ -1,6 +1,32 @@
 {
  "dates": [
   {
+   "date": "2026-11-23",
+   "title": "",
+   "mood": 0,
+   "mood_level": "中性",
+   "news_total": 0,
+   "xwlb_total": 0,
+   "total_money": 4295.47,
+   "total_earn": -1129.95,
+   "today_income": -46.59,
+   "today_income_rate": -1.08,
+   "generated_at": "2026-11-23T05:48:56"
+  },
+  {
+   "date": "2026-11-22",
+   "title": "11月22日日知录-发改委催开工、催支付：要先等地方付款落地",
+   "mood": 4.0,
+   "mood_level": "中性",
+   "news_total": 26,
+   "xwlb_total": 23,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-11-23T05:48:21"
+  },
+  {
    "date": "2026-11-20",
    "title": "",
    "mood": 0,
@@ -1444,6 +1470,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-11-20",
- "updated_at": "2026-11-20T13:41:55"
+ "latest": "2026-11-23",
+ "updated_at": "2026-11-23T05:48:56"
 }

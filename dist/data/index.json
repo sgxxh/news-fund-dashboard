@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-11-23",
-   "title": "",
-   "mood": 0,
-   "mood_level": "中性",
-   "news_total": 0,
+   "date": "2026-11-24",
+   "title": "11月24日日知录-大反转，黄仁勋又回来了！谁被打了脸谁又在喜忧参半？",
+   "mood": 33.8,
+   "mood_level": "温和偏多",
+   "news_total": 22,
    "xwlb_total": 0,
    "total_money": 4245.59,
    "total_earn": -1179.86,
-   "today_income": -49.89,
-   "today_income_rate": -1.16,
-   "generated_at": "2026-11-23T05:48:56"
+   "today_income": 106.1,
+   "today_income_rate": 2.5,
+   "generated_at": "2026-11-24T08:27:02"
+  },
+  {
+   "date": "2026-11-23",
+   "title": "11月23日日知录-融资保证金下限降至80%：100元保证金可多融25元",
+   "mood": 5.5,
+   "mood_level": "中性",
+   "news_total": 24,
+   "xwlb_total": 17,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-11-24T08:26:03"
   },
   {
    "date": "2026-11-22",
@@ -1470,6 +1483,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-11-23",
- "updated_at": "2026-11-23T15:29:49"
+ "latest": "2026-11-24",
+ "updated_at": "2026-11-24T08:27:02"
 }

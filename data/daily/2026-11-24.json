@@ -8,12 +8,12 @@
   "reason": "",
   "summary": {
    "hold_cost": 5425.44,
-   "today_income": 106.1,
-   "today_income_rate": 2.5,
-   "total_money": 4245.59,
-   "total_earn": -1179.86,
+   "today_income": 110.32,
+   "today_income_rate": 2.62,
+   "total_money": 4240.56,
+   "total_earn": -1184.88,
    "count": 6,
-   "total_earn_pct": -21.75
+   "total_earn_pct": -21.84
   },
   "holdings": [
    {
@@ -36,7 +36,7 @@
     "sector": "纳斯达克100",
     "sector_pct": 6.86,
     "market_type": "us",
-    "weight": 37.94
+    "weight": 37.99
    },
    {
     "account": "默认",
@@ -58,7 +58,7 @@
     "sector": "中证A500",
     "sector_pct": 0.01,
     "market_type": "ch",
-    "weight": 25.54
+    "weight": 25.57
    },
    {
     "account": "默认",
@@ -71,60 +71,60 @@
     "share": 98.13,
     "cost": 14.8145,
     "category": 1,
-    "nav": 8.208,
-    "day_pct": 3.74,
-    "nav_date": "2026-11-23",
-    "est_pct": 0.01,
+    "nav": 8.251,
+    "day_pct": 0.52,
+    "nav_date": "2026-11-24",
+    "est_pct": 0.52,
     "est_date": "2026-11-24",
     "year_pct": -0.22,
     "sector": "PCB",
     "sector_pct": 0.35,
     "market_type": "ch",
-    "weight": 18.97
+    "weight": 18.99
    },
    {
     "account": "默认",
     "fund_id": "22504",
     "code": "019671",
     "name": "广发港股创新药ETF联接(QDII)C",
-    "money": 263.99,
-    "earn": -36.01,
-    "earn_pct": -12.0,
+    "money": 259.87,
+    "earn": -40.13,
+    "earn_pct": -13.38,
     "share": 222.85,
     "cost": 1.34619699,
     "category": 6,
-    "nav": 1.1846,
-    "day_pct": 2.62,
-    "nav_date": "2026-11-23",
-    "est_pct": -1.53,
+    "nav": 1.1661,
+    "day_pct": -1.56,
+    "nav_date": "2026-11-24",
+    "est_pct": -1.56,
     "est_date": "2026-11-24",
     "year_pct": -5.58,
     "sector": "港股创新药",
     "sector_pct": -1.53,
     "market_type": "hk",
-    "weight": 6.22
+    "weight": 6.13
    },
    {
     "account": "默认",
     "fund_id": "5773",
     "code": "007466",
     "name": "华泰柏瑞中证红利低波ETF联接A",
-    "money": 257.92,
-    "earn": 10.92,
-    "earn_pct": 4.42,
+    "money": 257.01,
+    "earn": 10.02,
+    "earn_pct": 4.06,
     "share": 150.67,
     "cost": 1.6392938,
     "category": 3,
-    "nav": 1.7118,
-    "day_pct": -1.03,
-    "nav_date": "2026-11-23",
-    "est_pct": -0.41,
+    "nav": 1.7058,
+    "day_pct": -0.35,
+    "nav_date": "2026-11-24",
+    "est_pct": -0.35,
     "est_date": "2026-11-24",
     "year_pct": 6.83,
     "sector": "中证红利低波",
     "sector_pct": -0.41,
     "market_type": "ch",
-    "weight": 6.08
+    "weight": 6.06
    },
    {
     "account": "默认",

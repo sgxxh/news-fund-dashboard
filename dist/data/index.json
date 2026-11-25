@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-11-24",
-   "title": "11月24日日知录-大反转，黄仁勋又回来了！谁被打了脸谁又在喜忧参半？",
-   "mood": 33.8,
-   "mood_level": "温和偏多",
-   "news_total": 22,
+   "date": "2026-11-25",
+   "title": "",
+   "mood": 0,
+   "mood_level": "中性",
+   "news_total": 0,
    "xwlb_total": 0,
    "total_money": 4350.29,
    "total_earn": -1075.14,
-   "today_income": 104.72,
-   "today_income_rate": 2.47,
-   "generated_at": "2026-11-24T08:27:02"
+   "today_income": -86.38,
+   "today_income_rate": -1.99,
+   "generated_at": "2026-11-25T07:00:54"
+  },
+  {
+   "date": "2026-11-24",
+   "title": "11月24日日知录-大反转，黄仁勋又回来了！谁被打了脸谁又在喜忧参半？",
+   "mood": 20.4,
+   "mood_level": "温和偏多",
+   "news_total": 22,
+   "xwlb_total": 22,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-11-25T07:00:34"
   },
   {
    "date": "2026-11-23",
@@ -1483,6 +1496,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-11-24",
- "updated_at": "2026-11-24T15:23:51"
+ "latest": "2026-11-25",
+ "updated_at": "2026-11-25T07:00:55"
 }

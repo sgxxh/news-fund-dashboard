@@ -1,17 +1,30 @@
 {
  "dates": [
   {
-   "date": "2026-11-25",
-   "title": "",
-   "mood": 0,
+   "date": "2026-11-26",
+   "title": "11月26日日知录-中国银行再发贵金属风险提示：家庭买黄金要分清三件事",
+   "mood": 4.7,
    "mood_level": "中性",
-   "news_total": 0,
+   "news_total": 20,
    "xwlb_total": 0,
    "total_money": 4271.68,
    "total_earn": -1153.75,
-   "today_income": -78.61,
-   "today_income_rate": -1.81,
-   "generated_at": "2026-11-25T07:00:54"
+   "today_income": 4.73,
+   "today_income_rate": 0.11,
+   "generated_at": "2026-11-26T06:54:02"
+  },
+  {
+   "date": "2026-11-25",
+   "title": "11月25日日知录-汽车业应收账款逼近3万亿：3.3%的利润率撑不起长期垫资",
+   "mood": 1.6,
+   "mood_level": "中性",
+   "news_total": 20,
+   "xwlb_total": 26,
+   "total_money": 0,
+   "total_earn": 0,
+   "today_income": 0,
+   "today_income_rate": 0,
+   "generated_at": "2026-11-26T06:53:17"
   },
   {
    "date": "2026-11-24",
@@ -1496,6 +1509,6 @@
    "generated_at": "2026-08-09T20:12:59"
   }
  ],
- "latest": "2026-11-25",
- "updated_at": "2026-11-25T15:05:22"
+ "latest": "2026-11-26",
+ "updated_at": "2026-11-26T06:54:02"
 }

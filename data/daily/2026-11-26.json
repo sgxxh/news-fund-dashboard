@@ -1,154 +1,13 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T06:54:02",
+ "generated_at": "2026-11-27T06:45:42",
  "session": "auto",
  "digest_title": "11月26日日知录-中国银行再发贵金属风险提示：家庭买黄金要分清三件事",
  "funds": {
-  "ok": true,
-  "reason": "",
-  "summary": {
-   "hold_cost": 5425.44,
-   "today_income": 8.82,
-   "today_income_rate": 0.21,
-   "total_money": 4280.51,
-   "total_earn": -1144.93,
-   "count": 6,
-   "total_earn_pct": -21.1
-  },
-  "holdings": [
-   {
-    "account": "默认",
-    "fund_id": "23918",
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "money": 1672.01,
-    "earn": -228.04,
-    "earn_pct": -12.0,
-    "share": 830.73,
-    "cost": 2.2872,
-    "category": 3,
-    "nav": 2.0127,
-    "day_pct": -0.64,
-    "nav_date": "2026-11-26",
-    "est_pct": -0.64,
-    "est_date": "2026-11-25",
-    "year_pct": -1.13,
-    "sector": "纳斯达克100",
-    "sector_pct": -0.64,
-    "market_type": "us",
-    "weight": 39.06
-   },
-   {
-    "account": "默认",
-    "fund_id": "25645",
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "money": 1061.12,
-    "earn": -221.98,
-    "earn_pct": -17.3,
-    "share": 1022.47,
-    "cost": 1.2549,
-    "category": 3,
-    "nav": 1.0378,
-    "day_pct": -0.1,
-    "nav_date": "2026-11-26",
-    "est_pct": -0.1,
-    "est_date": "2026-11-26",
-    "year_pct": -15.61,
-    "sector": "中证A500",
-    "sector_pct": -0.08,
-    "market_type": "ch",
-    "weight": 24.79
-   },
-   {
-    "account": "默认",
-    "fund_id": "138",
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "money": 808.2,
-    "earn": -645.55,
-    "earn_pct": -44.41,
-    "share": 98.13,
-    "cost": 14.8145,
-    "category": 1,
-    "nav": 8.236,
-    "day_pct": 2.15,
-    "nav_date": "2026-11-26",
-    "est_pct": 2.15,
-    "est_date": "2026-11-26",
-    "year_pct": -1.98,
-    "sector": "PCB",
-    "sector_pct": 1.69,
-    "market_type": "ch",
-    "weight": 18.88
-   },
-   {
-    "account": "默认",
-    "fund_id": "22504",
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "money": 259.87,
-    "earn": -40.13,
-    "earn_pct": -13.38,
-    "share": 222.85,
-    "cost": 1.34619699,
-    "category": 6,
-    "nav": 1.1661,
-    "day_pct": 0.77,
-    "nav_date": "2026-11-26",
-    "est_pct": 0.77,
-    "est_date": "2026-11-26",
-    "year_pct": -7.76,
-    "sector": "港股创新药",
-    "sector_pct": 0.76,
-    "market_type": "hk",
-    "weight": 6.07
-   },
-   {
-    "account": "默认",
-    "fund_id": "5773",
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波动ETF联接A",
-    "money": 258.52,
-    "earn": 11.53,
-    "earn_pct": 4.67,
-    "share": 150.67,
-    "cost": 1.6392938,
-    "category": 3,
-    "nav": 1.7158,
-    "day_pct": 0.69,
-    "nav_date": "2026-11-26",
-    "est_pct": 0.69,
-    "est_date": "2026-11-26",
-    "year_pct": 6.34,
-    "sector": "中证红利低波",
-    "sector_pct": 0.75,
-    "market_type": "ch",
-    "weight": 6.04
-   },
-   {
-    "account": "默认",
-    "fund_id": "11353",
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "money": 220.79,
-    "earn": -20.76,
-    "earn_pct": -8.59,
-    "share": 109.78,
-    "cost": 2.20030971,
-    "category": 2,
-    "nav": 2.0112,
-    "day_pct": -0.08,
-    "nav_date": "2026-11-26",
-    "est_pct": -0.08,
-    "est_date": "2026-11-26",
-    "year_pct": -2.81,
-    "sector": "固收+",
-    "sector_pct": 0.07,
-    "market_type": "ch",
-    "weight": 5.16
-   }
-  ],
+  "ok": false,
+  "reason": "HISTORICAL_NO_SNAPSHOT",
+  "summary": {},
+  "holdings": [],
   "index": []
  },
  "analysis": {
@@ -175,8 +34,8 @@
    },
    {
     "word": "信息",
-    "count": 53,
-    "weight": 0.624
+    "count": 54,
+    "weight": 0.635
    },
    {
     "word": "整理",
@@ -195,11 +54,16 @@
    },
    {
     "word": "医保",
-    "count": 33,
-    "weight": 0.388
+    "count": 34,
+    "weight": 0.4
    },
    {
     "word": "国家",
+    "count": 32,
+    "weight": 0.376
+   },
+   {
+    "word": "管理",
     "count": 31,
     "weight": 0.365
    },
@@ -207,11 +71,6 @@
     "word": "记录",
     "count": 31,
     "weight": 0.365
-   },
-   {
-    "word": "管理",
-    "count": 30,
-    "weight": 0.353
    },
    {
     "word": "学校",
@@ -244,6 +103,16 @@
     "weight": 0.306
    },
    {
+    "word": "平台",
+    "count": 25,
+    "weight": 0.294
+   },
+   {
+    "word": "服务",
+    "count": 25,
+    "weight": 0.294
+   },
+   {
     "word": "个人",
     "count": 25,
     "weight": 0.294
@@ -254,22 +123,12 @@
     "weight": 0.282
    },
    {
-    "word": "平台",
-    "count": 24,
-    "weight": 0.282
-   },
-   {
     "word": "政策",
     "count": 24,
     "weight": 0.282
    },
    {
     "word": "核心",
-    "count": 23,
-    "weight": 0.271
-   },
-   {
-    "word": "服务",
     "count": 23,
     "weight": 0.271
    },
@@ -294,6 +153,16 @@
     "weight": 0.271
    },
    {
+    "word": "机场",
+    "count": 22,
+    "weight": 0.259
+   },
+   {
+    "word": "用药",
+    "count": 22,
+    "weight": 0.259
+   },
+   {
     "word": "高铁",
     "count": 22,
     "weight": 0.259
@@ -309,12 +178,7 @@
     "weight": 0.247
    },
    {
-    "word": "机场",
-    "count": 21,
-    "weight": 0.247
-   },
-   {
-    "word": "用药",
+    "word": "违纪",
     "count": 21,
     "weight": 0.247
    },
@@ -335,11 +199,6 @@
    },
    {
     "word": "规模",
-    "count": 20,
-    "weight": 0.235
-   },
-   {
-    "word": "违纪",
     "count": 20,
     "weight": 0.235
    },
@@ -372,6 +231,11 @@
     "word": "实际",
     "count": 18,
     "weight": 0.212
+   },
+   {
+    "word": "通信网",
+    "count": 16,
+    "weight": 0.188
    },
    {
     "word": "工程",
@@ -419,11 +283,6 @@
     "weight": 0.188
    },
    {
-    "word": "通信网",
-    "count": 15,
-    "weight": 0.176
-   },
-   {
     "word": "工业",
     "count": 15,
     "weight": 0.176
@@ -449,365 +308,24 @@
     "weight": 0.176
    },
    {
-    "word": "医生",
+    "word": "交易",
     "count": 15,
     "weight": 0.176
    }
   ],
-  "market_mood": 4.7,
+  "market_mood": 3.2,
   "market_mood_level": "中性",
-  "sector_impacts": {
-   "PCB": {
-    "sector": "PCB",
-    "news_count": 4,
-    "score": 46.3,
-    "level": "偏多",
-    "drivers": [
-     {
-      "title": "来源：微信小程序「晓事儿」｜三部门部署新一代通信网：6万家企业改造先行，运营商资本开支转向算力",
-      "sentiment": 5,
-      "heat": 97.0,
-      "hits": [
-       "增长",
-       "加快",
-       "领先",
-       "订单"
-      ]
-     },
-     {
-      "title": "纪事| 推动全国6万家企业改造：一张通信网怎样进入工厂与天空？",
-      "sentiment": 2,
-      "heat": 97.0,
-      "hits": [
-       "加快",
-       "领先"
-      ]
-     },
-     {
-      "title": "科创债年内发行1.7万亿元：82%由国企发行，研发投入要逐笔看用途",
-      "sentiment": 2,
-      "heat": 94.0,
-      "hits": [
-       "扩大",
-       "支持",
-       "创新",
-       "优化"
-      ]
-     },
-     {
-      "title": "26家公司竞标，一家得分异常高：AI预警牵出受贿案",
-      "sentiment": 1,
-      "heat": 80.0,
-      "hits": [
-       "中标",
-       "风险"
-      ]
-     }
-    ]
-   },
-   "中证A500": {
-    "sector": "中证A500",
-    "news_count": 7,
-    "score": -14.1,
-    "level": "温和偏空",
-    "drivers": [
-     {
-      "title": "融资平台压降92%：名单清零后，经营性债务要自己还",
-      "sentiment": 5,
-      "heat": 85.0,
-      "hits": [
-       "增长",
-       "扩大",
-       "支持",
-       "盈利"
-      ]
-     },
-     {
-      "title": "外交部回应美拟对多国加征关税：关税战没有赢家",
-      "sentiment": -5,
-      "heat": 80.0,
-      "hits": [
-       "加征",
-       "关税"
-      ]
-     },
-     {
-      "title": "国安部披露三起间谍案，网恋兼职求职均被人设局",
-      "sentiment": -4,
-      "heat": 82.0,
-      "hits": [
-       "风险",
-       "危机"
-      ]
-     },
-     {
-      "title": "科创债年内发行1.7万亿元：82%由国企发行，研发投入要逐笔看用途",
-      "sentiment": 2,
-      "heat": 94.0,
-      "hits": [
-       "扩大",
-       "支持",
-       "创新",
-       "优化"
-      ]
-     }
-    ]
-   },
-   "中证红利低波": {
-    "sector": "中证红利低波",
-    "news_count": 8,
-    "score": 40.4,
-    "level": "偏多",
-    "drivers": [
-     {
-      "title": "台山核电3号机组开工：1200兆瓦华龙一号进入土建，中国核建已签安装合同",
-      "sentiment": 8,
-      "heat": 93.0,
-      "hits": [
-       "投产",
-       "签约",
-       "中标",
-       "获批"
-      ]
-     },
-     {
-      "title": "来源：微信小程序「晓事儿」｜三部门部署新一代通信网：6万家企业改造先行，运营商资本开支转向算力",
-      "sentiment": 5,
-      "heat": 97.0,
-      "hits": [
-       "增长",
-       "加快",
-       "领先",
-       "订单"
-      ]
-     },
-     {
-      "title": "融资平台压降92%：名单清零后，经营性债务要自己还",
-      "sentiment": 5,
-      "heat": 85.0,
-      "hits": [
-       "增长",
-       "扩大",
-       "支持",
-       "盈利"
-      ]
-     },
-     {
-      "title": "纪事| 推动全国6万家企业改造：一张通信网怎样进入工厂与天空？",
-      "sentiment": 2,
-      "heat": 97.0,
-      "hits": [
-       "加快",
-       "领先"
-      ]
-     }
-    ]
-   },
-   "固收+": {
-    "sector": "固收+",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "港股创新药": {
-    "sector": "港股创新药",
-    "news_count": 0,
-    "score": 0.0,
-    "level": "中性",
-    "drivers": []
-   },
-   "纳斯达克100": {
-    "sector": "纳斯达克100",
-    "news_count": 1,
-    "score": -90.0,
-    "level": "偏空",
-    "drivers": [
-     {
-      "title": "外交部回应美拟对多国加征关税：关税战没有赢家",
-      "sentiment": -5,
-      "heat": 80.0,
-      "hits": [
-       "加征",
-       "关税"
-      ]
-     }
-    ]
-   }
-  },
-  "advices": [
-   {
-    "code": "007466",
-    "name": "华泰柏瑞中证红利低波动ETF联接A",
-    "sector": "中证红利低波",
-    "weight": 6.01,
-    "tiny": false,
-    "earn_pct": 3.95,
-    "day_pct": -0.11,
-    "year_pct": 6.34,
-    "news_score": 40.4,
-    "news_count": 8,
-    "news_level": "偏多",
-    "momentum": 13.5,
-    "deviation": 63.9,
-    "total_score": 37.0,
-    "action": "可考虑加仓",
-    "reason": "板块命中 8 条相关新闻，消息面偏多；动量中性；仓位占比 6.0% 偏低"
-   },
-   {
-    "code": "720001",
-    "name": "财通价值动量混合A",
-    "sector": "PCB",
-    "weight": 18.52,
-    "tiny": false,
-    "earn_pct": -45.57,
-    "day_pct": -2.28,
-    "year_pct": -1.98,
-    "news_score": 46.3,
-    "news_count": 4,
-    "news_level": "偏多",
-    "momentum": -23.8,
-    "deviation": -11.1,
-    "total_score": 21.8,
-    "action": "持有偏乐观",
-    "reason": "板块命中 4 条相关新闻，消息面偏多；动量中性；浮亏 -45.6%，关注补仓成本"
-   },
-   {
-    "code": "000143",
-    "name": "鹏华双债加利债券A",
-    "sector": "固收+",
-    "weight": 5.17,
-    "tiny": false,
-    "earn_pct": -8.52,
-    "day_pct": -1.3,
-    "year_pct": -2.81,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": -18.8,
-    "deviation": 69.0,
-    "total_score": 8.2,
-    "action": "维持观望",
-    "reason": "当日无直接相关新闻，消息面中性；动量中性；仓位占比 5.2% 偏低；浮亏 -8.5%，关注补仓成本"
-   },
-   {
-    "code": "019671",
-    "name": "广发港股创新药ETF联接(QDII)C",
-    "sector": "港股创新药",
-    "weight": 6.04,
-    "tiny": false,
-    "earn_pct": -14.04,
-    "day_pct": -0.76,
-    "year_pct": -7.76,
-    "news_score": 0.0,
-    "news_count": 0,
-    "news_level": "中性",
-    "momentum": -25.2,
-    "deviation": 63.8,
-    "total_score": 5.2,
-    "action": "维持观望",
-    "reason": "当日无直接相关新闻，消息面中性；中期动量走弱；仓位占比 6.0% 偏低；浮亏 -14.0%，关注补仓成本"
-   },
-   {
-    "code": "022459",
-    "name": "易方达中证A500ETF联接A",
-    "sector": "中证A500",
-    "weight": 24.86,
-    "tiny": false,
-    "earn_pct": -17.22,
-    "day_pct": -2.04,
-    "year_pct": -15.61,
-    "news_score": -14.1,
-    "news_count": 7,
-    "news_level": "温和偏空",
-    "momentum": -51.2,
-    "deviation": -49.2,
-    "total_score": -32.2,
-    "action": "建议减仓",
-    "reason": "板块命中 7 条相关新闻，消息面温和偏空；中期动量走弱；仓位占比 24.9% 偏集中；浮亏 -17.2%，关注补仓成本"
-   },
-   {
-    "code": "021000",
-    "name": "南方纳斯达克100指数发起(QDII)I",
-    "sector": "纳斯达克100",
-    "weight": 39.39,
-    "tiny": false,
-    "earn_pct": -11.44,
-    "day_pct": -1.92,
-    "year_pct": -1.13,
-    "news_score": -90.0,
-    "news_count": 1,
-    "news_level": "偏空",
-    "momentum": -19.6,
-    "deviation": -100,
-    "total_score": -70.9,
-    "action": "建议减仓",
-    "reason": "板块命中 1 条相关新闻，消息面偏空；动量中性；仓位占比 39.4% 偏集中；浮亏 -11.4%，关注补仓成本"
-   }
-  ],
-  "forecast": [
-   {
-    "sector": "中证红利低波",
-    "bias": "看多",
-    "prob": 61,
-    "confidence": "高",
-    "news_count": 8,
-    "blend": 32.6,
-    "note": "消息面 +40 / 中期动量 +21"
-   },
-   {
-    "sector": "PCB",
-    "bias": "偏多震荡",
-    "prob": 58,
-    "confidence": "中",
-    "news_count": 4,
-    "blend": 25.1,
-    "note": "消息面 +46 / 中期动量 -7"
-   },
-   {
-    "sector": "固收+",
-    "bias": "区间震荡",
-    "prob": 55,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": -3.7,
-    "note": "消息面 +0 / 中期动量 -9"
-   },
-   {
-    "sector": "港股创新药",
-    "bias": "偏空震荡",
-    "prob": 53,
-    "confidence": "低",
-    "news_count": 0,
-    "blend": -10.1,
-    "note": "消息面 +0 / 中期动量 -25"
-   },
-   {
-    "sector": "中证A500",
-    "bias": "偏空震荡",
-    "prob": 58,
-    "confidence": "高",
-    "news_count": 7,
-    "blend": -27.6,
-    "note": "消息面 -14 / 中期动量 -48"
-   },
-   {
-    "sector": "纳斯达克100",
-    "bias": "看空",
-    "prob": 69,
-    "confidence": "低",
-    "news_count": 1,
-    "blend": -55.5,
-    "note": "消息面 -90 / 中期动量 -4"
-   }
-  ],
+  "sector_impacts": {},
+  "advices": [],
+  "forecast": [],
   "category_dist": {
    "纪事": 1,
    "科技": 4,
    "话题": 1,
    "财经": 4,
    "社会": 3,
-   "时政": 7
+   "时政": 7,
+   "新闻联播": 23
   },
   "top_news": [
    {
@@ -839,7 +357,7 @@
    },
    {
     "id": 28798,
-    "title": "来源：微信小程序「晓事儿」｜三部门部署新一代通信网：6万家企业改造先行，运营商资本开支转向算力",
+    "title": "三部门部署新一代通信网：6万家企业改造先行，运营商资本开支转向算力",
     "summary": "据微信小程序「晓事儿」整理，本条新闻的核心信息是：【一句话判断】三部门把新一代通信网拆成基础、空间、国际和融合四张网络。近期采购更可能先落在5G-A扩容、400G光传输、算网调度和工业企业网络改造，6G仍以试验和标准研制为主。\n\n版权内容来自微信小程序「晓事儿」。正常展示、引用或转载时，必须注明来源。未经授权禁止转载、复制、改编或用于商业用途。\n来源：微信小程序「晓事儿」",
     "category": "科技",
     "heat": 97.0,
@@ -932,7 +450,7 @@
    },
    {
     "id": 28800,
-    "title": "话题| 课间说了几句四川话，为什么要写500字检讨？",
+    "title": "来源：微信小程序「晓事儿」｜话题| 课间说了几句四川话，为什么要写500字检讨？",
     "summary": "据微信小程序「晓事儿」整理，本条新闻的核心信息是：【话题金句】教育惩戒必须先证明学生做错了什么，管理方便不能成为制造违纪的理由。\n\n版权内容来自微信小程序「晓事儿」。正常展示、引用或转载时，必须注明来源。未经授权禁止转载、复制、改编或用于商业用途。\n来源：微信小程序「晓事儿」",
     "category": "话题",
     "heat": 94.0,
@@ -1217,7 +735,7 @@
    },
    {
     "id": 28798,
-    "title": "来源：微信小程序「晓事儿」｜三部门部署新一代通信网：6万家企业改造先行，运营商资本开支转向算力",
+    "title": "三部门部署新一代通信网：6万家企业改造先行，运营商资本开支转向算力",
     "summary": "据微信小程序「晓事儿」整理，本条新闻的核心信息是：【一句话判断】三部门把新一代通信网拆成基础、空间、国际和融合四张网络。近期采购更可能先落在5G-A扩容、400G光传输、算网调度和工业企业网络改造，6G仍以试验和标准研制为主。\n\n版权内容来自微信小程序「晓事儿」。正常展示、引用或转载时，必须注明来源。未经授权禁止转载、复制、改编或用于商业用途。\n来源：微信小程序「晓事儿」",
     "category": "科技",
     "heat": 97.0,
@@ -1258,7 +776,7 @@
    },
    {
     "id": 28800,
-    "title": "话题| 课间说了几句四川话，为什么要写500字检讨？",
+    "title": "来源：微信小程序「晓事儿」｜话题| 课间说了几句四川话，为什么要写500字检讨？",
     "summary": "据微信小程序「晓事儿」整理，本条新闻的核心信息是：【话题金句】教育惩戒必须先证明学生做错了什么，管理方便不能成为制造违纪的理由。\n\n版权内容来自微信小程序「晓事儿」。正常展示、引用或转载时，必须注明来源。未经授权禁止转载、复制、改编或用于商业用途。\n来源：微信小程序「晓事儿」",
     "category": "话题",
     "heat": 94.0,
@@ -1709,15 +1227,347 @@
     "publish_time": "2026-11-26T08:59:28",
     "source": "日知录",
     "story_len": 1153
+   },
+   {
+    "id": "xwlb-0",
+    "title": "【新思想引领新征程】开放合作推动航天事业造福全人类",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 2,
+    "sent_hits": [
+     "合作",
+     "开放"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-1",
+    "title": "李强会见亚洲开发银行行长",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "中证红利低波",
+      "hits": [
+       "银行"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-2",
+    "title": "【学习贯彻五中全会精神在基层】安徽合肥：一小区一网格一支部 基层治理解民忧 湖南邵阳：把养老服务向精细化推进",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-3",
+    "title": "我国将加快培育服务贸易发展新动能",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "加快"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-4",
+    "title": "我国发布《新一代通信网建设实施方案》",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-5",
+    "title": "我国加速推进“人工智能+制造”专项行动",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "PCB",
+      "hits": [
+       "人工智能"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-6",
+    "title": "东风着陆场准备就绪 迎接神舟二十三号飞船返回",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-7",
+    "title": "中央宣传部原副部长 原国家新闻出版广电总局党组书记、局长蔡赴朝严重违纪违法被开除党籍",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-8",
+    "title": "国内联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-9",
+    "title": "我国首次开展省间省内绿电联合交易",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-10",
+    "title": "全国统一医保信息平台上线“连续用药管理”功能",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [
+     {
+      "sector": "香港创新药",
+      "hits": [
+       "医保"
+      ],
+      "n": 1
+     }
+    ],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-11",
+    "title": "最高法最高检联合发布司法解释 依法严惩各类兴奋剂犯罪",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-12",
+    "title": "雄安卫星总装、集成与测试中心正式投入运行",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-13",
+    "title": "海太长江隧道首线成功穿越长江",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-14",
+    "title": "内蒙古呼和浩特盛乐国际机场正式通航",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-15",
+    "title": "“2026世界市长对话·乌鲁木齐”活动在新疆举行",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-16",
+    "title": "巴基斯坦各界庆祝巴中航天员携手叩问苍穹",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-17",
+    "title": "国际人士：中国航天国际合作前景广阔",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 1,
+    "sent_hits": [
+     "合作"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-18",
+    "title": "国际联播快讯",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-19",
+    "title": "世贸总干事高度评价中国入世25年贡献",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-20",
+    "title": "中方敦促日本尽快销毁在华遗弃化学武器",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-21",
+    "title": "沙特港口及炼油厂等遭胡塞武装袭击",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": 0,
+    "sent_hits": [],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
+   },
+   {
+    "id": "xwlb-22",
+    "title": "西班牙一岛因非法移民进入二级紧急状态",
+    "summary": "",
+    "category": "新闻联播",
+    "heat": 70,
+    "sentiment": -2,
+    "sent_hits": [
+     "紧急状态"
+    ],
+    "sectors": [],
+    "publish_time": "",
+    "source": "新闻联播",
+    "story_len": 0
    }
   ],
   "stats": {
    "news_total": 20,
-   "xwlb_total": 0,
-   "scored_total": 20,
-   "pos": 8,
-   "neg": 8,
-   "neutral": 4
+   "xwlb_total": 23,
+   "scored_total": 43,
+   "pos": 11,
+   "neg": 9,
+   "neutral": 23
   }
  },
  "news_raw": [
@@ -1735,7 +1585,7 @@
   },
   {
    "id": 28798,
-   "title": "来源：微信小程序「晓事儿」｜三部门部署新一代通信网：6万家企业改造先行，运营商资本开支转向算力",
+   "title": "三部门部署新一代通信网：6万家企业改造先行，运营商资本开支转向算力",
    "summary": "据微信小程序「晓事儿」整理，本条新闻的核心信息是：【一句话判断】三部门把新一代通信网拆成基础、空间、国际和融合四张网络。近期采购更可能先落在5G-A扩容、400G光传输、算网调度和工业企业网络改造，6G仍以试验和标准研制为主。\n\n版权内容来自微信小程序「晓事儿」。正常展示、引用或转载时，必须注明来源。未经授权禁止转载、复制、改编或用于商业用途。\n来源：微信小程序「晓事儿」",
    "heat": 97.0,
    "category": "科技",
@@ -1747,7 +1597,7 @@
   },
   {
    "id": 28800,
-   "title": "话题| 课间说了几句四川话，为什么要写500字检讨？",
+   "title": "来源：微信小程序「晓事儿」｜话题| 课间说了几句四川话，为什么要写500字检讨？",
    "summary": "据微信小程序「晓事儿」整理，本条新闻的核心信息是：【话题金句】教育惩戒必须先证明学生做错了什么，管理方便不能成为制造违纪的理由。\n\n版权内容来自微信小程序「晓事儿」。正常展示、引用或转载时，必须注明来源。未经授权禁止转载、复制、改编或用于商业用途。\n来源：微信小程序「晓事儿」",
    "heat": 94.0,
    "category": "话题",
@@ -1962,5 +1812,144 @@
    "source": "日知录"
   }
  ],
- "xwlb_raw": []
+ "xwlb_raw": [
+  {
+   "id": "xwlb-0",
+   "title": "【新思想引领新征程】开放合作推动航天事业造福全人类",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-1",
+   "title": "李强会见亚洲开发银行行长",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-2",
+   "title": "【学习贯彻五中全会精神在基层】安徽合肥：一小区一网格一支部 基层治理解民忧 湖南邵阳：把养老服务向精细化推进",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-3",
+   "title": "我国将加快培育服务贸易发展新动能",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-4",
+   "title": "我国发布《新一代通信网建设实施方案》",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-5",
+   "title": "我国加速推进“人工智能+制造”专项行动",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-6",
+   "title": "东风着陆场准备就绪 迎接神舟二十三号飞船返回",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-7",
+   "title": "中央宣传部原副部长 原国家新闻出版广电总局党组书记、局长蔡赴朝严重违纪违法被开除党籍",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-8",
+   "title": "国内联播快讯",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-9",
+   "title": "我国首次开展省间省内绿电联合交易",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-10",
+   "title": "全国统一医保信息平台上线“连续用药管理”功能",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-11",
+   "title": "最高法最高检联合发布司法解释 依法严惩各类兴奋剂犯罪",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-12",
+   "title": "雄安卫星总装、集成与测试中心正式投入运行",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-13",
+   "title": "海太长江隧道首线成功穿越长江",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-14",
+   "title": "内蒙古呼和浩特盛乐国际机场正式通航",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-15",
+   "title": "“2026世界市长对话·乌鲁木齐”活动在新疆举行",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-16",
+   "title": "巴基斯坦各界庆祝巴中航天员携手叩问苍穹",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-17",
+   "title": "国际人士：中国航天国际合作前景广阔",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-18",
+   "title": "国际联播快讯",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-19",
+   "title": "世贸总干事高度评价中国入世25年贡献",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-20",
+   "title": "中方敦促日本尽快销毁在华遗弃化学武器",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-21",
+   "title": "沙特港口及炼油厂等遭胡塞武装袭击",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  },
+  {
+   "id": "xwlb-22",
+   "title": "西班牙一岛因非法移民进入二级紧急状态",
+   "source": "新闻联播",
+   "date": "2026-11-26"
+  }
+ ]
 }
